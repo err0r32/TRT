@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" translatedname="Русский">
+  <entityname.EXOdivingsuitlocker>Платформа для экзокостюмов</entityname.EXOdivingsuitlocker>
+  <entitydescription.EXOdivingsuitlocker>Съемная и устанавливаемая большая платформа (удерживайте правую кнопку мыши для прицеливания и нажмите E для установки), может вмещать экзокостюм механика и пополняемые батареи и кислородный бак внутри (если есть питание).</entitydescription.EXOdivingsuitlocker>
+  <entityname.EXOdivingsuitlockerBS>Платформа для экзокостюмов(из мода Black Sea Armory Version)</entityname.EXOdivingsuitlockerBS>
+  <entitydescription.EXOdivingsuitlockerBS>Съемная и устанавливаемая большая платформа удерживайте правую кнопку мыши для прицеливания и нажмите E для установки), может вмещать костюмы из мода Black Sea Armory</entitydescription.EXOdivingsuitlockerBS>
+  <BananaLauncher-On>Банана лаунчер-Вкл</BananaLauncher-On>
+  <BananaLauncher-Off>Банана лаунчер-Выкл</BananaLauncher-Off>
+  <entityname.exosuit1_lgiht>Рейдер Бездны</entityname.exosuit1_lgiht>
+  <entitydescription.exosuit1_lgiht>Модифицированная версия экзокостюма, которая может значительно увеличить подводную мобильность водолаза.\n  ‖color:gui.green‖+50%‖end‖ ‖color:gui.orange‖MeleeAttack Damage‖end‖\n  ‖color:gui.green‖+90%‖end‖ ‖color:gui.orange‖Swim Speed‖end‖</entitydescription.exosuit1_lgiht>
+  <entityname.exosuit1_heavy>Бронированный стрелок</entityname.exosuit1_heavy>
+  <entitydescription.exosuit1_heavy>Модифицированная версия экзокостюма, в которой используется более толстая защита, не влияющая на работу оружия.\n  ‖color:gui.green‖+30%‖end‖ ‖color:gui.orange‖MeleeAttack Damage‖end‖\n  ‖color:gui.green‖-80%‖end‖ ‖color:gui.orange‖Rangeweapon Spread‖end‖</entitydescription.exosuit1_heavy>
+  <entityname.exosuit1_toolwoman>Профессиональный техник</entityname.exosuit1_toolwoman>
+  <entitydescription.exosuit1_toolwoman>Модифицированная версия экзокостюма, которая упрощает и позволяет быстрее обслуживать подводные лодки.\n  ‖color:gui.green‖+30%‖end‖ ‖color:gui.orange‖MeleeAttack Damage‖end‖\n  ‖color:gui.green‖+50%‖end‖ ‖color:gui.orange‖Structure Repair Speed‖end‖\n  ‖color:gui.green‖+50%‖end‖ ‖color:gui.orange‖Item Repair Speed‖end‖</entitydescription.exosuit1_toolwoman>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->

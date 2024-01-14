@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.admiraldivingmask>Адмиральская водолазная маска</entityname.admiraldivingmask>
+  <entitydescription.admiraldivingmask>Крутой!</entitydescription.admiraldivingmask>
+  <entityname.veterandivingmask>Маска ветерана дайвинга</entityname.veterandivingmask>
+  <entitydescription.veterandivingmask>Эта шляпа повидала много портов, а маска сделана, наверное, несколько дней назад.</entitydescription.veterandivingmask>
+  <entityname.renegadedivingmask>Маска для ныряния отступника</entityname.renegadedivingmask>
+  <entitydescription.renegadedivingmask>Рассказывает всем о том, кто главный, сохраняя при этом свое лицо скрытым.</entitydescription.renegadedivingmask>
+  <entityname.ballisticdivingmask>Баллистическая маска для дайвинга</entityname.ballisticdivingmask>
+  <entitydescription.ballisticdivingmask>Прочный, дает кислород и не дает вашим жертвам узнать о вашей личности.</entitydescription.ballisticdivingmask>
+  <entityname.gunnerdivingmask>Маска водолазного наводчика</entityname.gunnerdivingmask>
+  <entitydescription.gunnerdivingmask>Добавление маски несколько противоречит принципам шлема, но вы все равно можете стрелять так же хорошо.</entitydescription.gunnerdivingmask>
+  <entityname.baseballdivingmask>Бейсбольная маска для прыжков в воду</entityname.baseballdivingmask>
+  <entitydescription.baseballdivingmask>Каждый уважающий себя механик должен носить вместе с кепкой маску!  Вероятно.</entitydescription.baseballdivingmask>
+  <entityname.divingmedhud>Медвизор с маской</entityname.divingmedhud>
+  <entitydescription.divingmedhud>Маска для дайвинга с аккуратно отрезанной частью очков и заменена медицинским сканером. Надеюсь, вы плотно надели эти очки на голову.</entitydescription.divingmedhud>
+  <entityname.piratedivingmask>Маска водолазного сепаратиста</entityname.piratedivingmask>
+  <entitydescription.piratedivingmask>Честно говоря, вы носите это ради бонуса к оружию +5.</entitydescription.piratedivingmask>
+  <entityname.piratecapdivingmask>Маска подводного капитана пиратов</entityname.piratecapdivingmask>
+  <entitydescription.piratecapdivingmask>Хой!</entitydescription.piratecapdivingmask>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->

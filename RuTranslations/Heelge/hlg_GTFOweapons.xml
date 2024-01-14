@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.gtfo_ammopack>Набор патронов</entityname.gtfo_ammopack>
+  <entitydescription.gtfo_ammopack>Используется для изготовления магазинов для различного оружия</entitydescription.gtfo_ammopack>
+  <entityname.gtfo_bullpupmagazine>Магазин для булл-пап винтовки</entityname.gtfo_bullpupmagazine>
+  <entityname.gtfo_bullpup>Булл-пап винтовка</entityname.gtfo_bullpup>
+  <entitydescription.gtfo_bullpup>Высокая скорострельность, удобный в управлении</entitydescription.gtfo_bullpup>
+  <entityname.gtfo_assaultriflemagazine>Магазин для боевой винтовки</entityname.gtfo_assaultriflemagazine>
+  <entityname.gtfo_assaultrifle>Боевая винтовка</entityname.gtfo_assaultrifle>
+  <entitydescription.gtfo_assaultrifle>Полностью автоматическое оружие с умеренной отдачей</entitydescription.gtfo_assaultrifle>
+  <entityname.gtfo_riflemagazine>Магазин для полуавтоматической винтовки</entityname.gtfo_riflemagazine>
+  <entityname.gtfo_rifle>Полуавтоматическая винтовка</entityname.gtfo_rifle>
+  <entitydescription.gtfo_rifle>Низкая отдача и разброс пуль</entitydescription.gtfo_rifle>
+  <entityname.gtfo_burstrifle>Боевая винтовка с тройным выстрелом</entityname.gtfo_burstrifle>
+  <entitydescription.gtfo_burstrifle>Боевая винтовка, стреляющая очередью из 3 выстрелов</entitydescription.gtfo_burstrifle>
+  <entityname.gtfo_machinegunmagazine>Магазин для ручного пулемёта</entityname.gtfo_machinegunmagazine>
+  <entityname.gtfo_machinegun>Ручной пулемёт</entityname.gtfo_machinegun>
+  <entitydescription.gtfo_machinegun>Автоматическое оружие с высокой ёмкостью, перед стрельбой требуется зажать спусковой крючок</entitydescription.gtfo_machinegun>
+  <entityname.gtfo_revolverround>Патрон для мощного револьвера</entityname.gtfo_revolverround>
+  <entitydescription.gtfo_revolverround></entitydescription.gtfo_revolverround>
+  <entityname.gtfo_revolver>Мощный револьвер</entityname.gtfo_revolver>
+  <entitydescription.gtfo_revolver>Большой урон</entitydescription.gtfo_revolver>
+  <entityname.gtfo_magnummagazine>Магазин для крупнокалиберного пистолета</entityname.gtfo_magnummagazine>
+  <entityname.gtfo_magnum>Крупнокалиберный пистолет</entityname.gtfo_magnum>
+  <entitydescription.gtfo_magnum>Огромный урон в компактном формате</entitydescription.gtfo_magnum>
+  <entityname.gtfo_heavysmgmagazine>Магазин для крупнокалиберного ПП</entityname.gtfo_heavysmgmagazine>
+  <entityname.gtfo_heavysmg>Крупнокалиберный ПП</entityname.gtfo_heavysmg>
+  <entitydescription.gtfo_heavysmg>ПП с увеличенным уроном</entitydescription.gtfo_heavysmg>
+  <entityname.gtfo_helrevolverround>Патрон для HEL револьвера</entityname.gtfo_helrevolverround>
+  <entityname.gtfo_helrevolver>HEL Револьвер</entityname.gtfo_helrevolver>
+  <entitydescription.gtfo_helrevolver>Гибридное электротермальное оружие, пули которых могут пробить несколько целей</entitydescription.gtfo_helrevolver>
+  <entityname.gtfo_helgunmagazine>Магазин для HEL ружья</entityname.gtfo_helgunmagazine>
+  <entityname.gtfo_helgun>HEL Ружье</entityname.gtfo_helgun>
+  <entitydescription.gtfo_helgun>Гибридное электротермальное оружие, пули которых могут пробить несколько целей, перед выстрелом требуется зажать спусковой крючок</entitydescription.gtfo_helgun>
+  <entityname.gtfo_helriflemagazine>Магазин для HEL винтовки</entityname.gtfo_helriflemagazine>
+  <entityname.gtfo_helrifle>HEL Винтовка</entityname.gtfo_helrifle>
+  <entitydescription.gtfo_helrifle>Гибридное электротермальное оружие, пули которых могут пробить несколько целей, перед выстрелом требуется зажать спусковой крючок</entitydescription.gtfo_helrifle>
+  <entityname.gtfo_shotgunround>Патрон для самозарядного дробовика</entityname.gtfo_shotgunround>
+  <entitydescription.gtfo_shotgunround></entitydescription.gtfo_shotgunround>
+  <entityname.gtfo_shotgun>Самозарядный дробовик</entityname.gtfo_shotgun>
+  <entitydescription.gtfo_shotgun>Огнестрельное оружие для ближнего боя</entitydescription.gtfo_shotgun>
+  <entityname.gtfo_chokeshotgunround>Патрон для дробовика с дульным сужением</entityname.gtfo_chokeshotgunround>
+  <entitydescription.gtfo_chokeshotgunround></entitydescription.gtfo_chokeshotgunround>
+  <entityname.gtfo_chokeshotgun>Дробовик с дульным сужением</entityname.gtfo_chokeshotgun>
+  <entitydescriptionself.gtfo_chokeshotgun>Благодаря модификации, при выстреле уменьшено рассеивание дроби</entitydescriptionself.gtfo_chokeshotgun>
+  <entityname.gtfo_combatshotgunmagazine>Магазин для автоматического дробовика</entityname.gtfo_combatshotgunmagazine>
+  <entityname.gtfo_combatshotgun>Автоматический дробовик</entityname.gtfo_combatshotgun>
+  <entitydescription.gtfo_combatshotgun>Полностью автоматическое оружие для ближнего боя</entitydescription.gtfo_combatshotgun>
+  <entityname.gtfo_scattergunmagazine>Магазин для полуавтоматического дробовика</entityname.gtfo_scattergunmagazine>
+  <entityname.gtfo_scattergun>Полуавтоматический дробовик</entityname.gtfo_scattergun>
+  <entitydescription.gtfo_scattergun>Наносит смертельный урон при выстреле в упор, в 1 магазине 2 выстрела</entitydescription.gtfo_scattergun>
+  <entityname.gtfo_sawedoffround>Патрон для обреза</entityname.gtfo_sawedoffround>
+  <entitydescription.gtfo_sawedoffround></entitydescription.gtfo_sawedoffround>
+  <entityname.gtfo_sawedoff>Обрез</entityname.gtfo_sawedoff>
+  <entitydescription.gtfo_sawedoff>Укороченный дробовик с низкой емкостью, высоким уроном и опрокидывание цели при выстреле в упор</entitydescription.gtfo_sawedoff>
+  <entityname.gtfo_snipermagazine>Магазин для снайперской винтовки</entityname.gtfo_snipermagazine>
+  <entityname.gtfo_sniper>Снайперская винтовка</entityname.gtfo_sniper>
+  <entitydescription.gtfo_sniper>Наносит цели огромные пулевые ранения благодаря экспансивным патронам</entitydescription.gtfo_sniper>
+  <entityname.gtfo_dmrmagazine>Магазин для марксманской винтовки</entityname.gtfo_dmrmagazine>
+  <entityname.gtfo_dmr>Марксманская винтовка</entityname.gtfo_dmr>
+  <entitydescription.gtfo_dmr>Полуавтоматическое оружие, крайне низкий разброс пуль</entitydescription.gtfo_dmr>
+  <entityname.gtfo_dtr>Марксманская винтовка с двойным выстрелом</entityname.gtfo_dtr>
+  <entitydescription.gtfo_dtr>Винтовка, стреляющая очередью из 2 выстрелов, крайне низкий разброс</entitydescription.gtfo_dtr>
+  <entityname.gtfo_heavyarmagazine>Магазин для крупнокалиберного пулемёта</entityname.gtfo_heavyarmagazine>
+  <entityname.gtfo_heavyar>Крупнокалиберный пулемёт</entityname.gtfo_heavyar>
+  <entitydescription.gtfo_heavyar>Высокий урон и скорострельность</entitydescription.gtfo_heavyar>
+  <entityname.gtfo_prmagazine>Магазин для винтовки точного боя</entityname.gtfo_prmagazine>
+  <entityname.gtfo_pr>Винтовка точного боя</entityname.gtfo_pr>
+  <entitydescription.gtfo_pr>Крупнокалиберная полуавтоматическая винтовка с термальной оптикой</entitydescription.gtfo_pr>
+  <entityname.gtfo_burstmagazine>Магазин для автоматической пушки</entityname.gtfo_burstmagazine>
+  <entityname.gtfo_burst>Автоматическая пушка</entityname.gtfo_burst>
+  <entitydescription.gtfo_burst>Крупнокалиберное оружие, стреляющее очередью из 5 выстрелов, перед выстрелом требуется зажать спусковой крючок</entitydescription.gtfo_burst>
+  <entityname.gtfo_pistolmagazine>Магазин для пистолета</entityname.gtfo_pistolmagazine>
+  <entityname.gtfo_pistol>Пистолет</entityname.gtfo_pistol>
+  <entitydescription.gtfo_pistol>Стандартный полуавтоматический пистолет</entitydescription.gtfo_pistol>
+  <entityname.gtfo_smgmagazine>Магазин для стандартного ПП и карабина</entityname.gtfo_smgmagazine>
+  <entityname.gtfo_smg>Стандартный ПП</entityname.gtfo_smg>
+  <entitydescription.gtfo_smg>Пистолет-пулемёт, удобен в управлении</entitydescription.gtfo_smg>
+  <entityname.gtfo_carbine>Карабин</entityname.gtfo_carbine>
+  <entitydescription.gtfo_carbine>Пистолет-пулемёт, стреляющий очередью из 4 выстрелов</entitydescription.gtfo_carbine>
+  <entityname.gtfo_pdwmagazine>Магазин для ПОС</entityname.gtfo_pdwmagazine>
+  <entityname.gtfo_pdw>ПОС</entityname.gtfo_pdw>
+  <entitydescription.gtfo_pdw>Лёгкое и компактное автоматическое оружие с термальной оптикой</entitydescription.gtfo_pdw>
+  <entityname.gtfo_mpmagazine>Магазин для автоматического пистолета</entityname.gtfo_mpmagazine>
+  <entityname.gtfo_mp>Автоматический пистолет</entityname.gtfo_mp>
+  <entitydescription.gtfo_mp>Высокая скорострельность и емкость магазина</entitydescription.gtfo_mp>
+  <entityname.gtfo_automagazine>Магазин для HEL пистолета</entityname.gtfo_automagazine>
+  <entityname.gtfo_auto>HEL Пистолет</entityname.gtfo_auto>
+  <entitydescription.gtfo_auto>Гибридное электротермальное оружие, поражает цель градом из тупоконечных пуль, оглушая цель</entitydescription.gtfo_auto>
+  <entityname.gtfo_hammer>Кувалда</entityname.gtfo_hammer>
+  <entitydescription.gtfo_hammer>Двуручное холодное оружие для ближнего боя</entitydescription.gtfo_hammer>
+</infotexts>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- ITEMS -->
+  <entityname.mb_containerholder>Держатель контейнеров</entityname.mb_containerholder>
+  <entitydescription.mb_containerholder>Фиксирует контейнер для хранения и лаконично отображает его.</entitydescription.mb_containerholder>
+  <!-- signal components -->
+  <entityname.mb_maxcomponent>Компонент "Максимум"</entityname.mb_maxcomponent>
+  <entitydescription.mb_maxcomponent>Требуется Lua. Возвращает большее из двух входных значений.</entitydescription.mb_maxcomponent>
+  <entityname.mb_mincomponent>Компонент "Минимум"</entityname.mb_mincomponent>
+  <entitydescription.mb_mincomponent>Требуется Lua. Возвращает меньшее из двух входных значений.</entitydescription.mb_mincomponent>
+  <entityname.mb_containscomponent>Компонент "Содержит"</entityname.mb_containscomponent>
+  <entitydescription.mb_containscomponent>Требуется Lua. Возвращает 0 или 1 в зависимости от того, содержит ли сигнал один сигнал два.</entitydescription.mb_containscomponent>
+  <entityname.mb_startswithcomponent>Компонент "Начинается"</entityname.mb_startswithcomponent>
+  <entitydescription.mb_startswithcomponent>Требуется Lua. Возвращает 0 или 1 в зависимости от того, начинается ли сигнал один с сигналом два.</entitydescription.mb_startswithcomponent>
+  <entityname.mb_endswithcomponent>Компонент "Конечный"</entityname.mb_endswithcomponent>
+  <entitydescription.mb_endswithcomponent>Требуется Lua. Возвращает 0 или 1 в зависимости от того, заканчивается ли сигнал один сигналом два.</entitydescription.mb_endswithcomponent>
+  <entityname.mb_repeatcomponent>Компонент "Повторения"</entityname.mb_repeatcomponent>
+  <entitydescription.mb_repeatcomponent>Требуется Lua. Возвращает X, повторенное Y раз.</entitydescription.mb_repeatcomponent>
+  <entityname.mb_watercomponent>Компонент "Воды"</entityname.mb_watercomponent>
+  <entitydescription.mb_watercomponent>Требуется Lua. Выводит различные показатели воды на подводной лодке.</entitydescription.mb_watercomponent>
+  <entityname.mb_lengthcomponent>Компонент "Длины"</entityname.mb_lengthcomponent>
+  <entitydescription.mb_lengthcomponent>Требуется Lua. Выводит количество символов во входящем сигнале.</entitydescription.mb_lengthcomponent>
+  <entityname.mb_reactorcomponent>Компонент "Реактора"</entityname.mb_reactorcomponent>
+  <entitydescription.mb_reactorcomponent>Требуется Lua. Автоматически управляет реактором</entitydescription.mb_reactorcomponent>
+  <entityname.mb_startupcomponent>Компонент "Запуска"</entityname.mb_startupcomponent>
+  <entitydescription.mb_startupcomponent>Требуется Lua. Выводит сигнал "1" после начала раунда. Может вызывать ложные срабатывания при перезагрузке Lua. Никогда не должен использоваться вместе с детонатором.</entitydescription.mb_startupcomponent>
+  <!-- other -->
+  <entityname.mb_inertiainhibitor>Ингибитор инерции</entityname.mb_inertiainhibitor>
+  <entitydescription.mb_inertiainhibitor>Требует использования Lua. Останавливает движение подводной лодки.</entitydescription.mb_inertiainhibitor>
+  <entityname.mb_omniengine>Двигатель всенаправленного действия</entityname.mb_omniengine>
+  <entitydescription.mb_omniengine>Требуется Lua. Это движок, который может подниматься и опускаться.\nКомпонент памяти использует:\n1: Мощность по X\n2: Мощность по Y\n3: Макс. Мощность\n4: Макс. Потребляемая мощность</entitydescription.mb_omniengine>
+  <entityname.mb_chairiscope>Стулоскоп</entityname.mb_chairiscope>
+  <entitydescription.mb_chairiscope>Это как перископ, но стул!</entitydescription.mb_chairiscope>
+  <!-- structures -->
+  <entityname.mb_shellacap0dega>Обшивка A Крышка 0 град A</entityname.mb_shellacap0dega>
+  <entityname.mb_shellacap0degb>Обшивка A Крышка 0 град B</entityname.mb_shellacap0degb>
+  <entityname.mb_shellacap90dega>Обшивка A Крышка 90 град A</entityname.mb_shellacap90dega>
+  <entityname.mb_shellacap90degb>Обшивка A Крышка 90 град B</entityname.mb_shellacap90degb>
+  <entityname.mb_shellaboard0dega>Обшивка A Борт 0 град A</entityname.mb_shellaboard0dega>
+  <entityname.mb_shellaboard0degb>Обшивка A Борт 0 град B</entityname.mb_shellaboard0degb>
+  <entityname.mb_shellaboard90dega>Обшивка A Борт 90 град A</entityname.mb_shellaboard90dega>
+  <entityname.mb_shellaboard90degb>Обшивка A Борт 90 град B</entityname.mb_shellaboard90degb>
+  <!-- connections -->
+  <connection.set_force_x>set_force_x</connection.set_force_x>
+  <connection.set_force_y>set_force_y</connection.set_force_y>
+  <connection.ammoout>ammo_out</connection.ammoout>
+  <connection.buoyancy_out>sub_buoyancy_force</connection.buoyancy_out>
+  <connection.waterpercent_out>sub_water_%</connection.waterpercent_out>
+  <connection.rc_temp_in>temperature_in</connection.rc_temp_in>
+  <connection.rc_power_in>power_value_in</connection.rc_power_in>
+  <connection.rc_load_in>load_value_in</connection.rc_load_in>
+  <connection.rc_maxoutput_in>maxoutput_in</connection.rc_maxoutput_in>
+  <connection.rc_fission_out>fissionrate_out</connection.rc_fission_out>
+  <connection.rc_turbine_out>turbineoutput_out</connection.rc_turbine_out>
+  <connection.roundstart_out>roundstart_out</connection.roundstart_out>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->

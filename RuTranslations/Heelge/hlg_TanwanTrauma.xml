@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
+  <entityname.tw_dragonslayer>Реликвия - Убийца драконов</entityname.tw_dragonslayer>
+  <entitydescription.tw_dragonslayer>Убийца драконов, нажать и вынуть ( мыслите быстро )</entitydescription.tw_dragonslayer>
+  <entityname.tw_starfall>Реликвия - Звездопад</entityname.tw_starfall>
+  <entitydescription.tw_starfall>С этим метеоритным молотом смело улыбайтесь в морду блокиратора</entitydescription.tw_starfall>
+  <entityname.tw_dragonbreath>Реликвия - Кровожадный дракон</entityname.tw_dragonbreath>
+  <entitydescription.tw_dragonbreath>Огненный клинок</entitydescription.tw_dragonbreath>
+  <entityname.tw_wing>Реликвия - Крылья Властителя</entityname.tw_wing>
+  <entitydescription.tw_wing>Уху, взлетаем</entitydescription.tw_wing>
+  <entityname.yuanbao>Ямб</entityname.yuanbao>
+  <entitydescription.yuanbao>Основные материалы для обмена легендарного оружия, которые можно получить при переработке снаряжения</entitydescription.yuanbao>
+</infotext>

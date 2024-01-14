@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- MB -->
+  <entityname.modularbackpack>Модульный рюкзак</entityname.modularbackpack>
+  <entitydescription.modularbackpack>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды.</entitydescription.modularbackpack>
+  <entityname.MBAmmo>Модульный рюкзак + боеприпасы</entityname.MBAmmo>
+  <entitydescription.MBAmmo>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена отделом для боеприпасов, который даёт возможность переносить патроны для личного оружия и гранаты в большем количестве.</entitydescription.MBAmmo>
+  <entityname.MBMedical>Модульный рюкзак + медсумка</entityname.MBMedical>
+  <entitydescription.MBMedical>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена сумкой для медикаментов, которая даёт возможность переносить медицинское снаряжение в большем количестве.</entitydescription.MBMedical>
+  <entityname.MBMining>Модульный рюкзак + рудмешок</entityname.MBMining>
+  <entitydescription.MBMining>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Он оснащён отделом для руды, который даёт возможность переносить руды и растения большем количестве.</entitydescription.MBMining>
+  <entityname.MBTools>Модульный рюкзак + инструментарий</entityname.MBTools>
+  <entitydescription.MBTools>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена сумкой для инструментов, которая даёт возможность переносить инструменты и оборудование для ремонта в большем количестве.</entitydescription.MBTools>
+  <entityname.MBSmallFirearmHolster>Модульный рюкзак + малая кобура</entityname.MBSmallFirearmHolster>
+  <entitydescription.MBSmallFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена пистолетной кобурой, которая даёт возможность переносить одноручное огнестрельное оружие.</entitydescription.MBSmallFirearmHolster>
+  <entityname.MBLargeFirearmHolster>Модульный рюкзак + большая кобура</entityname.MBLargeFirearmHolster>
+  <entitydescription.MBLargeFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена винтовочной кобурой, которая даёт возможность переносить двуручное огнестрельное оружие.</entitydescription.MBLargeFirearmHolster>
+  <entityname.MBLargeFirearmHolsterSmallFirearmHolster>Модульный рюкзак + большая кобура + малая кобура</entityname.MBLargeFirearmHolsterSmallFirearmHolster>
+  <entitydescription.MBLargeFirearmHolsterSmallFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена двумя кобурами, которые дают возможность переносить двуручное и одноручное огнестрельное оружие.</entitydescription.MBLargeFirearmHolsterSmallFirearmHolster>
+  <entityname.MBAmmoSmallFirearmHolster>Модульный рюкзак + монитор + боеприпасы + малая кобура</entityname.MBAmmoSmallFirearmHolster>
+  <entitydescription.MBAmmoSmallFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена отделом для боеприпасов и пистолетной кобурой, которые дают возможность переносить одноручное оружие, а также патроны для личного оружия и гранаты.</entitydescription.MBAmmoSmallFirearmHolster>
+  <entityname.MBMedicalSmallFirearmHolster>Модульный рюкзак + медсумка + малая кобура</entityname.MBMedicalSmallFirearmHolster>
+  <entitydescription.MBMedicalSmallFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена сумкой для медикаментов и пистолетной кобурой, которые дают возможность переносить медицинское снаряжение и одноручное оружие.</entitydescription.MBMedicalSmallFirearmHolster>
+  <entityname.MBMiningSmallFirearmHolster>Модульный рюкзак + рудмешок + малая кобура</entityname.MBMiningSmallFirearmHolster>
+  <entitydescription.MBMiningSmallFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена отделом для руды и пистолетной кобурой, которые дают возможность переносить руды, растения и одноручное оружие.</entitydescription.MBMiningSmallFirearmHolster>
+  <entityname.MBToolsSmallFirearmHolster>Модульный рюкзак + инструментарий + малая кобура</entityname.MBToolsSmallFirearmHolster>
+  <entitydescription.MBToolsSmallFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена сумкой для инструментов и пистолетной кобурой, которые дают возможность переносить инструменты, оборудование для ремонта и одноручное оружие.</entitydescription.MBToolsSmallFirearmHolster>
+  <!-- Ammocrates and Shell Rack -->
+  <entityname.MBAmmocrate>Модульный рюкзак + ящик для боеприпасов</entityname.MBAmmocrate>
+  <entitydescription.MBAmmocrate>Тяжёлая модификация обычного модульного рюкзака. Она значительно облегчает транспортировку ящиков с боеприпасами, но сильно затрудняет передвижение под водой и использование предметов.</entitydescription.MBAmmocrate>
+  <entityname.MBShellRack>Модульный рюкзак + стойка для снарядов</entityname.MBShellRack>
+  <entitydescription.MBShellRack>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена небольшой стойкой для снарядов рельсотрона, что позволяет проще переносить снаряды.</entitydescription.MBShellRack>
+  <entityname.MBAmmocrateShellRack>Модульный рюкзак + ящик для боеприпасов + стойка для снарядов</entityname.MBAmmocrateShellRack>
+  <entitydescription.MBAmmocrateShellRack>Тяжёлая модификация обычного модульного рюкзака. Она значительно облегчает транспортировку ящиков с боеприпасами и снарядов для рельсотрона, но сильно затрудняет передвижение под водой и использование предметов.</entitydescription.MBAmmocrateShellRack>
+  <entityname.MBAmmocrateSmallFirearmHolster>Модульный рюкзак + ящик для боеприпасов + малая кобура</entityname.MBAmmocrateSmallFirearmHolster>
+  <entitydescription.MBAmmocrateSmallFirearmHolster>Тяжёлая модификация обычного модульного рюкзака. Она значительно облегчает транспортировку ящиков с боеприпасами, но сильно затрудняет передвижение под водой и использование предметов. Эта модель также оснащена пистолетной кобурой, которая даёт возможность переносить одноручное огнестрельное оружие.</entitydescription.MBAmmocrateSmallFirearmHolster>
+  <entityname.MBShellRackSmallFirearmHolster>Модульный рюкзак + стойка для снарядов + малая кобура</entityname.MBShellRackSmallFirearmHolster>
+  <entitydescription.MBShellRackSmallFirearmHolster>Водонепроницаемый и огнеупорный рюкзак, который можно модифицировать под индивидуальные нужды. Эта модель оснащена небольшой стойкой для снарядов рельсотрона, что позволяет проще переносить снаряды. Эта модель также оснащена пистолетной кобурой, которая даёт возможность переносить одноручное огнестрельное оружие.</entitydescription.MBShellRackSmallFirearmHolster>
+  <entityname.MBAmmocrateShellRackSmallFirearmHolster>Модульный рюкзак + ящик для боеприпасов + стойка для снарядов + малая кобура</entityname.MBAmmocrateShellRackSmallFirearmHolster>
+  <entitydescription.MBAmmocrateShellRackSmallFirearmHolster>Тяжёлая модификация обычного модульного рюкзака. Она значительно облегчает транспортировку ящиков с боеприпасами и снарядов для рельсотрона, но сильно затрудняет передвижение под водой и использование предметов. Эта модель также оснащена пистолетной кобурой, которая даёт возможность переносить одноручное огнестрельное оружие.</entitydescription.MBAmmocrateShellRackSmallFirearmHolster>
+  <!-- модульный рюкзак + Light -->
+  <entityname.MBLight>Модульный рюкзак + фонарь</entityname.MBLight>
+  <entitydescription.MBLight>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны.</entitydescription.MBLight>
+  <entityname.MBLightSmallFirearmHolster>Модульный рюкзак + фонарь + малая кобура</entityname.MBLightSmallFirearmHolster>
+  <entitydescription.MBLightSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Эта модель также оснащена пистолетной кобурой, которая даёт возможность переносить одноручное огнестрельное оружие.</entitydescription.MBLightSmallFirearmHolster>
+  <entityname.MBLightAmmo>Модульный рюкзак + фонарь + боеприпасы</entityname.MBLightAmmo>
+  <entitydescription.MBLightAmmo>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена отделом для боеприпасов, который даёт возможность переносить патроны для личного оружия и гранаты.</entitydescription.MBLightAmmo>
+  <entityname.MBLightMedical>Модульный рюкзак + фонарь + медсумка</entityname.MBLightMedical>
+  <entitydescription.MBLightMedical>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена сумкой для медикаментов, которая даёт возможность переносить медицинское снаряжение в большем количестве.</entitydescription.MBLightMedical>
+  <entityname.MBLightMining>Модульный рюкзак + фонарь + рудмешок</entityname.MBLightMining>
+  <entitydescription.MBLightMining>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена отделом для руды, который даёт возможность переносить руды и растения большем количестве.</entitydescription.MBLightMining>
+  <entityname.MBLightTools>Модульный рюкзак + фонарь + инструментарий</entityname.MBLightTools>
+  <entitydescription.MBLightTools>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена сумкой для инструментов, которая даёт возможность переносить инструменты и оборудование для ремонта.</entitydescription.MBLightTools>
+  <entityname.MBLightAmmoSmallFirearmHolster>Модульный рюкзак + фонарь + боеприпасы + малая кобура</entityname.MBLightAmmoSmallFirearmHolster>
+  <entitydescription.MBLightAmmoSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена отделом для боеприпасов и пистолетной кобурой, которые дают возможность переносить патроны для личного оружия, гранаты и одноручное оружие.</entitydescription.MBLightAmmoSmallFirearmHolster>
+  <entityname.MBLightMedicalSmallFirearmHolster>Модульный рюкзак + фонарь + медсумка + малая кобура</entityname.MBLightMedicalSmallFirearmHolster>
+  <entitydescription.MBLightMedicalSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена сумкой для медикаментов и пистолетной кобурой, которые дают возможность переносить медицинское снаряжение и одноручное оружие.</entitydescription.MBLightMedicalSmallFirearmHolster>
+  <entityname.MBLightMiningSmallFirearmHolster>Модульный рюкзак + фонарь + рудмешок + малая кобура</entityname.MBLightMiningSmallFirearmHolster>
+  <entitydescription.MBLightMiningSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена отделом для руды и пистолетной кобурой, которые дают возможность переносить руды, растения и одноручное оружие.</entitydescription.MBLightMiningSmallFirearmHolster>
+  <entityname.MBLightToolsSmallFirearmHolster>Модульный рюкзак + фонарь + инструментарий + малая кобура</entityname.MBLightToolsSmallFirearmHolster>
+  <entitydescription.MBLightToolsSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным прожектором на батарейках, который способен пронзить самую непроницаемую тьму бездны. Она также оснащена сумкой для инструментов и пистолетной кобурой, которые дают возможность переносить инструменты, оборудование для ремонта и одноручное оружие.</entitydescription.MBLightToolsSmallFirearmHolster>
+  <!-- модульный рюкзак + Monitor -->
+  <entityname.MBMonitor>Модульный рюкзак + монитор</entityname.MBMonitor>
+  <entitydescription.MBMonitor>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки.</entitydescription.MBMonitor>
+  <entityname.MBMonitorSmallFirearmHolster>Модульный рюкзак + монитор + малая кобура</entityname.MBMonitorSmallFirearmHolster>
+  <entitydescription.MBMonitorSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Эта модель также оснащена пистолетной кобурой, которая даёт возможность переносить одноручное огнестрельное оружие.</entitydescription.MBMonitorSmallFirearmHolster>
+  <entityname.MBMonitorAmmo>Модульный рюкзак + монитор + боеприпасы</entityname.MBMonitorAmmo>
+  <entitydescription.MBMonitorAmmo>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена отделом для боеприпасов, который даёт возможность переносить патроны для личного оружия и гранаты.</entitydescription.MBMonitorAmmo>
+  <entityname.MBMonitorMedical>Модульный рюкзак + монитор + медсумка</entityname.MBMonitorMedical>
+  <entitydescription.MBMonitorMedical>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена сумкой для медикаментов, которая даёт возможность переносить медицинское снаряжение в большем количестве.</entitydescription.MBMonitorMedical>
+  <entityname.MBMonitorMining>Модульный рюкзак + монитор + рудмешок</entityname.MBMonitorMining>
+  <entitydescription.MBMonitorMining>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена отделом для руды, который даёт возможность переносить руды и растения большем количестве.</entitydescription.MBMonitorMining>
+  <entityname.MBMonitorTools>Модульный рюкзак + монитор + инструментарий</entityname.MBMonitorTools>
+  <entitydescription.MBMonitorTools>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена сумкой для инструментов, которая даёт возможность переносить инструменты и оборудование для ремонта.</entitydescription.MBMonitorTools>
+  <entityname.MBMonitorAmmoSmallFirearmHolster>Модульный рюкзак + монитор + боеприпасы + малая кобура</entityname.MBMonitorAmmoSmallFirearmHolster>
+  <entitydescription.MBMonitorAmmoSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена отделом для боеприпасов и пистолетной кобурой, которые дают возможность переносить патроны для личного оружия, гранаты и одноручное оружие.</entitydescription.MBMonitorAmmoSmallFirearmHolster>
+  <entityname.MBMonitorMedicalSmallFirearmHolster>Модульный рюкзак + монитор + медсумка + малая кобура</entityname.MBMonitorMedicalSmallFirearmHolster>
+  <entitydescription.MBMonitorMedicalSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена сумкой для медикаментов и пистолетной кобурой, которые дают возможность переносить медицинское снаряжение и одноручное оружие.</entitydescription.MBMonitorMedicalSmallFirearmHolster>
+  <entityname.MBMonitorMiningSmallFirearmHolster>Модульный рюкзак + монитор + рудмешок + малая кобура</entityname.MBMonitorMiningSmallFirearmHolster>
+  <entitydescription.MBMonitorMiningSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена отделом для руды и пистолетной кобурой, которые дают возможность переносить руды, растения и одноручное оружие.</entitydescription.MBMonitorMiningSmallFirearmHolster>
+  <entityname.MBMonitorToolsSmallFirearmHolster>Модульный рюкзак + монитор + инструментарий + малая кобура</entityname.MBMonitorToolsSmallFirearmHolster>
+  <entitydescription.MBMonitorToolsSmallFirearmHolster>Модификация обычного модульного рюкзака. Эта модель оснащена мощным монитором с питанием на батарейках, способным показывать все электрические и механические предметы подводной лодки, а также все типы пробоин в корпусе. Эта модель также поставляется со встроенным сонаром, не зависящим от подводной лодки. Она также оснащена сумкой для инструментов и пистолетной кобурой, которые дают возможность переносить инструменты, оборудование для ремонта и одноручное оружие.</entitydescription.MBMonitorToolsSmallFirearmHolster>
+  <!-- модульный рюкзак + скутер -->
+  <entityname.MBScooter>Модульный рюкзак + скутер</entityname.MBScooter>
+  <entitydescription.MBScooter>Тяжёлая модификация обычного модульного рюкзака. Эта модель позволяет быстрее перемещаться под водой благодаря мощному скутеру, работающему от аккумулятора, но имеет меньшую вместимость.</entitydescription.MBScooter>
+  <entityname.MBScooterSmallFirearmHolster>Модульный рюкзак + скутер + малая кобура</entityname.MBScooterSmallFirearmHolster>
+  <entitydescription.MBScooterSmallFirearmHolster>Тяжёлая модификация обычного модульного рюкзака. Эта модель позволяет быстрее перемещаться под водой благодаря мощному скутеру, работающему от аккумулятора, но имеет меньшую вместимость. Эта модель также оснащена пистолетной кобурой, которая даёт возможность переносить одноручное огнестрельное оружие.</entitydescription.MBScooterSmallFirearmHolster>
+  <entityname.MBScooterLargeFirearmHolster>Модульный рюкзак + скутер + большая кобура</entityname.MBScooterLargeFirearmHolster>
+  <entitydescription.MBScooterLargeFirearmHolster>Тяжёлая модификация обычного модульного рюкзака. Эта модель позволяет быстрее перемещаться под водой благодаря мощному скутеру, работающему от аккумулятора, но имеет меньшую вместимость. Она также оснащена винтовочной кобурой, которая даёт возможность переносить двуручное огнестрельное оружие.</entitydescription.MBScooterLargeFirearmHolster>
+  <entityname.MBScooterLargeFirearmHolsterSmallFirearmHolster>Модульный рюкзак + скутер + большая кобура + малая кобура</entityname.MBScooterLargeFirearmHolsterSmallFirearmHolster>
+  <entitydescription.MBScooterLargeFirearmHolsterSmallFirearmHolster>Тяжёлая модификация обычного модульного рюкзака. Эта модель позволяет быстрее перемещаться под водой благодаря мощному скутеру, работающему от аккумулятора, но имеет меньшую вместимость. Она также оснащена двумя кобурами, которые дают возможность переносить двуручное и одноручное огнестрельное оружие.</entitydescription.MBScooterLargeFirearmHolsterSmallFirearmHolster>
+  <!-- модульный рюкзак + ребризер -->
+  <entityname.MBRebreather>Модульный рюкзак + ребризер</entityname.MBRebreather>
+  <entitydescription.MBRebreather>Тяжёлая модификация обычного модульного рюкзака. Она позволяет пользователю фильтровать кислород как из воздуха, загрязненного CO2, так и из морской воды. система фильтрации обеспечивает кислородом пользователя, а также пополняет до двух кислородных баллонов, размещённых в ребризере. Однако из-за его внушительных размеров перемещение, использование экипировки и грузоподъёмность сильно снижены.</entitydescription.MBRebreather>
+  <!-- Other -->
+  <entityname.Workbench>Верстак</entityname.Workbench>
+  <entitydescription.Workbench>Верстак, позволяющий создавать и модифицировать все типы модульных рюкзаков.</entitydescription.Workbench>
+  <Override>
+    <entityname.weaponholder>Стойка для оружия и рюкзаков</entityname.weaponholder>
+  </Override>
+  <Override>
+    <entitydescription.weaponholder>Место для хранения оружия и рюкзаков.</entitydescription.weaponholder>
+  </Override>
+  <!-- CRAFTING -->
+  <entityname.ammopouch>Сумка для боеприпасов</entityname.ammopouch>
+  <entitydescription.ammopouch>Специальный подсумок, в котором можно хранить до 6 разных боеприпасов.</entitydescription.ammopouch>
+  <entityname.medicalpouch>Медсумка</entityname.medicalpouch>
+  <entitydescription.medicalpouch>Специальный подсумок, в котором можно хранить до 6 разных медицинских предметов.</entitydescription.medicalpouch>
+  <entityname.miningpouch>Рудмешок</entityname.miningpouch>
+  <entitydescription.miningpouch>Специальный подсумок, в котором можно хранить до 6 стаков руды и растений.</entitydescription.miningpouch>
+  <entityname.toolpouch>Инструментарий</entityname.toolpouch>
+  <entitydescription.toolpouch>Специальный подсумок, в котором можно хранить до 6 разных инструментов и принадлежностей для ремонта.</entitydescription.toolpouch>
+  <entityname.largefirearmholster>Большая кобура</entityname.largefirearmholster>
+  <entitydescription.largefirearmholster>Большая кобура, в которой можно хранить многие виды двуручного оружия.</entitydescription.largefirearmholster>
+  <entityname.smallfirearmholster>Малая кобура</entityname.smallfirearmholster>
+  <entitydescription.smallfirearmholster>Небольшая кобура, в которой можно хранить многие виды одноручного оружия.</entitydescription.smallfirearmholster>
+  <entityname.monitorMBMOD>Монитор</entityname.monitorMBMOD>
+  <entitydescription.monitorMBMOD>Сам по себе не нужен ни для чего.</entitydescription.monitorMBMOD>
+  <entityname.rebreatherMBMOD>Ребризер</entityname.rebreatherMBMOD>
+  <entitydescription.rebreatherMBMOD>Сам по себе не нужен ни для чего.</entitydescription.rebreatherMBMOD>
+  <entityname.smallcapacitorMBMOD>Небольшой конденсатор</entityname.smallcapacitorMBMOD>
+  <entitydescription.smallcapacitorMBMOD>Сам по себе не нужен ни для чего.</entitydescription.smallcapacitorMBMOD>
+  <entityname.smallsearchlightMBMOD>Небольшой фонарь</entityname.smallsearchlightMBMOD>
+  <entitydescription.smallsearchlightMBMOD>Сам по себе не нужен ни для чего.</entitydescription.smallsearchlightMBMOD>
+  <!-- TICKBOX - Need investigating -->
+</infotext>
+<!-- Discord переводчика: enigmans -->

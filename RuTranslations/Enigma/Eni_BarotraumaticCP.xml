@@ -1,0 +1,1172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- CREATURES -->
+  <!-- NewCreatures -->
+  <Character.abyssalcrawler>Ползун бездны</Character.abyssalcrawler>
+  <Character.abyssalmoloch>Молох бездны</Character.abyssalmoloch>
+  <Character.abyssalmoloch2>Молох бездны</Character.abyssalmoloch2>
+  <Character.aphoticgiant>Афотический гигант</Character.aphoticgiant>
+  <Character.basophil>Базофил</Character.basophil>
+  <Character.clownbox>Металлический ящик</Character.clownbox>
+  <Character.clownhomie>Потерявшийся клоун</Character.clownhomie>
+  <Character.clowndeathmask>Потерявшийся клоун</Character.clowndeathmask>
+  <Character.clownsawcrazy>Мясорубка</Character.clownsawcrazy>
+  <Character.clownsuicide>Потерявшийся клоун</Character.clownsuicide>
+  <Character.clownwanderer>Потерявшийся клоун</Character.clownwanderer>
+  <Character.conjoined>Сращенный</Character.conjoined>
+  <Character.endworm_young>Молодой червь конца</Character.endworm_young>
+  <Character.europa>Отражение Европы</Character.europa>
+  <Character.fault>Ошибка</Character.fault>
+  <Character.fractalenforcer>Фрактальный исполнитель</Character.fractalenforcer>
+  <Character.fractalwalker>Фрактальный ходок</Character.fractalwalker>
+  <Character.geosphere>Геосфера</Character.geosphere>
+  <Character.ghostshrimp>Призрачная креветка</Character.ghostshrimp>
+  <Character.humanimmortal>Бессмертный человек</Character.humanimmortal>
+  <Character.molochhusk>Оболочка молоха</Character.molochhusk>
+  <Character.mantisshrimp>Ледяной краб</Character.mantisshrimp>
+  <Character.fractalpenance>Исповедник покаяния</Character.fractalpenance>
+  <Character.joviandiver>Пират</Character.joviandiver>
+  <Character.joviansuicide>Пират</Character.joviansuicide>
+  <Character.plantworm>Растительный червь</Character.plantworm>
+  <Character.pyrosome>Огнесом</Character.pyrosome>
+  <Character.seeker>Искатель Таламуса</Character.seeker>
+  <Character.twin>Близнец</Character.twin>
+  <Character.undying>Фрактальный ходок</Character.undying>
+  <Character.undyingfaraday>Фрактальный ходок</Character.undyingfaraday>
+  <Character.undyingthermal>Фрактальный ходок</Character.undyingthermal>
+  <Character.watcherwanderer>Странник</Character.watcherwanderer>
+  <!-- OtherCreatures -->
+  <Character.abyssalhammerhead>Молотоглав бездны</Character.abyssalhammerhead>
+  <Character.abyssalmantis>Богомол бездны</Character.abyssalmantis>
+  <Character.abyssalthresher>Акульего тигра бездны</Character.abyssalthresher>
+  <Character.alphacharybdis>Тифон</Character.alphacharybdis>
+  <Character.alphaendworm>Чёрный червь конца</Character.alphaendworm>
+  <Character.bluelobster>Король лобстеров</Character.bluelobster>
+  <Character.cavewalker>Пещерный ходок</Character.cavewalker>
+  <Character.cyaegha>Цяэга</Character.cyaegha>
+  <Character.deepseaclown>Глубоководный клоун</Character.deepseaclown>
+  <Character.deepseaclownnew>Глубоководный клоун</Character.deepseaclownnew>
+  <Character.endurance>Фрактальный страж</Character.endurance>
+  <Character.hotdog>Саня</Character.hotdog>
+  <Character.mantisbig>Большой богомол</Character.mantisbig>
+  <Character.praywhale>Хребетный кит</Character.praywhale>
+  <Character.praywhalebaby>Маленький хребетный кит</Character.praywhalebaby>
+  <Character.praywhalemineral>Кристальный хребетный кит</Character.praywhalemineral>
+  <Character.scorpion>Скорпион</Character.scorpion>
+  <Character.suffering>Страдание</Character.suffering>
+  <Character.tapeworm>Глист</Character.tapeworm>
+  <Character.teleglitch>Электрическая аномалия</Character.teleglitch>
+  <Character.thalamid>Таламид</Character.thalamid>
+  <Character.thalamusk>Таламуск</Character.thalamusk>
+  <Character.deepseaclowngut>Глубоководный клоун</Character.deepseaclowngut>
+  <Character.deepseaclownnewsaw>Глубоководный клоун</Character.deepseaclownnewsaw>
+  <Character.wastebonethresher>Отходный костяной акульего тигра</Character.wastebonethresher>
+  <Character.wastecrawler>Отходный ползун</Character.wastecrawler>
+  <Character.wastehammerhead>Отходный молотоглав</Character.wastehammerhead>
+  <Character.wastehuman>Отходный человек</Character.wastehuman>
+  <Character.wastemantis>Отходный богомол</Character.wastemantis>
+  <Character.wastetigerthresher>Отходный акульий тигр</Character.wastetigerthresher>
+  <!-- SOFA Creatures-->
+  <Character.aquaticspider>Водяной паук</Character.aquaticspider>
+  <Character.caveeel>Пещерный угорь</Character.caveeel>
+  <Character.crystalswordfish>Кристальный мечехвост</Character.crystalswordfish>
+  <Character.drillfish>Рыба дрель</Character.drillfish>
+  <Character.floorworm>Половой червь</Character.floorworm>
+  <Character.fractalburrower>Фрактальный копатель</Character.fractalburrower>
+  <Character.fractalmermaid>Фрактальная русалка</Character.fractalmermaid>
+  <Character.fractalsiren>Фрактальная сирена</Character.fractalsiren>
+  <Character.mineraleater>Минералоед</Character.mineraleater>
+  <Character.nightsquid>Кальмар ночи</Character.nightsquid>
+  <Character.shellwhale>Ракушечный кит</Character.shellwhale>
+  <Character.wrecklurker>Проныра</Character.wrecklurker>
+  <!-- Survivator Creatures -->
+  <Character.babymoloch>Малыш молох</Character.babymoloch>
+  <Character.bloodsucker>Кровосос</Character.bloodsucker>
+  <Character.devilfish>Дьявольская рыба</Character.devilfish>
+  <Character.glowfish>Светящаяся рыба</Character.glowfish>
+  <Character.glowfishhusk>Хаск светящаяся рыба</Character.glowfishhusk>
+  <Character.goofyfish>Глупая рыба</Character.goofyfish>
+  <Character.hullfish>Обшивочная рыба</Character.hullfish>
+  <Character.hullfishhusk>Хаск обшивочная рыба</Character.hullfishhusk>
+  <Character.hullparasite>Обшивочный паразит</Character.hullparasite>
+  <Character.icewhale>Ледяной кит</Character.icewhale>
+  <Character.impfish>Рыба-чёрт</Character.impfish>
+  <Character.irma>Ирма</Character.irma>
+  <Character.irmahusk>Хаск ирма</Character.irmahusk>
+  <Character.pirafish>Пира рыба</Character.pirafish>
+  <Character.punkfish>Панк рыба</Character.punkfish>
+  <Character.punkfishhusk>Хаск панк рыба</Character.punkfishhusk>
+  <Character.redfish>Красная рыба</Character.redfish>
+  <Character.skeletonfish>Скелет рыба</Character.skeletonfish>
+  <Character.slime>Слизь</Character.slime>
+  <Character.thrasher>Костолом</Character.thrasher>
+  <Character.thrasherhusk>Хаск костолом</Character.thrasherhusk>
+  <Character.tigersharkthresher>Акульего тигра</Character.tigersharkthresher>
+  <Character.toothfish>Зубастая рыба</Character.toothfish>
+  <Character.voidfish>Рыба пустоты</Character.voidfish>
+  <Character.whitefish>Белая рыба</Character.whitefish>
+  <!-- Undersea Horror Creatures -->
+  <Character.deadnought>Дэдноут</Character.deadnought>
+  <Character.deadnoughthomingshell>Торпеда дэдноута</Character.deadnoughthomingshell>
+  <Character.endwhale>Кит конца</Character.endwhale>
+  <Character.mine>Мина</Character.mine>
+  <Character.minedetached>Отсоединённая мина</Character.minedetached>
+  <Character.minesmall>Маленькая мина</Character.minesmall>
+  <Character.rockworm>Каменный червь</Character.rockworm>
+  <!-- Xanmonsters Creatures -->
+  <Character.bomber>Хаск бомбардир</Character.bomber>
+  <Character.bossmoloch>Гидротермальный молох</Character.bossmoloch>
+  <Character.bruteflora>Брутофлора</Character.bruteflora>
+  <Character.carrierleviathan>Карьер левиафан</Character.carrierleviathan>
+  <Character.charybdisre>Малыш Харибды</Character.charybdisre>
+  <Character.coelanthre>Книдае</Character.coelanthre>
+  <Character.crawlercrablet>Ползуноползун</Character.crawlercrablet>
+  <Character.crawlerjumplet>Ползунопрыгатель</Character.crawlerjumplet>
+  <Character.endwormre>Европейский полихет</Character.endwormre>
+  <Character.fractalguardianre>Манеба</Character.fractalguardianre>
+  <Character.fractalguardianre2>Ронтеал</Character.fractalguardianre2>
+  <Character.fractalguardianre3>Жнец</Character.fractalguardianre3>
+  <Character.helmetcrablet>Шлемо-ползуноползун</Character.helmetcrablet>
+  <Character.helmetjumplet>Шлемо-ползунопрыгатель</Character.helmetjumplet>
+  <Character.huskartifactfaraday>Хаск артефакт Фарадея</Character.huskartifactfaraday>
+  <Character.huskartifactgeneral>Хаск артефакт Генерала</Character.huskartifactgeneral>
+  <Character.huskartifactnasonov>Хаск артефакт Насонова</Character.huskartifactnasonov>
+  <Character.huskartifactpsychosis>Хаск артефакт Психоза</Character.huskartifactpsychosis>
+  <Character.huskartifactskyholder>Хаск артефакт Небодержателя</Character.huskartifactskyholder>
+  <Character.huskartifactthermal>Хаск артефакт Термальный</Character.huskartifactthermal>
+  <Character.huskbroodemperor>Император Хасков</Character.huskbroodemperor>
+  <Character.huskinfector>Заражающий Хаск</Character.huskinfector>
+  <Character.huskslasher>Хаск-резатель</Character.huskslasher>
+  <Character.hydrathresher>Гидра-тигр</Character.hydrathresher>
+  <Character.immortal>Бессмертный</Character.immortal>
+  <Character.juggernaut>Джаггернаут</Character.juggernaut>
+  <Character.lionthresher>Барракуда</Character.lionthresher>
+  <Character.mudbouncer>Грязепрыгатель</Character.mudbouncer>
+  <Character.observer>Диббук</Character.observer>
+  <Character.paralyser>Парализатор</Character.paralyser>
+  <Character.voidleech>Пустотная пиявка</Character.voidleech>
+  <Character.voidstalker>Пустотный мусорщик</Character.voidstalker>
+  <Character.xan_scavenger>Мусорщик</Character.xan_scavenger>
+  <Character.xanothresher>КсаноТигр</Character.xanothresher>
+  <!-- ITEMS -->
+  <entityname.Telepulse>Электрический импульс</entityname.Telepulse>
+  <entitydescription.Telepulse></entitydescription.Telepulse>
+  <entityname.teleglitchelectropulse>Электрический импульс</entityname.teleglitchelectropulse>
+  <entitydescription.teleglitchelectropulse></entitydescription.teleglitchelectropulse>
+  <entityname.Decorem>Декорем</entityname.Decorem>
+  <entitydescription.Decorem></entitydescription.Decorem>
+  <entityname.ballastfloratoxins>Флоратоксины балласта</entityname.ballastfloratoxins>
+  <entitydescription.ballastfloratoxins></entitydescription.ballastfloratoxins>
+  <entityname.k_em_coelanthfang>Клык коэлянта</entityname.k_em_coelanthfang>
+  <entitydescription.k_em_coelanthfang></entitydescription.k_em_coelanthfang>
+  <entityname.k_em_thalamusthorn>Шип таламуса</entityname.k_em_thalamusthorn>
+  <entitydescription.k_em_thalamusthorn></entitydescription.k_em_thalamusthorn>
+  <entityname.k_em_thalamusstump>Культя таламуса</entityname.k_em_thalamusstump>
+  <entitydescription.k_em_thalamusstump></entitydescription.k_em_thalamusstump>
+  <entityname.k_em_magmawomfin>Плавник магмочервя</entityname.k_em_magmawomfin>
+  <entitydescription.k_em_magmawomfin></entitydescription.k_em_magmawomfin>
+  <entityname.k_em_magmalarvatendril>Щупальце магмаличинки</entityname.k_em_magmalarvatendril>
+  <entitydescription.k_em_magmalarvatendril></entitydescription.k_em_magmalarvatendril>
+  <entityname.k_em_fractalsensor>Фрактальный сенсор</entityname.k_em_fractalsensor>
+  <entitydescription.k_em_fractalsensor></entitydescription.k_em_fractalsensor>
+  <entityname.k_em_fractalthorn>Фрактальный шип</entityname.k_em_fractalthorn>
+  <entitydescription.k_em_fractalthorn></entitydescription.k_em_fractalthorn>
+  <entityname.k_em_charybdisfang>Клык харибды</entityname.k_em_charybdisfang>
+  <entitydescription.k_em_charybdisfang></entitydescription.k_em_charybdisfang>
+  <entityname.k_em_charybdissavagefang>Клык дикой харибды</entityname.k_em_charybdissavagefang>
+  <entitydescription.k_em_charybdissavagefang></entitydescription.k_em_charybdissavagefang>
+  <entityname.k_em_endwormfang>Клык червя конца</entityname.k_em_endwormfang>
+  <entitydescription.k_em_endwormfang></entitydescription.k_em_endwormfang>
+  <entityname.k_em_icecrabclaw>Коготь ледяного краба</entityname.k_em_icecrabclaw>
+  <entitydescription.k_em_icecrabclaw></entitydescription.k_em_icecrabclaw>
+  <entityname.dryice>Сухой лед</entityname.dryice>
+  <entitydescription.dryice></entitydescription.dryice>
+  <entityname.k_em_shadowoil>Масло теневого кита</entityname.k_em_shadowoil>
+  <entitydescription.k_em_shadowoil></entitydescription.k_em_shadowoil>
+  <entityname.k_em_shadowthorn>Теневой шип</entityname.k_em_shadowthorn>
+  <entitydescription.k_em_shadowthorn></entitydescription.k_em_shadowthorn>
+  <entityname.k_em_wanderereye>Глаз странника</entityname.k_em_wanderereye>
+  <entitydescription.k_em_wanderereye></entitydescription.k_em_wanderereye>
+  <entityname.k_em_paragland>Парализующая железа</entityname.k_em_paragland>
+  <entitydescription.k_em_paragland></entitydescription.k_em_paragland>
+  <entityname.k_em_thereelmask>Голова термального угря</entityname.k_em_thereelmask>
+  <entitydescription.k_em_thereelmask></entitydescription.k_em_thereelmask>
+  <entityname.crawlerfin>Лапы ползуна</entityname.crawlerfin>
+  <entitydescription.crawlerfin>Лапы некогда живого ползуна. Могут быть переработаны на углерод и кальций.</entitydescription.crawlerfin>
+  <entityname.crawlerbelly>Живот ползуна</entityname.crawlerbelly>
+  <entitydescription.crawlerbelly>Опухший желудок ползуна. Кажется, внутри что-то есть?</entitydescription.crawlerbelly>
+  <entityname.crawlerleg>Нога ползуна</entityname.crawlerleg>
+  <entitydescription.crawlerleg>Конечность ползуна, которая чувствуется странно твердой, хоть и мягкой, и пахнет неприятно. Может быть разобрана на инопланетную кровь и этанол.</entitydescription.crawlerleg>
+  <entityname.motherskin>Чешуя матки роя</entityname.motherskin>
+  <entitydescription.motherskin>Кусок оставленной чешуи матки роя. Даёт алюминий и углерод.</entitydescription.motherskin>
+  <entityname.motherbreast>Грудь матки роя</entityname.motherbreast>
+  <entitydescription.motherbreast>Грудь матки роя ползуна, не стоит углубляться в детали. Может использоваться для лечения членов команды. Может быть разобрана на физраствор.</entitydescription.motherbreast>
+  <entityname.decapitatedarm>Человеческая рука</entityname.decapitatedarm>
+  <entitydescription.decapitatedarm>Разжёванные останки человека. Может быть предоставлена исследователям для анализа данных.</entitydescription.decapitatedarm>
+  <entityname.decapitatedleg>Человеческая нога</entityname.decapitatedleg>
+  <entitydescription.decapitatedleg>Разжёванные останки человека. Может быть предоставлена исследователям для анализа данных.</entitydescription.decapitatedleg>
+  <entityname.quarteredman>Человеческий торс</entityname.quarteredman>
+  <entitydescription.quarteredman>Разжёванные останки человека. Может быть предоставлен исследователям для анализа данных.</entitydescription.quarteredman>
+  <entityname.humanribs>Странный кусок мяса</entityname.humanribs>
+  <entitydescription.humanribs>Большие куски мяса неизвестного происхождения. Может быть предоставлен исследователям для анализа данных.</entitydescription.humanribs>
+  <entityname.mudhead>Голова грязевого раптора</entityname.mudhead>
+  <entitydescription.mudhead>Доспехи для головы грязевого раптора (не для ношения). Чувствуются тяжёлыми и шершавыми на ощупь. Можно переработать на железо, свинец и кальций.</entitydescription.mudhead>
+  <entityname.mudclaw>Коготь грязевого раптора</entityname.mudclaw>
+  <entitydescription.mudclaw>Короткие лапы грязевого раптора. Его когти очень острые и могут использоваться как самодельное оружие. Можно переработать на титан, кальций и железо.</entitydescription.mudclaw>
+  <entityname.mudhip>Брюшной доспех грязевого раптора</entityname.mudhip>
+  <entitydescription.mudhip>Доспех брюшной полости грязевого раптора. Несмотря на свой большой размер, легче других значимых бронированных частей. Можно переработать на железо, свинец и кальций.</entitydescription.mudhip>
+  <entityname.charybdistongue>Язык харибды</entityname.charybdistongue>
+  <entitydescription.charybdistongue>Взгляд на эту вещь заставляет вас чувствовать себя очень неспокойно, так как острый кровавый конец обязательно порвет вас на части. Исследователи купят его за большие деньги.</entitydescription.charybdistongue>
+  <entityname.charybdisstomach>Желудок харибды</entityname.charybdisstomach>
+  <entitydescription.charybdisstomach>Гигантский желудок харибды. Может быть, внутри есть что-то ценное? Исследователи купят его за большие деньги.</entitydescription.charybdisstomach>
+  <entityname.thresherclaw>Когти акульего тигра</entityname.thresherclaw>
+  <entitydescription.thresherclaw>Когти акульего тигра. Маленькие и тупые. Можно переработать на кальций и железо.</entitydescription.thresherclaw>
+  <entityname.threshertail>Хвост акульего тигра</entityname.threshertail>
+  <entitydescription.threshertail>Хвост акульего тигра. Длинный и грубый. Может быть разобран на кальций, углерод, железо и магний.</entitydescription.threshertail>
+  <entityname.bonethresherclaw>Когти костяного акульего тигра</entityname.bonethresherclaw>
+  <entitydescription.bonethresherclaw>Когти костяного акульего тигра. Больше, чем у акульего тигра, и они кажутся более острыми. Могут быть использованы как временное оружие. Могут быть переработаны на кальций и железо.</entitydescription.bonethresherclaw>
+  <entityname.bonetail>Хвост костяного акульего тигра</entityname.bonetail>
+  <entitydescription.bonetail>Хвост костяного акульего тигра. Длинный и грубый. Может быть разобран на кальций, углерод, железо и магний.</entitydescription.bonetail>
+  <entityname.bonethresherskin>Кожа костяного акульего тигра</entityname.bonethresherskin>
+  <entitydescription.bonethresherskin>Кусок сброшенной кожи костяного акульего тигра. Она кажется очень чешуйчатой и грубой. Даёт железо и углерод.</entitydescription.bonethresherskin>
+  <entityname.watcherspike>Шипы наблюдателя</entityname.watcherspike>
+  <entitydescription.watcherspike>Шипы панциря наблюдателя. Они кажутся странно мягкими и немного надуваются. Могут быть переработаны на инопланетную кровь, углерод, резину и кремний.</entitydescription.watcherspike>
+  <entityname.watchergel>Гель глаза наблюдателя</entityname.watchergel>
+  <entitydescription.watchergel>Стекловидный гель глаза наблюдателя. Перерабатывается на серную кислоту, инопланетную кровь и углерод. Может быть продан в научных центрах.</entitydescription.watchergel>
+  <entityname.watchercornea>Взорванная линза наблюдателя</entityname.watchercornea>
+  <entitydescription.watchercornea>Взорванная линза наблюдателя. Перерабатывается на пластик и углерод. Может быть продана в научных центрах.</entitydescription.watchercornea>
+  <entityname.molochpiece>Куски молоха</entityname.molochpiece>
+  <entitydescription.molochpiece>Большие куски мяса, отделённые от молоха. Могут быть переработаны на множество материалов.</entitydescription.molochpiece>
+  <entityname.molochshellpiece>Куски панциря молоха</entityname.molochshellpiece>
+  <entitydescription.molochshellpiece>Треснувшие куски брони, отделённые от мёртвого молоха. Могут быть переработаны на некоторые минералы.</entitydescription.molochshellpiece>
+  <entityname.hammerarm>Плавники молотоглава</entityname.hammerarm>
+  <entitydescription.hammerarm>Острые плавники молотоглава. Они очень твердые и удивительно острые. Могут быть переработаны на сталь и железо.</entitydescription.hammerarm>
+  <entityname.hammereye>Глаз молотоглава</entityname.hammereye>
+  <entitydescription.hammereye>Глаз молотоглава. Он всё ещё светится непостижимо зелёным светом. Может быть разобран на цинк и магний.</entitydescription.hammereye>
+  <entityname.hammernose>Нос молотоглава</entityname.hammernose>
+  <entitydescription.hammernose>Очень твердый нос молотоглава. Может быть разобран на углерод, титан и железо.</entitydescription.hammernose>
+  <entityname.goldenhammerheadtail>Хвост золотого молотоглава</entityname.goldenhammerheadtail>
+  <entitydescription.goldenhammerheadtail>Твёрдый, как камень и ярко светится. Как он так сверкает? Может быть разобран на углерод, титан и железо.</entitydescription.goldenhammerheadtail>
+  <entityname.goldenhammerheadarm>Плавники золотого молотоглава</entityname.goldenhammerheadarm>
+  <entitydescription.goldenhammerheadarm>Твёрдые, как камень и ярко светятся. Как они так сверкают? Могут быть разобраны на титан, кальций и железо.</entitydescription.goldenhammerheadarm>
+  <entityname.molochtentacles>Щупальца молоха</entityname.molochtentacles>
+  <entitydescription.molochtentacles>Кусок щупальца, отделённый от молоха. Может быть использован в качестве экстренной жгутовой повязки. Может быть разобран на эластин.</entitydescription.molochtentacles>
+  <entityname.blackmolochshellpiece>Кусок панциря чёрного молоха</entityname.blackmolochshellpiece>
+  <entitydescription.blackmolochshellpiece>Треснутые куски панциря, взятые с убитого чёрного молоха. Держа его, вы чувствуете напряжение. Можно разобрать на множество минералов.</entitydescription.blackmolochshellpiece>
+  <entityname.blackmolochtentacles>Черные щупальца молоха</entityname.blackmolochtentacles>
+  <entitydescription.blackmolochtentacles>Часть щупалец, отрезанных у чёрного молоха. Можно использовать в качестве экстренного жгута. Можно разобрать на эластин и литий.</entitydescription.blackmolochtentacles>
+  <entityname.spinelingpod>Голова шпинелина</entityname.spinelingpod>
+  <entitydescription.spinelingpod>Головной щиток шпинелина. Внутри чувствуется ужасный запах. Может быть разобран на цинк, магний и углерод.</entitydescription.spinelingpod>
+  <entityname.spinelingtail>Хвост шпинелина</entityname.spinelingtail>
+  <entitydescription.spinelingtail>Часть хвоста шпинелина. Может быть разобран на цинк и кальций.</entitydescription.spinelingtail>
+  <entityname.giantspinespike>Огромный шип шпинелина</entityname.giantspinespike>
+  <entitydescription.giantspinespike>Крайне плотный и острый как бритва шип от гигантского шпинелина. Можно переделать в боеприпас для рельсотрона в фабрикаторе.</entitydescription.giantspinespike>
+  <entityname.giantrailspinespike>Снаряд рельсотрона из огромного шипа шпинелина</entityname.giantrailspinespike>
+  <entitydescription.giantrailspinespike>Крайне плотный шип гигантского шпинелина, измельчённый до размеров, соответствующих размеру снаряда для рельсотрона. Надпись «Вернуть отправителю» выгравирована на боковой стороне.</entitydescription.giantrailspinespike>
+  <entityname.giantspinelingtail>Хвост гигантского шпинелина</entityname.giantspinelingtail>
+  <entitydescription.giantspinelingtail>Твёрдый хвост гигантского шпинелина. На нем много маленьких игл, будто на кактусе. Перерабатывается на цинк, пластик, железо и кальций.</entitydescription.giantspinelingtail>
+  <entityname.giantspinelingpod>Голова гигантского шпинелина</entityname.giantspinelingpod>
+  <entitydescription.giantspinelingpod>Каменный головной щит шпинелина. Интересно, есть ли внутри мозг? Перерабатывается на цинк, железо, магний и углерод.</entitydescription.giantspinelingpod>
+  <entityname.leatherbackfin>Плавники кожистой спины</entityname.leatherbackfin>
+  <entitydescription.leatherbackfin>Большой кусок плавника. Жёсткий и грубый. Перерабатывается на железо, углерод, титан и эластин.</entitydescription.leatherbackfin>
+  <entityname.leatherbackstomach>Желудок кожистой спины</entityname.leatherbackstomach>
+  <entitydescription.leatherbackstomach>Жёсткий желудок. Может быть, там что-то есть внутри?</entitydescription.leatherbackstomach>
+  <entityname.leatherbackskin>Чешуя кожистой спины</entityname.leatherbackskin>
+  <entitydescription.leatherbackskin>Твёрдая чешуя. Кажется, на ней есть какие-то минералы.</entitydescription.leatherbackskin>
+  <entityname.coelanthfin>Плавники коэлянта</entityname.coelanthfin>
+  <entitydescription.coelanthfin>Плавники коэлянта. Большие и чешуйчатые. Могут быть разобраны на углерод, резину и кальций.</entitydescription.coelanthfin>
+  <entityname.coelantheye>Глаза коэлянта</entityname.coelantheye>
+  <entitydescription.coelantheye>Глаза коэлянта. Они выглядят помутневшими, хоть и светятся очень ярко. Разбираются на цинк, литий, фосфор и углерод.</entitydescription.coelantheye>
+  <entityname.mantisclaw>Клешня богомола</entityname.mantisclaw>
+  <entitydescription.mantisclaw>Клешня богомола. Очень острая и хорошо подходит в качестве оружия ближнего боя. Может быть разобрана на титан, кальций и железо.</entitydescription.mantisclaw>
+  <entityname.mantisleg>Нога богомола</entityname.mantisleg>
+  <entitydescription.mantisleg>Конечность богомола, её конечности построены как сталь. Может быть разобрана на хитин, железо и углерод.</entitydescription.mantisleg>
+  <entityname.shrimpstomach>Желудок богомола</entityname.shrimpstomach>
+  <entitydescription.shrimpstomach>Маленький желудок богомола. Может быть, что-то внутри?</entitydescription.shrimpstomach>
+  <entityname.shrimpantenna>Антенна богомола</entityname.shrimpantenna>
+  <entitydescription.shrimpantenna>Антенна богомола для чувств, вкусов и ощущений. Может быть разобрана на кальций.</entitydescription.shrimpantenna>
+  <entityname.shrimpclaw>Клешня богомола</entityname.shrimpclaw>
+  <entitydescription.shrimpclaw>Клешня богомола. Может быть разобрана на хитин, кальций и железо.</entitydescription.shrimpclaw>
+  <entityname.legacysharkfin>Плавник барракуды</entityname.legacysharkfin>
+  <entitydescription.legacysharkfin>Плавник барракуды. Он длинный и жёсткий, его конца могут быть опасны для прикосновений. Может быть разобран на углерод и кальций.</entitydescription.legacysharkfin>
+  <entityname.legacysharkjaw>Челюсть барракуды</entityname.legacysharkjaw>
+  <entitydescription.legacysharkjaw>Лучше не касаться этих зубов! Они всё ещё могут содержать яд. Может быть разобран на кальций, железо и инопланетную кровь.</entitydescription.legacysharkjaw>
+  <entityname.barracudaskin>Чешуя барракуды</entityname.barracudaskin>
+  <entitydescription.barracudaskin>Прекрасная бело-голубая чешуя барракуды. Высокий спрос у капитанов и администраторов станций. К сожалению, это скоро приведет к исчезновению этого вида.</entitydescription.barracudaskin>
+  <entityname.guardianparts>Детали фрактальной машины</entityname.guardianparts>
+  <entitydescription.guardianparts>Загадочные детали машины фрактального стража. Исследователи готовы заплатить много за них.</entitydescription.guardianparts>
+  <entityname.guardianspeargun>Фрактальный толкатель</entityname.guardianspeargun>
+  <entitydescription.guardianspeargun>Фрактальные стражи любят притягивать вторженцев с помощью этого устройства. Исследователи готовы заплатить много за него.</entitydescription.guardianspeargun>
+  <entityname.guardianlifesupport>Фрактальный датчик здоровья</entityname.guardianlifesupport>
+  <entitydescription.guardianlifesupport>Похоже на систему жизнеобеспечения уже мёртвого стража. Еще многое можно изучить у этих машин. Исследователи готовы заплатить много за это.</entitydescription.guardianlifesupport>
+  <entityname.guardianbrokensteamcannon>Фрактальное паровое орудие</entityname.guardianbrokensteamcannon>
+  <entitydescription.guardianbrokensteamcannon>Паровое орудие, которое фрактальные стражи используют против вторженцев. К сожалению, невозможно заставить его работать, так как непонятный механизм полностью отключает оружие после смерти его роботизированного пользователя. Исследователи готовы заплатить много за это.</entitydescription.guardianbrokensteamcannon>
+  <entityname.guardiandome>Купол фрактального стража</entityname.guardiandome>
+  <entitydescription.guardiandome>Сломанные куски стеклянного купола, в котором находился "мозг" фрактального стража. Исследователи купят его за дорого.</entitydescription.guardiandome>
+  <entityname.endwormtooth>Зуб червя конца</entityname.endwormtooth>
+  <entitydescription.endwormtooth>Один из многих острых клыков червя конца. Переноска этого предмета может быть очень опасной. Может быть разобран на титан, сталь, натрий и магний.</entitydescription.endwormtooth>
+  <entityname.bigpileofshit>Кал червя конца</entityname.bigpileofshit>
+  <entitydescription.bigpileofshit>Очень большое удобрение червя. Богатый навоз, который можно использовать как удобрение. Может быть разобран на углерод и калий.</entitydescription.bigpileofshit>
+  <entityname.matriarchheadarm>Плавник матриарха</entityname.matriarchheadarm>
+  <entitydescription.matriarchheadarm>Имеет более красный оттенок, чем другие Молотоглавы. Возможно, это альфа-особь? Может быть разобран на титан, кальций и железо.</entitydescription.matriarchheadarm>
+  <entityname.matriarchfin>Плавник матриарха</entityname.matriarchfin>
+  <entitydescription.matriarchfin>Имеет более красный оттенок, чем другие Молотоглавы и имеет больше делений, чем другие. Может быть разобран на железо, резину и алюминий.</entitydescription.matriarchfin>
+  <entityname.matriarcheye>Глаз матриарха</entityname.matriarcheye>
+  <entitydescription.matriarcheye>Глаз матриарха, его размер почти как у обеденного блюда. Может быть разобран на титан, кальций и железо.</entitydescription.matriarcheye>
+  <entityname.latchereye>Глаз блокиратора</entityname.latchereye>
+  <entitydescription.latchereye>Глаз блокиратора. Он бездушен и полый, а радужка кажется дрожащей. Может быть разобран на цинк, магний и кислородит.</entitydescription.latchereye>
+  <entityname.latcherfang>Клык блокиратора</entityname.latcherfang>
+  <entitydescription.latcherfang>Огромный клык блокиратора. Альтернативный способ укуса жертвы. Можно разобрать на титан, кальций и железо.</entitydescription.latcherfang>
+  <entityname.latcherhair>Шерсть блокиратора</entityname.latcherhair>
+  <entitydescription.latcherhair>Куски шерсти, взятые у блокиратора. Кажется, на ней есть какие-то отложения.</entitydescription.latcherhair>
+  <entityname.latchertooth>Шип блокиратора</entityname.latchertooth>
+  <entitydescription.latchertooth>Ужасающий шип блокиратора. Они имеют различные размеры, этот кажется длиннее остальных шипов и может использоваться как самодельное оружие.</entitydescription.latchertooth>
+  <entityname.psychosisartifact_xan>Артефакт психоза</entityname.psychosisartifact_xan>
+  <entityname.skyholder>Мини-небесный держатель</entityname.skyholder>
+  <entityname.electropulse>Электрический импульс</entityname.electropulse>
+  <entityname.coelanthspike>Шип коэлянта</entityname.coelanthspike>
+  <entitydescription.coelanthspike>Ядовитый шип, выстреливаемые Коэлянтом. Испускает опасные токсичные пары. Срочно избавьтесь от него!</entitydescription.coelanthspike>
+  <!-- Alien -->
+  <entityname.enforcerflamer>Огнемет фрактального палача</entityname.enforcerflamer>
+  <entitydescription.enforcerflamer>Выстреливает настолько горячим магическим огнём, что даже вода или отсутствие кислорода не могут его погасить.</entitydescription.enforcerflamer>
+  <entityname.immortalsmgmagazine>Магазин для инопланетного пистолета-пулемёта</entityname.immortalsmgmagazine>
+  <entitydescription.immortalsmgmagazine></entitydescription.immortalsmgmagazine>
+  <entityname.immortalsmg>Инопланетный пистолет-пулемёт</entityname.immortalsmg>
+  <entitydescription.immortalsmg></entitydescription.immortalsmg>
+  <entityname.immortalalienshotgun>Инопланетный дробовик</entityname.immortalalienshotgun>
+  <entitydescription.immortalalienshotgun></entitydescription.immortalalienshotgun>
+  <entityname.immortalalienshotgunshell>Патроны для инопланетного дробовика</entityname.immortalalienshotgunshell>
+  <entitydescription.immortalalienshotgunshell></entitydescription.immortalalienshotgunshell>
+  <entityname.immortslalienrevolverround>Патроны для инопланетного револьвера</entityname.immortslalienrevolverround>
+  <entitydescription.immortslalienrevolverround></entitydescription.immortslalienrevolverround>
+  <entityname.immortalalienrevolver>Инопланетный револьвер</entityname.immortalalienrevolver>
+  <entitydescription.immortalalienrevolver></entitydescription.immortalalienrevolver>
+  <entityname.immortalalienassaultrifle>Инопланетная автоматическая винтовка</entityname.immortalalienassaultrifle>
+  <entitydescription.immortalalienassaultrifle></entitydescription.immortalalienassaultrifle>
+  <entityname.immortalalienassaultriflemagazine>Магазин для инопланетной автоматической винтовки</entityname.immortalalienassaultriflemagazine>
+  <entitydescription.immortalalienassaultriflemagazine></entitydescription.immortalalienassaultriflemagazine>
+  <entityname.immortalalienassaultrifleround>Патроны для инопланетной автоматической винтовки</entityname.immortalalienassaultrifleround>
+  <entitydescription.immortalalienassaultrifleround></entitydescription.immortalalienassaultrifleround>
+  <!-- ballastinfectionitems.xml -->
+  <entityname.thalidomide>Талидомит</entityname.thalidomide>
+  <entitydescription.thalidomide>Талидомид - лекарство, используемое для лечения инфекции таламуса. Может вызывать врождённые пороки развития у новорождённых (Антидот от Талассемии).</entitydescription.thalidomide>
+  <!-- Clothes -->
+  <!-- mechanic_gear.xml -->
+  <entityname.bluejumpsuittied>Завязанный комбинезон механика</entityname.bluejumpsuittied>
+  <entitydescription.bluejumpsuittied></entitydescription.bluejumpsuittied>
+  <entityname.clowncostumesleeveless>Клоунский костюм без рукавов</entityname.clowncostumesleeveless>
+  <entitydescription.clowncostumesleeveless></entitydescription.clowncostumesleeveless>
+  <entityname.cultistmask>Странная маска</entityname.cultistmask>
+  <entitydescription.cultistmask></entitydescription.cultistmask>
+  <entityname.cultistcostume>Клоунский костюм с плащом</entityname.cultistcostume>
+  <entitydescription.cultistcostume>Носится блуждающими клоунами с клоунской силой. Выглядит стильно.</entitydescription.cultistcostume>
+  <entityname.harlequinsuit>Костюм арлекина</entityname.harlequinsuit>
+  <entitydescription.harlequinsuit>Носится блуждающими клоунами с клоунской силой. Вызывает странную ауру печали и наслаждения.</entitydescription.harlequinsuit>
+  <entityname.jestersuit>Костюм шута</entityname.jestersuit>
+  <entitydescription.jestersuit>Носится блуждающими клоунами с клоунской силой. Заставляет вас почувствовать себя ловким.</entitydescription.jestersuit>
+  <entityname.pierrotsuit>Костюм Пьеро</entityname.pierrotsuit>
+  <entitydescription.pierrotsuit>Носится блуждающими клоунами с Клоунской Силой. Делает вас слегка смешным.</entitydescription.pierrotsuit>
+  <entityname.mimemask>Маска мима</entityname.mimemask>
+  <entitydescription.mimemask></entitydescription.mimemask>
+  <entityname.raggedclownmask>Рваная маска клоуна</entityname.raggedclownmask>
+  <entitydescription.raggedclownmask></entitydescription.raggedclownmask>
+  <entityname.mimeoutfit>Костюм мима</entityname.mimeoutfit>
+  <entitydescription.mimeoutfit></entitydescription.mimeoutfit>
+  <entityname.Clown_divingsuit>Клоунский водолазный костюм</entityname.Clown_divingsuit>
+  <entitydescription.Clown_divingsuit>Выглядит так, будто какой-то маньяк приклеил к костюму нос, парик и раскрасил его в цвета клоуна... Критическая глубина (4000) м.</entitydescription.Clown_divingsuit>
+  <entityname.jovian_divingsuit>Сепаратистский водолазный скафандр</entityname.jovian_divingsuit>
+  <entitydescription.jovian_divingsuit>Переделанный обычный водолазный костюм, найденный на свалке. Критическая глубина (6000) м.</entitydescription.jovian_divingsuit>
+  <entityname.Heavyjovian_divingsuit>Тяжелый сепаратистский водолазный скафандр</entityname.Heavyjovian_divingsuit>
+  <entitydescription.Heavyjovian_divingsuit>Этот костюм массивный, ржавый и медленный... Но довольно прочный. Критическая глубина (10000) м.</entitydescription.Heavyjovian_divingsuit>
+  <entityname.assistantclotheshack>Рубашка помощника</entityname.assistantclotheshack>
+  <entitydescription.assistantclotheshack></entitydescription.assistantclotheshack>
+  <entityname.funnybag>Пластиковый мешок</entityname.funnybag>
+  <entitydescription.funnybag>Обычно находится в контейнерах или разбросан по подводной экосистеме. Используется для переноски мелких предметов, но иногда используется для других сомнительных целей.</entitydescription.funnybag>
+  <entityname.Skelly>Кости</entityname.Skelly>
+  <entitydescription.Skelly>С того момента, как я понял, что плоть слаба, меня это вводило в ярость.</entitydescription.Skelly>
+  <entityname.EW_ExosuitClowns>Экзокостюм клоунов</entityname.EW_ExosuitClowns>
+  <entitydescription.EW_ExosuitClowns>Странный экзокостюм, окрашенный в разные яркие цвета, очень грязный и потрепанный. Несмотря на своё состояние, он нормально функционирует, а большинство повреждений делают костюм легче для бега. Вмещает меньше предметов.</entitydescription.EW_ExosuitClowns>
+  <entityname.ProtoexosuitCLOWN>Прототип клоунского экзоскелета</entityname.ProtoexosuitCLOWN>
+  <!-- thalamusdivesuits.xml -->
+  <entityname.WreckedBeta_divingsuit>Повреждённый скафандр</entityname.WreckedBeta_divingsuit>
+  <entitydescription.WreckedBeta_divingsuit>Этот костюм повреждён и пропускает воздух, но всё ещё может быть использован. Критическая глубина (2000) м.</entitydescription.WreckedBeta_divingsuit>
+  <entityname.WreckedOutdated_divingsuit>Повреждённый скафандр</entityname.WreckedOutdated_divingsuit>
+  <entitydescription.WreckedOutdated_divingsuit>Этот костюм повреждён и пропускает воздух, но всё ещё может быть использован. Критическая глубина (2000) м.</entitydescription.WreckedOutdated_divingsuit>
+  <entityname.WreckedVOID_divingsuit>Повреждённый скафандр</entityname.WreckedVOID_divingsuit>
+  <entitydescription.WreckedVOID_divingsuit>Этот костюм довольно странный. Вы никогда не видели эту модель скафандра раньше. Он также настолько ржавый, что всё маркировки стёрты. Единственное, что вы смогли прочитать, была надпись на внутренней стороне: ПУСТОТА. Критическая глубина (2000) м.</entitydescription.WreckedVOID_divingsuit>
+  <entityname.Infected_divingsuit>Заражённый скафандр</entityname.Infected_divingsuit>
+  <entitydescription.Infected_divingsuit>Этот костюм, кажется, был заражен неким видом балластной флоры, которая производит кислород как побочный продукт, питаясь кровью. Крайне заразен для близлежащего персонала и предметов.</entitydescription.Infected_divingsuit>
+  <!-- Creatureegg -->
+  <entityname.fertilemediumcrawleregg>Плодородное яйцо ползуна</entityname.fertilemediumcrawleregg>
+  <entitydescription.fertilemediumcrawleregg></entitydescription.fertilemediumcrawleregg>
+  <entityname.fertilecrawleregg>Плодородное яйцо ползуна</entityname.fertilecrawleregg>
+  <entitydescription.fertilecrawleregg></entitydescription.fertilecrawleregg>
+  <entityname.fertiletigerthresheregg>Плодородное яйцо акульего тигра</entityname.fertiletigerthresheregg>
+  <entitydescription.fertiletigerthresheregg></entitydescription.fertiletigerthresheregg>
+  <entityname.fertilethresheregg>Плодородное яйцо акульего тигра</entityname.fertilethresheregg>
+  <entitydescription.fertilethresheregg></entitydescription.fertilethresheregg>
+  <entityname.fertilemediummudraptoregg>Плодородное яйцо грязевого раптора</entityname.fertilemediummudraptoregg>
+  <entitydescription.fertilemediummudraptoregg></entitydescription.fertilemediummudraptoregg>
+  <entityname.fertilemudraptoregg>Плодородное яйцо грязевого раптора</entityname.fertilemudraptoregg>
+  <entitydescription.fertilemudraptoregg></entitydescription.fertilemudraptoregg>
+  <!-- Food -->
+  <entityname.larowastecure>Противоядие от отходов</entityname.larowastecure>
+  <entitydescription.larowastecure>Экспериментальное лекарство от Отходов. Может вызвать серьезные побочные эффекты при непрофессиональном применении.</entitydescription.larowastecure>
+  <entityname.Statincure>Статин</entityname.Statincure>
+  <entitydescription.Statincure>Редкий соединительный элемент, который способен успокоить переполнение цитоксинов в кровотоке (Антидот от цитоксинового шторма).</entitydescription.Statincure>
+  <entityname.meatcleaver>Мясницкий тесак</entityname.meatcleaver>
+  <entitydescription.meatcleaver></entitydescription.meatcleaver>
+  <!-- Minerals -->
+  <entityname.wasteblood>Отходовая кровь</entityname.wasteblood>
+  <entitydescription.wasteblood>Неприятный зелёный яд, который может вызывать ожоги кислотой изнутри. Всё ещё опасен.</entitydescription.wasteblood>
+  <!-- Petitems -->
+  <entityname.VoidfishItem>Рыба Пустоты</entityname.VoidfishItem>
+  <entityname.GlowfishItem>Светящаяся рыба</entityname.GlowfishItem>
+  <entityname.WhitefishItem>Белая рыба</entityname.WhitefishItem>
+  <entityname.PirafishItem>Пира-рыба</entityname.PirafishItem>
+  <entityname.GoofyfishItem>Глупая рыба</entityname.GoofyfishItem>
+  <entityname.RedfishItem>Красная рыба</entityname.RedfishItem>
+  <entityname.doggy>Саня</entityname.doggy>
+  <entityname.fishbone>Костяная рыба</entityname.fishbone>
+  <entityname.fishoil>Рыбий жир</entityname.fishoil>
+  <entityname.fishscale>Рыбья чешуя</entityname.fishscale>
+  <entityname.sebum>Кожный жир</entityname.sebum>
+  <entityname.glowgland>Светящаяся железа</entityname.glowgland>
+  <entityname.thezoo>Клетка для рыб</entityname.thezoo>
+  <!-- Tools -->
+  <!-- clownitems.xml -->
+  <entityname.Sawcrazychainsaw>Безумная бензопила</entityname.Sawcrazychainsaw>
+  <entitydescription.Sawcrazychainsaw>Большая, ржавая электрическая бензопила, которая была неоднократно использована европейскими шахтерами. Её лезвия всё ещё острые, и она покрыта кровью. Какую пользу может принести этот инструмент?</entitydescription.Sawcrazychainsaw>
+  <entityname.trimmer>Таинственная бензопила</entityname.trimmer>
+  <entitydescription.trimmer>Странный инструмент, найденный в глубинах. Теперь он в правильных руках.</entitydescription.trimmer>
+  <entityname.clownsawcutter>Пила</entityname.clownsawcutter>
+  <entitydescription.clownsawcutter>Режет различные материалы с помощью кругового лезвия. Работает на батарейках.</entitydescription.clownsawcutter>
+  <!-- halloweenitems.xml -->
+  <entityname.Chainsawold>Ржавая бензопила</entityname.Chainsawold>
+  <entitydescription.Chainsawold>Большая, ржавая электрическая бензопила, которая была использована европейскими шахтерами. Её лезвие всё ещё острое, и на ней, кажется, кровь. Какую пользу может принести этот инструмент?</entitydescription.Chainsawold>
+  <entityname.blowtorch>Горелка</entityname.blowtorch>
+  <entitydescription.blowtorch></entitydescription.blowtorch>
+  <entityname.plasmaflamethrower>Плазменный огнемёт</entityname.plasmaflamethrower>
+  <entitydescription.plasmaflamethrower>Этот модифицированный плазменный резак имеет дополнительные электромагниты и мощный источник питания, чтобы запускать большие объёмы плазмы на приличное расстояние. Эти модификации настолько экстремальны, что могли быть выполнены только гением. Или безумцем.</entitydescription.plasmaflamethrower>
+  <entityname.drillsaw>Старый бур</entityname.drillsaw>
+  <entitydescription.drillsaw>Старый карьерный бур, починенный и превращённый в смертоносное самодельное оружие.</entitydescription.drillsaw>
+  <!-- huskitems.xml -->
+  <entityname.largefleshstinger>Большое мясное жало</entityname.largefleshstinger>
+  <entitydescription.largefleshstinger></entitydescription.largefleshstinger>
+  <entityname.endwormarmor>Нагрудный доспех червя конца</entityname.endwormarmor>
+  <entitydescription.endwormarmor></entitydescription.endwormarmor>
+  <entityname.endwormhelmet>Шлем червя конца</entityname.endwormhelmet>
+  <entitydescription.endwormhelmet></entitydescription.endwormhelmet>
+  <!-- pirateweapons.xml -->
+  <entityname.banditweldingbomb>Сварочная  баллон-бомба бандитов</entityname.banditweldingbomb>
+  <entitydescription.banditweldingbomb>Топливо для сварки с привязанным к нему факелом. Не для длительного использования. Используйте, пока она сама не взорвется.</entitydescription.banditweldingbomb>
+  <entityname.banditoxygentankbomb>Кислородная баллон-бомба бандитов</entityname.banditoxygentankbomb>
+  <entitydescription.banditoxygentankbomb>Кислородный баллон под высоким давлением, готовый заполнить врагов осколками. Классика сепаратистов.</entitydescription.banditoxygentankbomb>
+  <!-- tools.xml -->
+  <entityname.sawcutter>Пила</entityname.sawcutter>
+  <entitydescription.sawcutter>Режет различные материалы с помощью кругового лезвия. Работает на батарейках.</entitydescription.sawcutter>
+  <!-- Forgot to include -->
+  <entityname.cultistrobescool>Жертвенник культистов</entityname.cultistrobescool>
+  <entitydescription.cultistrobescool></entitydescription.cultistrobescool>
+  <entityname.brokengenesplicer>Сломанный генетический сплайсер</entityname.brokengenesplicer>
+  <entitydescription.brokengenesplicer>Сломанный генетический сплайсер. Может быть разобран или продан торговцам.</entitydescription.brokengenesplicer>
+  <!-- AFFLICTIONS -->
+  <afflictionname.cytokine>Цитоксиновый шторм</afflictionname.cytokine>
+  <afflictiondescription.cytokine>Пациент испытывает затруднение с дыханием и частую рвоту.</afflictiondescription.cytokine>
+  <afflictionname.fractalarmed>Вооружён</afflictionname.fractalarmed>
+  <afflictiondescription.fractalarmed>Этот страж имеет оружие и не боится использовать его!</afflictiondescription.fractalarmed>
+  <afflictionname.xanhuskhunterstorage>Хранилище</afflictionname.xanhuskhunterstorage>
+  <afflictiondescription.xanhuskhunterstorage>Монстр носит с собой некоторые вещи!</afflictiondescription.xanhuskhunterstorage>
+  <afflictionname.xanhuskhunterextrastorage>Дополнительное Хранилище</afflictionname.xanhuskhunterextrastorage>
+  <afflictiondescription.xanhuskhunterextrastorage>Монстр клонирует свои боеприпасы!</afflictiondescription.xanhuskhunterextrastorage>
+  <afflictionname.humanarmed>Вооружен</afflictionname.humanarmed>
+  <afflictiondescription.humanarmed>Вооружение людей оружием.</afflictiondescription.humanarmed>
+  <afflictionname.pirateinside>Крутая музыка</afflictionname.pirateinside>
+  <afflictiondescription.pirateinside>Пират вошёл в подводную лодку.</afflictiondescription.pirateinside>
+  <afflictionname.bossbattle1>Крутая музыка</afflictionname.bossbattle1>
+  <afflictiondescription.bossbattle1>Случайная музыка босса.</afflictiondescription.bossbattle1>
+  <!-- OtherCAfflictions.xml -->
+  <afflictionname.floraspores>Споры растений</afflictionname.floraspores>
+  <afflictiondescription.floraspores>Вы видите, как зеленые споры плавают вокруг вас.</afflictiondescription.floraspores>
+  <afflictionname.florainfection>Талассемия</afflictionname.florainfection>
+  <afflictiondescription.florainfection>Пациент жалуется на боль в груди и затруднённое дыхание. Горло бледно-зелёного цвета, вокруг миндалин появляются маленькие отверстия.</afflictiondescription.florainfection>
+  <causeofdeath.florainfection>Талассемия</causeofdeath.florainfection>
+  <causeofdeathdescription.florainfection>Талассемия</causeofdeathdescription.florainfection>
+  <self_causeofdeathdescription.florainfection>Вы задохнулись, так как растение начало расти в ваших лёгких.</self_causeofdeathdescription.florainfection>
+  <afflictionname.infectedsuitinfection>Инфицированный костюм</afflictionname.infectedsuitinfection>
+  <afflictiondescription.infectedsuitinfection>Пациент заперся в инфицированном костюме и растворился изнутри.</afflictiondescription.infectedsuitinfection>
+  <causeofdeath.infectedsuitinfection>Инфицированный костюм</causeofdeath.infectedsuitinfection>
+  <causeofdeathdescription.infectedsuitinfection>Талассемия</causeofdeathdescription.infectedsuitinfection>
+  <self_causeofdeathdescription.infectedsuitinfection>Вы заперлись в костюме и растворились.</self_causeofdeathdescription.infectedsuitinfection>
+  <afflictionname.floraresistance>Устойчивость к растениям</afflictionname.floraresistance>
+  <afflictiondescription.floraresistance>Растения, прочь.</afflictiondescription.floraresistance>
+  <afflictionname.wastespores>Отходные споры</afflictionname.wastespores>
+  <afflictiondescription.wastespores>Вы видите, как жёлтые споры плавают вокруг вас, издавая зловонный запах.</afflictiondescription.wastespores>
+  <afflictionname.wasteinfection>Инфекция отходов</afflictionname.wasteinfection>
+  <afflictiondescription.wasteinfection>Пациент жалуется на зуд и ощущение внутреннего жжения. Кожа бледно-зелёного цвета.</afflictiondescription.wasteinfection>
+  <causeofdeath.wasteinfection>Расплавлен от отходной инфекцией</causeofdeath.wasteinfection>
+  <causeofdeathdescription.wasteinfection>Расплавлен отходной инфекцией</causeofdeathdescription.wasteinfection>
+  <self_causeofdeathdescription.wasteinfection>Ваше тело расплавлено от отходной инфекции</self_causeofdeathdescription.wasteinfection>
+  <afflictionname.wasteresistance>Сопротивление отходной инфекции</afflictionname.wasteresistance>
+  <afflictiondescription.wasteresistance>Инфекции отходов скажем нет.</afflictiondescription.wasteresistance>
+  <afflictionname.spooky1>Таинственный сигнал</afflictionname.spooky1>
+  <afflictiondescription.spooky1>Вы начинаете слышать странные крики в наушниках, возможно, рядом находится наблюдатель, который испускает эти звуки?</afflictiondescription.spooky1>
+  <afflictionname.shocker>Отражение</afflictionname.shocker>
+  <afflictiondescription.shocker></afflictiondescription.shocker>
+  <afflictionname.tapeworminfection>Инфекция ленточными червями</afflictionname.tapeworminfection>
+  <afflictiondescription.tapeworminfection>В животе пациента образовалась выпуклость, которая движется, словно что-то живое...</afflictiondescription.tapeworminfection>
+  <afflictionname.bossbattle2>Крутая музыка</afflictionname.bossbattle2>
+  <afflictiondescription.bossbattle2>Случайная боевая музыка.</afflictiondescription.bossbattle2>
+  <!-- SurvAfflictions.xml -->
+  <afflictionname.fish>Рыба</afflictionname.fish>
+  <afflictiondescription.fish>Рыбные Макбайты, Макбайты (Олег, я не знаю как это переводить).</afflictiondescription.fish>
+  <afflictionname.tryposluginfestation>Заражение ленточными червями</afflictionname.tryposluginfestation>
+  <afflictiondescription.tryposluginfestation>Заражение паразитами, которые быстро размножаются внутри кожи.</afflictiondescription.tryposluginfestation>
+  <!-- XANAfflictions.xml -->
+  <afflictionname.observersgaze>Вмешательство наблюдателя</afflictionname.observersgaze>
+  <afflictiondescription.observersgaze>Ваша гарнитура издает неизвестные звуки, вызывающие давление внутри черепа. У вас внезапно возникает желание снять гарнитуру.</afflictiondescription.observersgaze>
+  <afflictionname.morbusinegas>Морбузиновый газ</afflictionname.morbusinegas>
+  <afflictiondescription.morbusinegas>Пациент окружен морбузиновым газом.</afflictiondescription.morbusinegas>
+  <afflictionname.xanwatcherhuskbroadcast>Трансляция хаска-наблюдателя</afflictionname.xanwatcherhuskbroadcast>
+  <afflictiondescription.xanwatcherhuskbroadcast>Крик хаска-наблюдателя встряхивает вас до мозга и костей...</afflictiondescription.xanwatcherhuskbroadcast>
+  <!-- MISSIONS -->
+  <!-- EMMissions.xml -->
+  <missionname.surprisefractal>Извлечение артефакта</missionname.surprisefractal>
+  <missiondescription.surprisefractal>Исследователи [location1] обнаружили инфразвуковой сигнал, сильно похожий на те, что излучаются ранее обнаруженными на Европе инопланетными артефактами. Изучите сигнал и извлеките потенциальный артефакт.</missiondescription.surprisefractal>
+  <missionsonarlabel.surprisefractal>Инфразвуковой сигнал</missionsonarlabel.surprisefractal>
+  <missionsuccess.surprisefractal>Оказалось, что сигнал излучался массивным артефактом. Исследователи [location1] согласились выплатить вам вознаграждение, несмотря на то, что вы избавились от проблемы.</missionsuccess.surprisefractal>
+  <missionfailure.surprisefractal>Миссия провалена.</missionfailure.surprisefractal>
+  <!-- По идее, заменяет слудющие айди: beaconbtem6; beaconbtem7; beaconbtem8; beaconbtem10; beaconbttroll; beaconbtnc1; beaconbtnc2; beaconbtnc3; beaconbtss3; beaconbtss4; beaconbtss5; beaconbtss9;  beaconbtunder-->
+  <!-- <missionname.beaconmission>Активация маяка</missionname.beaconmission>
+    <missiondescription.beaconmission>Маяк между [location1] и [location2] вышел из строя - проникните туда, восстановите его работоспособность и включите активный сонар.</missiondescription.beaconmission>
+    <missionsuccess.beaconmission>Маяк снова работает. Убедитесь, что она продолжает передавать сигнал, и направляйте подводную лодку в [location2], чтобы получить вознаграждение.</missionsuccess.beaconmission>
+    <missionfailure.beaconmission>Миссия провалена.</missionfailure.beaconmission>
+    <missionheader0.beaconmission>Маяк вновь активирован</missionheader0.beaconmission>
+    <missionmessage0.beaconmission>Станция маяка вновь работает. Убедитесь, что она продолжает передавать сигнал, и направляйте подводную лодку в [location2], чтобы получить вознаграждение.</missionmessage0.beaconmission> -->
+  <missionname.killthalamuscarrier>Уничтожение заражённой подлодки</missionname.killthalamuscarrier>
+  <missiondescription.killthalamuscarrier>Разведчики сообщили о большом Затонувшем Перевозчике, который был захвачен растениями. Он всё ещё движется в районе между [location1] и [location2], власти предлагают награду в размере [reward] любому экипажу, который уничтожит мобильный таламус. Однако имейте в виду, что у него есть крюк на передней стороне и он должен быть исследован осторожно.</missiondescription.killthalamuscarrier>
+  <missionsonarlabel.killthalamuscarrier>Таламус</missionsonarlabel.killthalamuscarrier>
+  <missionsuccess.killthalamuscarrier>Корабль был уничтожен.</missionsuccess.killthalamuscarrier>
+  <missionfailure.killthalamuscarrier>Миссия провалена.</missionfailure.killthalamuscarrier>
+  <missionheader0.killthalamuscarrier>Цель уничтожена</missionheader0.killthalamuscarrier>
+  <missionmessage0.killthalamuscarrier>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killthalamuscarrier>
+  <missionname.killshadowwhales>Уничтожение большого косяка теневых китов</missionname.killshadowwhales>
+  <missiondescription.killshadowwhales>Разведчики сообщили о большом косяке Теневых Китов, блуждающем в районе между [location1] и [location2]. Эти Киты невидимы на сонаре и могут представлять большую угрозу для плохо подготовленных кораблей. Власти предлагают награду в размере [reward] любому экипажу, который уничтожит этот косяк.</missiondescription.killshadowwhales>
+  <missionsonarlabel.killshadowwhales>Последнее местоположение</missionsonarlabel.killshadowwhales>
+  <missionsuccess.killshadowwhales>Косяк уничтожен.</missionsuccess.killshadowwhales>
+  <missionfailure.killshadowwhales>Миссия провалена.</missionfailure.killshadowwhales>
+  <missionheader0.killshadowwhales>Цель уничтожена</missionheader0.killshadowwhales>
+  <missionmessage0.killshadowwhales>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killshadowwhales>
+  <!-- По идее, заменяет слудющие айди:huntinggroundsnoreward3; huntinggroundsnoreward5; huntinggroundsnoreward4; huntinggroundsnoreward6; underhuntinggroundsnoreward1; underhuntinggroundsnoreward2 -->
+  <!-- <missionname.huntinggrounds>Охотничьи угодья</missionname.huntinggrounds>
+    <missiondescription.huntinggrounds>Текст не определен</missiondescription.huntinggrounds>
+    <missionsonarlabel.huntinggrounds>Цель</missionsonarlabel.huntinggrounds>
+    <missionsuccess.huntinggrounds>Текст не определен</missionsuccess.huntinggrounds>
+    <missionfailure.huntinggrounds>Миссия провалена.</missionfailure.huntinggrounds>
+    <missionheader0.huntinggrounds>Цель уничтожена</missionheader0.huntinggrounds>
+    <missionmessage0.huntinggrounds>Чудовище мёртво. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.huntinggrounds> -->
+  <missionname.killvoidleviathan>Чудище из Бездны</missionname.killvoidleviathan>
+  <missiondescription.killvoidleviathan>Сейсмические данные указывают на то, что что-то колоссальное появилось из глубин Европы в проходе между [location1] и [location2]. Все транспортные перевозки через этот путь отменены на данный момент и обещана награда в размере [reward] тем, кто избавится от причины сейсмической активности.</missiondescription.killvoidleviathan>
+  <missionsonarlabel.killvoidleviathan>Сейсмическая активность</missionsonarlabel.killvoidleviathan>
+  <missionsuccess.killvoidleviathan>Левиафан мёртв и проход снова открыт для транспорта.</missionsuccess.killvoidleviathan>
+  <missionfailure.killvoidleviathan>Миссия провалена.</missionfailure.killvoidleviathan>
+  <missionheader0.killvoidleviathan>Цель уничтожена</missionheader0.killvoidleviathan>
+  <missionmessage0.killvoidleviathan>Чудовище мёртво. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killvoidleviathan>
+  <missionname.twins>Близнецы</missionname.twins>
+  <missiondescription.twins>Неделю назад, дайверы обнаружили руины между [location1] и [location2]. Когда они были внутри, один из дайверов записал, что он запустил какой-то механизм, и все руины затряслись. Сонар субмарины зафиксировал огромную волну помех, и все их электронные устройства вышли из строя. При дальнейшем исследовании ученые на базе поняли, что большой уровень помех всё ещё наблюдается на пути между [location1] и [location2]. Учёные предлагают [reward] всем, кто готов исследовать причину.</missiondescription.twins>
+  <missionsonarlabel.twins>Зона помех</missionsonarlabel.twins>
+  <missionsuccess.twins>Причиной огромного сонического нарушения были на самом деле два роботизированных Фрактальных Уничтожителя. Учёные очень рады услышать о вашей встрече с ними.</missionsuccess.twins>
+  <missionfailure.twins>Миссия провалена.</missionfailure.twins>
+  <missionheader0.twins>Цель уничтожена</missionheader0.twins>
+  <missionmessage0.twins>Монстр мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.twins>
+  <!-- HuskMissions.xml -->
+  <missionname.killthresherhuskswarm1>Уничтожения роя акульих тигров</missionname.killthresherhuskswarm1>
+  <missiondescription.killthresherhuskswarm1>Рой акульих тигров терроризирует суда, путешествующие между [location1] и [location2]. За его уничтожение обещают вознаграждение в размере [reward] кредитов.</missiondescription.killthresherhuskswarm1>
+  <missionsonarlabel.killthresherhuskswarm1>Рой акульих тигров</missionsonarlabel.killthresherhuskswarm1>
+  <missionsuccess.killthresherhuskswarm1>Рой уничтожен.</missionsuccess.killthresherhuskswarm1>
+  <missionfailure.killthresherhuskswarm1>Миссия провалена.</missionfailure.killthresherhuskswarm1>
+  <missionheader0.killthresherhuskswarm1>Цель уничтожена</missionheader0.killthresherhuskswarm1>
+  <missionmessage0.killthresherhuskswarm1>Рой акульих тигров уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killthresherhuskswarm1>
+  <missionname.killthresherhuskswarmhuskground1>Уничтожение роя акульих тигров</missionname.killthresherhuskswarmhuskground1>
+  <missiondescription.killthresherhuskswarmhuskground1>Рой акульих тигров терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана любому экипажу, который сможет его уничтожить.</missiondescription.killthresherhuskswarmhuskground1>
+  <missionsonarlabel.killthresherhuskswarmhuskground1>Рой акульих тигров</missionsonarlabel.killthresherhuskswarmhuskground1>
+  <missionsuccess.killthresherhuskswarmhuskground1>Рой уничтожен.</missionsuccess.killthresherhuskswarmhuskground1>
+  <missionfailure.killthresherhuskswarmhuskground1>Миссия провалена.</missionfailure.killthresherhuskswarmhuskground1>
+  <missionheader0.killthresherhuskswarmhuskground1>Цель уничтожена</missionheader0.killthresherhuskswarmhuskground1>
+  <missionmessage0.killthresherhuskswarmhuskground1>Рой акульих тигров уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killthresherhuskswarmhuskground1>
+  <missionname.killhuskmoloch>Убийство молоха-хаска</missionname.killhuskmoloch>
+  <missiondescription.killhuskmoloch>Странный Молох терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана тем, кто убьёт существо.</missiondescription.killhuskmoloch>
+  <missionsonarlabel.killhuskmoloch>Молох</missionsonarlabel.killhuskmoloch>
+  <missionsuccess.killhuskmoloch>Странный Молох был убит.</missionsuccess.killhuskmoloch>
+  <missionfailure.killhuskmoloch>Миссия провалена.</missionfailure.killhuskmoloch>
+  <missionheader0.killhuskmoloch>Цель уничтожена</missionheader0.killhuskmoloch>
+  <missionmessage0.killhuskmoloch>Странный Молох убит. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskmoloch>
+  <missionname.killhuskmolochhuskground1>Уничтожение молоха-хаска</missionname.killhuskmolochhuskground1>
+  <missiondescription.killhuskmolochhuskground1>Странный Молох терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана тем, кто убьёт создание.</missiondescription.killhuskmolochhuskground1>
+  <missionsonarlabel.killhuskmolochhuskground1>Молох-Хаск</missionsonarlabel.killhuskmolochhuskground1>
+  <missionsuccess.killhuskmolochhuskground1>Странный Молох-Хаск убит.</missionsuccess.killhuskmolochhuskground1>
+  <missionfailure.killhuskmolochhuskground1>Миссия провалена.</missionfailure.killhuskmolochhuskground1>
+  <missionheader0.killhuskmolochhuskground1>Цель уничтожена</missionheader0.killhuskmolochhuskground1>
+  <missionmessage0.killhuskmolochhuskground1>Странный Молох-Хаск мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskmolochhuskground1>
+  <missionname.killhuskhammerhead>Уничтожение молотоглава-хаска</missionname.killhuskhammerhead>
+  <missiondescription.killhuskhammerhead>Странный молотоглав терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана тем, кто убьёт создание.</missiondescription.killhuskhammerhead>
+  <missionsonarlabel.killhuskhammerhead>Молотоглав-хаск</missionsonarlabel.killhuskhammerhead>
+  <missionsuccess.killhuskhammerhead>Молотоглав-хаск убит.</missionsuccess.killhuskhammerhead>
+  <missionfailure.killhuskhammerhead>Миссия провалена.</missionfailure.killhuskhammerhead>
+  <missionheader0.killhuskhammerhead>Цель уничтожена</missionheader0.killhuskhammerhead>
+  <missionmessage0.killhuskhammerhead>Странный Молотоглав мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskhammerhead>
+  <missionname.killhuskgoldhammerhead>Уничтожение золотого молотоглава хаска</missionname.killhuskgoldhammerhead>
+  <missiondescription.killhuskgoldhammerhead>Странный Золотой молотоглав терроризирует суда, путешествующие между [location1] и [location2]. Награда [reward] кредитов обещана тем, кто убьёт это существо.</missiondescription.killhuskgoldhammerhead>
+  <missionsonarlabel.killhuskgoldhammerhead>Золотой молотоглав хаск</missionsonarlabel.killhuskgoldhammerhead>
+  <missionsuccess.killhuskgoldhammerhead>Странное существо Золотой молотоглав Хаск убито.</missionsuccess.killhuskgoldhammerhead>
+  <missionfailure.killhuskgoldhammerhead>Миссия провалена.</missionfailure.killhuskgoldhammerhead>
+  <missionheader0.killhuskgoldhammerhead>Цель уничтожена</missionheader0.killhuskgoldhammerhead>
+  <missionmessage0.killhuskgoldhammerhead>Золотой молотоглав Хаск уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskgoldhammerhead>
+  <missionname.killhuskmatriarch1>Уничтожение матриарха хасков</missionname.killhuskmatriarch1>
+  <missiondescription.killhuskmatriarch1>В районе [location1] и [location2] замечена странная матриарх молотоглавов. Власти обещают [reward] кредитов тем, кто уничтожит матриарха и его приспешников.</missiondescription.killhuskmatriarch1>
+  <missionsonarlabel.killhuskmatriarch1>Матриарх хасков</missionsonarlabel.killhuskmatriarch1>
+  <missionsuccess.killhuskmatriarch1>Матриарх хасков молотоглавов и его приспешники уничтожены.</missionsuccess.killhuskmatriarch1>
+  <missionfailure.killhuskmatriarch1>Миссия провалена.</missionfailure.killhuskmatriarch1>
+  <missionheader0.killhuskmatriarch1>Цель уничтожена</missionheader0.killhuskmatriarch1>
+  <missionmessage0.killhuskmatriarch1>Матриарх хасков уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskmatriarch1>
+  <missionname.killhuskmatriarchhuskgrounds1>Убить матриарха хасков</missionname.killhuskmatriarchhuskgrounds1>
+  <missiondescription.killhuskmatriarchhuskgrounds1>Близлежащие суда сообщают о странном матриархе молотоглавов, находящемся между [location1] и [location2]. Власти обещают вознаграждение в размере [reward] кредитов тому, кто устранит матриарха и его приспешников.</missiondescription.killhuskmatriarchhuskgrounds1>
+  <missionsonarlabel.killhuskmatriarchhuskgrounds1>Молотоглав матриарх</missionsonarlabel.killhuskmatriarchhuskgrounds1>
+  <missionsuccess.killhuskmatriarchhuskgrounds1>Молотоглав матриарх и его приспешники уничтожены.</missionsuccess.killhuskmatriarchhuskgrounds1>
+  <missionfailure.killhuskmatriarchhuskgrounds1>Миссия провалена.</missionfailure.killhuskmatriarchhuskgrounds1>
+  <missionheader0.killhuskmatriarchhuskgrounds1>Цель уничтожена</missionheader0.killhuskmatriarchhuskgrounds1>
+  <missionmessage0.killhuskmatriarchhuskgrounds1>Матриарх Хасков уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskmatriarchhuskgrounds1>
+  <missionname.killcrawlerhuskswarm1>Уничтожить стаю хасковых ползунов</missionname.killcrawlerhuskswarm1>
+  <missiondescription.killcrawlerhuskswarm1>Стая странных ползунов терроризирует суда, путешествующие между [location1] и [location2]. Вознаграждение в размере [reward] кредитов обещано любому экипажу, который сможет уничтожить их.</missiondescription.killcrawlerhuskswarm1>
+  <missionsonarlabel.killcrawlerhuskswarm1>Стая ползунов</missionsonarlabel.killcrawlerhuskswarm1>
+  <missionsuccess.killcrawlerhuskswarm1>Стая уничтожена.</missionsuccess.killcrawlerhuskswarm1>
+  <missionfailure.killcrawlerhuskswarm1>Миссия провалена.</missionfailure.killcrawlerhuskswarm1>
+  <missionheader0.killcrawlerhuskswarm1>Цель уничтожена</missionheader0.killcrawlerhuskswarm1>
+  <missionmessage0.killcrawlerhuskswarm1>Стая ползунов-хасков уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killcrawlerhuskswarm1>
+  <missionname.killcrawlerhuskswarmhuskgrounds1>Уничтожить стаю ползунов-хасков</missionname.killcrawlerhuskswarmhuskgrounds1>
+  <missiondescription.killcrawlerhuskswarmhuskgrounds1>Стая ползунов-хасков терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана любой команде, которая сможет ее уничтожить.</missiondescription.killcrawlerhuskswarmhuskgrounds1>
+  <missionsonarlabel.killcrawlerhuskswarmhuskgrounds1>Стая ползунов-хасков</missionsonarlabel.killcrawlerhuskswarmhuskgrounds1>
+  <missionsuccess.killcrawlerhuskswarmhuskgrounds1>Стая уничтожена.</missionsuccess.killcrawlerhuskswarmhuskgrounds1>
+  <missionfailure.killcrawlerhuskswarmhuskgrounds1>Миссия провалена.</missionfailure.killcrawlerhuskswarmhuskgrounds1>
+  <missionheader0.killcrawlerhuskswarmhuskgrounds1>Цель уничтожена</missionheader0.killcrawlerhuskswarmhuskgrounds1>
+  <missionmessage0.killcrawlerhuskswarmhuskgrounds1>Стая ползунов-хасков уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killcrawlerhuskswarmhuskgrounds1>
+  <missionname.killmudraptorhuskswarm1>Уничтожить стаю грязевых рапторов-хасков</missionname.killmudraptorhuskswarm1>
+  <missiondescription.killmudraptorhuskswarm1>Стая странных грязевых рапторов терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана любой команде, которая сможет ее уничтожить.</missiondescription.killmudraptorhuskswarm1>
+  <missionsonarlabel.killmudraptorhuskswarm1>Стая грязевых рапторов</missionsonarlabel.killmudraptorhuskswarm1>
+  <missionsuccess.killmudraptorhuskswarm1>Стая уничтожена.</missionsuccess.killmudraptorhuskswarm1>
+  <missionfailure.killmudraptorhuskswarm1>Миссия провалена.</missionfailure.killmudraptorhuskswarm1>
+  <missionheader0.killmudraptorhuskswarm1>Цель уничтожена</missionheader0.killmudraptorhuskswarm1>
+  <missionmessage0.killmudraptorhuskswarm1>Стая грязевых рапторов уничтожена. Направьте подводную лодку из пещеры, чтобы получить вознаграждение.</missionmessage0.killmudraptorhuskswarm1>
+  <missionname.killmudraptorhuskswarmhuskgrounds1>Уничтожить стаю грязевых рапторов-хасков</missionname.killmudraptorhuskswarmhuskgrounds1>
+  <missiondescription.killmudraptorhuskswarmhuskgrounds1>Стая странных грязевых рапторов терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана любой команде, которая сможет ее уничтожить.</missiondescription.killmudraptorhuskswarmhuskgrounds1>
+  <missionsonarlabel.killmudraptorhuskswarmhuskgrounds1>Стая грязевых рапторов</missionsonarlabel.killmudraptorhuskswarmhuskgrounds1>
+  <missionsuccess.killmudraptorhuskswarmhuskgrounds1>Стая уничтожена.</missionsuccess.killmudraptorhuskswarmhuskgrounds1>
+  <missionfailure.killmudraptorhuskswarmhuskgrounds1>Миссия провалена.</missionfailure.killmudraptorhuskswarmhuskgrounds1>
+  <missionheader0.killmudraptorhuskswarmhuskgrounds1>Цель уничтожена</missionheader0.killmudraptorhuskswarmhuskgrounds1>
+  <missionmessage0.killmudraptorhuskswarmhuskgrounds1>Стая грязевых рапторов уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmudraptorhuskswarmhuskgrounds1>
+  <missionname.killhumanhuskswarm1>Расследование таинственного бедствия.</missionname.killhumanhuskswarm1>
+  <missiondescription.killhumanhuskswarm1>Несколько недель назад власти потеряли связь с подводной лодкой, но теперь появился сигнал бедствия в месте, где лодка была последний раз замечена. А именно в районе между [location1] и [location2]. Власти обещают награду в размере [reward] за любую информацию о сигнале.</missiondescription.killhumanhuskswarm1>
+  <missionsonarlabel.killhumanhuskswarm1>Сигнал бедствия</missionsonarlabel.killhumanhuskswarm1>
+  <missionsuccess.killhumanhuskswarm1>Сигнал был обнаружен и исследован.</missionsuccess.killhumanhuskswarm1>
+  <missionfailure.killhumanhuskswarm1>Миссия провалена.</missionfailure.killhumanhuskswarm1>
+  <missionheader0.killhumanhuskswarm1>Цель исследована</missionheader0.killhumanhuskswarm1>
+  <missionmessage0.killhumanhuskswarm1>Сигнал бедствия был исследован. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhumanhuskswarm1>
+  <missionname.rescueminer>Спасение застрявших шахтёров</missionname.rescueminer>
+  <missiondescription.rescueminer>Экипаж подводной лодки потерял связь с группой шахтёров, работающих в пещере день назад. Их судно повреждено, и, внезапно, маяк их группы был активирован, хоть судно команды неисправно и не может двигаться. Мы обещаем награду в размере [reward] кредитов тому, кто сможет спасти их из пещеры.</missiondescription.rescueminer>
+  <missionsonarlabel.rescueminer>Маяк бедствия</missionsonarlabel.rescueminer>
+  <missionsuccess.rescueminer>Шахтёры были вынуждены покинуть шахту. Вы сообщаете об этом капитану их судна, и они решают наградить вас несмотря на потерю.</missionsuccess.rescueminer>
+  <missionfailure.rescueminer>Миссия провалена.</missionfailure.rescueminer>
+  <missionheader0.rescueminer>Группа шахтёров найдена</missionheader0.rescueminer>
+  <missionmessage0.rescueminer>Похоже, что группа шахтёров была атакована и превращена в хасков. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.rescueminer>
+  <missionname.rescueminer2>Спасение застрявших шахтёров</missionname.rescueminer2>
+  <missiondescription.rescueminer2>Экипаж подводной лодки потерял связь с группой шахтёров, работающих в пещере день назад. Их судно повреждено, и, внезапно, маяк их группы был активирован, хоть судно команды неисправно и не может двигаться. Мы обещаем награду в размере [reward] кредитов тому, кто сможет спасти их из пещеры.</missiondescription.rescueminer2>
+  <missionsonarlabel.rescueminer2>Маяк бедствия</missionsonarlabel.rescueminer2>
+  <missionsuccess.rescueminer2>Шахтёры были вынуждены покинуть шахту.</missionsuccess.rescueminer2>
+  <missionfailure.rescueminer2>Миссия провалена.</missionfailure.rescueminer2>
+  <missionheader0.rescueminer2>Группа шахтёров найдена</missionheader0.rescueminer2>
+  <missionmessage0.rescueminer2>Похоже, что группа шахтёров была атакована и превращена в хасков. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.rescueminer2>
+  <missionname.killhumanhuskswarmhuskgrounds1>Расследование таинственного сигнала бедствия</missionname.killhumanhuskswarmhuskgrounds1>
+  <missiondescription.killhumanhuskswarmhuskgrounds1>Власти потеряли связь с подводной лодкой несколько недель назад, но теперь поступил сигнал SOS, который был зарегистрирован там, где подводная лодка была последний раз замечена. А именно в районе между [location1] и [location2]. Власти обещают награду в размере [reward] кредитов тому, кто расследует сигнал.</missiondescription.killhumanhuskswarmhuskgrounds1>
+  <missionsonarlabel.killhumanhuskswarmhuskgrounds1>Сигнал бедствия</missionsonarlabel.killhumanhuskswarmhuskgrounds1>
+  <missionsuccess.killhumanhuskswarmhuskgrounds1>Рой был уничтожен.</missionsuccess.killhumanhuskswarmhuskgrounds1>
+  <missionfailure.killhumanhuskswarmhuskgrounds1>Миссия провалена.</missionfailure.killhumanhuskswarmhuskgrounds1>
+  <missionheader0.killhumanhuskswarmhuskgrounds1>Цель уничтожена</missionheader0.killhumanhuskswarmhuskgrounds1>
+  <missionmessage0.killhumanhuskswarmhuskgrounds1>Рой хасков уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhumanhuskswarmhuskgrounds1>
+  <missionname.killhuskwatcher>Уничтожение хаска наблюдателя</missionname.killhuskwatcher>
+  <missiondescription.killhuskwatcher>Странный наблюдатель терроризирует суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана тем, кто убьёт существо.</missiondescription.killhuskwatcher>
+  <missionsonarlabel.killhuskwatcher>Наблюдатель</missionsonarlabel.killhuskwatcher>
+  <missionsuccess.killhuskwatcher>Наблюдатель был убит.</missionsuccess.killhuskwatcher>
+  <missionfailure.killhuskwatcher>Миссия провалена.</missionfailure.killhuskwatcher>
+  <missionheader0.killhuskwatcher>Цель уничтожена</missionheader0.killhuskwatcher>
+  <missionmessage0.killhuskwatcher>Наблюдатель мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskwatcher>
+  <missionname.killhuskcharybdis>Исследование сейсмической активности</missionname.killhuskcharybdis>
+  <missiondescription.killhuskcharybdis>Ученые сообщают о сейсмической активности в районе между [location1] и [location2]. Фауна вокруг этой области внезапно разбежалась, и ученые считают, что в районе находится что-то огромное. Коммерческие рейсы были приостановлены, и власти предлагают [reward] тем, кто проведет исследование сейсмической активности.</missiondescription.killhuskcharybdis>
+  <missionsonarlabel.killhuskcharybdis>Сейсмическая активность</missionsonarlabel.killhuskcharybdis>
+  <missionsuccess.killhuskcharybdis>Хаск-харибда убит.</missionsuccess.killhuskcharybdis>
+  <missionfailure.killhuskcharybdis>Миссия провалена.</missionfailure.killhuskcharybdis>
+  <missionheader0.killhuskcharybdis>Цель уничтожена</missionheader0.killhuskcharybdis>
+  <missionmessage0.killhuskcharybdis>Хаск-харибда мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskcharybdis>
+  <missionname.killhuskcharybdis2>Исследование сейсмической активности</missionname.killhuskcharybdis2>
+  <missiondescription.killhuskcharybdis2>Ученые сообщают о сейсмической активности в районе между [location1] и [location2]. Фауна вокруг этой области внезапно разбежалась, и ученые считают, что в районе находится что-то огромное. Коммерческие рейсы были приостановлены, и власти предлагают [reward] тем, кто проведет исследование сейсмической активности.</missiondescription.killhuskcharybdis2>
+  <missionsonarlabel.killhuskcharybdis2>Сейсмическая активность</missionsonarlabel.killhuskcharybdis2>
+  <missionsuccess.killhuskcharybdis2>Хаск-харибда убит.</missionsuccess.killhuskcharybdis2>
+  <missionfailure.killhuskcharybdis2>Миссия провалена.</missionfailure.killhuskcharybdis2>
+  <missionheader0.killhuskcharybdis2>Цель уничтожена</missionheader0.killhuskcharybdis2>
+  <missionmessage0.killhuskcharybdis2>Хаск-харибда мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskcharybdis2>
+  <missionname.killhuskendworm>Исследование сейсмической активности</missionname.killhuskendworm>
+  <missiondescription.killhuskendworm>Ученые сообщают о сейсмической активности в районе [location1] и [location2]. Фауна в этой области внезапно разбежалась, и ученые считают, что в этой области находится что-то гигантское. Коммерческие рейсы отменены, и власти предлагают [reward] кредитов тому, кто исследует сейсмическую активность.</missiondescription.killhuskendworm>
+  <missionsonarlabel.killhuskendworm>Сейсмическая активность</missionsonarlabel.killhuskendworm>
+  <missionsuccess.killhuskendworm>Хаск червь конца убит. Выведите подлодку из пещеры, чтобы получить награду.</missionsuccess.killhuskendworm>
+  <missionfailure.killhuskendworm>Миссия провалена.</missionfailure.killhuskendworm>
+  <missionheader0.killhuskendworm>Цель уничтожена</missionheader0.killhuskendworm>
+  <missionmessage0.killhuskendworm>Хаск червь конца мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskendworm>
+  <missionname.killhuskendworm2>Исследование сейсмической активности</missionname.killhuskendworm2>
+  <missiondescription.killhuskendworm2>Ученые сообщают о сейсмической активности в районе [location1] и [location2]. Фауна в этой области внезапно разбежалась, и ученые считают, что в этой области находится что-то гигантское. Коммерческие рейсы отменены, и власти предлагают [reward] кредитов тому, кто исследует сейсмическую активность.</missiondescription.killhuskendworm2>
+  <missionsonarlabel.killhuskendworm2>Сейсмическая активность</missionsonarlabel.killhuskendworm2>
+  <missionsuccess.killhuskendworm2>Хаск червь конца убит. Выведите подлодку из пещеры, чтобы получить награду.</missionsuccess.killhuskendworm2>
+  <missionfailure.killhuskendworm2>Миссия провалена.</missionfailure.killhuskendworm2>
+  <missionheader0.killhuskendworm2>Цель уничтожена</missionheader0.killhuskendworm2>
+  <missionmessage0.killhuskendworm2>Хаск червь конца мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskendworm2>
+  <!-- MixedMissions.xml -->
+  <missionname.killclownsyndicate>Восстание клоунов</missionname.killclownsyndicate>
+  <missiondescription.killclownsyndicate>Путь между [location1] и [location2] стал местом волны жестоких нападений на экипажи за последние несколько дней. Власти сообщили, что в районе действует клоунский синдикат, который необходимо ликвидировать. Они предлагают [reward] тому, кто сможет избавиться от них.</missiondescription.killclownsyndicate>
+  <missionsonarlabel.killclownsyndicate>Клоуны</missionsonarlabel.killclownsyndicate>
+  <missionsuccess.killclownsyndicate>Теперь район освобождён от клоунов. Хорошая работа.</missionsuccess.killclownsyndicate>
+  <missionfailure.killclownsyndicate>Миссия провалена.</missionfailure.killclownsyndicate>
+  <missionheader0.killclownsyndicate>Клоуны уничтожены</missionheader0.killclownsyndicate>
+  <missionmessage0.killclownsyndicate>Вы очистили район от всех шуток. Сообщите об инциденте в [location2].</missionmessage0.killclownsyndicate>
+  <missionname.killclownsyndicateDE>Восстание клоунов</missionname.killclownsyndicateDE>
+  <missiondescription.killclownsyndicateDE>Путь между [location1] и [location2] стал местом волны жестоких нападений на экипажи за последние несколько дней. Власти сообщили, что в районе действует клоунский синдикат, который необходимо ликвидировать. Они предлагают [reward] тому, кто сможет избавиться от них.</missiondescription.killclownsyndicateDE>
+  <missionsonarlabel.killclownsyndicateDE>Клоуны</missionsonarlabel.killclownsyndicateDE>
+  <missionsuccess.killclownsyndicateDE>Теперь район освобождён от клоунов. Хорошая работа.</missionsuccess.killclownsyndicateDE>
+  <missionfailure.killclownsyndicateDE>Миссия провалена.</missionfailure.killclownsyndicateDE>
+  <missionheader0.killclownsyndicateDE>Клоуны уничтожены</missionheader0.killclownsyndicateDE>
+  <missionmessage0.killclownsyndicateDE>Вы очистили район от всех шуток. Сообщите об инциденте в [location2].</missionmessage0.killclownsyndicateDE>
+  <missionname.killfractalguardians>Миграция фрактальных существ</missionname.killfractalguardians>
+  <missiondescription.killfractalguardians>Дайверы сообщили о том, что большое количество фрактальных существ выбрались из руин и опасно бродят в районе между [location1] и [location2]. Власти предлагают [reward] кредитов любой команде, которая сможет уничтожить бродящих существ.</missiondescription.killfractalguardians>
+  <missionsonarlabel.killfractalguardians>Фрактальные существа</missionsonarlabel.killfractalguardians>
+  <missionsuccess.killfractalguardians>Территория теперь свободна от фрактальных стражей. Хорошая работа.</missionsuccess.killfractalguardians>
+  <missionfailure.killfractalguardians>Миссия провалена.</missionfailure.killfractalguardians>
+  <missionheader0.killfractalguardians>Фрактальные существа уничтожены</missionheader0.killfractalguardians>
+  <missionmessage0.killfractalguardians>Вы очистили территорию от фрактальных стражей. Сообщите об инциденте в [location2].</missionmessage0.killfractalguardians>
+  <missionname.killfractalguardiansDE>Миграция фрактальных существ</missionname.killfractalguardiansDE>
+  <missiondescription.killfractalguardiansDE>Дайверы сообщили о том, что большое количество фрактальных существ выбрались из руин и опасно бродят в районе между [location1] и [location2]. Власти предлагают [reward] кредитов любой команде, которая сможет уничтожить бродящих существ.</missiondescription.killfractalguardiansDE>
+  <missionsonarlabel.killfractalguardiansDE>Фрактальные существа</missionsonarlabel.killfractalguardiansDE>
+  <missionsuccess.killfractalguardiansDE>Территория теперь свободна от фрактальных стражей. Хорошая работа.</missionsuccess.killfractalguardiansDE>
+  <missionfailure.killfractalguardiansDE>Миссия провалена.</missionfailure.killfractalguardiansDE>
+  <missionheader0.killfractalguardiansDE>Фрактальные существа уничтожены</missionheader0.killfractalguardiansDE>
+  <missionmessage0.killfractalguardiansDE>Вы очистили территорию от фрактальных стражей. Сообщите об инциденте в [location2].</missionmessage0.killfractalguardiansDE>
+  <missionname.mudraptornestraid>Зачистка гнезда грязевых рапторов (РЕЙД)</missionname.mudraptornestraid>
+  <missiondescription.mudraptornestraid>Было обнаружено большое гнездо грязевых рапторов в районе [location1] и [location2]. Сканеры выявили более 10 особей и множество яиц. Власти предполагают, что если не принять меры в ближайшие несколько дней, то близлежащие аванпосты будут захвачены и заброшены. Коалиция пока не приняла мер, однако власти предлагают [reward] за уничтожение гнезда. (ВНИМАНИЕ: ЭТО РЕЙДОВАЯ МИССИЯ. ОЖИДАЙТЕ ПОТЕРЬ И БОЛЬШОЕ КОЛИЧЕСТВО МОНСТРОВ И АГРЕССИВНОСТИ.) </missiondescription.mudraptornestraid>
+  <missionsonarlabel.mudraptornestraid>Неизвестно</missionsonarlabel.mudraptornestraid>
+  <missionsuccess.mudraptornestraid>Миссия выполнена. Гнездо грязевых рапторов уничтожено.</missionsuccess.mudraptornestraid>
+  <missionfailure.mudraptornestraid>Миссия провалена.</missionfailure.mudraptornestraid>
+  <missionheader0.mudraptornestraid>missionheader0.mudraptornest</missionheader0.mudraptornestraid>
+  <missionmessage0.mudraptornestraid>missionmessage0.mudraptornest</missionmessage0.mudraptornestraid>
+  <missionname.mudraptornestraidDE>Зачистка гнезда грязевых рапторов (РЕЙД)</missionname.mudraptornestraidDE>
+  <missiondescription.mudraptornestraidDE>Было обнаружено большое гнездо грязевых рапторов в районе [location1] и [location2]. Сканеры выявили более 10 особей и множество яиц. Власти предполагают, что если не принять меры в ближайшие несколько дней, то близлежащие аванпосты будут захвачены и заброшены. Коалиция пока не приняла мер, однако власти предлагают [reward] за уничтожение гнезда. (ВНИМАНИЕ: ЭТО РЕЙДОВАЯ МИССИЯ. ОЖИДАЙТЕ ПОТЕРЬ И БОЛЬШОЕ КОЛИЧЕСТВО МОНСТРОВ И АГРЕССИВНОСТИ.) </missiondescription.mudraptornestraidDE>
+  <missionsonarlabel.mudraptornestraidDE>Неизвестно</missionsonarlabel.mudraptornestraidDE>
+  <missionsuccess.mudraptornestraidDE>Миссия выполнена. Гнездо грязевых рапторов уничтожено.</missionsuccess.mudraptornestraidDE>
+  <missionfailure.mudraptornestraidDE>Миссия провалена.</missionfailure.mudraptornestraidDE>
+  <missionheader0.mudraptornestraidDE>missionheader0.mudraptornest</missionheader0.mudraptornestraidDE>
+  <missionmessage0.mudraptornestraidDE>missionmessage0.mudraptornest</missionmessage0.mudraptornestraidDE>
+  <!-- SNCMissions.xml -->
+  <missionname.killhumanimmortal>Исследование загадочного сигнала</missionname.killhumanimmortal>
+  <missiondescription.killhumanimmortal>В районе [location1] появился загадочный инфразвуковой сигнал. Исследователи просят вас проверить этот сигнал и сообщить обо всех результатах.</missiondescription.killhumanimmortal>
+  <missionsonarlabel.killhumanimmortal>Неизвестный сигнал</missionsonarlabel.killhumanimmortal>
+  <missionsuccess.killhumanimmortal>Когда вы приблизились к источнику сигнала, то обнаружили, что его испускает человек, но источник его неизвестен. [location2] согласилось заплатить вам [reward] за ваше открытие.</missionsuccess.killhumanimmortal>
+  <missionfailure.killhumanimmortal>Миссия провалена.</missionfailure.killhumanimmortal>
+  <missionheader0.killhumanimmortal>Цель уничтожена</missionheader0.killhumanimmortal>
+  <missionmessage0.killhumanimmortal>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhumanimmortal>
+  <missionname.killclowns>Контроль толпы</missionname.killclowns>
+  <missiondescription.killclowns>Мерзкие клоуны вызывают беспорядки в районе между [location1] и [location2]. Власти не хотят тратить своё время и предлагают вам [reward] кредитов за прекращение их дурачества.</missiondescription.killclowns>
+  <missionsonarlabel.killclowns>Клоуны</missionsonarlabel.killclowns>
+  <missionsuccess.killclowns>Вы позаботились об этих клоунах. Надеемся, они больше не вернутся.</missionsuccess.killclowns>
+  <missionfailure.killclowns>Миссия провалена.</missionfailure.killclowns>
+  <missionheader0.killclowns>Цель уничтожена</missionheader0.killclowns>
+  <missionmessage0.killclowns>Клоуны уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killclowns>
+  <missionname.killclowns2>Контроль толпы</missionname.killclowns2>
+  <missiondescription.killclowns2>Мерзкие клоуны вызывают беспорядки в районе между [location1] и [location2]. Власти не хотят тратить своё время и предлагают вам [reward] кредитов за прекращение их дурачества.</missiondescription.killclowns2>
+  <missionsonarlabel.killclowns2>Клоуны</missionsonarlabel.killclowns2>
+  <missionsuccess.killclowns2>Вы позаботились об этих клоунах. Надеемся, они больше не вернутся.</missionsuccess.killclowns2>
+  <missionfailure.killclowns2>Миссия провалена.</missionfailure.killclowns2>
+  <missionheader0.killclowns2>Цель уничтожена</missionheader0.killclowns2>
+  <missionmessage0.killclowns2>Клоуны уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killclowns2>
+  <missionname.clearruinnew>Зачистка инопланетных руин</missionname.clearruinnew>
+  <missiondescription.clearruinnew>Вам необходимо зачистить инопланетные руины, чтобы учёные могли продолжить свои исследования. После выполнения задания направляйтесь на следующую локацию за наградой.</missiondescription.clearruinnew>
+  <missionsonarlabel.clearruinnew>Цель</missionsonarlabel.clearruinnew>
+  <missionsuccess.clearruinnew>Миссия выполнена.</missionsuccess.clearruinnew>
+  <missionfailure.clearruinnew>Миссия провалена.</missionfailure.clearruinnew>
+  <missionheader0.clearruinnew>Цель уничтожена</missionheader0.clearruinnew>
+  <missionmessage0.clearruinnew>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.clearruinnew>
+  <!-- SOCMissions.xml -->
+  <missionname.killthalamid>Исследование растений</missionname.killthalamid>
+  <missiondescription.killthalamid>Администратор станции сообщает о том, что было замечено больше подвижного судно с таламусом между [location1] и [location2]. Он предлагает вам [reward] кредитов за устранение угрозы.</missiondescription.killthalamid>
+  <missionsonarlabel.killthalamid>Неизвестное растение</missionsonarlabel.killthalamid>
+  <missionsuccess.killthalamid>Исследователи в [location2] особенно заинтересованы в этом событии и предлагают вам [reward] кредитов за ваши усилия.</missionsuccess.killthalamid>
+  <missionfailure.killthalamid>Миссия провалена.</missionfailure.killthalamid>
+  <missionheader0.killthalamid>Цель уничтожена</missionheader0.killthalamid>
+  <missionmessage0.killthalamid>Странное существо было уничтожено. Сообщите об инциденте в [location2].</missionmessage0.killthalamid>
+  <missionname.killthalamid2>Исследование растений</missionname.killthalamid2>
+  <missiondescription.killthalamid2>Администратор станции сообщает о том, что было замечено больше подвижного судно с таламусом между [location1] и [location2]. Он предлагает вам [reward] кредитов за устранение угрозы.</missiondescription.killthalamid2>
+  <missionsonarlabel.killthalamid2>Неизвестный Рост</missionsonarlabel.killthalamid2>
+  <missionsuccess.killthalamid2>Исследователи из [location2] особенно заинтересованы в этой встрече и предлагают [reward] за ваши усилия.</missionsuccess.killthalamid2>
+  <missionfailure.killthalamid2>Миссия провалена.</missionfailure.killthalamid2>
+  <missionheader0.killthalamid2>Цель уничтожена</missionheader0.killthalamid2>
+  <missionmessage0.killthalamid2>Странное существо было уничтожено. Сообщите об инциденте в [location2].</missionmessage0.killthalamid2>
+  <missionname.killabysshammerhead>Уничтожение стаи молотоглавов бездны</missionname.killabysshammerhead>
+  <missiondescription.killabysshammerhead>Особенно агрессивная группа молотоглавов бездны начала терроризировать суда, путешествующие между [location1] и [location2]. Вознаграждение в размере [reward] кредитов было обещано тем, кто убьёт этих существ.</missiondescription.killabysshammerhead>
+  <missionsonarlabel.killabysshammerhead>Молотоглавы бездны</missionsonarlabel.killabysshammerhead>
+  <missionsuccess.killabysshammerhead>Молотоглавы уничтожены.</missionsuccess.killabysshammerhead>
+  <missionfailure.killabysshammerhead>Миссия провалена.</missionfailure.killabysshammerhead>
+  <missionheader0.killabysshammerhead>Цели уничтожены</missionheader0.killabysshammerhead>
+  <missionmessage0.killabysshammerhead>Молотоглавы мертвы. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killabysshammerhead>
+  <missionname.killabysshammerhead2>Уничтожение стаи молотоглавов бездны</missionname.killabysshammerhead2>
+  <missiondescription.killabysshammerhead2>Особенно агрессивная группа молотоглавов бездны начала терроризировать суда, путешествующие между [location1] и [location2]. Вознаграждение в размере [reward] кредитов было обещано тем, кто убьёт этих существ.</missiondescription.killabysshammerhead2>
+  <missionsonarlabel.killabysshammerhead2>Молотоглавы бездны</missionsonarlabel.killabysshammerhead2>
+  <missionsuccess.killabysshammerhead2>Молотоглавы уничтожены.</missionsuccess.killabysshammerhead2>
+  <missionfailure.killabysshammerhead2>Миссия провалена.</missionfailure.killabysshammerhead2>
+  <missionheader0.killabysshammerhead2>Цели уничтожены</missionheader0.killabysshammerhead2>
+  <missionmessage0.killabysshammerhead2>Молотоглавы мертвы. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killabysshammerhead2>
+  <missionname.deepseaclownnewmission>Исследование таинственного сигнала</missionname.deepseaclownnewmission>
+  <missiondescription.deepseaclownnewmission>Возле [location1] внезапно появился загадочный инфразвуковой сигнал. Исследователи просят вас проверить сигнал и сообщить о результатах.</missiondescription.deepseaclownnewmission>
+  <missionsonarlabel.deepseaclownnewmission>Инфразвуковой сигнал</missionsonarlabel.deepseaclownnewmission>
+  <missionsuccess.deepseaclownnewmission>Приблизившись к сигналу, вы обнаружили, что он излучался чем-то похожим на мутанта-человека. В [location2] согласились заплатить вам [reward] кредитов за вашу находку.</missionsuccess.deepseaclownnewmission>
+  <missionfailure.deepseaclownnewmission>Миссия провалена.</missionfailure.deepseaclownnewmission>
+  <missionheader0.deepseaclownnewmission>Цель уничтожена</missionheader0.deepseaclownnewmission>
+  <missionmessage0.deepseaclownnewmission>Существо убито. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.deepseaclownnewmission>
+  <missionname.deepseaclownnewsawmission>Исследование таинственного сигнала</missionname.deepseaclownnewsawmission>
+  <missiondescription.deepseaclownnewsawmission>Возле [location1] внезапно появился загадочный инфразвуковой сигнал. Исследователи просят вас проверить сигнал и сообщить о результатах.</missiondescription.deepseaclownnewsawmission>
+  <missionsonarlabel.deepseaclownnewsawmission>Инфразвуковой сигнал</missionsonarlabel.deepseaclownnewsawmission>
+  <missionsuccess.deepseaclownnewsawmission>Приблизившись к сигналу, вы обнаружили, что он излучался чем-то похожим на мутанта-человека. В [location2] согласились заплатить вам [reward] кредитов за вашу находку.</missionsuccess.deepseaclownnewsawmission>
+  <missionfailure.deepseaclownnewsawmission>Миссия провалена.</missionfailure.deepseaclownnewsawmission>
+  <missionheader0.deepseaclownnewsawmission>Цель уничтожена</missionheader0.deepseaclownnewsawmission>
+  <missionmessage0.deepseaclownnewsawmission>Существо убито. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.deepseaclownnewsawmission>
+  <missionname.killfractalsentry>Уничтожение фрактальной турели</missionname.killfractalsentry>
+  <missiondescription.killfractalsentry>Фрактальная турель очнулась и стала чрезвычайно опасной угрозой для путешествующих судов. Власти щедро наградят любого, кто сможет уничтожить турель между [location1] и [location2]. </missiondescription.killfractalsentry>
+  <missionsonarlabel.killfractalsentry>Цель</missionsonarlabel.killfractalsentry>
+  <missionsuccess.killfractalsentry>Власти благодарят вас за мужество и вознаграждает большой премией в марках.</missionsuccess.killfractalsentry>
+  <missionfailure.killfractalsentry>Миссия провалена.</missionfailure.killfractalsentry>
+  <missionheader0.killfractalsentry>Цель уничтожена</missionheader0.killfractalsentry>
+  <missionmessage0.killfractalsentry>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killfractalsentry>
+  <missionname.teleglitch1>Исследование таинственного сигнала</missionname.teleglitch1>
+  <missiondescription.teleglitch1>Возле [location1] внезапно появился загадочный инфразвуковой сигнал. Исследователи просят вас проверить сигнал и сообщить о результатах.</missiondescription.teleglitch1>
+  <missionsonarlabel.teleglitch1>Инфразвуковой сигнал</missionsonarlabel.teleglitch1>
+  <missionsuccess.teleglitch1>При исследовании сигнала вы выяснили, что сигнал испускался какой-то разумной аномалией. [location2] согласилась заплатить вам [reward] за ваше открытие.</missionsuccess.teleglitch1>
+  <missionfailure.teleglitch1>Миссия провалена.</missionfailure.teleglitch1>
+  <missionheader0.teleglitch1>Цель уничтожена</missionheader0.teleglitch1>
+  <missionmessage0.teleglitch1>Сигнал исследован. Сообщите об инциденте в [location2].</missionmessage0.teleglitch1>
+  <missionname.teleglitch2>Добыча артефакта</missionname.teleglitch2>
+  <missiondescription.teleglitch2>[location1]: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.</missiondescription.teleglitch2>
+  <missionsonarlabel.teleglitch2>Инфразвуковой сигнал</missionsonarlabel.teleglitch2>
+  <missionsuccess.teleglitch2>При исследовании сигнала вы выяснили, что сигнал испускался какой-то разумной аномалией. [location2] согласилась заплатить вам [reward] за ваше открытие.</missionsuccess.teleglitch2>
+  <missionfailure.teleglitch2>Миссия провалена.</missionfailure.teleglitch2>
+  <missionheader0.teleglitch2>Цель уничтожена</missionheader0.teleglitch2>
+  <missionmessage0.teleglitch2>Сигнал исследован. Сообщите об инциденте в [location2].</missionmessage0.teleglitch2>
+  <missionname.teleglitch3>Добыча артефакта</missionname.teleglitch3>
+  <missiondescription.teleglitch3>[location1]: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.</missiondescription.teleglitch3>
+  <missionsonarlabel.teleglitch3>Инфразвуковой сигнал</missionsonarlabel.teleglitch3>
+  <missionsuccess.teleglitch3>При исследовании сигнала вы выяснили, что сигнал испускался какой-то разумной аномалией. [location2] согласилась заплатить вам [reward] за ваше открытие.</missionsuccess.teleglitch3>
+  <missionfailure.teleglitch3>Миссия провалена.</missionfailure.teleglitch3>
+  <missionheader0.teleglitch3>Цель уничтожена</missionheader0.teleglitch3>
+  <missionmessage0.teleglitch3>Сигнал исследован. Сообщите об инциденте в [location2].</missionmessage0.teleglitch3>
+  <missionname.teleglitchswarm>Добыча артефакта</missionname.teleglitchswarm>
+  <missiondescription.teleglitchswarm>[location1]: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.</missiondescription.teleglitchswarm>
+  <missionsonarlabel.teleglitchswarm>Инфразвуковой сигнал</missionsonarlabel.teleglitchswarm>
+  <missionsuccess.teleglitchswarm>При исследовании сигнала вы выяснили, что сигнал испускался какой-то разумной аномалией. [location2] согласилась заплатить вам [reward] за ваше открытие.</missionsuccess.teleglitchswarm>
+  <missionfailure.teleglitchswarm>Миссия провалена.</missionfailure.teleglitchswarm>
+  <missionheader0.teleglitchswarm>Цель уничтожена</missionheader0.teleglitchswarm>
+  <missionmessage0.teleglitchswarm>Сигнал исследован. Сообщите об инциденте в [location2].</missionmessage0.teleglitchswarm>
+  <missionname.wasteswarm>Уничтожение роя отходных акульих тигров</missionname.wasteswarm>
+  <missiondescription.wasteswarm>Свидетели сообщают о крупном рое акульих тигров, который терроризирует суда в районе между [location1] и [location2]. Они платят [reward] кредитов за уничтожение акул.</missiondescription.wasteswarm>
+  <missionsonarlabel.wasteswarm>Рой</missionsonarlabel.wasteswarm>
+  <missionsuccess.wasteswarm>Отходные акульи тигры уничтожены и больше не представляют угрозу для судов.</missionsuccess.wasteswarm>
+  <missionfailure.wasteswarm>Миссия провалена.</missionfailure.wasteswarm>
+  <missionheader0.wasteswarm>Рой уничтожен</missionheader0.wasteswarm>
+  <missionmessage0.wasteswarm>Рой был уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.wasteswarm>
+  <missionname.wasteswarm1>Уничтожение роя отходных ползунов</missionname.wasteswarm1>
+  <missiondescription.wasteswarm1>Свидетели сообщают о большой стае отходных ползунов, терроризирующей суда между [location1] и [location2]. Они платят [reward] кредитов тому, кто может уничтожить ползунов.</missiondescription.wasteswarm1>
+  <missionsonarlabel.wasteswarm1>Рой</missionsonarlabel.wasteswarm1>
+  <missionsuccess.wasteswarm1>Ползуны были уничтожены и больше не представляют угрозу для судов.</missionsuccess.wasteswarm1>
+  <missionfailure.wasteswarm1>Миссия провалена.</missionfailure.wasteswarm1>
+  <missionheader0.wasteswarm1>Рой уничтожен</missionheader0.wasteswarm1>
+  <missionmessage0.wasteswarm1>Рой была уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.wasteswarm1>
+  <missionname.wasteswarm3>Уничтожение стаи отходных богомолов</missionname.wasteswarm3>
+  <missiondescription.wasteswarm3>Свидетели сообщают о большой стае отходных богомолов, терроризирующей суда между [location1] и [location2]. Они платят [reward] кредитов тому, кто сможет их уничтожить.</missiondescription.wasteswarm3>
+  <missionsonarlabel.wasteswarm3>Стая</missionsonarlabel.wasteswarm3>
+  <missionsuccess.wasteswarm3>Богомолы были уничтожены и больше не представляют угрозу для судов.</missionsuccess.wasteswarm3>
+  <missionfailure.wasteswarm3>Миссия провалена.</missionfailure.wasteswarm3>
+  <missionheader0.wasteswarm3>Стая уничтожена</missionheader0.wasteswarm3>
+  <missionmessage0.wasteswarm3>Стая была уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.wasteswarm3>
+  <missionname.demining1>Операция по разминированию</missionname.demining1>
+  <missiondescription.demining1>Мины, которые были установлены на пути между [location1] и [location2], вышли из строя и опасно плавают по пути. Администраторы предлагают [reward] кредитов тому, кто избавится от этих мин, чтобы обеспечить безопасность коммерческим перевозкам.</missiondescription.demining1>
+  <missionsonarlabel.demining1>Сигнал мины</missionsonarlabel.demining1>
+  <missionsuccess.demining1>Мины успешно уничтожены.</missionsuccess.demining1>
+  <missionfailure.demining1>Миссия провалена.</missionfailure.demining1>
+  <missionheader0.demining1>Цель уничтожена</missionheader0.demining1>
+  <missionmessage0.demining1>Мины были уничтожены и путь снова безопасен для путешествий. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.demining1>
+  <missionname.demining2>Операция по разминированию</missionname.demining2>
+  <missiondescription.demining2>Мины, которые были установлены на пути между [location1] и [location2], вышли из строя и опасно плавают по пути. Администраторы предлагают [reward] кредитов тому, кто избавится от этих мин, чтобы обеспечить безопасность коммерческим перевозкам.</missiondescription.demining2>
+  <missionsonarlabel.demining2>Сигнал мины</missionsonarlabel.demining2>
+  <missionsuccess.demining2>Мины успешно уничтожены.</missionsuccess.demining2>
+  <missionfailure.demining2>Миссия провалена.</missionfailure.demining2>
+  <missionheader0.demining2>Цель уничтожена</missionheader0.demining2>
+  <missionmessage0.demining2>Мины были уничтожены и путь снова безопасен для путешествий. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.demining2>
+  <missionname.massdemining>Уничтожение огромного минного поля</missionname.massdemining>
+  <missiondescription.massdemining>Власти обнаружили большое скопление мин в районе между [location1] и [location2]. Эти мины не привязаны и, скорее всего, специально были размещены для разрушения и блокирования транспортного маршрута. Власти предлагают [reward] кредитов в награду тому, кто сможет обезвредить или взорвать мины в этом районе.</missiondescription.massdemining>
+  <missionsonarlabel.massdemining>Сигналы мин</missionsonarlabel.massdemining>
+  <missionsuccess.massdemining>Мины успешно уничтожены.</missionsuccess.massdemining>
+  <missionfailure.massdemining>Миссия провалена.</missionfailure.massdemining>
+  <missionheader0.massdemining>Цель уничтожена</missionheader0.massdemining>
+  <missionmessage0.massdemining>Мины, которые угрожали маршруту, теперь уничтожены, и маршрут теперь безопасен для путешествий. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.massdemining>
+  <missionname.killdeadnought>Исследование огромной подводной лодки Коалиции</missionname.killdeadnought>
+  <missiondescription.killdeadnought>Гигантская атакующая подводная лодка Коалиции, перевозившая опасные химические вещества, пропала без вести шесть месяцев назад между [location1] и [location2]. Хотя судно было предположительно поглощено бездной, экстренные маяки судна и экипажа были недавно активированы. Награда [reward] кредитов обещана любому экипажу, который сможет исследовать сигнал.</missiondescription.killdeadnought>
+  <missionsonarlabel.killdeadnought>Экстренный маяк</missionsonarlabel.killdeadnought>
+  <missionsuccess.killdeadnought>Исследователи [location2] с нетерпением ждут всех подробностей встречи, но неохотно отвечают на любые вопросы относительно судна. Они, однако, предлагают вам [reward] кредитов в качестве "компенсации за ваши хлопоты".</missionsuccess.killdeadnought>
+  <missionfailure.killdeadnought>Миссия провалена.</missionfailure.killdeadnought>
+  <missionheader0.killdeadnought>Цель исследована</missionheader0.killdeadnought>
+  <missionmessage0.killdeadnought>Пропавшее судно, как оказалось, было захвачено неким паразитическим растением, хоть теперь и недееспособно. Сообщите об инциденте в [location2].
+    </missionmessage0.killdeadnought>
+  <missionname.killdeadnought2>Исследование огромной подводной лодки Коалиции</missionname.killdeadnought2>
+  <missiondescription.killdeadnought2>Гигантская атакующая подводная лодка Коалиции, перевозившая опасные химические вещества, пропала без вести шесть месяцев назад между [location1] и [location2]. Хотя судно было предположительно поглощено бездной, экстренные маяки судна и экипажа были недавно активированы. Награда [reward] кредитов обещана любому экипажу, который сможет исследовать сигнал.</missiondescription.killdeadnought2>
+  <missionsonarlabel.killdeadnought2>Экстренный маяк</missionsonarlabel.killdeadnought2>
+  <missionsuccess.killdeadnought2>Исследователи [location2] с нетерпением ждут всех подробностей встречи, но кажутся неохотными отвечать на любые вопросы относительно судна. Они, однако, предлагают вам [reward] кредитов в качестве "компенсации за ваши хлопоты".</missionsuccess.killdeadnought2>
+  <missionfailure.killdeadnought2>Миссия провалена.</missionfailure.killdeadnought2>
+  <missionheader0.killdeadnought2>Цель исследована</missionheader0.killdeadnought2>
+  <missionmessage0.killdeadnought2>Пропавшее судно, как оказалось, было захвачено неким паразитическим растением, хоть теперь и недееспособно. Сообщите об инциденте в [location2].
+    </missionmessage0.killdeadnought2>
+  <!-- Xan1Missions.xml -->
+  <missionname.killbomber>Расследование пропавшей взрывчатки</missionname.killbomber>
+  <missiondescription.killbomber>Некоторое время назад грузовое судно, перевозившее груз взрывчатки, исчезло. Несмотря на то, что вначале считалось, что судно потеряно безвозвратно, сигнал SOS был недавно активирован. Любой, кто способен расследовать и, если это возможно, вернуть взрывчатку, будет вознаграждён.</missiondescription.killbomber>
+  <missionsuccess.killbomber>Пропавшая взрывчатка была расследована.</missionsuccess.killbomber>
+  <missionsonarlabel.killbomber>Сигнал</missionsonarlabel.killbomber>
+  <missionfailure.killbomber>Миссия провалена.</missionfailure.killbomber>
+  <missionheader0.killbomber>Цель уничтожена</missionheader0.killbomber>
+  <missionmessage0.killbomber>Взрывчатка была "исследована". Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killbomber>
+  <missionname.killhuskspecial>Спасение потерявшейся команды</missionname.killhuskspecial>
+  <missiondescription.killhuskspecial>Команда компании по ликвидации разбросанных по руинам объектов пропала без вести. Несколько дней прошло, и их считали погибшими, но их личные сигналы SOS недавно были активированы. Предполагается, что их судно затонуло. Любой, кто способен спасти команду, будет вознаграждён.</missiondescription.killhuskspecial>
+  <missionsuccess.killhuskspecial>Родственники потерянной команды были проинформированы о их гибели. Они предлагают вам [reward] кредитов за ваши хлопоты.</missionsuccess.killhuskspecial>
+  <missionsonarlabel.killhuskspecial>Сигнал бедствия</missionsonarlabel.killhuskspecial>
+  <missionfailure.killhuskspecial>Миссия провалена</missionfailure.killhuskspecial>
+  <missionheader0.killhuskspecial>Цель исследована.</missionheader0.killhuskspecial>
+  <missionmessage0.killhuskspecial>Сигнал бедствия был "исследован". Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhuskspecial>
+  <missionname.killcarrierleviathan>Разбор обломков</missionname.killcarrierleviathan>
+  <missiondescription.killcarrierleviathan>Два месяца назад грузовая подводная лодка, перевозившая опасные химические вещества, пропала между [location1] и [location2]. Хотя судно предположительно утонуло, сигнал бедствия был недавно активирован. Вознаграждение в размере [reward] кредитов обещано любой команде, которая может исследовать маяк бедствия.</missiondescription.killcarrierleviathan>
+  <missionsonarlabel.killcarrierleviathan>Маяк бедствия</missionsonarlabel.killcarrierleviathan>
+  <missionsuccess.killcarrierleviathan>Исследование маяка бедствия завершено. Исследователи в [location2] хотят знать все детали события, но неохотно отвечают на вопросы относительно судна. Они, однако, предлагают вам [reward] кредитов в качестве "компенсации за ваши трудности".</missionsuccess.killcarrierleviathan>
+  <missionfailure.killcarrierleviathan>Миссия провалена.</missionfailure.killcarrierleviathan>
+  <missionheader0.killcarrierleviathan>Цель исследована</missionheader0.killcarrierleviathan>
+  <missionmessage0.killcarrierleviathan>Пропавшее судно, судя по всему, было захвачено неким видом паразитического растения, хотя теперь оно недееспособно. Сообщите об этом происшествии в [location2].</missionmessage0.killcarrierleviathan>
+  <missionname.killcarrierleviathan2>Разбор обломков</missionname.killcarrierleviathan2>
+  <missiondescription.killcarrierleviathan2>Два месяца назад грузовая подводная лодка, перевозившая опасные химические вещества, пропала между [location1] и [location2]. Хотя судно предположительно утонуло, сигнал бедствия был недавно активирован. Вознаграждение в размере [reward] кредитов обещано любой команде, которая может исследовать маяк бедствия.</missiondescription.killcarrierleviathan2>
+  <missionsonarlabel.killcarrierleviathan2>Маяк бедствия</missionsonarlabel.killcarrierleviathan2>
+  <missionsuccess.killcarrierleviathan2>Исследование маяка бедствия завершено. Исследователи в [location2] хотят знать все детали события, но неохотно отвечают на вопросы относительно судна. Они, однако, предлагают вам [reward] кредитов в качестве "компенсации за ваши трудности".</missionsuccess.killcarrierleviathan2>
+  <missionfailure.killcarrierleviathan2>Миссия провалена.</missionfailure.killcarrierleviathan2>
+  <missionheader0.killcarrierleviathan2>Цель исследована</missionheader0.killcarrierleviathan2>
+  <missionmessage0.killcarrierleviathan2>Пропавшее судно, судя по всему, было захвачено неким видом паразитического растения, хотя теперь оно недееспособно. Сообщите об этом происшествии в [location2].</missionmessage0.killcarrierleviathan2>
+  <missionname.killcarrierleviathan3>Спасение опустевшего корабля</missionname.killcarrierleviathan3>
+  <missiondescription.killcarrierleviathan3>Два месяца назад грузовая подводная лодка, перевозившая опасные химические вещества, пропала между [location1] и [location2]. Хотя судно предположительно утонуло, сигнал бедствия был недавно активирован. Вознаграждение в размере [reward] кредитов обещано любой команде, которая может исследовать маяк бедствия.</missiondescription.killcarrierleviathan3>
+  <missionsonarlabel.killcarrierleviathan3>Маяк бедствия</missionsonarlabel.killcarrierleviathan3>
+  <missionsuccess.killcarrierleviathan3>Исследование маяка бедствия завершено. Исследователи в [location2] хотят знать все детали события, но неохотно отвечают на вопросы относительно судна. Они, однако, предлагают вам [reward] кредитов в качестве "компенсации за ваши трудности".</missionsuccess.killcarrierleviathan3>
+  <missionfailure.killcarrierleviathan3>Миссия провалена.</missionfailure.killcarrierleviathan3>
+  <missionheader0.killcarrierleviathan3>Цель исследована</missionheader0.killcarrierleviathan3>
+  <missionmessage0.killcarrierleviathan3>Пропавшее судно, судя по всему, было захвачено неким видом паразитического растения, хотя теперь оно недееспособно. Сообщите об этом происшествии в [location2].</missionmessage0.killcarrierleviathan3>
+  <missionname.killbroodemperor>Уничтожение императора хасков</missionname.killbroodemperor>
+  <missiondescription.killbroodemperor>Эта область стала центром активности трупных паразитов. Биологические показатели свидетельствуют о том, что здесь собралось значительное количество существ, а также наблюдается сильная сейсмическая активность. Исследователи готовы заплатить [reward] кредитов любому, кто способен устранить угрозу. Однако выжить сможеттолько хорошо подготовленная команда.</missiondescription.killbroodemperor>
+  <missionsonarlabel.killbroodemperor>Цель</missionsonarlabel.killbroodemperor>
+  <missionsuccess.killbroodemperor>Император хасков уничтожен.</missionsuccess.killbroodemperor>
+  <missionfailure.killbroodemperor>Миссия провалена.</missionfailure.killbroodemperor>
+  <missionheader0.killbroodemperor>Цель уничтожена</missionheader0.killbroodemperor>
+  <missionmessage0.killbroodemperor>Император хасков уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killbroodemperor>
+  <missionname.killbroodemperor2>Уничтожение императора хасков</missionname.killbroodemperor2>
+  <missiondescription.killbroodemperor2>Эта область стала центром активности трупных паразитов. Биологические показатели свидетельствуют о том, что здесь собралось значительное количество существ, а также наблюдается сильная сейсмическая активность. Исследователи готовы заплатить [reward] кредитов любому, кто способен устранить угрозу. Однако выжить сможеттолько хорошо подготовленная команда.</missiondescription.killbroodemperor2>
+  <missionsonarlabel.killbroodemperor2>Цель</missionsonarlabel.killbroodemperor2>
+  <missionsuccess.killbroodemperor2>Император хасков уничтожен.</missionsuccess.killbroodemperor2>
+  <missionfailure.killbroodemperor2>Миссия провалена.</missionfailure.killbroodemperor2>
+  <missionheader0.killbroodemperor2>Цель уничтожена</missionheader0.killbroodemperor2>
+  <missionmessage0.killbroodemperor2>Император хасков уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killbroodemperor2>
+  <missionname.killcoelanthre>Уничтожить книдае</missionname.killcoelanthre>
+  <missiondescription.killcoelanthre>Агрессивный книдае мешает пути между [location1] и [location2]. Вознаграждение в размере [reward] кредитов обещается любому, кто сможет устранить угрозу.</missiondescription.killcoelanthre>
+  <missionsonarlabel.killcoelanthre>Книдае</missionsonarlabel.killcoelanthre>
+  <missionsuccess.killcoelanthre>Книдае уничтожен.</missionsuccess.killcoelanthre>
+  <missionfailure.killcoelanthre>Миссия провалена.</missionfailure.killcoelanthre>
+  <missionheader0.killcoelanthre>Цель уничтожена</missionheader0.killcoelanthre>
+  <missionmessage0.killcoelanthre>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killcoelanthre>
+  <missionname.killcoelanthre2>Уничтожить книдае</missionname.killcoelanthre2>
+  <missiondescription.killcoelanthre2>Агрессивный книдае мешает пути между [location1] и [location2]. Вознаграждение в размере [reward] кредитов обещается любому, кто сможет устранить угрозу.</missiondescription.killcoelanthre2>
+  <missionsonarlabel.killcoelanthre2>Книдае</missionsonarlabel.killcoelanthre2>
+  <missionsuccess.killcoelanthre2>Книдае уничтожен.</missionsuccess.killcoelanthre2>
+  <missionfailure.killcoelanthre2>Миссия провалена.</missionfailure.killcoelanthre2>
+  <missionheader0.killcoelanthre2>Цель уничтожена</missionheader0.killcoelanthre2>
+  <missionmessage0.killcoelanthre2>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killcoelanthre2>
+  <missionname.killendwormre>Чудовище из Бездны</missionname.killendwormre>
+  <missiondescription.killendwormre>Сейсмические данные указывают на то, что из глубин Европы вышло что-то колоссальное. Награда в размере [reward] кредитов обещана тем, кто избавится от причины сейсмической активности.</missiondescription.killendwormre>
+  <missionsonarlabel.killendwormre>Цель</missionsonarlabel.killendwormre>
+  <missionsuccess.killendwormre>Червь конца убит.</missionsuccess.killendwormre>
+  <missionfailure.killendwormre>Миссия провалена.</missionfailure.killendwormre>
+  <missionheader0.killendwormre>Цель уничтожена</missionheader0.killendwormre>
+  <missionmessage0.killendwormre>Чудовище мертво. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killendwormre>
+  <!-- Xan2Missions.xml -->
+  <missionname.killimmortal>Уничтожение бессмертного хаска</missionname.killimmortal>
+  <missiondescription.killimmortal>Необычный хаск появился между [location1] и [location2]. Исследователи советуют уничтожить существо передозировкой ядов или антибиотиков. Награда в размере [reward] кредитов обещана любой команде, достаточно храброй, чтобы уничтожить его.</missiondescription.killimmortal>
+  <missionsonarlabel.killimmortal>Бессмертный</missionsonarlabel.killimmortal>
+  <missionsuccess.killimmortal>Бессмертный хаск убит (ха-ха).</missionsuccess.killimmortal>
+  <missionfailure.killimmortal>Миссия провалена.</missionfailure.killimmortal>
+  <missionheader0.killimmortal>Цель уничтожена</missionheader0.killimmortal>
+  <missionmessage0.killimmortal>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killimmortal>
+  <missionname.killimmortal2>Уничтожение бессмертного хаска</missionname.killimmortal2>
+  <missiondescription.killimmortal2>Необычный хаск появился между [location1] и [location2]. Исследователи советуют уничтожить существо передозировкой ядов или антибиотиков. Награда в размере [reward] кредитов обещана любой команде, достаточно храброй, чтобы уничтожить его.</missiondescription.killimmortal2>
+  <missionsonarlabel.killimmortal2>Бессмертный</missionsonarlabel.killimmortal2>
+  <missionsuccess.killimmortal2>Бессмертный хаск уничтожен(ха-ха).</missionsuccess.killimmortal2>
+  <missionfailure.killimmortal2>Миссия провалена.</missionfailure.killimmortal2>
+  <missionheader0.killimmortal2>Цель уничтожена</missionheader0.killimmortal2>
+  <missionmessage0.killimmortal2>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killimmortal2>
+  <missionname.killimmortal3>Уничтожение двух бессмертных хасков</missionname.killimmortal3>
+  <missiondescription.killimmortal3>Пошедший не по плану эксперимент привёл к появлению двух аномальных хасков между [location1] и [location2]. Исследователи рекомендуют устранить существ с помощью передозировки ядов или антибиотиков. Награда в размере [reward] кредитов будет предоставлена любому экипажу, достаточно храброму, чтобы уничтожить их.</missiondescription.killimmortal3>
+  <missionsonarlabel.killimmortal3>Бессмертные</missionsonarlabel.killimmortal3>
+  <missionsuccess.killimmortal3>Бессмертные хаски убиты (хе хе).</missionsuccess.killimmortal3>
+  <missionfailure.killimmortal3>Миссия провалена.</missionfailure.killimmortal3>
+  <missionheader0.killimmortal3>Цель уничтожена</missionheader0.killimmortal3>
+  <missionmessage0.killimmortal3>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killimmortal3>
+  <missionname.killobserver>Уничтожение диббука</missionname.killobserver>
+  <missiondescription.killobserver>Особенно агрессивный диббук наносит серьёзный психологический ущерб судам, путешествующим между [location1] и [location2]. Награда в размере [reward] кредитов обещана тому, кто сможет уничтожить его.</missiondescription.killobserver>
+  <missionsonarlabel.killobserver>Диббук</missionsonarlabel.killobserver>
+  <missionsuccess.killobserver>Наблюдатель уничтожен.</missionsuccess.killobserver>
+  <missionfailure.killobserver>Миссия провалена.</missionfailure.killobserver>
+  <missionheader0.killobserver>Цель уничтожена</missionheader0.killobserver>
+  <missionmessage0.killobserver>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killobserver>
+  <missionname.killhydrathresher>Уничтожить гидротигра</missionname.killhydrathresher>
+  <missiondescription.killhydrathresher>Одинокий гидротигр был замечен на маршруте между [location1] и [location2]. Награда в размере [reward] кредитов обещана любому экипажу, способному уничтожить его, прежде чем он станет серьезной угрозой.</missiondescription.killhydrathresher>
+  <missionsonarlabel.killhydrathresher>Гидротигр</missionsonarlabel.killhydrathresher>
+  <missionsuccess.killhydrathresher>Гидротигр уничтожен.</missionsuccess.killhydrathresher>
+  <missionfailure.killhydrathresher>Миссия провалена.</missionfailure.killhydrathresher>
+  <missionheader0.killhydrathresher>Цель уничтожена</missionheader0.killhydrathresher>
+  <missionmessage0.killhydrathresher>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killhydrathresher>
+  <missionname.killcharybdisre>Уничтожить молодую харибду</missionname.killcharybdisre>
+  <missiondescription.killcharybdisre>Молодая харибда нападает на суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана тому, кто сможет уничтожить её.</missiondescription.killcharybdisre>
+  <missionsonarlabel.killcharybdisre>Молодая харибда</missionsonarlabel.killcharybdisre>
+  <missionsuccess.killcharybdisre>Молодая харибда уничтожен.</missionsuccess.killcharybdisre>
+  <missionfailure.killcharybdisre>Миссия провалена.</missionfailure.killcharybdisre>
+  <missionheader0.killcharybdisre>Цель уничтожена</missionheader0.killcharybdisre>
+  <missionmessage0.killcharybdisre>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killcharybdisre>
+  <missionname.killcharybdisre2>Уничтожить юных харибд</missionname.killcharybdisre2>
+  <missiondescription.killcharybdisre2>Молодые харибды нападают на суда, путешествующие между [location1] и [location2]. Награда в размере [reward] кредитов обещана тому, кто сможет уничтожить их.</missiondescription.killcharybdisre2>
+  <missionsonarlabel.killcharybdisre2>Молодая харибда</missionsonarlabel.killcharybdisre2>
+  <missionsuccess.killcharybdisre2>Молодая харибда уничтожен.</missionsuccess.killcharybdisre2>
+  <missionfailure.killcharybdisre2>Миссия провалена.</missionfailure.killcharybdisre2>
+  <missionheader0.killcharybdisre2>Цель уничтожена</missionheader0.killcharybdisre2>
+  <missionmessage0.killcharybdisre2>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killcharybdisre2>
+  <missionname.killbossmoloch>Уничтожить аномального молоха</missionname.killbossmoloch>
+  <missiondescription.killbossmoloch>Необычный экземпляр молоха был замечен между [location1] и [location2]. Его агрессивное поведение наносит ущерб торговым маршрутам. За его уничтожение было обещано вознаграждение в размере [reward] кредитов.</missiondescription.killbossmoloch>
+  <missionsonarlabel.killbossmoloch>Молох</missionsonarlabel.killbossmoloch>
+  <missionsuccess.killbossmoloch>Молох уничтожен.</missionsuccess.killbossmoloch>
+  <missionfailure.killbossmoloch>Миссия провалена.</missionfailure.killbossmoloch>
+  <missionheader0.killbossmoloch>Цель уничтожена</missionheader0.killbossmoloch>
+  <missionmessage0.killbossmoloch>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killbossmoloch>
+  <missionname.killbossmoloch2>Уничтожить аномального молоха</missionname.killbossmoloch2>
+  <missiondescription.killbossmoloch2>Необычный экземпляр молоха был замечен между [location1] и [location2]. Его агрессивное поведение наносит ущерб торговым маршрутам. За его уничтожение было обещано вознаграждение в размере [reward] кредитов.</missiondescription.killbossmoloch2>
+  <missionsonarlabel.killbossmoloch2>Молох</missionsonarlabel.killbossmoloch2>
+  <missionsuccess.killbossmoloch2>Молох уничтожен.</missionsuccess.killbossmoloch2>
+  <missionfailure.killbossmoloch2>Миссия провалена.</missionfailure.killbossmoloch2>
+  <missionheader0.killbossmoloch2>Цель уничтожена</missionheader0.killbossmoloch2>
+  <missionmessage0.killbossmoloch2>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killbossmoloch2>
+  <missionname.killScavengers>Изобилие мусорщиков</missionname.killScavengers>
+  <missiondescription.killScavengers>Мусорщики заняли территорию между [location1] и [location2], и, как следствие, развили агрессивное поведение. Любой, кто уничтожит угрозу, может брать всё, что он найдет.</missiondescription.killScavengers>
+  <missionsonarlabel.killScavengers>Мусорщики</missionsonarlabel.killScavengers>
+  <missionsuccess.killScavengers>Мусорщики были уничтожены.</missionsuccess.killScavengers>
+  <missionfailure.killScavengers>Миссия провалена.</missionfailure.killScavengers>
+  <missionheader0.killScavengers>Цели уничтожены</missionheader0.killScavengers>
+  <missionmessage0.killScavengers>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killScavengers>
+  <missionname.killScavenger>Уничтожить мусорщика</missionname.killScavenger>
+  <missiondescription.killScavenger>Один из бездомных мусорщиков бродит по локации между [location1] и [location2]. Власти обещают [reward] кредитов любому, кто уничтожит его. Любой, кто уничтожит угрозу, может брать всё, что он найдет.</missiondescription.killScavenger>
+  <missionsonarlabel.killScavenger>Мусорщик</missionsonarlabel.killScavenger>
+  <missionsuccess.killScavenger>Мусорщик был устранен.</missionsuccess.killScavenger>
+  <missionfailure.killScavenger>Миссия провалена.</missionfailure.killScavenger>
+  <missionheader0.killScavenger>Цель уничтожена</missionheader0.killScavenger>
+  <missionmessage0.killScavenger>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killScavenger>
+  <missionname.killScavengers2>Изобилие мусорщиков</missionname.killScavengers2>
+  <missiondescription.killScavengers2>Мусорщики заняли территорию между [location1] и [location2], и, как следствие, развили агрессивное поведение. Любой, кто уничтожит угрозу, может брать всё, что он найдет.</missiondescription.killScavengers2>
+  <missionsonarlabel.killScavengers2>Мусорщики</missionsonarlabel.killScavengers2>
+  <missionsuccess.killScavengers2>Мусорщики были уничтожены.</missionsuccess.killScavengers2>
+  <missionfailure.killScavengers2>Миссия провалена.</missionfailure.killScavengers2>
+  <missionheader0.killScavengers2>Цели уничтожены</missionheader0.killScavengers2>
+  <missionmessage0.killScavengers2>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killScavengers2>
+  <missionname.killmajorthesher>Уничтожить крупную стаю акульих тигров</missionname.killmajorthesher>
+  <missiondescription.killmajorthesher>Огромная стая акульих тигров нападает на суда между [location1] и [location2]. Свидетели также сообщают о появлении менее известных видов акул. Награда в размере [reward] кредитов обещана любому экипажу, способному уничтожить стаю.</missiondescription.killmajorthesher>
+  <missionsonarlabel.killmajorthesher>Стая</missionsonarlabel.killmajorthesher>
+  <missionsuccess.killmajorthesher>Стая уничтожена.</missionsuccess.killmajorthesher>
+  <missionfailure.killmajorthesher>Миссия провалена.</missionfailure.killmajorthesher>
+  <missionheader0.killmajorthesher>Цели уничтожены</missionheader0.killmajorthesher>
+  <missionmessage0.killmajorthesher>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmajorthesher>
+  <missionname.killmajormudraptor>Уничтожить крупную стаю грязевых рапторов</missionname.killmajormudraptor>
+  <missiondescription.killmajormudraptor>Большая стая грязевых рапторов нападает на суда между [location1] и [location2]. Награда в размере [reward] кредитов обещана любому экипажу, способному уничтожить стаю.</missiondescription.killmajormudraptor>
+  <missionsonarlabel.killmajormudraptor>Стая грязевых рапторов</missionsonarlabel.killmajormudraptor>
+  <missionsuccess.killmajormudraptor>Стадо уничтожено.</missionsuccess.killmajormudraptor>
+  <missionfailure.killmajormudraptor>Миссия провалена.</missionfailure.killmajormudraptor>
+  <missionheader0.killmajormudraptor>Цели уничтожены</missionheader0.killmajormudraptor>
+  <missionmessage0.killmajormudraptor>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmajormudraptor>
+  <missionname.killmajormudraptor2>Уничтожить огромную стаю грязевых рапторов</missionname.killmajormudraptor2>
+  <missiondescription.killmajormudraptor2>Огромная стая грязевых рапторов атакует суда, проходящие между [location1] и [location2]. Свидетели также сообщают о наличии ветеранов. Вознаграждение в размере [reward] обещано любому экипажу, способному уничтожить стаю.</missiondescription.killmajormudraptor2>
+  <missionsonarlabel.killmajormudraptor2>Стая грязевых рапторов</missionsonarlabel.killmajormudraptor2>
+  <missionsuccess.killmajormudraptor2>Стая уничтожена.</missionsuccess.killmajormudraptor2>
+  <missionfailure.killmajormudraptor2>Миссия провалена.</missionfailure.killmajormudraptor2>
+  <missionheader0.killmajormudraptor2>Цели уничтожены</missionheader0.killmajormudraptor2>
+  <missionmessage0.killmajormudraptor2>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmajormudraptor2>
+  <missonname.killmajormudraptor3>Уничтожить гигантскую стаю грязевых рапторов</missonname.killmajormudraptor3>
+  <missiondescription.killmajormudraptor3>Гигантская стая грязевых рапторов собралась в районе между [location1] и [location2]. Свидетели сообщают о большом количестве ветеранов грязевых рапторов и Грязепрыгателя. Вознаграждение в [reward] обещано любому экипажу, способному уничтожить стаю.</missiondescription.killmajormudraptor3>
+  <missionsonarlabel.killmajormudraptor3>Стая грязевых рапторов</missionsonarlabel.killmajormudraptor3>
+  <missionsuccess.killmajormudraptor3>Стая уничтожена.</missionsuccess.killmajormudraptor3>
+  <missionfailure.killmajormudraptor3>Миссия провалена.</missionfailure.killmajormudraptor3>
+  <missionheader0.killmajormudraptor3>Цели уничтожены</missionheader0.killmajormudraptor3>
+  <missionmessage0.killmajormudraptor3>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmajormudraptor3>
+  <missonname.killmajormudraptor4>Уничтожить массовую стаю грязевых рапторов</missonname.killmajormudraptor4>
+  <missiondescription.killmajormudraptor4>Массовая стая грязевых рапторов собралась в районе между [location1] и [location2]. Свидетели сообщают о большом количестве ветеранов грязевых рапторов и грязепрыгателей. Вознаграждение в размере [reward] обещано любому экипажу, способному уничтожить стаю.</missiondescription.killmajormudraptor4>
+  <missionsonarlabel.killmajormudraptor4>Стая грязевых рапторов</missionsonarlabel.killmajormudraptor4>
+  <missionsuccess.killmajormudraptor4>Стая уничтожена.</missionsuccess.killmajormudraptor4>
+  <missionfailure.killmajormudraptor4>Миссия провалена.</missionfailure.killmajormudraptor4>
+  <missionheader0.killmajormudraptor4>Цели уничтожены</missionheader0.killmajormudraptor4>
+  <missionmessage0.killmajormudraptor4>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmajormudraptor4>
+  <missionname.killmmassivethresher>Уничтожить крупную стаю акульих тигров</missionname.killmmassivethresher>
+  <missiondescription.killmmassivethresher>Огромная стая акульих тигров нападает на суда между [location1] и [location2], блокируя все коммерческие маршруты. Вознаграждение в размере [reward] кредитов обещано любому экипажу, способному уничтожить стаю.</missiondescription.killmmassivethresher>
+  <missionsonarlabel.killmmassivethresher>Акульи тигры</missionsonarlabel.killmmassivethresher>
+  <missionsuccess.killmmassivethresher>Стая уничтожена.</missionsuccess.killmmassivethresher>
+  <missionfailure.killmmassivethresher>Миссия провалена.</missionfailure.killmmassivethresher>
+  <missionheader0.killmmassivethresher>Цель уничтожена</missionheader0.killmmassivethresher>
+  <missionmessage0.killmmassivethresher>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmmassivethresher>
+  <missionname.killmmassivethresher2>Уничтожить крупную стаю акульих тигров</missionname.killmmassivethresher2>
+  <missiondescription.killmmassivethresher2>Огромная стая акульих тигров нападает на суда между [location1] и [location2], блокируя все коммерческие маршруты. Вознаграждение в размере [reward] кредитов обещано любому экипажу, способному уничтожить стаю.</missiondescription.killmmassivethresher2>
+  <missionsonarlabel.killmmassivethresher2>Акульи тигры</missionsonarlabel.killmmassivethresher2>
+  <missionsuccess.killmmassivethresher2>Стая уничтожена.</missionsuccess.killmmassivethresher2>
+  <missionfailure.killmmassivethresher2>Миссия провалена.</missionfailure.killmmassivethresher2>
+  <missionheader0.killmmassivethresher2>Цель уничтожена</missionheader0.killmmassivethresher2>
+  <missionmessage0.killmmassivethresher2>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killmmassivethresher2>
+  <missionname.killbrute>Расследование пропажи груза</missionname.killbrute>
+  <missiondescription.killbrute>Несколько недель назад маленькая партия роботов безопасности "Брут" пропала между [location1] и [location2]. Хотя предполагалось, что груз был потерян навсегда, однако недавно активировались сигналы бедствия роботов. Тот, кто готов исследовать сигналы, будет вознаграждён.</missiondescription.killbrute>
+  <missionsonarlabel.killbrute>Сигналы бедствия</missionsonarlabel.killbrute>
+  <missionsuccess.killbrute>Вы встречаетесь с представителем компании, ответственной за производство "Брут", он представляется и даёт вам [reward] кредитов за "неудобства", затем быстро уходит.</missionsuccess.killbrute>
+  <missionfailure.killbrute>Миссия провалена.</missionfailure.killbrute>
+  <missionheader0.killbrute>Цели исследованы</missionheader0.killbrute>
+  <missionmessage0.killbrute>Пропавшие "Брут" оказались заражены каким-то паразитом, хоть и были после уничтожены. Сообщите об инциденте в [location2].</missionmessage0.killbrute>
+  <missionname.killbrute2>Расследование пропажи груза</missionname.killbrute2>
+  <missiondescription.killbrute2>Несколько недель назад маленькая партия роботов безопасности "Брут" пропала между [location1] и [location2]. Хотя предполагалось, что груз был потерян навсегда, однако недавно активировались сигналы бедствия роботов. Тот, кто готов исследовать сигналы, будет вознаграждён.</missiondescription.killbrute2>
+  <missionsonarlabel.killbrute2>Сигналы бедствия</missionsonarlabel.killbrute2>
+  <missionsuccess.killbrute2>Вы встречаетесь с представителем компании, ответственной за производство "Брут", он представляется и даёт вам [reward] кредитов за "неудобства", затем быстро уходит.</missionsuccess.killbrute2>
+  <missionfailure.killbrute2>Миссия провалена.</missionfailure.killbrute2>
+  <missionheader0.killbrute2>Цели исследованы</missionheader0.killbrute2>
+  <missionmessage0.killbrute2>Пропавшие "Брут" оказались заражены каким-то паразитом, хоть и были после уничтожены. Сообщите об инциденте в [location2].</missionmessage0.killbrute2>
+  <missionname.killvoidstalker>Убить таинственное существо</missionname.killvoidstalker>
+  <missiondescription.killvoidstalker>Многие суда исчезли между [location1] и [location2]. Единственные свидетели страдают от тяжёлого психоза и галлюцинаций, поэтому у нас нет описания того, что вызывает исчезновения, однако один инфразвуковой сигнал был отмечен как главный подозреваемый. Любой желающий исследовать сигнал будет вознаграждён.</missiondescription.killvoidstalker>
+  <missionsonarlabel.killvoidstalker>Инфразвуковой сигнал</missionsonarlabel.killvoidstalker>
+  <missionsuccess.killvoidstalker>Исследователи [location2] особенно заинтересованы в этой встрече и предлагают [reward] кредитов за ваши труды.</missionsuccess.killvoidstalker>
+  <missionfailure.killvoidstalker>Миссия провалена.</missionfailure.killvoidstalker>
+  <missionheader0.killvoidstalker>Сигнал исследован</missionheader0.killvoidstalker>
+  <missionmessage0.killvoidstalker>Странное существо уничтожено. Сообщите о происшествии в [location2].</missionmessage0.killvoidstalker>
+  <missionname.killvoidstalker2>Убить таинственное существо</missionname.killvoidstalker2>
+  <missiondescription.killvoidstalker2>Многие суда исчезли между [location1] и [location2]. Единственные свидетели страдают от тяжёлого психоза и галлюцинаций, поэтому у нас нет описания того, что вызывает исчезновения, однако один инфразвуковой сигнал был отмечен как главный подозреваемый. Любой желающий исследовать сигнал будет вознаграждён.</missiondescription.killvoidstalker2>
+  <missionsonarlabel.killvoidstalker2>Инфразвуковой сигнал</missionsonarlabel.killvoidstalker2>
+  <missionsuccess.killvoidstalker2>Исследователи [location2] особенно заинтересованы в этой встрече и предлагают [reward] кредитов за ваши труды.</missionsuccess.killvoidstalker2>
+  <missionfailure.killvoidstalker2>Миссия провалена.</missionfailure.killvoidstalker2>
+  <missionheader0.killvoidstalker2>Сигнал исследован</missionheader0.killvoidstalker2>
+  <missionmessage0.killvoidstalker2>Странное существо уничтожено. Сообщите о происшествии в [location2].</missionmessage0.killvoidstalker2>
+</infotext>
+<!-- Discord переводчика: enigmans -->

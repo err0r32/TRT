@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+ <!-- Nerve agents -->
+ <afflictionname.feniternerveagent>Воздействие нервно-паралитических веществ</afflictionname.feniternerveagent>
+ <afflictioncauseofdeath.feniternerveagent>Прекращение функционирования всех систем организма.</afflictioncauseofdeath.feniternerveagent>
+ <afflictioncauseofdeathself.feniternerveagent>Все функции органов остановились.</afflictioncauseofdeathself.feniternerveagent>
+ <afflictionname.feniternerveagentcon>Заражение нервно-паралитическим веществом</afflictionname.feniternerveagentcon>
+ <afflictiondescription.feniternerveagent.self>У вас наблюдается мышечная слабость, преобладают головные боли, вы теряете контроль над своим телом.</afflictiondescription.feniternerveagent.self>
+ <afflictiondescription.feniternerveagent>Субъект находится в состоянии летаргии и потери двигательного контроля. Требуется немедленное лечение.</afflictiondescription.feniternerveagent>
+ <afflictiondescription.feniternerveagent.high.self>Ваше тело больше не реагирует на попытки движения.</afflictiondescription.feniternerveagent.high.self>
+ <afflictiondescription.feniternerveagent.high>Субъект становится парализованным. Лечение больше не эффективно.</afflictiondescription.feniternerveagent.high>
+ <afflictionname.fenitervx>Неизвестные нервно-паралитические вещества</afflictionname.fenitervx>
+ <!-- Pulmonary agents -->
+ <afflictionname.feniterpulmonaryagent1>Накапливание возбудителя в легких</afflictionname.feniterpulmonaryagent1>
+ <afflictioncauseofdeath.feniterpulmonaryagent1>Удушье вследствие отека легких.</afflictioncauseofdeath.feniterpulmonaryagent1>
+ <afflictioncauseofdeathself.feniterpulmonaryagent1>Вы задохнулись от легочной жидкости из-за отека легких.</afflictioncauseofdeathself.feniterpulmonaryagent1>
+ <afflictiondescription.feniterpulmonaryagent1.self>Каждый ваш вдох становится все более и более поверхностным.</afflictiondescription.feniterpulmonaryagent1.self>
+ <afflictiondescription.feniterpulmonaryagent1>Вещество в легких начало действовать на легкие субъекта. Требуется немедленное лечение</afflictiondescription.feniterpulmonaryagent1>
+ <afflictiondescription.feniterpulmonaryagent1.high.self>Ваши легкие кажутся тяжелыми, внутри есть что-то похожее на жидкость, и вы этим задыхаетесь.</afflictiondescription.feniterpulmonaryagent1.high.self>
+ <afflictiondescription.feniterpulmonaryagent1.high>Вещество в легких достигло терминальной точки, скопление жидкости превышает возможности лечения. Смерть неизбежна.</afflictiondescription.feniterpulmonaryagent1.high>
+ <afflictionname.feniterpulmonaryagent2>Воздействие легочного вещества</afflictionname.feniterpulmonaryagent2>
+ <afflictioncauseofdeath.feniterpulmonaryagent2>Удушье вследствие отека легких.</afflictioncauseofdeath.feniterpulmonaryagent2>
+ <afflictioncauseofdeathself.feniterpulmonaryagent2>Вы задохнулись от легочной жидкости из-за отека легких.</afflictioncauseofdeathself.feniterpulmonaryagent2>
+ <afflictiondescription.feniterpulmonaryagent2.self>При каждом вдохе кажется, что в легкие не поступает воздух. У него странный слабый запах, с которым вы не знакомы. Ваши легкие раздражены, на лице легкая болезненность.</afflictiondescription.feniterpulmonaryagent2.self>
+ <afflictiondescription.feniterpulmonaryagent2>Легочное вещество заполняет легкие и непосредственно разрушают внутреннюю оболочку органов дыхания.</afflictiondescription.feniterpulmonaryagent2>
+ <afflictiondescription.feniterpulmonaryagent2.high.self>Острая боль нарастает с каждым вдохом в этой области.</afflictiondescription.feniterpulmonaryagent2.high.self>
+ <afflictiondescription.feniterpulmonaryagent2.high>Расширенное воздействие вещества в легких серьезно повреждает слизистую оболочку дыхательных путей и органов субъекта.</afflictiondescription.feniterpulmonaryagent2.high>
+ <!-- Blood Agents -->
+ <afflictionname.feniterbloodagent>Воздействие вещества в крови</afflictionname.feniterbloodagent>
+ <afflictioncauseofdeath.feniterbloodagent>Имеются признаки смерти от воздействия вещесьва в крови.</afflictioncauseofdeath.feniterbloodagent>
+ <afflictioncauseofdeathself.feniterbloodagent>Все эритроциты уничтожены.</afflictioncauseofdeathself.feniterbloodagent>
+ <afflictiondescription.feniterbloodagent.self>В ваших венах и артериях течет ярко-красная кровь, ваша кожа пожелтела.</afflictiondescription.feniterbloodagent.self>
+ <afflictiondescription.feniterbloodagent>Вены и артерии имеют ярко-красный цвет, кожа имеет желтый оттенок, у субъекта наблюдается гемолитическая анемия.</afflictiondescription.feniterbloodagent>
+ <!-- Blistering agents -->
+ <afflictionname.feniterblisteragent>Воздействие везиканта</afflictionname.feniterblisteragent>
+ <afflictioncauseofdeath.feniterblisteragent>Циркуляция зараженной разлагающейся плоти переносится в другие органы.</afflictioncauseofdeath.feniterblisteragent>
+ <afflictioncauseofdeathself.feniterblisteragent>Вы обожгли свою конечность насмерть, это затронуло и вас тоже.</afflictioncauseofdeathself.feniterblisteragent>
+ <afflictiondescription.feniterblisteragent>Вокруг фурункула возникает мучительный зуд со жгучим сочащимся гноем.</afflictiondescription.feniterblisteragent>
+ <afflictionname.feniterblisteragentinternal>Воздействие везиканта (внутреннее)</afflictionname.feniterblisteragentinternal>
+ <afflictioncauseofdeath.feniterblisteragentinternal>Удушье при повреждении органов дыхания</afflictioncauseofdeath.feniterblisteragentinternal>
+ <afflictioncauseofdeathself.feniterblisteragentinternal>Вы задохнулись кровью из-за повреждения органов дыхания.</afflictioncauseofdeathself.feniterblisteragentinternal>
+ <afflictiondescription.feniterblisteragentinternal.self>Легкие кажутся довольно теплыми, но с легким внутренним зудом и болью.</afflictiondescription.feniterblisteragentinternal.self>
+ <afflictiondescription.feniterblisteragentinternal>Субъект испытывает легкие симптомы от незначительного воздействия везиканта.</afflictiondescription.feniterblisteragentinternal>
+ <afflictionname.feniterblisteragentcon>Загрязнение везикантом</afflictionname.feniterblisteragentcon>
+ <afflictionname.feniterblisteragentcon2>Загрязнение везикантом</afflictionname.feniterblisteragentcon2>
+ <!-- Lachrymator Agents(tear gas) -->
+ <afflictionname.feniternonlethalagent>Воздействие лакриматора</afflictionname.feniternonlethalagent>
+ <afflictioncauseofdeath.feniternonlethalagent>Раздражающие вещества (лакриматоры) удушье, приводящее к асфиксии.</afflictioncauseofdeath.feniternonlethalagent>
+ <afflictioncauseofdeathself.feniternonlethalagent>Смерть от удушья вследствие чрезмерного воздействия слезоточивых веществ.</afflictioncauseofdeathself.feniternonlethalagent>
+ <afflictiondescription.feniternonlethalagent.self>У тебя сильно болят глаза. Ваше лицо словно горит. Тебя сейчас вырвет.</afflictiondescription.feniternonlethalagent.self>
+ <afflictiondescription.feniternonlethalagent>Воздействие не-смертоносного слезоточивого газа. Эвакуируйте и лечите, если это возможно.</afflictiondescription.feniternonlethalagent>
+ <!-- Psychochemical agents -->
+ <afflictionname.feniterpsychoagent>Воздействие психо-химического вещества</afflictionname.feniterpsychoagent>
+ <afflictioncauseofdeath.feniterpsychoagent>Гипертермия, тело становится очень горячим на ощупь.</afflictioncauseofdeath.feniterpsychoagent>
+ <afflictioncauseofdeathself.feniterpsychoagent>Ваш мозг отключается при сильном воздействии психо-химических веществ.</afflictioncauseofdeathself.feniterpsychoagent>
+ <afflictiondescription.feniterpsychoagent.self>Ваше восприятие реальности дает сбой.</afflictiondescription.feniterpsychoagent.self>
+ <afflictiondescription.feniterpsychoagent>Субъект испытывает бред.</afflictiondescription.feniterpsychoagent>
+ <!-- grenades -->
+ <entityname.fenitergasgrenade1>Граната с баллончиком с нервно-паралитическим веществом АВ-1</entityname.fenitergasgrenade1>
+ <entitydescription.fenitergasgrenade1>Содержит большое количество фосфорорганических соединений. Быстрое впитывание через кожу приводит к быстрой гибели любого живого существа, находящегося достаточно близко к эпицентру. Дисперсный газ будет сохраняться в течение очень длительного времени. Газ бесцветен и не имеет запаха. Эффективен против нечеловеческих организмов.</entitydescription.fenitergasgrenade1>
+ <entityname.fenitergasgrenade2>АВ-2 Канистровая граната с легочным веществом</entityname.fenitergasgrenade2>
+ <entitydescription.fenitergasgrenade2>Содержит большое количество варианта фосгена. Наименьшее воздействие - это гарантированная смерть со временем, не имеет значения, какое воздействие они приобретут. Дисперсный газ будет сохраняться в течение очень длительного времени. Газ бесцветен, но имеет легкий запах. Медленный убийца, но тихий и устойчивый к лечению.</entitydescription.fenitergasgrenade2>
+ <entityname.fenitergasgrenade3>Граната с канистрой с кровяным веществом АВ-3</entityname.fenitergasgrenade3>
+ <entitydescription.fenitergasgrenade3>Содержит смесь цианида и мышьяка. Быстродействующий смертельный убийца. Нарушает снабжение крови пострадавших кислородом. Лучше всего работает только в закрытых помещениях. Никакого лечения быстродействующего веществоа не используйте без надлежащей защиты. Быстро разлагается и не сохраняется. Не работает на открытой местности.</entitydescription.fenitergasgrenade3>
+ <entityname.fenitergasgrenade4>АВ-4 Канистровая граната с фугасным веществом</entityname.fenitergasgrenade4>
+ <entitydescription.fenitergasgrenade4>Содержит летучие вещества, вызывающие вздутие. Вызывает сильные ожоги и легко лопающиеся волдыри, а также серьезное повреждение внутренних органов. Видимый и стойкий газ, который прилипает и загрязняет живой материал.</entitydescription.fenitergasgrenade4>
+ <entityname.fenitergasgrenade4type2>АВ-4 Канистровая граната с взрывоопасным веществом (ПВП)</entityname.fenitergasgrenade4type2>
+ <entitydescription.fenitergasgrenade4type2>Содержит все эффекты, предназначенные для игры «игрок против игрока» (настоятельно не рекомендуется использовать против ИИ).</entitydescription.fenitergasgrenade4type2>
+ <entityname.fenitergasgrenade5>Канистра с гранатой-лакриматором АВ-0</entityname.fenitergasgrenade5>
+ <!-- Comment for translators:I gave the guy who helped me here a comment right, it is up to you to make your own joke or to not include a joke at all -->
+ <entitydescription.fenitergasgrenade5>Содержит большое количество слезоточивых веществ. Серьезно снизит способность цели двигаться и действовать. Можно использовать только в закрытых помещениях и сухих помещениях. Заставляет всех немедленно разбежаться из зоны действия. (Пахнет почти так же плохо, как турнир Smash Bros.)</entitydescription.fenitergasgrenade5>
+ <entityname.fenitergasgrenade6>Канистровая граната с психо-химическим веществом АВ-5</entityname.fenitergasgrenade6>
+ <entitydescription.fenitergasgrenade6>Содержит психологические вещества, изменяющие сознание. Расширенное воздействие приведет к повреждению головного мозга и возможной смерти мозга. Используйте только в закрытых помещениях, рассеивается быстрее, чем другие газы.</entitydescription.fenitergasgrenade6>
+ <!-- Chemical Munitions Shell & Payload items -->
+ <entityname.feniterrailgunshell>Оболочка для химических боеприпасов</entityname.feniterrailgunshell>
+ <entitydescription.feniterrailgunshell>Модифицированная конструкция снаряда рельсотрона, обеспечивающая большую проникающую способность и урон на меньшей площади за счет потенциального взрыва и общего повреждения конструкции и предметов.</entitydescription.feniterrailgunshell>
+ <entityname.feniterchemicalmunition1>AX-0 Канистра с нервно-паралитическим веществом</entityname.feniterchemicalmunition1>
+ <entitydescription.feniterchemicalmunition1>Содержит сильнодействующие нервно-паралитические вещества. НЕ ПОДВЕРГАЙТЕ ВОЗДЕЙСТВИЮ ВЫСОКИХ ТЕМПЕРАТУР.</entitydescription.feniterchemicalmunition1>
+ <entityname.feniterchemicalmunition2>AX-1 Канистра с легочным веществом</entityname.feniterchemicalmunition2>
+ <entitydescription.feniterchemicalmunition2>Содержит сильнодействующие легочные вещества. НЕ ПОДВЕРГАЙТЕ ВОЗДЕЙСТВИЮ ВЫСОКИХ ТЕМПЕРАТУР.</entitydescription.feniterchemicalmunition2>
+ <entityname.feniterchemicalmunition3>AX-2 Канистра с кровяным веществом</entityname.feniterchemicalmunition3>
+ <entitydescription.feniterchemicalmunition3>Содержит сильнодействующие кроветворные вещества. НЕ ПОДВЕРГАЙТЕ ВОЗДЕЙСТВИЮ ВЫСОКИХ ТЕМПЕРАТУР.</entitydescription.feniterchemicalmunition3>
+ <entityname.feniterchemicalmunition4>AX-3 Канистра с блистерным веществом</entityname.feniterchemicalmunition4>
+ <entitydescription.feniterchemicalmunition4>Содержит сильнодействующие нарывные вещества. НЕ ПОДВЕРГАЙТЕ ВОЗДЕЙСТВИЮ ВЫСОКИХ ТЕМПЕРАТУР.</entitydescription.feniterchemicalmunition4>
+ <entityname.feniterchemicalmunition4type2>AX-3 Канистра с блистерным веществом (ПВП)</entityname.feniterchemicalmunition4type2>
+ <entitydescription.feniterchemicalmunition4type2>Содержит все эффекты, предназначенные для игры «игрок против игрока» (настоятельно не рекомендуется использовать против ИИ).</entitydescription.feniterchemicalmunition4type2>
+ <!-- Small arms/Handheld weapon ammunition -->
+ <entityname.feniterrifleround1>Патроны для винтовки АВ-0А «Лакриматор»</entityname.feniterrifleround1>
+ <entitydescription.feniterrifleround1>Винтовочный патрон, снаряженный слезоточивыми веществами.</entitydescription.feniterrifleround1>
+ <entityname.feniterglround1>Канистра с гранатометом АВ-0Б «Лакриматор»</entityname.feniterglround1>
+ <entitydescription.feniterglround1>Боеприпасы для гранатомета, снаряженные слезоточивыми веществами.</entitydescription.feniterglround1>
+ <entityname.fenitersmgmagazine1>AV-0C Лакриматор, патроны для пистолета-пулемета</entityname.fenitersmgmagazine1>
+ <entitydescription.fenitersmgmagazine1>Патроны малого калибра, снаряженные слезоточивыми веществами.</entitydescription.fenitersmgmagazine1>
+ <entityname.feniterrifleround2>Патроны к винтовке с нервно-паралитическим веществом АВ-1А</entityname.feniterrifleround2>
+ <entitydescription.feniterrifleround2>Винтовочный патрон, заряженный нервно-паралитическим веществом.</entitydescription.feniterrifleround2>
+ <entityname.fenitersmgmagazine2>Патроны для пистолета-пулемета с нервно-паралитическим веществом АВ-1Б</entityname.fenitersmgmagazine2>
+ <entitydescription.fenitersmgmagazine2>Малокалиберные патроны, снаряженные нервно-паралитическим веществом. РИСК ПРИ ИСПОЛЬЗОВАНИИ: ЗАГРЯЗНЕНИЕ ПЕРСОНАЛА</entitydescription.fenitersmgmagazine2>
+ <entityname.feniterglround2>Канистра для гранатомета АВ-4А</entityname.feniterglround2>
+ <entitydescription.feniterglround2>Боеприпасы для гранатомета, снаряженные нарыво опасными веществами.</entitydescription.feniterglround2>
+ <entityname.feniterglround2type2>Канистра для подствольного гранатомета АВ-4А (ПВП)</entityname.feniterglround2type2>
+ <entitydescription.feniterglround2type2>Содержит все эффекты, предназначенные для игры «игрок против игрока» (настоятельно не рекомендуется использовать против ИИ).</entitydescription.feniterglround2type2>
+ <entityname.feniterrifleround3>Винтовочные патроны с психо-химическим веществом АВ-5А</entityname.feniterrifleround3>
+ <entitydescription.feniterrifleround3>Винтовочный патрон, снаряженный психо-химическими веществами.</entitydescription.feniterrifleround3>
+ <entityname.fenitersmgmagazine3>Патроны для пистолет-пулемета Психо-химического действия АВ-5Б</entityname.fenitersmgmagazine3>
+ <entitydescription.fenitersmgmagazine3>Малокалиберные патроны, снаряженные психо-химическими веществами.</entitydescription.fenitersmgmagazine3>
+ <!-- Auxiliary items -->
+ <entityname.feniterhazmats>Усовершенствованный защитный костюм</entityname.feniterhazmats>
+ <entitydescription.feniterhazmats>Модифицированный костюм из военных опасных материалов. Питание костюма включает освещение и вспомогательный дыхательный аппарат замкнутого контура с батареей в костюме. Внутренний гель костюма защищает от внезапного потока воды и в случае необходимости может действовать как гидрокостюм при медленном движении. Многофункциональные очки, обеспечивающие тепловое зрение, зрение при слабом освещении и функцию сканирования здоровья.</entitydescription.feniterhazmats>
+ <entityname.feniterhazmatsred>Усовершенствованный защитный костюм (красный)</entityname.feniterhazmatsred>
+ <entitydescription.feniterhazmatsred>Красный вариант усовершенствованного защитного костюма.</entitydescription.feniterhazmatsred>
+ <entityname.feniteraerosolcan1>Красная краска</entityname.feniteraerosolcan1>
+ <entitydescription.feniteraerosolcan1>Что-то не так...</entitydescription.feniteraerosolcan1>
+ <entityname.feniteraerosolcan2>Красная краска</entityname.feniteraerosolcan2>
+ <entitydescription.feniteraerosolcan2>Что-то не так...</entitydescription.feniteraerosolcan2>
+ <entityname.feniterchemcrate1>Контейнер с химическим оружием</entityname.feniterchemcrate1>
+ <entitydescription.feniterchemcrate1>Простой контейнер для химического оружия, не содержит эффектов оружия.</entitydescription.feniterchemcrate1>
+ <entityname.feniterchemcrate2>Неизвестный химический контейнер</entityname.feniterchemcrate2>
+ <entitydescription.feniterchemcrate2>Ящик, наполненный снарядами? Вместо предохранителя у него странное подъемное кольцо. На снарядах большими жирными буквами написано «VX Gas»...</entitydescription.feniterchemcrate2>
+ <!-- Medical items -->
+ <entityname.feniternerveagentcure>Пралидоксима хлорид</entityname.feniternerveagentcure>
+ <entitydescription.feniternerveagentcure>Пралидоксим, используемый для создания нервно-паралитических веществ. ТОЛЬКО ДЛЯ нервно-паралитических веществ. Требуется немного медицинских знаний, чтобы ввести его через капельницу. Отсутствие медицинских знаний приводит к внутримышечным инъекциям, что приводит к снижению эффективности.</entitydescription.feniternerveagentcure>
+ <entityname.feniterpulmonaryagentcure1>Пульмонологическая промывка общего назначения</entityname.feniterpulmonaryagentcure1>
+ <entitydescription.feniterpulmonaryagentcure1>Мочегонное средство для крови, используемое при сильном отеке легких и повреждении органов легких от пузырных веществоов. Требуется немного медицинских знаний, чтобы ввести его через капельницу. Недостаток медицинских знаний приводит к внутримышечным инъекциям, что приводит к снижению эффективности, а также к внутренним повреждениям в результате неправильной эксплуатации.</entitydescription.feniterpulmonaryagentcure1>
+ <entityname.feniterpulmonaryagentcure2>Легочный/кровяной антидот</entityname.feniterpulmonaryagentcure2>
+ <entitydescription.feniterpulmonaryagentcure2>Кровяной диуретик, используемый при низком накоплении вещества в легких. Требуется немного медицинских знаний, чтобы ввести его через капельницу. Отсутствие медицинских знаний приводит к внутримышечным инъекциям, что приводит к снижению эффективности, а также к вреду в результате неправильного применения. Вызывает сонливость. ИСПОЛЬЗУЙТЕ ПРИ ВОЗДЕЙСТВИИ ЛЕГКИХ ВЕЩЕСТВ ДО ПОЯВЛЕНИЯ СИМПТОМОВ.</entitydescription.feniterpulmonaryagentcure2>
+ <entityname.feniterchemicalblisterbandage>Химическая повязка на волдырях</entityname.feniterchemicalblisterbandage>
+ <entitydescription.feniterchemicalblisterbandage>Повязка, пропитанная связующими веществами, которые нейтрализуют ее действие, а также быстрее лечат кровотечения и ожоги.</entitydescription.feniterchemicalblisterbandage>
+ <entityname.feniterpsychoagentcure>Психохимический противоядие</entityname.feniterpsychoagentcure>
+ <entitydescription.feniterpsychoagentcure>Диуретик крови, используемый при воздействии психо-химических веществ. Отключает центральную нервную систему, а также вызывает сильную сонливость.</entitydescription.feniterpsychoagentcure>
+ <entityname.feniterdecontaminant>Универсальное дезинфицирующее средство</entityname.feniterdecontaminant>
+ <entitydescription.feniterdecontaminant>Превратите этанол во что-то, чем вы правильно обливаете себя, чтобы обеззаразить.</entitydescription.feniterdecontaminant>
+ <!-- Mission -->
+ <missionname.fenitercargochemicals1>Отгрузка химикатов</missionname.fenitercargochemicals1>
+ <missiondescription.fenitercargochemicals1>Должностные лица местного правительства [location1] решили перевезти химическое оружие в [location2] по секретным причинам.</missiondescription.fenitercargochemicals1>
+ <missionsuccess.fenitercargochemicals1>Успешная доставка химического оружия.</missionsuccess.fenitercargochemicals1>
+ <missionname.fenitercargochemicals2>Химические перевозки</missionname.fenitercargochemicals2>
+ <missiondescription.fenitercargochemicals2>Должностные лица местного правительства [location1] решили перевезти химическое оружие в [location2] по секретным причинам.</missiondescription.fenitercargochemicals2>
+ <missionsuccess.fenitercargochemicals2>Успешная доставка химического оружия.</missionsuccess.fenitercargochemicals2>
+ <missionname.fenitercargochemicals3>Химические перевозки</missionname.fenitercargochemicals3>
+ <missiondescription.fenitercargochemicals3>Должностные лица местного правительства [location1] решили перевезти химическое оружие в [location2] по секретным причинам.</missiondescription.fenitercargochemicals3>
+ <missionsuccess.fenitercargochemicals3>Успешная доставка химического оружия.</missionsuccess.fenitercargochemicals3>
+ <missionname.fenitercargochemicals4>Химические перевозки</missionname.fenitercargochemicals4>
+ <missiondescription.fenitercargochemicals4>Должностные лица местного правительства [location1] решили перевезти химическое оружие в [location2] по секретным причинам.</missiondescription.fenitercargochemicals4>
+ <missionsuccess.fenitercargochemicals4>Успешная доставка химического оружия.</missionsuccess.fenitercargochemicals4>
+ <missionname.fenitersalvagewreck>Неизвестное аномальное место крушения</missionname.fenitersalvagewreck>
+ <missiondescription.fenitersalvagewreck>До этой станции дошли сообщения о спасательных командах, погибших от неизвестного присутствия на затонувшей подводной лодке. Подходите к месту крушения подводной лодки с осторожностью.</missiondescription.fenitersalvagewreck>
+ <missionsonarlabel.fenitersalvagewreck>Крушение</missionsonarlabel.fenitersalvagewreck>
+ <missionsuccess.fenitersalvagewreck>Обнаружен неизвестный химический предмет.</missionsuccess.fenitersalvagewreck>
+ <missionfailure.fenitersalvagewreck>Не удалось получить элемент.</missionfailure.fenitersalvagewreck>
+ <missionheader0.fenitersalvagewreck>Приобретен неизвестный предмет.</missionheader0.fenitersalvagewreck>
+ <missionmessage0.fenitersalvagewreck>Приобретен неизвестный химический предмет. Отнесите его в [location2], чтобы получить награду.</missionmessage0.fenitersalvagewreck>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->

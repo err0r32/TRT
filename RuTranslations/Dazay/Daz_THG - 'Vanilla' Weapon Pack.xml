@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.thgflintlock>Кремниевый Пистолет</entityname.thgflintlock>
+  <entitydescription.thgflintlock>Невероятно архаичное оружие, по сути, короткий ствол с молотком и спусковым крючком, предназначенным для воспламенения хранящегося летучего пороха, будь то магний, фосфор или порох-вспышка, чтобы произвести заряженный выстрел. Время от времени его использование может быть немного опасным, однако...</entitydescription.thgflintlock>
+  <entityname.thgpowderbomb>Ручная Бомба</entityname.thgpowderbomb>
+  <entitydescription.thgpowderbomb>Маленькая, но тяжелая железная круглая бомба с зарядом взрывчатого пороха. Довольно дешева и проста в изготовлении, но не взрывается под водой из-за своего взрывателя.</entitydescription.thgpowderbomb>
+  <entityname.thgclustershot>Дробь</entityname.thgclustershot>
+  <entitydescription.thgclustershot>Пучок свободных, круглых металлических дробинок, предназначенных для стрельбы из мушкетона.</entitydescription.thgclustershot>
+  <entityname.thgslugshot>Свинцовая пуля</entityname.thgslugshot>
+  <entitydescription.thgslugshot>Большой круглый металлический шар, предназначенный для выстрела из огнестрельного оружия с пороховой начинкой.</entitydescription.thgslugshot>
+  <entityname.blunderbussy>Мушкетон</entityname.blunderbussy>
+  <entitydescription.blunderbussy>Невероятно архаичное оружие, представляющее собой ствол с молотком и спусковым крючком, предназначенным для воспламенения хранящегося летучего пороха, будь то магниевый, фосфорный или порох-вспышка, с целью вылета заряда дроби. Время от времени его использование может быть несколько опасным, однако...</entitydescription.blunderbussy>
+  <entityname.thgassaultshotgun>Штурмовой Дробовик</entityname.thgassaultshotgun>
+  <entitydescription.thgassaultshotgun>Смертоносный полуавтоматический дробовик с удлиненной трубкой для хранения дополнительных патронов. По сравнению с помповыми ружьями, он более неудобен, но может стрелять гораздо быстрее, особенно с практикой.</entitydescription.thgassaultshotgun>
+  <entityname.thgobrez>Обрез</entityname.thgobrez>
+  <entitydescription.thgobrez>Очень компактная самозарядная винтовка. Очень неточная и крайне неудобная, но мощная в ближнем бою.</entitydescription.thgobrez>
+  <entityname.thgmulticalderringer>Мультипликационный дерринджер</entityname.thgmulticalderringer>
+  <entitydescription.thgmulticalderringer>Невероятно неудобный дешевый однозарядный пистолет с широким стволом, способный снаряжать патроны и стрелять практически чем угодно, но не отличающийся ни высокой точностью, ни прочностью. Широко доступен и особенно популярен среди бунтарей, которым приходится импровизировать с боеприпасами.</entitydescription.thgmulticalderringer>
+  <entityname.thgautopistol>Автоматический Пистолет</entityname.thgautopistol>
+  <entitydescription.thgautopistol>Компактный пистолет 45-го калибра. Относительно прост в обращении благодаря своему небольшому весу и наносит приличный удар по легким целям. Он может заряжаться только компактными магазинами 45-го калибра - другие слишком громоздки и не помещаются в его раме. В отличие от револьвера, пистолет оснащен направляющей для крепления подствольного фонаря.</entitydescription.thgautopistol>
+  <entityname.vintageautopistol>Старинный Автоматический Пистолет</entityname.vintageautopistol>
+  <entitydescription.vintageautopistol>Архаичный пистолет 45-го калибра. Обладает мощной стальной рамой и может использовать удлиненные магазины, но он тяжелее и сложнее в обращении.</entitydescription.vintageautopistol>
+  <entityname.compactsmgmagazine>Компактный магазин 45-го калибра</entityname.compactsmgmagazine>
+  <entitydescription.compactsmgmagazine>Магазин ограниченной емкости 45-го калибра, который чаще всего продается на коалиционных территориях из-за менее строгих правил на легальном рынке.</entitydescription.compactsmgmagazine>
+  <entityname.medusarevolver>Револьвер "Медуза"</entityname.medusarevolver>
+  <entitydescription.medusarevolver>Тяжелый, большой револьвер. Может снаряжать патроны как дробовые, так и револьверные 38-го калибра, хотя из-за плохой подгонки патронника немного теряется мощность.</entitydescription.medusarevolver>
+  <entityname.bulldogrevolver>Револьвер "Бульдог"</entityname.bulldogrevolver>
+  <entitydescription.bulldogrevolver>Тяжелый, но компактный револьвер с чрезмерно большим цилиндром. В отличие от обычного револьвера, он может стрелять как винтовочными, так и ручными пулеметными патронами благодаря их схожему диаметру, однако он медленно заряжается и неудобен в стрельбе, а также теряет в мощности из-за укороченного ствола и плохой подгонки патронника.</entitydescription.bulldogrevolver>
+  <entityname.riflecarbine>Винтовка Карабин</entityname.riflecarbine>
+  <entitydescription.riflecarbine>Короткоствольная полуавтоматическая винтовка 30-го калибра. Неприхотлива в руках новичка, смертоносна в руках профессионала.</entitydescription.riflecarbine>
+  <entityname.railrifle>Рельсовая Винтовка</entityname.railrifle>
+  <entitydescription.railrifle>Невероятно мощное, высокоэнергетическое переносное рельсовое орудие, стреляющее полноразмерными снарядами с огромной силой. Используйте с большой осторожностью!</entitydescription.railrifle>
+  <entityname.portapulser>Портативный лазпульсатор</entityname.portapulser>
+  <entityname.sportsmanrifle>Винтовка Спортсмена</entityname.sportsmanrifle>
+  <entitydescription.sportsmanrifle>Мощная полуавтоматическая винтовка, стреляющая патронами калибра 6,8 мм из стандартных магазинов штурмовой винтовки, но в исполнении, которое коалиция считает приемлемо "гражданской" юридической платформой.</entitydescription.sportsmanrifle>
+  <entityname.personaldefenseweapon>ПОС</entityname.personaldefenseweapon>
+  <entitydescription.personaldefenseweapon>Компактное оружие индивидуальной защиты калибра 45, выполненное по схеме "булл-пап", с невероятно быстрым темпом стрельбы. Сложное в управлении, но мощное в ближнем бою и способное на несколько более высокую пробивную способность, чем более короткоствольное оружие того же калибра.</entitydescription.personaldefenseweapon>
+  <entityname.vintagesmg>Винтажный ПП</entityname.vintagesmg>
+  <entitydescription.vintagesmg>Винтажный пистолет-пулемет 45 калибра. Благодаря почти цельной стальной конструкции он довольно тяжел, но его вес в сочетании с простой конструкцией и относительно низкой скорострельностью облегчает управление им для стрелков-любителей. Может быть, пистолет и устарел, но он по-прежнему наносит ощутимый удар.</entitydescription.vintagesmg>
+  <entityname.rhinorifle>Винтовка "Носорог"</entityname.rhinorifle>
+  <entitydescription.rhinorifle>Большая комбинация дробовика и винтовки. Может стрелять как из ручной пушки, так и из дробовика, из двух стволов с отдельными отверстиями.</entitydescription.rhinorifle>
+  <entityname.assaultcarbine>Штурмовой карабин</entityname.assaultcarbine>
+  <entitydescription.assaultcarbine>Очень мощная короткоствольная штурмовая винтовка без приклада. В результате она заметно менее точна, чем её более крупные собратья, но ее гораздо удобнее прятать в вещах, и хотя она немного теряет в мощности из-за короткого ствола, она все равно может нанести неприятный удар. Кроме того, из-за отсутствия приклада эта винтовка подпадает под определение легального пистолета в Коалиционном уставе, что делает ее гораздо более распространенной в продаже, чем ее более крупный собрат.</entitydescription.assaultcarbine>
+  <entityname.vintagerevolver>Винтажный Револьвер</entityname.vintagerevolver>
+  <entityname.levergun>Винтовка Рычажного Действия</entityname.levergun>
+  <entitydescription.levergun>Классическая винтовка с рычажным механизмом, использующая револьверные патроны калибра .38. Длинный ствол придает винтовке приличную отдачу, а также значительно увеличивает емкость патронов, что способствует повышению точности и удобству обращения с более крупной винтовкой, хотя для быстрой перезарядки требуется определенный навык. Однако из-за большей массы его трудно носить с собой как повседневное оружие.</entitydescription.levergun>
+  <entityname.micromachinegun>Микропулемет</entityname.micromachinegun>
+  <entitydescription.micromachinegun>Скорострельный, но маломощный пулемет, использующий боеприпасы защитного бота.</entitydescription.micromachinegun>
+  <entityname.defensebotammobox>Ящик с Патронами для Защитного Бота</entityname.defensebotammobox>
+  <entityname.micromachinegunsmg>Макропулемет</entityname.micromachinegunsmg>
+  <entitydescription.micromachinegunsmg>Скорострельный, но маломощный пулемет, использующий боеприпасы защитного бота.</entitydescription.micromachinegunsmg>
+  <entityname.thgrattlegun>Самодельный Пистолет-Пулемёт</entityname.thgrattlegun>
+  <entitydescription.thgrattlegun>Неуклюжий, медленно стреляющий двуручный пистолет-пулемёт, сделанный из подручных деталей. Из-за странной "полки" для патронов, а не нормального магазина, он может использовать только компактные магазины .45, а его некачественная конструкция не выдерживает давления патронов +P+.</entitydescription.thgrattlegun>
+  <entityname.thgobrezshotty>Sawedoff</entityname.thgobrezshotty>
+  <entitydescription.thgobrezshotty>Очень компактная самозарядная винтовка. Очень неточная и крайне неудобная, но мощная в ближнем бою.</entitydescription.thgobrezshotty>
+  <entityname.bullpupautopistol>Автопистолет Булл-пап</entityname.bullpupautopistol>
+  <entidescription.bullpupautopistol>Нестандартный самозарядный пистолет типа "булл-пап", стреляющий мощными винтовочными патронами калибра 6,8 мм, предназначенный для поражения легких бронежилетов.</entidescription.bullpupautopistol>
+  <entityname.thgvintagemp>Старинный Пистолет-Пулемет</entityname.thgvintagemp>
+  <entitydescription.thgvintagemp>Архаичный пистолет 45-го калибра. Обладает мощной стальной рамой и может использовать удлиненные магазины, но он тяжелее и сложнее в обращении.</entitydescription.thgvintagemp>
+  <entityname.thgrotarygrenadelauncher>Роторный Гранатомет</entityname.thgrotarygrenadelauncher>
+  <entitydescription.thgrotarygrenadelauncher>Тяжелый, шестикамерный роторный 40-мм гранатомет. Способен в короткие сроки нанести нечестивое количество огневой мощи.</entitydescription.thgrotarygrenadelauncher>
+  <entityname.thgbullpupassaultcarbine>Штурмовая Винтовка CQC</entityname.thgbullpupassaultcarbine>
+  <entitydescription.thgbullpupassaultcarbine>Мощная, относительно компактная штурмовая винтовка типа "буллпап" с 40-мм подствольным гранатометом, предназначенная для ведения боя как на близких, так и на дальних дистанциях, благодаря обманчиво длинному стволу и малому габариту в сочетании с высокой скорострельностью.</entitydescription.thgbullpupassaultcarbine>
+  <entityname.thgmakeshiftrifle>Самодельная Винтовка</entityname.thgmakeshiftrifle>
+  <entitydescription.thgmakeshiftrifle>Классическая винтовка с рычажным механизмом, использующая револьверные патроны калибра .38. Длинный ствол придает им приличную отдачу, а также значительно увеличивает ёмкость для патронов, что способствует повышению точности и простоте обращения с более крупной винтовкой, хотя для быстрой перезарядки требуется определенный навык. Однако из-за большей массы пистолет трудно носить с собой в качестве повседневного оружия.</entitydescription.thgmakeshiftrifle>
+  <entityname.thgmakeshiftshotgun>Самодельное Ружьё</entityname.thgmakeshiftshotgun>
+  <entitydescription.thgmakeshiftshotgun>Классическая винтовка с рычажным механизмом, использующая револьверные патроны калибра .38. Длинный ствол придает им приличную отдачу, а также значительно увеличивает емкость для патронов, что способствует повышению точности и простоте обращения с более крупной винтовкой, хотя для быстрой перезарядки требуется определенный навык. Однако из-за большей массы его трудно носить с собой в качестве повседневного оружия.</entitydescription.thgmakeshiftshotgun>
+  <entityname.makeshiftpistol>Самодельный Пистолет</entityname.makeshiftpistol>
+  <entityname.thgmobilecoiler>Мобильная Моталка</entityname.thgmobilecoiler>
+  <entitydescription.thgmobilecoiler>Уменьшенная катушечная пушка, предназначенная для стрельбы от бедра - чаще всего с помощью экзоскелета, выдерживающего отдачу.</entitydescription.thgmobilecoiler>
+  <entityname.thginfernolauncher>Пушка "Инферно"</entityname.thginfernolauncher>
+  <entitydescription.thginfernolauncher>Огромный, тяжелый огнемет, использующий крайне неэффективную систему топливных форсунок для создания буквально огненных стен.</entitydescription.thginfernolauncher>
+  <entityname.thgrhinoweaponsystem>Оружейная Система "Носорог"</entityname.thgrhinoweaponsystem>
+  <entitydescription.thgrhinoweaponsystem>Большая комбинация дробовика и винтовки. Может стрелять как из ручной пушки, так и из дробовика, из двух стволов с отдельными отверстиями.</entitydescription.thgrhinoweaponsystem>
+  <entityname.thgsubcarbine>Карабин-Автомат</entityname.thgsubcarbine>
+  <entitydescription.thgsubcarbine>Первоначально разработанный до того, как автоматические пистолеты-пулеметы были вновь легализованы на Европе по мандату Коалиции в связи с подавляющим присутствием враждебной фауны, карабины-автоматы немного более точен и предлагает немного больше энергии на выстрел благодаря немного более длинному стволу и более упрощенной схеме, но он ограничен полуавтоматическим режимом. Однако у него исключительно легкий спусковой крючок.</entitydescription.thgsubcarbine>
+</infotext>

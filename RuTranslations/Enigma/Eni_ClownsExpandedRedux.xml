@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- jobgear.xml -->
+  <entityname.bruisermask>Маска громилы</entityname.bruisermask>
+  <entitydescription.bruisermask>Теперь уже не так смешно.</entitydescription.bruisermask>
+  <entityname.bruisermask2>Баллистический носовой протектор клоунмандира</entityname.bruisermask2>
+  <entitydescription.bruisermask2>Приготовиться к хонк-удару</entitydescription.bruisermask2>
+  <entityname.bruisermask3>Маска весельчака</entityname.bruisermask3>
+  <entitydescription.bruisermask3>Давайте повеселимся!</entitydescription.bruisermask3>
+  <entityname.cloggles>Клоунфармационный экран сканера здоровья</entityname.cloggles>
+  <entitydescription.cloggles>Дай-ка подумать... Похоже, у вас умерло чувство юмора.</entitydescription.cloggles>
+  <entityname.clowncap>Кепка клоуна</entityname.clowncap>
+  <entitydescription.clowncap>Давайте перейдём к весёлым делам.</entitydescription.clowncap>
+  <entityname.clowntainmask2>Фуражка весёлого моряка-ветерана</entityname.clowntainmask2>
+  <entitydescription.clowntainmask2>Мы найдем ее... мы прислушаемся к гудку.</entitydescription.clowntainmask2>
+  <entityname.clowntainmask>Шапка адмирала клоунболи</entityname.clowntainmask>
+  <entitydescription.clowntainmask>Имя его - Боль... Адмирал Боль...</entitydescription.clowntainmask>
+  <entityname.clowntainmask3>Шапка бунтуещего клоунтана</entityname.clowntainmask3>
+  <entitydescription.clowntainmask3>Сгудите силу!</entitydescription.clowntainmask3>
+
+  <entityname.bruiserclown>Костюм клоуна-громилы</entityname.bruiserclown>
+  <entitydescription.bruiserclown>Теперь уже не так смешно.</entitydescription.bruiserclown>
+  <entityname.bruiserclown2>Униформа клоунмандира</entityname.bruiserclown2>
+  <entitydescription.bruiserclown2>Вперёд, клоунмандир!</entitydescription.bruiserclown2>
+  <entityname.bruiserclown3>Униформа весельчака</entityname.bruiserclown3>
+  <entitydescription.bruiserclown3>Моментаьлно развеселит повседневность.</entitydescription.bruiserclown3>
+  <entityname.clowntain1>Униформа весёлого моряка-ветерана</entityname.clowntain1>
+  <entitydescription.clowntain1>С 2246 года мы ведём вас прямо в бездну.</entitydescription.clowntain1>
+  <entityname.clowntain2>Униформа адмирала клоунболи</entityname.clowntain2>
+  <entitydescription.clowntain2></entitydescription.clowntain2>
+  <entityname.clowntain3>Униформа бунтуещего клоунтана</entityname.clowntain3>
+  <entitydescription.clowntain3></entitydescription.clowntain3>
+  <entityname.clownmechanicuniform>Гудкомбенизон механика</entityname.clownmechanicuniform>
+  <entitydescription.clownmechanicuniform>Производит веселье!</entitydescription.clownmechanicuniform>
+  <entityname.clownmechanicuniform2>Костюм клоуна ключеповорачивателя</entityname.clownmechanicuniform2>
+  <entitydescription.clownmechanicuniform2>Ты грузишь шестнадцать тонн, и что получаешь взамен?</entitydescription.clownmechanicuniform2>
+  <entityname.clownengineersuit>Антирадиационный комбинезон клоуна</entityname.clownengineersuit>
+  <entitydescription.clownengineersuit>Чтобы не светиться от счастья.</entitydescription.clownengineersuit>
+  <entityname.clownengineersuit2>Огнеупорный костюм клоуна</entityname.clownengineersuit2>
+  <entitydescription.clownengineersuit2>Горячая штучка.</entitydescription.clownengineersuit2>
+  <entityname.clowndoctorfatigues>Форма клоуна-целителя</entityname.clowndoctorfatigues>
+  <entitydescription.clowndoctorfatigues>Целитель? Нет. Гудитель.</entitydescription.clowndoctorfatigues>
+  <entityname.clowndoctorfatigues2>Экипировка Экипировка врача-клоуна</entityname.clowndoctorfatigues2>
+  <entitydescription.clowndoctorfatigues2>У этих таблеток смешной вкус, док....</entitydescription.clowndoctorfatigues2>
+
+  <entityname.firemask>Маска сепаратора</entityname.firemask>
+  <entitydescription.firemask></entitydescription.firemask>
+  <entityname.fireclown>Костюм сепаратора</entityname.fireclown>
+  <entitydescription.fireclown></entitydescription.fireclown>
+
+  <entityname.clowncostumefemale>Клусси</entityname.clowncostumefemale>
+  <entitydescription.clowncostumefemale>Это мы гудим.</entitydescription.clowncostumefemale>
+
+  <entityname.mimemask1>Маска мима</entityname.mimemask1>
+  <entitydescription.mimemask1>...</entitydescription.mimemask1>
+  <entityname.mimecostume1>Костюм мима</entityname.mimecostume1>
+  <entitydescription.mimecostume1>...</entitydescription.mimecostume1>
+
+  <entityname.ancientmask>Маска древнего клоуна</entityname.ancientmask>
+  <entitydescription.ancientmask>Вы чувствуете зловещее присутствие, исходящее от этой маски.</entitydescription.ancientmask>
+  <entityname.ancientclowncostume>Костюм древнего клоуна</entityname.ancientclowncostume>
+  <entitydescription.ancientclowncostume>Вы чувствуете зловещее присутствие, исходящее от этого костюма.</entitydescription.ancientclowncostume>
+
+  <entityname.redpaintbomb>Бомба с красной краской</entityname.redpaintbomb>
+  <entitydescription.redpaintbomb>Красочная.</entitydescription.redpaintbomb>
+  <entityname.bluepaintbomb>Бомба с синей краской</entityname.bluepaintbomb>
+  <entitydescription.bluepaintbomb>Красочная.</entitydescription.bluepaintbomb>
+  <entityname.greenpaintbomb>Бомба с зелёной краской</entityname.greenpaintbomb>
+  <entitydescription.greenpaintbomb>Красочная.</entitydescription.greenpaintbomb>
+  <entityname.blackpaintbomb>Бомба с чёрной краской</entityname.blackpaintbomb>
+  <entitydescription.blackpaintbomb>Красочная.</entitydescription.blackpaintbomb>
+  <entityname.whitepaintbomb>Бомба с белой краской</entityname.whitepaintbomb>
+  <entitydescription.whitepaintbomb>Красочная.</entitydescription.whitepaintbomb>
+
+  <entityname.wirecuffs>Стяжки</entityname.wirecuffs>
+  <entitydescription.wirecuffs>Не очень надёжные.</entitydescription.wirecuffs>
+
+  <!-- medical.xml -->
+  <entityname.clownenergy>Энергия клоуна</entityname.clownenergy>
+  <entitydescription.clownenergy>БЫЫЫЫЫЫЫСТРО</entitydescription.clownenergy>
+  <entityname.clownmeister>Клоунский Meister</entityname.clownmeister>
+  <entitydescription.clownmeister>На этикетке с обратной стороны бутылки имеется предупреждение о том, что его вообще нельзя употреблять ни при каких обстоятельствах, если это не смешно.</entitydescription.clownmeister>
+  <entityname.antiradcream>Крем для лица</entityname.antiradcream>
+  <entitydescription.antiradcream>Содержит такое количество свинца, что поглощает радиацию, что, в свою очередь, не очень хорошо для кожи.</entitydescription.antiradcream>
+  <entityname.spinach>Шпинат</entityname.spinach>
+  <entitydescription.spinach>Съешьте, чтобы стать большим и сильным человеком.</entitydescription.spinach>
+  <entityname.c8>С8</entityname.c8>
+  <entitydescription.c8>Самый полезный напиток на всей Европе!</entitydescription.c8>
+
+  <!-- tools.xml -->
+  <entityname.gagweldingtool>Сварочный аппарат</entityname.gagweldingtool>
+  <entitydescription.gagweldingtool>Не совсем обычный сварочный аппарат.</entitydescription.gagweldingtool>
+  <entityname.redtoolbox>Ящик с инструментами</entityname.redtoolbox>
+  <entitydescription.redtoolbox>Тяжесть — это хорошо. Тяжесть — это надёжно.</entitydescription.redtoolbox>
+  <entityname.emergencysirencircus>Цирковая сирена</entityname.emergencysirencircus>
+  <entitydescription.emergencysirencircus></entitydescription.emergencysirencircus>
+  <entityname.toypig>Игрушечная свинья</entityname.toypig>
+  <entitydescription.toypig>АССИСТЕНТ, ТАЩИ СВИНЕЙ!</entitydescription.toypig>
+  <entityname.gagextinguisher>Огнетушитель</entityname.gagextinguisher>
+  <entitydescription.gagextinguisher>Не совсем обычный огнетушитель.</entitydescription.gagextinguisher>
+  <entityname.explodingphone>Телефон</entityname.explodingphone>
+  <entitydescription.explodingphone>Дзынь!</entitydescription.explodingphone>
+  <entityname.braphorn>Пердексон</entityname.braphorn>
+  <entitydescription.braphorn>ПУК</entitydescription.braphorn>
+  <entityname.gagplasmacutter>Плазменный резак</entityname.gagplasmacutter>
+  <entitydescription.gagplasmacutter>Не совсем обычный плазменный резак.</entitydescription.gagplasmacutter>
+  <entityname.rgbflashlight>RGB фонарик</entityname.rgbflashlight>
+  <entitydescription.rgbflashlight>Геймерский.</entitydescription.rgbflashlight>
+
+  <!-- weapons.xml -->
+  <entityname.ak47>АК-47</entityname.ak47>
+  <entitydescription.ak47>ПРЕДУПРЕЖДЕНИЕ: НЕ ПРЕДНАЗНАЧЕН ДЛЯ СТРЕЛЬБЫ ПОД ВОДОЙ. Древняя штурмовая винтовка земного происхождения, модифицированная для стрельбы экспериментальными банановыми патронами.</entitydescription.ak47>
+  <entityname.akmagazine>Магазин для АК-47</entityname.akmagazine>
+  <entitydescription.akmagazine></entitydescription.akmagazine>
+  <entityname.bananapeelprojectilefast>Быстрая банановая кожура</entityname.bananapeelprojectilefast>
+  <entitydescription.bananapeelprojectilefast></entitydescription.bananapeelprojectilefast>
+  <entityname.akbullet>7.62</entityname.akbullet>
+  <entitydescription.akbullet></entitydescription.akbullet>
+  <entityname.bigbanga>Большое шмаляло</entityname.bigbanga>
+  <entitydescription.bigbanga></entitydescription.bigbanga>
+  <entityname.dart>Дротик</entityname.dart>
+  <entitydescription.dart></entitydescription.dart>
+  <entityname.acidpie>(Не)подозрительный пирог</entityname.acidpie>
+  <entitydescription.acidpie>Совершенно не подозрительный пирог с кислотным запахом.</entitydescription.acidpie>
+  <entityname.stunduck>Оглушающая утка</entityname.stunduck>
+  <entitydescription.stunduck>Вершина гудконженерии. То, что выглядит как обычная резиновая утка, на самом деле является большим.</entitydescription.stunduck>
+  <entityname.jokebotspawner>Ржомбот</entityname.jokebotspawner>
+  <entitydescription.jokebotspawner></entitydescription.jokebotspawner>
+  <entityname.jokebotammo>Патроны для ржомбота</entityname.jokebotammo>
+  <entitydescription.jokebotammo></entitydescription.jokebotammo>
+  <entityname.clownshield>Щит клоуна</entityname.clownshield>
+  <entitydescription.clownshield>Веселье для всей оппозиции.</entitydescription.clownshield>
+  <entityname.thesplat>Шлепок</entityname.thesplat>
+  <entitydescription.thesplat>Помидорно-корнеплодный стрелок. Стреляет помидорами. Саня, ну как это переводить? Это же бред.</entitydescription.thesplat>
+  <entityname.thesplit>Разделитель</entityname.thesplit>
+  <entitydescription.thesplit>Опасное веселье</entitydescription.thesplit>
+  <entityname.gremato>Томата</entityname.gremato>
+  <entitydescription.gremato></entitydescription.gremato>
+  <entityname.goldgremato>Золотая томата</entityname.goldgremato>
+  <entitydescription.goldgremato></entitydescription.goldgremato>
+  <entityname.fireemitter>Источник огня</entityname.fireemitter>
+  <entitydescription.fireemitter></entitydescription.fireemitter>
+  <entityname.thelastlaugh>Последний смех</entityname.thelastlaugh>
+  <entitydescription.thelastlaugh>Последний смех клоуна...</entitydescription.thelastlaugh>
+  <entityname.theencore>На бис</entityname.theencore>
+  <entitydescription.theencore>Им всё недостаточно...</entitydescription.theencore>
+  <entityname.baseballbat>Бейсбольная бита</entityname.baseballbat>
+  <entitydescription.baseballbat>ВРЕМЯ СДЕЛАТЬ БОНК!!!</entitydescription.baseballbat>
+  <entityname.skillbookjokebook>Книга шуток</entityname.skillbookjokebook>
+  <entitydescription.skillbookjokebook></entitydescription.skillbookjokebook>
+
+  <!-- plants.xml -->
+  <entityname.tomatoseed>Семя томата</entityname.tomatoseed>
+  <entitydescription.tomatoseed></entitydescription.tomatoseed>
+  <entityname.tomato>Томат</entityname.tomato>
+  <entitydescription.tomato></entitydescription.tomato>
+  <entityname.tomatoseed>Источник огня</entityname.tomatoseed>
+  <entitydescription.tomatoseed></entitydescription.tomatoseed>
+
+  <!-- afflictions.xml -->
+  <afflictionname.mimeoath>Клятва мима</afflictionname.mimeoath>
+  <afflictiondescription.mimeoath>...</afflictiondescription.mimeoath>
+  <afflictionname.ancientpower>Древняя сила</afflictionname.ancientpower>
+  <afflictiondescription.ancientpower>Вы чувствуете прилив сил.</afflictiondescription.ancientpower>
+
+  <!-- divinggear.xml -->
+  <entityname.clowndivingsuit>Клоунский водолазный скафандр</entityname.clowndivingsuit>
+  <entitydescription.clowndivingsuit></entitydescription.clowndivingsuit>
+  <entityname.clownscooter>УКП</entityname.clownscooter>
+  <entitydescription.clownscooter>УКП расшифровывается как Устройство Клоунского Пропульсированияe. Это сильно модифицированный скутер, способный развивать огромную скорость за счёт меньшего времени работы аккумулятора.</entitydescription.clownscooter>
+
+</infotext>

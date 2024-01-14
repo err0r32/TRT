@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Job Stuff -->
+  <jobname.botanophobia_botanist>Ботаник</jobname.botanophobia_botanist>
+  <jobdescription.botanophobia_botanist>Те, кто выращивает растения</jobdescription.botanophobia_botanist>
+  <!-- Research Table -->
+  <entityname.botanophobia_seed_researchstation>Ботаническая научно-исследовательская станция семеноводства</entityname.botanophobia_seed_researchstation>
+  <entitydescription.botanophobia_seed_researchstation>Большой исследовательский резервуар, используемый для идентификации неопознанных семян.</entitydescription.botanophobia_seed_researchstation>
+  <botanophobia_researchstation.research>Идентификация</botanophobia_researchstation.research>
+  <botanophobia_researchstation.research.invalidinput>Недопустимый ввод</botanophobia_researchstation.research.invalidinput>
+  <botanophobia_researchstation.research.empty.infotext>Не вставлено неиндентифицированное семя. Вставить неиндентифицированное семя.</botanophobia_researchstation.research.empty.infotext>
+  <botanophobia_researchstation.research.infotext>Вставлено неопознанное семя. Будьте осторожны.</botanophobia_researchstation.research.infotext>
+  <botanophobia_researchstation.combine.missingitem>Отсутствует неопознанное семя.</botanophobia_researchstation.combine.missingitem>
+  <!-- Characters -->
+  <character.ramblin>Бродящий Грибной Человек</character.ramblin>
+  <!-- Items -->
+  <entityname.botanophobia_botanistmask>Маска ботаника</entityname.botanophobia_botanistmask>
+  <entitydescription.botanophobia_botanistmask>Не потребляет кислород из баллона при наличии кислорода в корпусе.</entitydescription.botanophobia_botanistmask>
+  <entityname.botanophobia_botanistsuit>Костюм ботаника</entityname.botanophobia_botanistsuit>
+  <entitydescription.botanophobia_botanistsuit>Обеспечивает базовую защиту от растений и химических веществ.</entitydescription.botanophobia_botanistsuit>
+  <entityname.botanophobia_botanisthazardsuit>Защитный комбинезон ботаника</entityname.botanophobia_botanisthazardsuit>
+  <entitydescription.botanophobia_botanisthazardsuit>Модифицированный костюм, в котором броня заменена на легко очищаемые волокна, устойчивые к воздействию всевозможных спор растений и химикатов. Не потребляет кислород из баллона при наличии кислорода в корпусе. Устойчив к давлению до 6000 м.</entitydescription.botanophobia_botanisthazardsuit>
+  <entityname.botanophobia_sprinkler>Поливочный прибор ботаника</entityname.botanophobia_sprinkler>
+  <entitydescription.botanophobia_sprinkler>Поливает растения и тушит пожары. При чрезмерном использовании может вызвать затопление.</entitydescription.botanophobia_sprinkler>
+  <entityname.botanophobia_incinerator>Ботанический сжигатель</entityname.botanophobia_incinerator>
+  <entitydescription.botanophobia_incinerator>Сжигает вещи, вызывает пожары.</entitydescription.botanophobia_incinerator>
+  <entityname.botanophobia_gardendistiller>Ботанический перегонный аппарат</entityname.botanophobia_gardendistiller>
+  <entitydescription.botanophobia_gardendistiller>Перерабатывает растительное сырье в ресурсы.</entitydescription.botanophobia_gardendistiller>
+  <entityname.botanophobia_chemicalsprayer>Химический опрыскиватель ботаника</entityname.botanophobia_chemicalsprayer>
+  <entitydescription.botanophobia_chemicalsprayer>Многофункциональный инструмент, действие которого меняется в зависимости от заряженного баллона. Принимает кислород / сварочные топливные баллоны / этанол и газовые баллоны.</entitydescription.botanophobia_chemicalsprayer>
+  <entityname.botanophobia_canisterlauncher>Пусковая установка для канистр ботаника</entityname.botanophobia_canisterlauncher>
+  <entitydescription.botanophobia_canisterlauncher>Большая пусковая установка, стреляющая газовыми канистрами на большие расстояния. Используется для АоЕ-эффекта газовых канистр.</entitydescription.botanophobia_canisterlauncher>
+  <entityname.botanophobia_organic_fertilizer>Биоудобрения ботаника</entityname.botanophobia_organic_fertilizer>
+  <entitydescription.botanophobia_organic_fertilizer>Удобрение марки Brawndo. Это то, чего жаждут растения!</entitydescription.botanophobia_organic_fertilizer>
+  <entityname.botanophobia_portable_deconstructor>Переносной деконструктор ботаника</entityname.botanophobia_portable_deconstructor>
+  <entitydescription.botanophobia_portable_deconstructor>Небольшой портативный деконструктор, который перерабатывает только семена и растительную продукцию с гораздо большей скоростью.</entitydescription.botanophobia_portable_deconstructor>
+  <entityname.botanophobia_antimaggot>Средство от личинок</entityname.botanophobia_antimaggot>
+  <entitydescription.botanophobia_antimaggot>Прототип сыворотки, которая должна удалять всех личинок, населяющих тело человека.</entitydescription.botanophobia_antimaggot>
+  <entityname.botanophobia_chemistdrug_skillbooster>Витамин R</entityname.botanophobia_chemistdrug_skillbooster>
+  <entitydescription.botanophobia_chemistdrug_skillbooster>Экспериментальный и сильнодействующий препарат класса ЦНС, повышающий квалификацию пользователя за счет более четкого и гиперфокусированного мышления. Очень опасен, но дает тем больший прирост навыков и умений, чем больше его употребляет пользователь. Начинается с +5 навыков и 10% прироста навыков до максимума +30 навыков и 60% прироста навыков.</entitydescription.botanophobia_chemistdrug_skillbooster>
+  <entityname.botanophobia_chemistdrug_combatbooster>GoGo Сок</entityname.botanophobia_chemistdrug_combatbooster>
+  <entitydescription.botanophobia_chemistdrug_combatbooster>Разработка, финансируемая компанией Miltary, вызывает сильное привыкание. Увеличивает максимальное здоровье и урон от всех атак на 25%. Также дает до 50% сопротивления потокам.</entitydescription.botanophobia_chemistdrug_combatbooster>
+  <entityname.botanophobia_chemistdrug_revive>Подъем</entityname.botanophobia_chemistdrug_revive>
+  <entitydescription.botanophobia_chemistdrug_revive>Ужасающий препарат с множеством побочных эффектов, который не стал бы использовать ни один здравомыслящий человек, если бы он не был таким мощным и полезным нейростимулятором. Если пациент находится в бессознательном состоянии, он мгновенно приводит его в чувство, но при этом изнурительно нарушает его сознание. Может также вызвать умеренную химическую зависимость. Действует только на бессознательных людей, при использовании на мертвых или находящихся в сознании не действует.</entitydescription.botanophobia_chemistdrug_revive>
+  <entityname.botanophobia_chemistdrug_detox>Холодная индейка</entityname.botanophobia_chemistdrug_detox>
+  <entitydescription.botanophobia_chemistdrug_detox>Более прямой и агрессивный способ детоксикации членов экипажа от химической, опиоидной и экспериментальной стим-зависимости. Вводит пользователя в состояние комы на некоторое время (до 5 минут при отсутствии навыков), чтобы заставить организм "откалибровать" свое биохимическое равновесие. Вреда не причиняет, но пользователь будет совершенно беспомощен, пока сыворотка выполняет свою работу.</entitydescription.botanophobia_chemistdrug_detox>
+  <!-- Items Posters -->
+  <entityname.botanophobia_poster1>Ботанофобия Знак ботаника 1</entityname.botanophobia_poster1>
+  <entitydescription.botanophobia_poster1>Нельзя сказать, что вы их не предупредили.</entitydescription.botanophobia_poster1>
+  <entityname.botanophobia_poster2>Ботанофобия Знак ботаника 2</entityname.botanophobia_poster2>
+  <entitydescription.botanophobia_poster2>Нельзя сказать, что вы их не предупредили.</entitydescription.botanophobia_poster2>
+  <!-- Gas Canisters -->
+  <entityname.botanophobia_gascanister_chlorine>Канистра с хлорным газом</entityname.botanophobia_gascanister_chlorine>
+  <entitydescription.botanophobia_gascanister_chlorine>Кто-нибудь должен предупредить Женеву и Гаагу...</entitydescription.botanophobia_gascanister_chlorine>
+  <entityname.botanophobia_gascanister_whitephosphorus>Канистра с белым фосфором</entityname.botanophobia_gascanister_whitephosphorus>
+  <entitydescription.botanophobia_gascanister_whitephosphorus>Кто-нибудь должен предупредить Женеву и Гаагу...</entitydescription.botanophobia_gascanister_whitephosphorus>
+  <entityname.botanophobia_gascanister_hydrogencyanide>Канистра с цианистым водородом</entityname.botanophobia_gascanister_hydrogencyanide>
+  <entitydescription.botanophobia_gascanister_hydrogencyanide>Кто-нибудь должен предупредить Женеву и Гаагу...</entitydescription.botanophobia_gascanister_hydrogencyanide>
+  <entityname.botanophobia_gascanister_raptorbane>Канистра с агентом R</entityname.botanophobia_gascanister_raptorbane>
+  <entitydescription.botanophobia_gascanister_raptorbane>Чрезвычайно смертелен для мудрапторов. Безопасен для человека, но не пригоден для употребления.</entitydescription.botanophobia_gascanister_raptorbane>
+  <!-- Items Plants -->
+  <entityname.botanophobia_seed_unresearched>Неопознанное семя</entityname.botanophobia_seed_unresearched>
+  <entitydescription.botanophobia_seed_unresearched>Кто знает, что содержит это семя? Перед использованием необходимо обратиться к ботанику.</entitydescription.botanophobia_seed_unresearched>
+  <entityname.botanophobia_plant_oxygenite_seed>Семена оксифрукта</entityname.botanophobia_plant_oxygenite_seed>
+  <entitydescription.botanophobia_plant_oxygenite_seed>Растение, очень любящее кислород, настолько, что часто создает в воде вокруг себя кислородные тупики. Часто встречается вблизи газоотводов в пещерах. Выращивает осколки оксигенита.</entitydescription.botanophobia_plant_oxygenite_seed>
+  <entityname.botanophobia_plant_incendium_seed>Семена огне-ягоды</entityname.botanophobia_plant_incendium_seed>
+  <entitydescription.botanophobia_plant_incendium_seed>Очень нестабильное растение, выделяющее сильное тепло в результате быстрого метаболизма. Оно требует много воды и, по-видимому, конденсирует гранулы воспламенита в плодах. Остерегайтесь пожароопасности. Выращивает воспламенит.</entitydescription.botanophobia_plant_incendium_seed>
+  <entityname.botanophobia_plant_sulfuricacid_seed>Семена одомашненной балластной флоры</entityname.botanophobia_plant_sulfuricacid_seed>
+  <entitydescription.botanophobia_plant_sulfuricacid_seed>Скрещенная порода базового семени и живых спор Ballast Flora, без электричества для питания и насоса для подтверждения своей "большей" безвредности. Выращивает серную кислоту.</entitydescription.botanophobia_plant_sulfuricacid_seed>
+  <entityname.botanophobia_plant_uranium_seed>Семена рад-ягоды</entityname.botanophobia_plant_uranium_seed>
+  <entitydescription.botanophobia_plant_uranium_seed>Радиоустойчивое семя. Растет вблизи старых субреакторов и в гидротермальных отходах, где может фильтровать тяжелые металлы, обычно уран, так как он слишком тяжел для выведения и накапливается в небольших количествах. Выращивает уран.</entitydescription.botanophobia_plant_uranium_seed>
+  <entityname.botanophobia_plant_aquaticpoppy_seed>Семена ржавчинника</entityname.botanophobia_plant_aquaticpoppy_seed>
+  <entitydescription.botanophobia_plant_aquaticpoppy_seed>Дурно пахнущее семя, из которого вырастает ржавоцветное растение. Растение производит водные маки, но при этом выделяет коррозийные облака, которые могут прожечь окружающие стены и лишить кислорода. Довольно требователен к уходу.</entitydescription.botanophobia_plant_aquaticpoppy_seed>
+  <entityname.botanophobia_plant_elastinplant_seed>Семена эластиновых растений</entityname.botanophobia_plant_elastinplant_seed>
+  <entitydescription.botanophobia_plant_elastinplant_seed>Выращивает эластин.</entitydescription.botanophobia_plant_elastinplant_seed>
+  <entityname.botanophobia_plant_fiberplant_seed>Семена волокнистых растений</entityname.botanophobia_plant_fiberplant_seed>
+  <entitydescription.botanophobia_plant_fiberplant_seed>Выращивает органическое волокно.</entitydescription.botanophobia_plant_fiberplant_seed>
+  <entityname.botanophobia_plant_seayeastshroom_seed>Семена морских дрожжей</entityname.botanophobia_plant_seayeastshroom_seed>
+  <entitydescription.botanophobia_plant_seayeastshroom_seed>Скрещенное семя обычного растения со спорами морских дрожжей, что позволяет выращивать его в искусственных условиях. Имеет несколько особенностей, обусловленных слиянием ДНК растения и гриба. Выращивает грибы из морских дрожжей.</entitydescription.botanophobia_plant_seayeastshroom_seed>
+  <entityname.botanophobia_plant_slimebacteria_seed>Семена слизевых бактерий</entityname.botanophobia_plant_slimebacteria_seed>
+  <entitydescription.botanophobia_plant_slimebacteria_seed>Растение, выведенное для создания практически идеальной среды для процветания слизевых бактерий в результате симбиоза. Выращивает слизевые бактерии.</entitydescription.botanophobia_plant_slimebacteria_seed>
+  <entityname.botanophobia_plant_experimentx_seed>Эксперимент X Семена</entityname.botanophobia_plant_experimentx_seed>
+  <entitydescription.botanophobia_plant_experimentx_seed>Используется для тестирования в ботанофобии. Не полезен.</entitydescription.botanophobia_plant_experimentx_seed>
+  <entityname.botanophobia_plant_pumpplant_seed>Семена пумпантуса</entityname.botanophobia_plant_pumpplant_seed>
+  <entitydescription.botanophobia_plant_pumpplant_seed>Водостойкое, но не неуязвимое растение, медленно откачивающее воду. Чрезвычайно огнеопасно. Изредка капает физраствором.</entitydescription.botanophobia_plant_pumpplant_seed>
+  <entityname.botanophobia_plant_rubber_seed>Семена каучукового дерева</entityname.botanophobia_plant_rubber_seed>
+  <entitydescription.botanophobia_plant_rubber_seed>Выращивает резину.</entitydescription.botanophobia_plant_rubber_seed>
+  <entityname.botanophobia_plant_paralyxis_seed>Семена параликса</entityname.botanophobia_plant_paralyxis_seed>
+  <entitydescription.botanophobia_plant_paralyxis_seed>Вредное растение, создающее мощное парализующее вещество, с которым крайне опасно обращаться. Прозвище "Матросская дремота" из-за медленной смерти от паралича, наступающей, если не подготовиться должным образом. Выращивается параликс.</entitydescription.botanophobia_plant_paralyxis_seed>
+  <!-- Items Plant Produce -->
+  <entityname.botanophobia_plant_uranium_produce>Рад-ягоды</entityname.botanophobia_plant_uranium_produce>
+  <entitydescription.botanophobia_plant_uranium_produce>Мелкие радиоактивные ягоды, производимые плантацией рад-ягоды. Могут быть переработаны в более плотный радиоактивный материал. Радиоактивно!</entitydescription.botanophobia_plant_uranium_produce>
+  <entityname.botanophobia_plant_uranium_produce_deconstruct>Кусочки рад-ягоды</entityname.botanophobia_plant_uranium_produce_deconstruct>
+  <entitydescription.botanophobia_plant_uranium_produce_deconstruct>Деконструируйте, чтобы получить урановую руду.</entitydescription.botanophobia_plant_uranium_produce_deconstruct>
+  <entityname.botanophobia_plant_oxygenite_produce>Оксифрукт</entityname.botanophobia_plant_oxygenite_produce>
+  <entitydescription.botanophobia_plant_oxygenite_produce>Мелкие гранулы конденсированного кислорода. Перерабатывается в кислородитный осколок.</entitydescription.botanophobia_plant_oxygenite_produce>
+  <entityname.botanophobia_plant_oxygenite_produce_deconstruct>Кусок оксифрукта</entityname.botanophobia_plant_oxygenite_produce_deconstruct>
+  <entitydescription.botanophobia_plant_oxygenite_produce_deconstruct>Деконструируйте, чтобы получить осколок кислородита.</entitydescription.botanophobia_plant_oxygenite_produce_deconstruct>
+  <!-- Afflictions -->
+  <afflictionname.botanophobia_spores_radiation>Споры рад-ягоды</afflictionname.botanophobia_spores_radiation>
+  <afflictiondescription.botanophobia_spores_radiation>Споры рад-ягоды светло-зеленого цвета покрывают кожу пациентов. В местах повышенной концентрации, по-видимому, имеются ожоги.</afflictiondescription.botanophobia_spores_radiation>
+  <afflictiondescription.botanophobia_spores_radiation.self>Кажется, что Вы покрыты светло-зелеными спорами. Ваша кожа зудит и горит, Вы чувствуете себя больным.</afflictiondescription.botanophobia_spores_radiation.self>
+  <afflictionname.botanophobia_spores_incendium>Споры огне-ягоды</afflictionname.botanophobia_spores_incendium>
+  <afflictiondescription.botanophobia_spores_incendium>Споры огне-ягоды огненно-красного цвета покрывают кожу пациента. Они горячие на ощупь.</afflictiondescription.botanophobia_spores_incendium>
+  <afflictiondescription.botanophobia_spores_incendium.self>Кажется, что Вы покрыты светло-красными спорами. Ваша кожа зудит и горит.</afflictiondescription.botanophobia_spores_incendium.self>
+  <afflictionname.botanophobia_chlorinepoisoning>Отравление хлором</afflictionname.botanophobia_chlorinepoisoning>
+  <afflictiondescription.botanophobia_chlorinepoisoning>Пациент ощущает запах перца и ананаса.</afflictiondescription.botanophobia_chlorinepoisoning>
+  <afflictiondescription.botanophobia_chlorinepoisoning.self>Появляется металлический привкус, першение в горле и груди.</afflictiondescription.botanophobia_chlorinepoisoning.self>
+  <afflictionname.botanophobia_hydrogencyanidepoisoning>Отравление цианистым водородом</afflictionname.botanophobia_hydrogencyanidepoisoning>
+  <afflictiondescription.botanophobia_hydrogencyanidepoisoning>Пациент испытывает сильное затруднение дыхания.</afflictiondescription.botanophobia_hydrogencyanidepoisoning>
+  <afflictiondescription.botanophobia_hydrogencyanidepoisoning.self>Кажется, вам трудно дышать.</afflictiondescription.botanophobia_hydrogencyanidepoisoning.self>
+  <afflictionname.botanophobia_raptorpox>Покс раптора</afflictionname.botanophobia_raptorpox>
+  <afflictiondescription.botanophobia_raptorpox>Биооружие, предназначенное для сжижения органов мудраптора.</afflictiondescription.botanophobia_raptorpox>
+  <afflictiondescription.botanophobia_raptorpox.self>Органы мудрапторов, по-видимому, разжижаются.</afflictiondescription.botanophobia_raptorpox.self>
+  <afflictionname.botanophobia_shroomsickness>Грибная болезнь</afflictionname.botanophobia_shroomsickness>
+  <afflictiondescription.botanophobia_shroomsickness>Из головы больного прорастает большой гриб фуксия, инвертирующий его двигательные функции. Когда болезнь достигает своего апогея, пациент превращается в Человека-грибника (Бродящий Грибной Человек), чтобы еще больше распространить грибовизацию.</afflictiondescription.botanophobia_shroomsickness>
+  <afflictiondescription.botanophobia_shroomsickness.self>Из головы прорастает большой гриб фуксия, инвертирующий двигательные функции. Когда болезнь достигнет своего апогея, он превратится в Человека-грибника (Бродящий Грибной Человек), чтобы еще больше распространить грибовизацию.</afflictiondescription.botanophobia_shroomsickness.self>
+  <afflictionname.botanophobia_maggotinfection>Заражение личинками</afflictionname.botanophobia_maggotinfection>
+  <afflictiondescription.botanophobia_maggotinfection>На коже пациента под эпидермисом пульсируют тысячи крошечных личинок, которые проделывают отверстия в некротических тканях и прогрызают нервную систему.</afflictiondescription.botanophobia_maggotinfection>
+  <afflictiondescription.botanophobia_maggotinfection.self>Вы чувствуете, что ваша кожа рябит от тысяч крошечных личинок, проникающих под эпидермис, проделывающих отверстия в некротических тканях и прогрызающих нервную систему.</afflictiondescription.botanophobia_maggotinfection.self>
+  <afflictionname.botanophobia_skillboost>Ясность ума</afflictionname.botanophobia_skillboost>
+  <afflictiondescription.botanophobia_skillboost>Пациент выглядит гиперсосредоточенным с повышенной ясностью мышления.</afflictiondescription.botanophobia_skillboost>
+  <afflictiondescription.botanophobia_skillboost.self>С каждой дозой вы чувствуете, как ваш разум взрывается знаниями и пониманием, но при этом возникает желание получить более высокие дозы.</afflictiondescription.botanophobia_skillboost.self>
+  <afflictionname.botanophobia_combatboost>Целенаправленная агрессия</afflictionname.botanophobia_combatboost>
+  <afflictiondescription.botanophobia_combatboost>Пациент выглядит гиперагрессивным и накачанным.</afflictiondescription.botanophobia_combatboost>
+  <afflictiondescription.botanophobia_combatboost.self>С каждой дозой вы чувствуете, как ваше тело взрывается энергией и силой, но при этом возникает желание увеличить дозу.</afflictiondescription.botanophobia_combatboost.self>
+  <afflictionname.botanophobia_skillboost_addiction>Зависимость от витамина R</afflictionname.botanophobia_skillboost_addiction>
+  <afflictiondescription.botanophobia_skillboost_addiction>Пациент зависим от витамина R.</afflictiondescription.botanophobia_skillboost_addiction>
+  <afflictiondescription.botanophobia_skillboost_addiction.self>Витамин R точно проясняет голову, мне нужно больше этого вещества!</afflictiondescription.botanophobia_skillboost_addiction.self>
+  <afflictionname.botanophobia_skillboost_withdrawal>Отказ от витамина R</afflictionname.botanophobia_skillboost_withdrawal>
+  <afflictiondescription.botanophobia_skillboost_withdrawal>Пациент кажется заторможенным в умственном отношении. Они отказываются от витамина R.</afflictiondescription.botanophobia_skillboost_withdrawal>
+  <afflictiondescription.botanophobia_skillboost_withdrawal.self>Вы чувствуете себя усталым, ваш ум расфокусирован, вам бы сейчас не помешал разгон.</afflictiondescription.botanophobia_skillboost_withdrawal.self>
+  <!-- Talents -->
+  <!-- Tree -->
+  <talenttree.botanophobia_horticulturalist>Садоводство</talenttree.botanophobia_horticulturalist>
+  <talenttree.botanophobia_chemical_warfare>Химическая война</talenttree.botanophobia_chemical_warfare>
+  <talenttree.botanophobia_chemist>Медицинская химия</talenttree.botanophobia_chemist>
+  <!-- Skills -->
+  <talentname.botanophobia_blackmarketseeds>Семена с черного рынка</talentname.botanophobia_blackmarketseeds>
+  <talentdescription.botanophobia_blackmarketseeds>Магазины в ‖color:gui.orange‖научно-исследовательских станциях‖end‖ и ‖color:gui.orange‖городах‖end‖ могут продавать семена.</talentdescription.botanophobia_blackmarketseeds>
+  <talentdescription.botanophobia_blackmarketseeds2>Вы можете продавать семена за [amount]% больше.</talentdescription.botanophobia_blackmarketseeds2>
+  <talentname.botanophobia_labcontacts>Лабораторные контакты</talentname.botanophobia_labcontacts>
+  <talentdescription.botanophobia_labcontacts>Вы строите газовые баллоны [amount]% быстрее.</talentdescription.botanophobia_labcontacts>
+  <talentname.botanophobia_fertilizer>Удобрения</talentname.botanophobia_fertilizer>
+  <talentdescription.botanophobia_fertilizer>Вы получаете доступ к органическим удобрениям, не требующим использования тяжелых металлов.</talentdescription.botanophobia_fertilizer>
+  <talentname.botanophobia_seedharvester>Семенной комбайн</talentname.botanophobia_seedharvester>
+  <talentdescription.botanophobia_seedharvester>Когда вы грабите монстра, у вас есть возможность [probability]% шанс найти [item].</talentdescription.botanophobia_seedharvester>
+  <talentname.botanophobia_sprinkler>Разбрызгиватели</talentname.botanophobia_sprinkler>
+  <talentdescription.botanophobia_sprinkler>Вы получаете доступ к поливочным приборам, которые могут поливать растения и тушить пожары. При интенсивном использовании могут вызывать наводнения. Вы также получаете доступ к сжигателю, который делает прямо противоположное.</talentdescription.botanophobia_sprinkler>
+  <talentname.botanophobia_organicscraps>Органические отходы</talentname.botanophobia_organicscraps>
+  <talentdescription.botanophobia_organicscraps>Деконструкция ‖color:gui.orange‖семен‖end‖ и ‖color:gui.orange‖растительной продукции‖end‖ имеет [chance]% возможность получить удвоенный выход.</talentdescription.botanophobia_organicscraps>
+  <talentname.botanophobia_focused_nozzle>Сфокусированное сопло</talentname.botanophobia_focused_nozzle>
+  <talentdescription.botanophobia_focused_nozzle>Канистры и баки, используемые в химическом опрыскивателе, имеют [percent]% больший эффект.</talentdescription.botanophobia_focused_nozzle>
+  <talentname.botanophobia_herbalremedies>Лекарственные травы</talentname.botanophobia_herbalremedies>
+  <talentdescription.botanophobia_herbalremedies>Усиливает ‖color:gui.orange‖медицинский‖end‖ навык на [amount]. Бинты наложенные вами на ‖color:gui.green‖25%‖end‖ более эффективные. Экстракт граната, который вы применяете, имеет ‖color:gui.green‖вдвойне‖end‖ большую эффективность.</talentdescription.botanophobia_herbalremedies>
+  <talentname.botanophobia_intellectualcuriosity>Двойное дежурство</talentname.botanophobia_intellectualcuriosity>
+  <talentdescription.botanophobia_intellectualcuriositybase>Выберите одну работу в качестве второй и получите соответствующую прибавку к навыкам.</talentdescription.botanophobia_intellectualcuriositybase>
+  <talentdescription.botanophobia_intellectualcuriosityjob>Выберите [job] в качестве второй работы и получить следующее:</talentdescription.botanophobia_intellectualcuriosityjob>
+  <talentname.botanophobia_purifiedcompounds>Очищенные соединения</talentname.botanophobia_purifiedcompounds>
+  <talentdescription.botanophobia_purifiedcompounds>Лучшее понимание соотношения химических смесей приводит к уменьшению количества неиспользованных материалов.</talentdescription.botanophobia_purifiedcompounds>
+  <talentdescription.crafthighqualitygascanisters>‖color:gui.orange‖Газовые канистры‖end‖ вы изготавливаете на [qualitybonus] более высокого качества.</talentdescription.crafthighqualitygascanisters>
+  <talentname.botanophobia_chemical_delivery>Поставка химикатов</talentname.botanophobia_chemical_delivery>
+  <talentdescription.botanophobia_chemical_delivery>Подбираться достаточно близко, чтобы доставить химические соединения, всегда было профессиональной опасностью. Немного повозившись, вы придумали, как самим запускать химические соединения в друзей и врагов! [weapon] может взорваться при столкновении с человеком/существом или сделать взрыв с задержкой в 2 секунды в случае промаха.</talentdescription.botanophobia_chemical_delivery>
+  <talentname.botanophobia_plantsavant>Савант растений</talentname.botanophobia_plantsavant>
+  <talentdescription.botanophobia_plantsavant>При деконструкции ‖color:gui.orange‖семен‖end‖ и ‖color:gui.orange‖растительной продукции‖end‖ вы получаете ‖color:gui.green‖20‖end‖ опыта. Этот эффект может проявиться только 5 раз за миссию, всего ‖color:gui.green‖100‖end‖ опыта.</talentdescription.botanophobia_plantsavant>
+  <talentname.botanophobia_chemicalwarfarebasic>Химические вещества списка 1-А</talentname.botanophobia_chemicalwarfarebasic>
+  <talentdescription.botanophobia_chemicalwarfarebasic>Химическая война - идея не новая, но вы один из немногих, у кого есть средства и безумие для ее применения. Создайте высокоэффективные, хотя и простые химические канистры для использования в ‖color:gui.orange‖Химический опрыскиватель ботаника‖end‖ и ‖color:gui.orange‖Пусковая установка для канистр ботаника‖end‖.</talentdescription.botanophobia_chemicalwarfarebasic>
+  <talentname.botanophobia_chemicalwarfareintermediate>Химические вещества списка 2-B</talentname.botanophobia_chemicalwarfareintermediate>
+  <talentdescription.botanophobia_chemicalwarfareintermediate>Овладев основами, вы сможете перейти к созданию более совершенных соединений, еще более смертоносных как для людей, так и для монстров..</talentdescription.botanophobia_chemicalwarfareintermediate>
+  <talentname.botanophobia_chemicalwarfareadvanced>Химические вещества списка 3-C</talentname.botanophobia_chemicalwarfareadvanced>
+  <talentdescription.botanophobia_chemicalwarfareadvanced></talentdescription.botanophobia_chemicalwarfareadvanced>
+  <talentname.botanophobia_chemicalwarfaredangerous>Химические вещества списка 4-D</talentname.botanophobia_chemicalwarfaredangerous>
+  <talentdescription.botanophobia_chemicalwarfaredangerous></talentdescription.botanophobia_chemicalwarfaredangerous>
+  <talentname.botanophobia_seedsplicingbasic>Сращивание семян для начинающих</talentname.botanophobia_seedsplicingbasic>
+  <talentdescription.botanophobia_seedsplicingbasic>Ваша природная любознательность к растениям привела Вас к умению соединять дикие сорта с обычными семенами для создания безопасных и пригодных для выращивания версий диких растений.</talentdescription.botanophobia_seedsplicingbasic>
+  <talentname.botanophobia_seedsplicingintermediate>Промежуточное сращивание семян</talentname.botanophobia_seedsplicingintermediate>
+  <talentdescription.botanophobia_seedsplicingintermediate>Вы начинаете понимать, что такое сращивание, и можете создавать совершенно новые растения, которые дают ресурсы вашей команде. Правда, у них есть некоторые... причуды.</talentdescription.botanophobia_seedsplicingintermediate>
+  <talentname.botanophobia_seedsplicingadvanced>Экспертное сращивание семян</talentname.botanophobia_seedsplicingadvanced>
+  <talentdescription.botanophobia_seedsplicingadvanced>Ваша гениальность не знает границ. Вы можете придумать совершенно новые растения, использующие передовые технологии фильтрации, которые отфильтровывают определенные минералы, присутствующие в небольших концентрациях в европеоидных морях. Их повышенная потребность в воде раздражает, а решение сложной проблемы обеспечения их безопасности - вовсе не проблема.</talentdescription.botanophobia_seedsplicingadvanced>
+  <talentname.botanophobia_seedsplicingdangerous>Мастер сращивания семян</talentname.botanophobia_seedsplicingdangerous>
+  <talentdescription.botanophobia_seedsplicingdangerous>Ваше мастерство владения растениями привело к тому, что вы стали экспериментировать с удивительными гибридами, которые столь же опасны, сколь и полезны. Обязательно соблюдайте правила «Особые Условия Содержания» для предотвращения травм, смерти или хуже.</talentdescription.botanophobia_seedsplicingdangerous>
+  <talentname.botanophobia_chemistbasic>Экспериментальные стимуляторы</talentname.botanophobia_chemistbasic>
+  <talentdescription.botanophobia_chemistbasic>Разблокируйте доступ к сильнодействующим препаратам, которые, хотя и не являются совершенными, дают бонусы к бою и получению навыков. Будьте внимательны, они могут иметь побочные эффекты.</talentdescription.botanophobia_chemistbasic>
+  <talentname.botanophobia_chemistintermediate>Потенциальная имитация</talentname.botanophobia_chemistintermediate>
+  <talentdescription.botanophobia_chemistintermediate>После изучения базовых стимуляторов вы поняли, как комбинировать активные ингредиенты для повышения их эффективности. Практическое применение этого метода ограничено оживлением бессознательных, но не мертвых союзников из-за риска, связанного с этим.</talentdescription.botanophobia_chemistintermediate>
+  <talentname.botanophobia_chemistadvanced>Быстрая детоксикация</talentname.botanophobia_chemistadvanced>
+  <talentdescription.botanophobia_chemistadvanced>Новые стимуляторы - это интересно, но, к сожалению, они обладают довольно сильными побочными эффектами. Потратив время на изучение взаимодействия белков плазмы, вы разработали сыворотку, которая может "вымывать" из организма ‖color:gui.orange‖зависимости‖end‖. Хотя это звучит прекрасно, сам процесс очистки неприятен и дорог.</talentdescription.botanophobia_chemistadvanced>
+  <talentname.botanophobia_chemistdangerous>Человек высший [Не завершено]</talentname.botanophobia_chemistdangerous>
+  <talentdescription.botanophobia_chemistdangerous>Вы в совершенстве владеете химическими знаниями и человеческим телом, так почему бы не усовершенствовать человеческую форму? Создайте сыворотку, которая превратит вас в ‖color:gui.orange‖Высшего человека‖end‖ давно теоретизированный в человеческой литературе.</talentdescription.botanophobia_chemistdangerous>
+  <!-- Books -->
+  <entityname.botanophobia_handbook>Справочник ботаника</entityname.botanophobia_handbook>
+  <entitydescription.botanophobia_handbook>Все, что нужно знать о работе ботаника.</entitydescription.botanophobia_handbook>
+  <terminalwelcomemsg.handbook>
+
+Справочник ботаника
+
+Последнее обновление: 27/07/2023 (AEST)
+
+Приложение
+
+ I.   Введение
+ II.  Инструменты
+ III. Растения
+ IV. Химические вещества и газы
+
+I. Введение
+
+Поздравляем Вас с интересом к ботанике с нашими запатентованными семенами Eursanto Corp!
+
+Мы с удовольствием расскажем об оптимальном способе получения максимальной отдачи от ваших инвестиций, но прежде необходимо сделать несколько оговорок.
+
+Использование Вами наших семян обусловлено следующим освобождением компании Eursanto Corp от всех юридических обязательств, включая, но не ограничиваясь ими:
+
+* Ожоги, раны или внутренние повреждения
+* Калечащие повреждения
+* Обезображивание
+* Отказ органа (анатомического или инструментального)
+* Удушье
+* Смерть
+* Воскрешение
+* Массовые жертвы или психоз
+* Превращение
+* Вызов сына Люцифера или эльдрических мерзостей, включая, но не ограничиваясь ими, Йог-Сотота, Азатота, Шуб-Ниггурата или Ктулху.
+
+Пожалуйста, перед посадкой внимательно изучите влияние того или иного растения.
+
+Итак, с этим покончено, давайте начнем.
+
+---
+
+Уникальную экосистему Европы трудно оценить, когда вашу подводную лодку или экипаж съедают более агрессивные представители фауны.
+
+Когда условия становятся более безопасными, ботаники обычно отправляются туда, чтобы определить и понять некоторые из более мирских видов жизни - водные растения.
+
+На Европе существует бесчисленное множество видов флоры, и только недавно Королевское общество Европы создало отдел для их каталогизации и изучения. 
+
+Стандартное снаряжение ботаника может защитить вас от некоторых обычных растений, но для работы с растениями более... эксцентричными вам потребуется более совершенное снаряжение.
+
+У вас есть несколько инструментов, позволяющих справиться с большинством из тех, что могут выбросить на вас эти растения, и обеспечить вашу личную безопасность, как от растений, так и от других факторов.
+
+Химический распылитель ботаника - это многоцелевой инструмент, действие которого меняется в зависимости от вставленного предмета. В него можно вставлять баллоны с кислородом, этанолом, сварочным топливом и газовыми баллонами. Он более эффективен при использовании канистр, но действует более постепенно.
+
+С другой стороны, у вас есть канистровая пусковая установка Пусковая установка для канистр ботаника, которая представляет собой большую пусковую установку AoE-газа, предназначенную для взрыва эффекта на большой площади. При этом он использует всю канистру и может принимать только полные канистры, а не неполные.
+
+---
+
+Важные замечания:
+-Большинство из этих растений обладают уникальными спорами и, соответственно, воздействуют на ничего не подозревающих людей. Снаряжение ботаника должно уменьшить, но не полностью защитить от воздействия этих спор.
+Размещать все в одной комнате - не самая лучшая идея. Важно продумать, как изолировать проблемные растения.
+-Чем выше вознаграждение, тем выше риск. Не все растения подходят для выращивания на подводной лодке.
+-Не забывайте дезинфицировать членов экипажа от спор, их воздействие становится тем сильнее, чем дольше они сохраняются!
+-Этот справочник не обновляется автоматически. Чтобы получить самую свежую информацию от Eursanto Corp, вам придется его деконструировать и изготовить заново.
+- Ваше снаряжение ботаника является стандартным и предназначено для защиты от самих спор растений. Это не защищает вас от их воздействия, если они уже попали на вас. Например, если вы покрылись спорами инсендиберри, а затем надели снаряжение ботаника, оно не удалит существующие споры. Профилактика - лучшее лекарство!
+- Химический распылитель ботаника может использовать этанол, чтобы удалить споры с членов экипажа.
+- Большинство предметов можно изготовить на Фабриканте, но все ботанические газы можно изготовить только на Ботанической Перегонной Станции. На Перегонной станции можно изготовить любой предмет.
+
+* Интересно, как получить семена более высокого класса из этого мода? Неопознанные семена в Исследовательской станции ботаника.
+Это прекрасное творение позволяет превращать неопознанные семена в другие семена!
+Шанс зависит от распространенности каждого семени.
+Более высокоуровневые растения имеют более опасные споры. Убедитесь, что вы готовы к их выращиванию, прежде чем сажать их!
+Чтобы собрать все семена, можно поместить мешок с семенами в выходной слот установки исследований семян.
+
+II. Инструменты
+
+
+-Химический опрыскиватель ботаника-
+
+Боеприпасы: Кислородный баллон, сварочное топливо, этанол, газовые канистры.
+Подробнее: Используется для распыления химикатов на цель как с хорошим, так и с плохим эффектом. Обычно используется для нанесения медленного, но стабильного урона цели по сравнению с альфа-ударом химического метателя.
+
+Ниже перечислены эффекты воздействия различных газов:
+
+Кислородный баллон: Снижает эффект состояния "Низкий уровень кислорода" у цели и обеспечивает кислородом корпус, в котором он используется. Применяется как средство реанимации или для обеспечения воздухом незащищенных членов экипажа.
+
+Сварочное топливо: По сути, превращает химический распылитель в огнемет, хотя его топливная эффективность невелика. Полезное оружие, если у вас нет другого выбора.
+
+Этанол: Стерилизующее средство, полезное для удаления спор на членах экипажа. Удаляет все споры, но не удаляет поражения, вызванные ими, например, лучевую болезнь от спор Рэдберри.
+
+Газовые канистры: Эффект зависит от химиката, но, как правило, газовые канистры, используемые в распылителе химикатов, распыляются концентрированно, что более эффективно и помогает канистре прослужить дольше, чем пусковая установка.
+
+
+-Пусковая установка для канистр ботаника-
+
+Боеприпасы: Любая газовая канистра.
+Подробнее: Очень полезное оружие, предназначенное для передачи эффекта газового баллона в виде взрывного АоЕ с высоким альфа-уроном. Можно использовать только газовые канистры. Все канистры взрываются при столкновении с человеком или монстром и действуют с пониженной эффективностью. Если канистра не попадает в цель, она взрывается через 2 секунды после попадания. Может использоваться для установки ловушек для пиратов/монстров на станциях.
+
+
+-Поливочный прибор-
+
+Подробнее: Устройство с питанием, предназначенное для автоматизации полива растений. Как механическое устройство, оно периодически нуждается в ремонте, как и все остальное на подводной лодке. Может также тушить пожары. При плохой откачке медленно затопляет помещение.
+
+-Сжигатель-
+
+Подробнее: Устройство, работающее от электросети и предназначенное для автоматизации стерилизации помещений, в которых могут возникать проблемы с побочными эффектами растений. Являясь механическим устройством, оно, как и все остальное на подводной лодке, периодически требует ремонта. Может также вызывать пожары. Прибор медленно удаляет кислород из помещения и прекращает работу при его отсутствии.
+
+
+-Биоудобрение Ботаника-
+
+Подробнее: Удобрение, изготовленное из органических соединений, не содержащих тяжелых металлов. Эти соединения часто получают при разложении семян растений, что делает его отличным экологически чистым способом выращивания растений.
+
+
+
+III. Растения
+
+
+--- Tier 1 Растения ---
+
+Примечание: сюда не входят нетронутые семена - они считаются T0.
+
+-Растение эластина-
+
+Уровень опасности: Безопасно
+Производит: Эластин
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробно: Крупная ползучая лиана, являющаяся прекрасным источником эластина. Совершенно безопасна для выращивания и является прекрасным стартовым растением.
+
+
+-Волоконное растение-
+
+Уровень опасности: Безопасно
+Производит: Органическое волокно
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Родное водное растение, но, похоже, оно не возражает против выращивания и на суше.
+
+
+-Слизистые бактерии-
+
+Уровень опасности: Безопасно
+Производит: Антибиотики широкого спектра действия
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Эта колония бактерий, не являющаяся растением, выращивает несколько листоподобных структур для осуществления хемосинтеза из воды Европийского моря. Оказалось, что она вполне счастлива как в горшке с растением, так и в открытом море.
+
+
+
+--- Tier 2 Растения ---
+
+
+-Ржавчинник-
+
+Уровень опасности: Несколько безопасен
+Производит: Опиум
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Хотя растение, выращивающее водяные Уровень опасности: Несколько безопасен
+Производит: Опиум
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Уровень опасности: Несколько безопасен
+Производит: Опиум
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Хотя растение, выращивающее водяной мак, кажется хорошей идеей, оно имеет досадный побочный эффект - разъедает металл из-за происходящих в нем мощных химических реакций. Они часто выделяются из растения, вызывая легкое раздражение у членов экипажа и лишая корпус судна соединений железа.
+
+
+-Морские дрожжи-
+
+Уровень опасности: Несколько опасно
+Производит: Этанол
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Хорошо известен на Европе, но до сих пор его очень трудно культивировать в искусственных условиях.
+
+
+-Пумпантус-
+
+Уровень опасности: Несколько опасно
+Производит: Солевой раствор
+Время роста: Быстро
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Маленькое изящное растение, которое любит воду и очищает ее для внутреннего употребления, выводя соли. Очень огнеопасно, но очень полезно для откачки воды из подводной лодки во время наводнения.
+
+
+-Одомашненная балластная флора-
+
+Уровень опасности: высокий
+Производит: Серная кислота
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Гибрид плесени и растения, это диковинное создание, похоже, принадлежит к тому же семейству, что и балластная флора. Оно соединяется с близлежащими "узлами" и вырабатывает серную кислоту в качестве защиты. Иногда оно перепроизводит ее, и эти мешки с избытком кислоты отпадают и могут быть переработаны в серную кислоту.
+
+
+--- Tier 3 Растения ---
+
+-Оксифрукт-
+
+Уровень опасности: Средний
+Производит: Оксифрут
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Любопытное растение, которое в основном растет вокруг руин инопланетян. В природе оно агрессивно фильтрует воду для получения кислорода, который используется для хемосинтеза. В искусственной среде это растение не имеет таких ограничений и, как известно, потребляет весь кислород на подводной лодке. Эти фруктоподобные структуры могут быть переработаны в продукт, аналогичный оксигениту.
+
+-Рад-ягода-
+
+Уровень опасности: высокий
+Производит: Рад-ягоды
+Время роста: медленное
+Устойчивость к затоплению: чувствительная
+
+Подробнее: Крупнейшим месторождением урана является само море Европы, поскольку большая часть урана находится в растворенном состоянии. Этот выносливый куст, похожий на тростник, действует как миниатюрная опреснительная установка, всасывая и отфильтровывая более тяжелые элементы, выдавливая их и сбрасывая, когда плод насытится. Естественно, что сам радфрут обладает слабой радиоактивностью. Вследствие нахождения на открытом воздухе Рад-ягода иногда выделяет радиоактивные споры, которые, будучи сами по себе слаборадиоактивными, усиливают радиацию, накапливаясь на жертве, что приводит к лучевой болезни.
+
+-Огонь-ягода-
+
+Уровень опасности: высокий
+Производит: огонь-ягоды
+Время роста: медленное
+Толерантность к наводнениям: чувствительная
+
+Подробнее: Известное как плод Люцифера, это странное растение, похоже, фильтрует и хранит инциндий в своих узлах в виде ягод, хотя он и не хранится в больших концентрациях, но может быть переработан, чтобы сконцентрировать его в полезный продукт. Предполагается, что он использует эти фрагменты странного материала для химического синтеза. Известно, что это эффективный, хотя и несколько медленный и опасный способ получения материала. Без морской воды для охлаждения инсендиберри имеют склонность взрываться и, иногда, вызывать пожары. Кроме того, споры невероятно экзотермичны и поэтому опасны.
+
+--- Tier 4 Растения ---
+
+Предупреждение: Они вас могут убить.
+
+Примечание автора: Эти семена плохо изучены и часто являются творениями безумия в какой-нибудь лаборатории, поэтому мы не можем включить запись о них, но будьте уверены, они существуют.
+
+
+IV. Химические вещества и газы
+
+Примечание: Все канистры можно использовать под водой, но при этом, естественно, не будет появляться затяжное АоЕ. АоЕ-урон по-прежнему наносится.
+
+-Хлорный газ (бертолетова соль)-
+
+Смертоносность: Умеренная
+Сложность производства: Низкая
+Эффекты: Повреждение органов, кровотечение
+Лечение: Нет, поддерживающая терапия до тех пор, пока не пройдет поражение.
+
+Подробнее: Дешевый и эффективный газ для химического оружия. Он быстро рассеивается и лучше всего используется в качестве газа прямой атаки для химического распылителя, хотя он все еще очень эффективен при прямых попаданиях в пусковую установку. Хотя этот газ не убивает быстро, он вызывает рвоту как рвотой, так и кровью, которая может быть весьма изнурительной.
+
+
+-Агент R (Бич Раптора)-
+
+Смертоносность: Высокая (не действует на людей)
+Трудность производства: Легко
+Эффекты: Повреждение органов
+Лечение: Нет, полностью смертелен.
+
+Подробнее: Очищенная версия знаменитого бича раптора, этот состав еще больше усиливает летальные эффекты бича раптора за счет очистки и удаления нечистых органических соединений, содержащихся в исходном растении. При нанесении на мудраптора газ впитывается через кожу и начинает распространяться. Достигнув критической массы в кровотоке, он начинает быстро разжижать и отключать органы мудраптора. Газ полностью смертелен для всех мудрепторов, но для его действия требуется время. Даже самые малые концентрации смертельны.
+
+
+-Белый фосфор (тетрафосфор)-
+
+Смертоносность: Умеренная
+Сложность производства: Низкая
+Эффекты: Сильные ожоги
+Лечение: Нет, вспомогательное лечение ожогов.
+
+Подробнее: Запрещен Коалицией Европы в своих вооруженных силах, но это не мешает сепаратистам Юпитера прекрасно использовать его для абордажа подлодок Коалиции. Считается мерзостью Церковью Хаска из-за ужасных ожогов, которые он наносит, и отличной "шалостью" Детей Гонкмотера. Отличное оружие для борьбы с зоной поражения в канистровой пусковой установке и неплохое оружие для стрельбы прямой наводкой в химическом распылителе.
+
+
+-Цианистый водород (синильная кислота/циклон Б)-
+
+Смертоносность: Высокая
+Сложность производства: Средняя/Высокая
+Эффекты: Низкое содержание кислорода, удушье
+Лечение: Нет, полностью смертельно.
+
+Подробнее: Первоначально этот бесцветный газ использовался для истребления вредителей и имеет богатое прошлое. Трудно обнаружить. При незначительном воздействии (менее 10%) происходит естественное восстановление. Приводит к удушью, так как нарушает клеточное дыхание. Будьте внимательны: лекарств от него нет.
+
+
+ </terminalwelcomemsg.handbook>
+</infotexts>

@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="true" translatedname="Русский">
+  <!--оригинал -->
+  <npctitle.merchantarmory>Марвелосский морской торговец оружием</npctitle.merchantarmory>
+  <radioannouncername> Штаб-квартира Марвелоус Си</radioannouncername>
+  <toofarfromoutpostwarning>Пожалуйста, немедленно вернитесь на аванпост, если вы ныряете под аванпост, кто-то наблюдает, гарнизон Моря Чудес был эвакуирован, и деятельность вне станции теперь крайне рискованна. </toofarfromoutpostwarning>
+  <toofarfromoutpostwarning>Дайверы под аванпостом, вы скоро выплывете из зоны действия гидролокатора, пожалуйста, немедленно вернитесь на аванпост, мы не хотим, чтобы люди Моря Чудес искали вас там, внизу, если вы заблудитесь. </toofarfromoutpostwarning>
+  <locationname.none></locationname.none>
+  <locationnameformat.none>[name]</locationnameformat.none>
+  <locationchange.none.changeto.outpost>Море Чудес переместилось в [previousname] и основало там новый аванпост. </locationchange.none.changeto.outpost>
+  <locationchange.none.changeto.military>Новый военный гарнизон Моря Чудес в [previousname]. </locationchange.none.changeto.military>
+  <locationchange.none.changeto.research>Новая исследовательская база ЭМБИ на [previousname]. </locationchange.none.changeto.research>
+  <locationname.mine>Miracle Sea Mining Outpost</locationname.mine>
+  <locationnameformat.mine>[name]горнодобывающий объект</locationnameformat.mine>
+  <locationnameformat.mine>[name]горнодобывающая компания</locationnameformat.mine>
+  <locationnameformat.mine>[name]разведочный форпост</locationnameformat.mine>
+  <locationnameformat.lair>[name]рассадник</locationnameformat.lair>
+  <locationchange.lair.changeto.none>[previousname]Больше не является логовом монстров, Море Чудес было очищено от большинства монстров в логове, и теперь это безопасный колониальный оплот. </locationchange.lair.changeto.none>
+  <locationchange.ruins.changeto.outpost>Новый аванпост Альянса на [previousname]. </locationchange.ruins.changeto.outpost>
+  <locationchange.ruins.changeto.military>Море чудес направило отряды павших в военный гарнизон [previousname], чтобы улучшить оборону территории</locationchange.ruins.changeto.military>
+  <locationchange.ruins.changeto.research>Новая исследовательская база в [previousname]. </locationchange.ruins.changeto.research>
+  <locationchange.outpost.changeto.military>Коалиционные силы переместились в [previousname], чтобы стать военной гарантией для этого района. </locationchange.outpost.changeto.military>
+  <locationchange.outpost.changeto.research>Несколько исследователей переехали в [previousname] для изучения окружающих биомов. </locationchange.outpost.changeto.research>
+  <locationchange.outpost.changeto.mine>На [previousname] начались горные работы. </locationchange.outpost.changeto.mine>
+  <locationchange.military.changeto.city>[previousname] теперь глава местного правительства, готовый превратить [name] в нормальный город. </locationchange.military.changeto.city>
+  <locationchange.research.changeto.city>Команда "Чудо-море Хигураши" переехала в исследовательский центр [previousname] и укрепила периметр, привлекая большое количество жителей, которые поселились там, и теперь город переименован в [name]</locationchange.research.changeto.city>
+  <locationchange.mine.changeeto.city>Семьи шахтеров поселились в [previousname], который постепенно превратился в приличный город. </locationchange.mine.changeeto.city>
+  <locationname.abandoned>Заброшенные аванпосты</locationname.abandoned>
+  <locationchange.outpost.changeto.abandoned>Море Чудес потеряло связь с [previousname]</locationchange.outpost.changeto.abandoned>
+  <locationdescription.none>Ненаселенный и потенциальное место для аванпоста. </locationdescription.none>
+  <locationdescription.city>Машины и движение, недостатка в припасах нет. </locationdescription.city>
+  <locationdescription.outpost>Среднего размера аванпост без особенностей. </locationdescription.outpost>
+  <locationdescription.military>Предоставляет большое количество военной техники. </locationdescription.military>
+  <locationdescription.research>Поставляет редкие и экзотические предметы. </locationdescription.research>
+  <locationdescription.mine>Поставка сырья по сниженным ценам. </locationdescription.mine>
+  <locationdescription.abandoned> Контакт с этим аванпостом был потерян. \n восстановление контакта или устранение угрозы здесь может принести вам целое состояние. </locationdescription.abandoned>
+  <biomename.thegreatsea>Бескрайний океан</biomename.thegreatsea>
+  <campaignstart>В конце 20 века под холодной, радиоактивной поверхностью луны Юпитера Ио - Европы - был обнаружен огромный, живой океан. \В 2022 году, после успеха первой пилотируемой исследовательской миссии на Ио, началось массовое переселение людей на Ио. Вопреки всему, первые первопроходцы построили несколько аванпостов под ледяной шапкой и постепенно начали расширять пространство для выживания людей. \В последующие десятилетия на Ио сформировалась новая социальная система в этой особой среде, и новый мир, который человечество создало на Ио, был процветающим, но постепенно отдалялся от своей далекой родной планеты, Земли. \n\n50 лет назад связь между колонией Ио и Землей была полностью прервана. Между тем, подводный транспорт играл ключевую роль в структуре этого нового общества. Люди строили подводные лодки, чтобы погружаться в глубины ледяного океана, спасаться от кризисов и налаживать торговые маршруты между станциями. \n\nСегодня вы являетесь частью флота подводных лодок под знаменем "Море чудес". По мере изучения ледяные океаны Ио откроют перед вами свои двери: исследуйте их, расширьте территорию для человеческой деятельности и превратите ее в то, чем вы хотите ее видеть. </campaignstart>
+  <randomnews8>Срочное уведомление, штаб Чудесного моря опубликовал объявление о том, что передовая оперативная группа дезертировала. </randomnews8>
+  <randomnews9>Море Чудес здесь для вас</randomnews9>
+  <!--мод контент -->
+  <!--Тип травмы -->
+  <afflictionname.triton_7L>Травмы тритием</afflictionname.triton_7L>
+  <afflictiondescription.triton_7L>Раны, полученные в результате изменения типа 7L, вызывают распад и могут привести к повреждению желудочно-кишечного тракта, дыхательных путей и т.д., если их не лечить</afflictiondescription.triton_7L>
+  <afflictioncauseofdeath.triton_7L>Тяжелое повреждение тканей вашего тела тритием</afflictioncauseofdeath.triton_7L>
+  <afflictioncauseofdeathself.triton_7L>Ядра трития заполняют ваше тело, и вы начинаете разлагаться и гноиться. </afflictioncauseofdeathself.triton_7L>
+  <afflictiondescription.triton_7L.low>Нанесенные раны в настоящее время не кажутся серьезными, но существует риск ухудшения</afflictiondescription.triton_7L.low>
+  <afflictiondescription.triton_7L>Пуля проникла в ваше тело, и в ране ощущается сильное жжение, а некоторые ткани тела вынесены наружу. </afflictiondescription.triton_7L>
+  <afflictionname.triton_9C>Отравление тритием</afflictionname.triton_9C>
+  <afflictiondescription.triton_9C>Часть, которая была поражена, начала гноиться</afflictiondescription.triton_9C>
+  <afflictiondescription.triton_9C.low.self>Рана начала гореть и чувствовать себя как в огне</afflictiondescription.triton_9C.low.self>
+  <afflictiondescription.triton_9C.high.self>Вы начинаете чувствовать головокружение и рвоту, поскольку рана гниет и зарастает</afflictiondescription.triton_9C.high.self>
+  <afflictiondescription.triton_9C.high>Вы не можете остановить рвоту, и у вас появляются язвы и различные признаки распада мягких тканей. </afflictiondescription.triton_9C.high>
+  <entityname.triton_9C_antidote>Специальное средство для удаления трития</entityname.triton_9C_antidote>
+  <entitydescription.triton_9C_antidote>Медицина для тритиевых травм</entitydescription.triton_9C_antidote>
+  <afflictionname.zlyz>Гравитационное сокрушение</afflictionname.zlyz>
+  <afflictiondescription.zlyz>Вы чувствуете невидимое давление, которое мешает вам двигаться</afflictiondescription.zlyz>
+  <afflictioncauseofdeath.zlyz>Сокрушен гравитацией</afflictioncauseofdeath.zlyz>
+  <afflictioncauseofdeathself.zlyz>Это ваша чума, следствие вашего пренебрежения правилами, где санкционированное оружие нелегко использовать простому человеку. </afflictioncauseofdeathself.zlyz>
+  <afflictionname.zlqy>Гравитационная тяга</afflictionname.zlqy>
+  <afflictiondescription.zlqy>Давайте вместе погрузимся во тьму, сотканную добром и злом</afflictiondescription.zlqy>
+  <afflictioncauseofdeath.zlqy>Анигиляция</afflictioncauseofdeath.zlqy>
+  <afflictioncauseofdeathself.zlqy>Колокол смерти прозвучал, но это приветствие открытия врат другого мира</afflictioncauseofdeathself.zlqy>
+  <afflictionname.tsm_bl>Взрыв</afflictionname.tsm_bl>
+  <afflictiondescription.tsm_bl>После попадания пули в тело человека, осколки и давление воздуха, образовавшиеся в результате взрыва, производят прямое поражение человеческого тела</afflictiondescription.tsm_bl>
+  <afflictioncauseofdeath.tsm_bl>Тело разорвалось</afflictioncauseofdeath.tsm_bl>
+  <afflictioncauseofdeathself.tsm_bl>Погиб от разрывных снарядов</afflictioncauseofdeathself.tsm_bl>
+  <afflictiondescription.tsm_bl.low>Некоторые мелкие осколки попали в ваше тело после взрыва пули</afflictiondescription.tsm_bl.low>
+  <afflictiondescription.tsm_bl>Взрывная пуля разрушила некоторые ткани вашего тела, и осколки, под давлением воздуха пронеслись по вашему телу. </afflictiondescription.tsm_bl>
+  <afflictionname.tsm_armor_allbuff>Вставки полной защиты</afflictionname.tsm_armor_allbuff>
+  <afflictiondescription.tsm_armor_allbuff>Много типов защиты от повреждений</afflictiondescription.tsm_armor_allbuff>
+  <afflictionname.tsm_armor_lacerations>Защита от ранений</afflictionname.tsm_armor_lacerations>
+  <afflictiondescription.tsm_armor_lacerations>Тип защиты: рваная рана</afflictiondescription.tsm_armor_lacerations>
+  <afflictionname.tsm_armor_stun>Защита от оглушения</afflictionname.tsm_armor_stun>
+  <afflictiondescription.tsm_armor_stun>Тип защиты: оглушение</afflictiondescription.tsm_armor_stun>
+  <afflictiondescription.tsm_armor_blunttrauma>Защита от травм от удара тупым предметом</afflictiondescription.tsm_armor_blunttrauma>
+  <afflictiondescription.tsm_armor_blunttrauma>Тип защиты: травма тупым предметом</afflictiondescription.tsm_armor_blunttrauma>
+  <afflictionname.tsm_armor_huskinfection>Защита от заражения паразитом каликс</afflictionname.tsm_armor_huskinfection>
+  <afflictiondescription.tsm_armor_huskinfection>Тип защиты: заражение паразитом каликс</afflictiondescription.tsm_armor_huskinfection>
+  <afflictionname.tsm_armor_paralysis>Защита от паралича</afflictionname.tsm_armor_paralysis>
+  <afflictiondescription.tsm_armor_paralysis>Тип защиты: паралич</afflictiondescription.tsm_armor_paralysis>
+  <afflictionname.tsm_armor_triton>Специальная защита от урона</afflictionname.tsm_armor_triton>
+  <afflictiondescription.tsm_armor_triton>Тип защиты: отравление тритием, взрыв</afflictiondescription.tsm_armor_triton>
+  <afflictionname.tsm_armor_bitewounds>Защита от укусов</afflictionname.tsm_armor_bitewounds>
+  <afflictiondescription.tsm_armor_bitewounds>Тип защиты: раны от укуса</afflictiondescription.tsm_armor_bitewounds>
+  <afflictionname.tsm_armor_explosiondamage>Защита от взрыва</afflictionname.tsm_armor_explosiondamage>
+  <afflictiondescription.tsm_armor_explosiondamage>Тип защиты: глубокое повреждение тканей</afflictiondescription.tsm_armor_explosiondamage>
+  <afflictionname.tsm_armor_gunshotwound>Защита от огнестрельных ранений</afflictionname.tsm_armor_gunshotwound>
+  <afflictiondescription.tsm_armor_gunshotwound>Тип защиты: огнестрельное ранение</afflictiondescription.tsm_armor_gunshotwound>
+  <afflictionname.tsm_kep_buff>Вспомогательная система Саншинчо</afflictionname.tsm_kep_buff>
+  <afflictiondescription.tsm_kep_buff>Небольшое увеличение защиты оператора от физического урона, эта система также позволяет оператору иметь более высокую скорость стрельбы. \n Отряд из трех богов? К сожалению, мне не удалось оставить ни одного из них, но их жертва проложила путь для следующих операторов</afflictiondescription.tsm_kep_buff>
+  <!--идентификация -->
+  <displayname.多量制作>[itemname] (мультикрафтинг)</displayname.多量制作>
+  <displayname.填装>[itemname] (fill)</displayname.填装>
+  <displayname.替换配方1>[itemname] (Replacement Recipe 1)</displayname.替换配方1>
+  <displayname.替换配方2>[itemname] (replacement recipe 2)</displayname.替换配方2>
+  <displayname.防护服改造>[itemname] (модификация защитной одежды)</displayname.防护服改造>
+  <displayname.锻造>[itemname] (Кузница)</displayname.锻造>
+  <displayname.精炼>[itemname] (refining)</displayname.精炼>
+  <displayname.仿制>[itemname] (имитация)</displayname.仿制>
+  <semi_auto>полуавтоматический</semi_auto>
+  <fullauto>полностью автоматический</fullauto>
+  <nightvision>ночное видение включено</nightvision>
+  <burst>очередь</burst>
+  <laser>лазерная указка</laser>
+  <pucsscooter>двигательная система</pucsscooter>
+  <lightswitch>Система освещения</lightswitch>
+  <mode.laser>Режим резки</mode.laser>
+  <mode.charge>Режим концентрации</mode.charge>
+  <subcategory.TSM>Море Чудес прикроет вас\несмотря на успех или неудачу</subcategory.TSM>
+  <!--медицина-->
+  <entityname.triton_9C_antidote>Специальное средство для снятия тритиевого урона</entityname.triton_9C_antidote>
+  <entitydescription.triton_9C_antidote>Лекарство от отравления тритием, трансформационных повреждений и взрывных травм</entitydescription.triton_9C_antidote>
+  <entityname.tsm_medicalkits>Медицинские наборы</entityname.tsm_medicalkits>
+  <entitydescription.tsm_medicalkits>Портативный медицинский набор для временного восстановления, может использоваться для лечения физических повреждений, ожогов, кровотечений</entitydescription.tsm_medicalkits>
+  <entityname.tsm_medicalkits_s>Усовершенствованная аптечка</entityname.tsm_medicalkits_s>
+  <entitydescription.tsm_medicalkits_s>Портативная аптечка, временно восстанавливающая ваше состояние и более эффективная, чем обычные аптечки, при физических повреждениях, ожогах и кровотечениях</entitydescription.tsm_medicalkits_s>
+  <!--минералы/металлы -->
+  <entityname.wk>Синтетический металл K</entityname.wk>
+  <entitydescription.wk>Синтетический металл K, синтезированный из олова, железной меди и железа путем специальной обработки, является распространенным материалом для боеприпасов в Море Чудес, и его часто можно увидеть продающимся у торговцев в этом месте. </entitydescription.wk>
+  <entityname.ts>Синтетический металл S</entityname.ts>
+  <entitydescription.ts>Синтетический металл S - металл, синтезированный Союзом в ходе специального процесса. </entitydescription.ts>
+  <entityname.Sulfur>Синтетический материал R</entityname.Sulfur>
+  <entitydescription.Sulfur>Синтетический материал R, основной материал, используемый Союзом для изготовления боеприпасов полной мощности, обычно используется для изготовления патронов с высоким содержанием взрывчатки</entitydescription.Sulfur>
+  <entityname.tsm_I>Модифицированный металл типа I</entityname.tsm_I>
+  <entitydescription.tsm_I>Созданный путем разборки стандартных частей пистолета-пулемета Tiger Tail Fury, этот материал теперь требуется в качестве основы для большинства огнестрельного оружия на Ио. </entitydescription.tsm_I>
+  <entityname.tsm_II>Модифицированный металл типа II</entityname.tsm_II>
+  <entitydescription.tsm_II>Модифицированный металл типа II, изготовленный из брони морлоков и брони наблюдателей. </entitydescription.tsm_II>
+  <entityname.tsm_III>Тип III модифицированный металл</entityname.tsm_III>
+  <entitydescription.tsm_III>Металл типа III, другой тип металла, изготовленный на обрабатывающем столе путем разборки стандартных частей пистолета-пулемета Tiger Tail Brakes, большинство огнестрельного оружия требует этот материал в качестве основы. </entitydescription.tsm_III>
+  <entityname.tsm_IV>Тип III контактного металла</entityname.tsm_IV>
+  <entitydescription.tsm_IV>@#%!Q^@! @$^$%</entitydescription.tsm_IV>
+  <!-- Пуленепробиваемые жилеты и вставки и защитная одежда -->
+  <entityname.redstorm>Костюм Красный шторм</entityname.redstorm>
+  <entitydescription.redstorm>Специализированная защитная одежда против радиации, бонусом поглощает несущественные ранения тритием и взрывами. </entitydescription.redstorm>
+  <entityname.zlqysuit>Костюм гравитационной тяги</entityname.zlqysuit>
+  <entitydescription.zlqysuit>Специализированная защитная одежда, эта защита носится исключительно пользователями гравитационных метателей и может полностью нейтрализовать побочные эффекты от использования гравитационных метателей, но плохо подходит в качестве обычной защитной одежды. </entitydescription.zlqysuit>
+  <entityname.tsm_pgvest>Боевая броня Pro-Guard</entityname.tsm_pgvest>
+  <entitydescription.tsm_pgvest>Телесная броняPro-Guard, модифицированная Kyushu Arsenal, чтобы добавить слоты для вставок, в которые можно поместить соответствующие вкладыши для защиты от соответствующих повреждений. </entitydescription.tsm_pgvest>
+  <entityname.tsm_pgc>Боевой костюм Pro-Guard</entityname.tsm_pgc>
+  <entitydescription.tsm_pgc></entitydescription.tsm_pgc>
+  <entityname.tsm_pgchelmet>Про-гвардейский шлем</entityname.tsm_pgchelmet>
+  <entitydescription.tsm_pgchelmet>Pro-Guard шлем с зарезервированной позицией чипа, различные чипы устанавливаются для получения различных эффектов. </entitydescription.tsm_pgchelmet>
+  <entityname.tsm_jzzz>Боевой костюм Кюсю</entityname.tsm_jzzz>
+  <entitydescription.tsm_jzzz></entitydescription.tsm_jzzz>
+  <entityname.tsm_jzhelmet> боевой шлем Кюсю</entityname.tsm_jzhelmet>
+  <entitydescription.tsm_jzhelmet> Стандартный шлем Кюсю, модифицированный из усовершенствованного боевого шлема в качестве основы, с заранее определенным положением чипа. </entitydescription.tsm_jzhelmet>
+  <entityname.tsm_jz> Броня Кюсю</entityname.tsm_jz>
+  <entitydescription.tsm_jz>Стандартная броня Кюсю, основанная на передовой боевой броне, регулярно обслуживается для обеспечения надлежащей защиты. </entitydescription.tsm_jz>
+  <entityname.tsm_lm_mtfhelmet>Боевой шлем союзного контингента</entityname.tsm_lm_mtfhelmet>
+  <entitydescription.tsm_lm_mtfhelmet>Шлем, предназначенный для использования союзным контингентом, с возможностью выдерживать прямой огонь и ночное видение, не забывайте вовремя менять батареи, чтобы обеспечить превосходство в оборудовании и информации</entitydescription.tsm_lm_mtfhelmet>
+  <entityname.tsm_lm_mtfvest>Боевая броня союзного контингента</entityname.tsm_lm_mtfvest>
+  <entitydescription.tsm_lm_mtfvest>Модифицированный бронежилет оперативной группы Альянса, который не такой защитный, как оригинальный, но может быть вставлен во вкладыши, разработанные штабом "Моря чудес", для достижения лучших тактических результатов</entitydescription.tsm_lm_mtfvest>
+  <entityname.tsm_lm_mtfvest_none>Телесная броня союзного контингента</entityname.tsm_lm_mtfvest_none>
+  <entitydescription.tsm_lm_mtfvest_none>Эксклюзивный бронежилет союзного контингента, прочнее обычного бронежилета, очень эффективен в баллистической защите, отличился в Войне за отделение, защитив жизни нескольких членов контингента</entitydescription.tsm_lm_mtfvest_none>
+  <entityname.tsm_lm_mtf>Боевая форма Контингента Альянса</entityname.tsm_lm_mtf>
+  <entitydescription.tsm_lm_mtf>Боевой костюм, разработанный для использования контингентом Альянса. Хотя он не пуленепробиваемый, он прочный, долговечный и теплый, а чехол на костюме позволяет носить больше предметов. </entitydescription.tsm_lm_mtf>
+  <entityname.tsm_armor_allbuff>ТехнологияTSM - вставка полной защиты</entityname.tsm_armor_allbuff>
+  <entitydescription.tsm_armor_allbuff>Разработанная Мерфи, бронепластина полной защиты объединяет все типы бронепластин для большей защиты, но ценой того, что она более хрупкая, чем один тип защиты, и не достигает требуемого наивысшего уровня защиты. </entitydescription.tsm_armor_allbuff>
+  <entityname.tsm_armor_lacerations>TSM Technology - вставки для защиты от разрывов</entityname.tsm_armor_lacerations>
+  <entitydescription.tsm_armor_lacerations>Бронепластины от ранений\n\n\nРазработчики: Арсенал Кюсю\n\n\n\n Тип защиты: ранения\n\n\n\n\nУровень защиты: III</entitydescription.tsm_armor_lacerations>
+  <entityname.tsm_armor_stun>TSM Technology - вставки для защиты от оглушения</entityname.tsm_armor_stun>
+  <entitydescription.tsm_armor_stun>Бронепластины защиты от оглушения\n\n\nРазработчики: Арсенал Кюсю\n\n\n\n Тип защиты: оглушение\n\n\n\nУровень защиты: III</entitydescription.tsm_armor_stun>
+  <entityname.tsm_armor_blunttrauma>TSM Technology - Blunt Protection Insert</entityname.tsm_armor_blunttrauma>
+  <entitydescription.tsm_armor_blunttrauma>Бронепластина для защиты от тупых ран\n\n\nРазработчик: Арсенал Кюсю\n\n\n\n Тип защиты: Защита от тупых ран\n\n\n\nКласс защиты: II</entitydescription.tsm_armor_blunttrauma>
+  <entityname.tsm_armor_huskinfection>TSM Technology - вставки от заражения паразитом каликс</entityname.tsm_armor_huskinfection>
+  <entitydescription.tsm_armor_huskinfection>Защитная бронепластина от заражения паразитом каликс\n\n Разработана в: Кюсю Арсенал\n\n\n Тип защиты: заражения паразитом каликс\n\n\n Уровень защиты: IV</entitydescription.tsm_armor_huskinfection>
+  <entityname.tsm_armor_paralysis>TSM Technology - Плагин защиты от паралича</entityname.tsm_armor_paralysis>
+  <entitydescription.tsm_armor_paralysis>Парализующая бронепластина \n\n разработана в: Арсенал Кюсю \n\n тип защиты: Паралич \n\n\n уровень защиты: IV</entitydescription.tsm_armor_paralysis>
+  <entityname.tsm_armor_triton>TSM Technology - Вставки для защиты от необычных повреждений</entityname.tsm_armor_triton>
+  <entitydescription.tsm_armor_triton>Специальные защитные бронепластины\n\n\nResearch and Development Location: Kyushu Arsenal\n\n\n\n\nТип защиты: Тритий/Взрыв\n\n\n\nProtection Level: II</entitydescription.tsm_armor_triton>
+  <entityname.tsm_armor_bitewounds>TSM Technology - Вставки для защиты от укусов</entityname.tsm_armor_bitewounds>
+  <entitydescription.tsm_armor_bitewounds>Бронепластины для защиты от укусов\n\n\n Разработаны в: Кюсю Арсенал\n\n\n\n Тип защиты: укус\n\n\n\n Уровень защиты: II</entitydescription.tsm_armor_bitewounds>
+  <entityname.tsm_armor_explosiondamage>TSM Technology - Вставки взрывозащитные</entityname.tsm_armor_explosiondamage>
+  <entitydescription.tsm_armor_explosiondamage>Защитные бронепластины против глубоких повреждений тканей\n\n\nResearch and Development Location: Kyushu Arsenal\n\n\n\n\nТип защиты: глубокие повреждения тканей\n\n\n\n\n\n\nProtection Level: II</entitydescription.tsm_armor_explosiondamage>
+  <entityname.tsm_armor_gunshotwound>TSM Technology - вставка для защиты от огнестрельных ран</entityname.tsm_armor_gunshotwound>
+  <entitydescription.tsm_armor_gunshotwound>бронепластина для защиты от огнестрельного ранения \n\n\n разработана в: Арсенал Кюсю \n\n\n\n тип защиты: огнестрельное ранение \n\n\n\n уровень защиты: II</entitydescription.tsm_armor_gunshotwound>
+  <entityname.tsm_xjzzsuit>Усовершенствованная военная защитная одежда</entityname.tsm_xjzzsuit>
+  <entitydescription.tsm_xjzzsuit>Этот защитный костюм военного класса был оснащен передовыми боевыми группами до раскола Моря Марвел и способен адаптироваться ко многим наиболее враждебным средам. В паре с магнитной обувью он может сохранять свою форму под воздействием небольших смерчей. </entitydescription.tsm_xjzzsuit>
+  <entityname.tsm_sbzsuit>Контактная защитная одежда типа 1</entityname.tsm_sbzsuit>
+  <entitydescription.tsm_sbzsuit>Усовершенствованные по сравнению со старыми военными костюмами, создатели использовали передовые технологии поддержания жизни и биологической защиты, специальные волокна для отделения суровой окружающей среды от человека, шлем со встроенной системой самоинъекции и ночного видения для значительного повышения эффективности, специализированную обувь для прочного сцепления с землей и снижения последствий удара </entitydescription.tsm_sbzsuit>
+  <entityname.tsm_rcsuit>Темперный костюм</entityname.tsm_rcsuit>
+  <entitydescription.tsm_rcsuit></entitydescription.tsm_rcsuit>
+  <entityname.rz_prototype>Прототип "костюма Ронга"</entityname.rz_prototype>
+  <entitydescription.rz_prototype>По разным причинам и в связи со все более критической ситуацией штабу "Чудесного моря" срочно потребовалась тяжелая платформа огневой поддержки, способная проникнуть внутрь подводной лодки. Так появился прототип тяжелой платформы огневой поддержки под названием "Rong Suit". </entitydescription.rz_prototype>
+  <entityname.tsm_rz_2b>"Костюм Ронга" прототип Тип 2B</entityname.tsm_rz_2b>
+  <entitydescription.tsm_rz_2b>Это боевая платформа с мощной огневой мощью. Оператор может быстрее входить и выходить из корпуса, а тяжелая огневая мощь, установленная на манипуляторе, может легко справиться с любой ситуацией внутри субмарины, но это все еще платформа, используемая для технической проверки. </entitydescription.tsm_rz_2b>
+  <entityname.riot_control_exo>Потрясающий экзоскелет</entityname.riot_control_exo>
+  <entitydescription.riot_control_exo></entitydescription.riot_control_exo>
+  <entityname.tsm_kepsuit>Боевой костюм Саншинчо</entityname.tsm_kepsuit>
+  <entitydescription.tsm_kepsuit>"Сангвин Хиллз" - экспериментальный отряд операторов, для которых Министерство разработало специальную боевую систему, но для ее активации требуется как боевой шлем "Сангвин Хиллз", так и плащ. </entitydescription.tsm_kepsuit>
+  <entityname.tsm_kepcape>Плащ Саншинчо</entityname.tsm_kepcape>
+  <entitydescription.tsm_kepcape>Маскировка экспериментального отряда Саншинчо, специально разработанная для защиты от определенных повреждений, а также от повреждений, наносимых тритиевыми бомбами, с боевым костюмом Саншинчо и боевым шлемом Саншинчо для активации вторичной системы</entitydescription.tsm_kepcape>
+  <entityname.tsm_kepcap>Боевой шлем Саншинчо</entityname.tsm_kepcap>
+  <entitydescription.tsm_kepcap>Комбатационный шлем для отряда Сангвинического кургана, с некоторой защитой, также может использоваться с чипом, а с боевым костюмом и плащом может активировать вспомогательную систему</entitydescription.tsm_kepcap>
+  <!--оружие и инструменты-->
+  <entityname.CODE002>CODE:002</entityname.CODE002>
+  <entitydescription.CODE002>Это, кажется, музыкальная кассета, и, если я правильно помню, в соседнем моде: "Спросить, когда вы собираетесь вернуться" есть плеер для таких кассет, так почему бы не проверить его? </entitydescription.CODE002>
+  <entityname.daylight>Световые вспышки</entityname.daylight>
+  <entitydescription.daylight>Освещают окрестности, как будто на Земле сейчас день</entitydescription.daylight>
+  <entityname.flashlight>Сильный фонарик</entityname.flashlight>
+  <entitydescription.flashlight>Большая дальность освещения, чем у обычного фонаря</entitydescription.flashlight>
+  <entityname.tsm_thermalgoggles>Чип для тепловидения Marvel Sea</entityname.tsm_thermalgoggles>
+  <entitydescription.tsm_thermalgoggles>Чип, устанавливаемый на шлем Miracle Sea для разблокировки доступа к тепловидению</entitydescription.tsm_thermalgoggles>
+  <entityname.tsm_healthscanner>Чип сканирования здоровья Чудо-моря</entityname.tsm_healthscanner>
+  <entitydescription.tsm_healthscanner>Чип, установленный на шлеме Miracle Sea для разблокировки доступа к сканеру здоровья</entitydescription.tsm_healthscanner>
+  <entityname.tsm_operatorassistancesystems>Системы помощи операторам (OAS)</entityname.tsm_operatorassistancesystems>
+  <entitydescription.tsm_operatorassistancesystems>Инициаторы бунтовщиков-операторов \n\nОператор, связывающийся с гравитационными телами Существенные системы связи, также действующие как гарнитура для общения оператора с другими, что усиливает волю оператора. </entitydescription.tsm_operatorassistancesystems>
+  <!--бой в ближнем бою-->
+  <entityname.tsm_tqzzfbd>Взрывной щит специальных операций "Чудо-море"</entityname.tsm_tqzzfbd>
+  <entitydescription.tsm_tqzzfbd>Маленький круглый щит для Группы специальных операций Чудо-моря, встречается в большинстве сценариев, где Группа специальных операций подавляет восстание</entitydescription.tsm_tqzzfbd>
+  <entityname.tsm_xjzzfbd>Усовершенствованный боевой взрывной щит Чудо-моря</entityname.tsm_xjzzfbd>
+  <entitydescription.tsm_xjzzfbd>Большой квадратный щит для передовой боевой группы "Чудо-моря", этот щит отлично защищает как от различных туземцев Иоана, так и от перестрелок</entitydescription.tsm_xjzzfbd>
+  <entityname.tsm_stunbaton>Специальная электрическая дубинка</entityname.tsm_stunbaton>
+  <entitydescription.tsm_stunbaton>Установите батарею Raisin для обеспечения более мощного контроля</entitydescription.tsm_stunbaton>
+  <entityname.tsm-stunbaton>Специальная электрическая дубинка</entityname.tsm-stunbaton>
+  <entitydescription.tsm-stunbaton>Установите батарею Raisin для обеспечения более мощного контроля</entitydescription.tsm-stunbaton>
+  <entityname.tsm_moonlight>Лунный свет</entityname.tsm_moonlight>
+  <entitydescription.tsm_moonlight>‖color:255,144,48,255‖亲 про-оружие ближнего боя, реплика кольцеголового клинка из чужеродных материалов刀‖color:end‖</entitydescription.tsm_moonlight>
+  <!--Амуниция -->
+  <entityname.tsm_xymagazine>Магазин Новая Луна</entityname.tsm_xymagazine>
+  <entitydescription.tsm_xymagazine>Полумесячный обычный магазин с 8 патронами 12,7*99</entitydescription.tsm_xymagazine>
+  <entityname.tsm_xymagazine_bg>Бронебойно-зажигательный магазин New Moon</entityname.tsm_xymagazine_bg>
+  <entitydescription.tsm_xymagazine_bg>Обратите внимание! Избегайте использования этого магазина в помещениях, как из-за его чрезвычайно высокой глубины проникновения, так и из-за его свойства воспламеняться при столкновении с объектами, это чрезвычайно случайный патрон, особенно при стрельбе по стенам или за дверями, пожалуйста, помните о положении ваших товарищей по команде. </entitydescription.tsm_xymagazine_bg>
+  <entityname.tsm-pjgrenade>М32 бронебойная граната</entityname.tsm-pjgrenade>
+  <entitydescription.tsm-pjgrenade>Граната малой дальности с высокой взрывной силой, очень мощная</entitydescription.tsm-pjgrenade>
+  <entityname.tsm-rsgrenade>Зажигательная граната М32</entityname.tsm-rsgrenade>
+  <entitydescription.tsm-rsgrenade>Внимание! Широко распространенные ожоги</entitydescription.tsm-rsgrenade>
+  <entityname.tsm_ld>Специальная оленья пуля Чудесного моря</entityname.tsm_ld>
+  <entitydescription.tsm_ld>Специальные патроны для ружья 12 калибра</entitydescription.tsm_ld>
+  <entityname.tsm_sdtdtd>Патрон 12 калибра</entityname.tsm_sdtdtd>
+  <entitydescription.tsm_sdtdtd>Специальный патрон для ружья 12 калибра</entitydescription.tsm_sdtdtd>
+  <entityname.tsm_bgd>Патрон 12 калибра с тритиевым зарядом</entityname.tsm_bgd>
+  <entitydescription.tsm_bgd>Тритиевое термоядерное ядро, убивающая секция фрагментации дейтерия</entitydescription.tsm_bgd>
+  <entityname.tsm_pxd>Успокаивающая бомба из чудодейственной морской резины</entityname.tsm_pxd>
+  <entitydescription.tsm_pxd>Обеспечивает сильный контроль</entitydescription.tsm_pxd>
+  <entityname.tsm_magazine>Магазин штаб-квартиры Кюсю</entityname.tsm_magazine>
+  <entitydescription.tsm_magazine>Marvel Sea Kyushu Headquarters Magazine, подходит ко всем пушкам Marvel Sea</entitydescription.tsm_magazine>
+  <entityname.tsm_magazinebg>Магазин смены штаба Кюсю</entityname.tsm_magazinebg>
+  <entitydescription.tsm_magazinebg>Магазин изменений штаба Кюсю, более мощный тип боеприпасов, будьте осторожны, чтобы случайно не ранить его. </entitydescription.tsm_magazinebg>
+  <entityname.tsm_58_ammobox> Ящик с патронами штаба Кюсю</entityname.tsm_58_ammobox>
+  <entitydescription.tsm_58_ammobox>Зарядите 600 патронов для штаб-квартиры Кюсю в "Море чудес"
+[Вставьте магазин, нажмите правую кнопку мыши + левую кнопку мыши, чтобы нажать на патроны]. </entitydescription.tsm_58_ammobox>
+  <entityname.tsm_szqyjgs>Невесомый лазерный луч тягача</entityname.tsm_szqyjgs>
+  <entitydescription.tsm_szqyjgs>Дорогой изготовленный на заказ корпус с сильно реагирующей гравитационной жидкостью, протекающей внутри, создавая гравитационный домен при каждом использовании. </entitydescription.tsm_szqyjgs>
+  <entityname.lm_762_ammobox>Альянсовый ящик для патронов</entityname.lm_762_ammobox>
+  <entitydescription.lm_762_ammobox>Продается боеприпасы Альянса с 700 патронами, которые можно засунуть в любой магазин Альянса.
+[вставить в магазин, правый клик + левый клик для запрессовки патронов]. </entitydescription.lm_762_ammobox>
+  <entityname.tsm_mk46magazine>Магазины МК46</entityname.tsm_mk46magazine>
+  <entitydescription.tsm_mk46magazine>Магазин со 120 патронами для станкового пулемета отряда "Юнион"</entitydescription.tsm_mk46magazine>
+  <entityname.lm_magazine>Обычный магазин Юниона</entityname.lm_magazine>
+  <entitydescription.lm_magazine>Обычные магазины для оружия Лиги, могут быть адаптированы к любому оружию Лиги</entitydescription.lm_magazine>
+  <entityname.lm_cjmagazine>Одноразовые бронебойные магазины</entityname.lm_cjmagazine>
+  <entitydescription.lm_cjmagazine>Высокопробивные патроны, используемые в огнестрельном оружии Альянса, адаптируемые к любому огнестрельному оружию Альянса и способные легко вскрывать гильзы даже против хищников. </entitydescription.lm_cjmagazine>
+  <entityname.tsm_bl>League Full Power Magazine</entityname.tsm_bl>
+  <entitydescription.tsm_bl>Это не продается, но обычно устанавливается внутренними оперативными группами Союза, с полноразмерными патронами в магазине для повышения эффективности</entitydescription.tsm_bl>
+  <entityname.tsm_9mm>Стандартный магазин Tiger Tail Brakes</entityname.tsm_9mm>
+  <entitydescription.tsm_9mm>Магазин для Tiger Tail Brakes, малокалиберного патрона, используемого в качестве начального патрона для огнестрельного оружия, обеспечивающего только эффективное замедление. Также доступен как магазин для SMG (пистолет-пулемет)</entitydescription.tsm_9mm>
+  <entityname.tsm_m2ammo>М2 магазин</entityname.tsm_m2ammo>
+  <entitydescription.tsm_m2ammo>180 патронов в магазинах повышенной емкости, которые вы можете использовать по своему усмотрению</entitydescription.tsm_m2ammo>
+  <entityname.tsm_miniammo>Миниганные магазины</entityname.tsm_miniammo>
+  <entitydescription.tsm_miniammo>250 патронов, чтобы вы больше не страдали от недостатка огневой мощи</entitydescription.tsm_miniammo>
+  <!--Оружие -->
+  <entityname.tsm_thbq>Вместе со слабыми</entityname.tsm_thbq>
+  <entitydescription.tsm_thbq>Стандартная штурмовая винтовка, разработанная штабом Чудесного Моря для противостояния Альянсу. Высокая скорострельность обеспечивает превосходное подавление, давая среднему солдату огневую мощь отряда, а специальные бронебойные боеприпасы - это глазурь на торте. При оснащении специальными компонентами он становится крепче, смертоноснее и дороже ......\n "Беренхилл, говорили тебе, это море слишком глубоко и темно, чтобы "чистые" люди могли далеко уйти...". </entitydescription.tsm_thbq>
+  <entityname.tsm_gybq>Общая тень</entityname.tsm_gybq>
+  <entitydescription.tsm_gybq>Очередное достижение штаба Чудесного моря при разработке Тонгката: винтовка лучника, которая могла стрелять только полуавтоматически, ее особая конструкция не только делала ее пули мощными, но и делала ее отдачу еще более устрашающей, даже если скорость стрельбы была снижена и был установлен специальный приклад. Только опытный солдат может использовать его гибко и эффективно, чтобы убить врага.</entitydescription.tsm_gybq>
+  <entityname.tsm_xy>Новая луна поворачивается</entityname.tsm_xy>
+  <entitydescription.tsm_xy>Крупнокалиберное противотанковое оружие, разработанное и изготовленное штабом Чудо-Моря без учета стоимости, обладает не только огромной убойной силой, но и очень низкой физической отдачей для стрелка и, соответственно, не требует высокого уровня стрелковой грамотности. Однако его стоимость столь же "значительна", как и его боевая эффективность, что напрямую ведет к его дефициту \nХочешь мечтать со звездами и реками, а тритий делить с горами и реками</entitydescription.tsm_xy>
+  <entityname.tsm_zltzq>гравитационный метатель</entityname.tsm_zltzq>
+  <entitydescription.tsm_zltzq>Мы несем перемены в мир, вводя санкции в Землях Богов \n новейшее гравитационное оружие санкционеров, разработанное Морем Чудес \n оружие санкционеров имеет значительные ограничения на использование и требует специальных защитных костюмов, иначе возможны серьезные последствия \n боеприпасы (невесомые лазерные лучи трактора) можно приобрести только на сайте </entitydescription.tsm_zltzq>
+  <entityname.tsm_lm_mk46>FNH MK46 MOD 0</entityname.tsm_lm_mk46>
+  <entitydescription.tsm_lm_mk46>Легкий пулемет земного отряда с укороченным стволом, что делает его более подходящим для прыжков в тесных помещениях станции под Бездной или в проходах подводных лодок, используя магазины MK46. </entitydescription.tsm_lm_mk46>
+  <entityname.tsm_lm_M4>M4</entityname.tsm_lm_M4>
+  <entitydescription.tsm_lm_M4>Старая штурмовая винтовка, не использующая боеприпасы 6,8 мм, которые были запрещены Лигой, но конструкция такова, что она до сих пор является самым популярным оружием в Лиге, использующим магазин, выдаваемый Лигой</entitydescription.tsm_lm_M4>
+  <entityname.tsm_lm_m4_c>FNH M4 MOD 1</entityname.tsm_lm_m4_c>
+  <entitydescription.tsm_lm_m4_c>Модифицированная модель с тройным огнем и автоматическим режимом стрельбы, впервые выпущенная оружейной компанией столетия назад, лучше? Нет, он дешевле и использует магазины, выдаваемые Альянсом</entitydescription.tsm_lm_m4_c>
+  <entityname.tsm_lm_mk18>МК18</entityname.tsm_lm_mk18>
+  <entitydescription.tsm_lm_mk18>Короткий ствол по сравнению с M4 обеспечивает большую мобильность, а взрывная сила сделала его на некоторое время стандартной штурмовой винтовкой Альянса, использующей магазины, выдаваемые Альянсом</entitydescription.tsm_lm_mk18>
+  <entityname.tsm_lm_mk18_c>MK18 Custom Edition</entityname.tsm_lm_mk18_c>
+  <entitydescription.tsm_lm_mk18_c>Слегка модифицированный MK18 с глушителем, звук стрельбы на станции остается чистым, но легко может быть ошибочно истолкован как шум тока, ударяющего по станции, с использованием магазина Union issue</entitydescription.tsm_lm_mk18_c>
+  <entityname.tsm_m1014>Bernelli M1014</entityname.tsm_m1014>
+  <entitydescription.tsm_m1014>Боевое ружье вековой давности, оптимизированное по дизайну, по-прежнему является очевидным выбором для обеспечения безопасности и самообороны в пучинных океанах Европы. </entitydescription.tsm_m1014>
+  <entityname.tsm_sks>Винтовка Симонова</entityname.tsm_sks>
+  <entitydescription.tsm_sks>Бывшее оружие соцлагеря, но модифицированное Маленьким Буржуем. Работает лучше, но где-то всегда чувствует себя странно? Использует магазины, выданные Альянсом</entitydescription.tsm_sks>
+  <entityname.tsm_lm_m32>M32</entityname.tsm_lm_m32>
+  <entitydescription.tsm_lm_m32>Ротационный гранатомет, способный стрелять широким спектром боеприпасов, эффективных и яростных, будь то для подавления бунтов и восстаний или для борьбы со стаями хищников-мудпуппетов</entitydescription.tsm_lm_m32>
+  <entityname.tsm_m2>M2</entityname.tsm_m2>
+  <entitydescription.tsm_m2>Эй! Это пулемет! </entitydescription.tsm_m2>
+  <entityname.tsm_m2tzgj>M2 (краска "Белый орел")</entityname.tsm_m2tzgj>
+  <entitydescription.tsm_m2tzgj>Для наших братьев в одной лодке</entitydescription.tsm_m2tzgj>
+  <entityname.tsm_minigun>Минигун</entityname.tsm_minigun>
+  <entitydescription.tsm_minigun>Что за черт? Ты говоришь мне о точности? Нет нужды в точности, просто стреляй и дело с концом! </entitydescription.tsm_minigun>
+  <entityname.tsm_tt>Тигровый хвост тормозит стандартный пистолет-пулемет</entityname.tsm_tt>
+  <entitydescription.tsm_tt>Популярный малокалиберный пистолет-пулемет, который использует стандартные магазины Tiger Tail Brakes, а также может использовать магазины пистолета-пулемета, стал популярным начальным огнестрельным оружием благодаря своей чрезвычайно дешевой цене и высокой доступности боеприпасов. </entitydescription.tsm_tt>
+  <!--Саншинчо -->
+  <entityname.tsm_kep>‖color:255,100,100,255‖三'Курган Сангвина'丘‖color:end‖</entityname.tsm_kep>
+  <entitydescription.tsm_kep>Кинетический проникатель Моря Чудес\n\n стреляет гарпунными боеприпасами, а также копьями\n\n может быть оснащен батареей Trigon Mound для облегчения использования\n\n\n\n "Ты не прав, наши павшие братья - это не стоящие сосны, а лишь могилы, которые не упадут"</entitydescription.tsm_kep>
+  <entityname.tsm_kep_spear>'пронзающее копье'</entityname.tsm_kep_spear>
+  <entitydescription.tsm_kep_spear>‖color:211,206,28,255‖酒Вино - пронзающий кишки яд药‖color:end‖ \n кинетический проникающий боеприпас для копья с чрезвычайно острым острием, способным пробить часть стены. </entitydescription.tsm_kep_spear>
+  <entityname.tsm_kep_spear_he>"Копье с высокой взрывной силой"</entityname.tsm_kep_spear_he>
+  <entitydescription.tsm_kep_spear_he>‖color:211,206,28,255‖气Газ - громовой дым артиллерии炮‖color:end‖\n кинетический проникающий боеприпас для копья с небольшим уроном от взрыва, остерегайтесь случайных повреждений! </entitydescription.tsm_kep_spear_he>
+  <entityname.tsm_kep_spear_12>"Дробовое копье"</entityname.tsm_kep_spear_12>
+  <entitydescription.tsm_kep_spear_12>‖color:211,206,28,255‖色Стальной клинок, рассекающий кости刀‖color:end‖\n кинетический проникающий осколочный боеприпас для копья, выбрасывающий множество стрел и наносящий большой урон</entitydescription.tsm_kep_spear_12>
+  <entityname.tsm_kep_spear_heat>"Гранатовое копье"</entityname.tsm_kep_spear_heat>
+  <entitydescription.tsm_kep_spear_heat>‖color:211,206,28,255‖财"Богатство - корень бед"苗‖color:end‖\n кинетический проникающий боеприпас для копья гранатного типа с большой дальностью взрыва и минимальным расстоянием детонации. </entitydescription.tsm_kep_spear_heat>
+  <entityname.tsm_kep_battery>Специальная батарея Саншинчо</entityname.tsm_kep_battery>
+  <entitydescription.tsm_kep_battery>‖color:255,100,100,255‖三"Sansinghu"丘‖color:end‖ мощность для увеличения скорострельности и кинетической энергии выстрела. </entitydescription.tsm_kep_battery>
+  <!-- Искупление -->
+  <entityname.tsm_redemption>‖color:30,0,180,255‖救Искупление赎‖color:end‖</entityname.tsm_redemption>
+  <entitydescription.tsm_redemption>Энергетическая пусковая установка\n\n\n использует специальную энергию в качестве боеприпасов\n\n\n\n\ имеет два режима, которые могут переключаться по желанию в зависимости от окружающей обстановки\n\n\n\n\ Мир коррумпирован, но мы все еще остаемся последней линией обороны этого порядка. \n\n\\\n\ Предоставлено Mad Thursday Contribution</entitydescription.tsm_redemption>
+  <entityname.tsm_redemption_RestraintBox>Блок ограничения энергии искупления</entityname.tsm_redemption_RestraintBox>
+  <entitydescription.tsm_redemption_RestraintBox>Метод [засекречено] используется для связывания энергии в этой небольшой коробке, которая может быть использована для хорошего эффекта с определенным излучателем. </entitydescription.tsm_redemption_RestraintBox>
+  <!-- Рюкзак -->
+  <entityname.tsm_toolbox>Большой чемодан</entityname.tsm_toolbox>
+  <entitydescription.tsm_toolbox>Miracle Sea Large Suitcase, чемодан большой вместимости, сделан из инопланетных материалов, доступно бесплатное послепродажное применение</entitydescription.tsm_toolbox>
+  <entityname.tsm_toolbox1>Ящик для оружия</entityname.tsm_toolbox1>
+  <entitydescription.tsm_toolbox1>Оружейный ящик для Моря Чудес, с одним пистолетом и двумя слотами для магазинов и одним слотом для водолазного костюма, обычно используется для тяжелого оружия, либо в руке, либо на спине</entitydescription.tsm_toolbox1>
+  <entityname.tsm_bag>Концертная тактическая сумка</entityname.tsm_bag>
+  <entitydescription.tsm_bag>Тактический рюкзак, средней вместимости</entitydescription.tsm_bag>
+  <entityname.tsm_bag1>Малый рюкзак</entityname.tsm_bag1>
+  <entitydescription.tsm_bag1>Многоцелевой рюкзак малой вместимости, легко сделать, но малая вместимость</entitydescription.tsm_bag1>
+  <entityname.tsm_bag2>Выходная тактическая сумка</entityname.tsm_bag2>
+  <entitydescription.tsm_bag2>Большой рюкзак с большей вместимостью, распространенный до раскола Моря Чудес</entitydescription.tsm_bag2>
+  <!--Квесты/npc -->
+  <entityname.tsm_mission1>Экспериментальный магазин</entityname.tsm_mission1>
+  <entitydescription.tsm_mission1>Похоже, это часть экспериментального магазина, который воины получают с места</entitydescription.tsm_mission1>
+  <npctitle.abandonedoutpostnpcs_jlp>Лидер пришествия</npctitle.abandonedoutpostnpcs_jlp>
+  <npctitle.jlp_leader_heavy>Адвентизм - старый юбилей</npctitle.jlp_leader_heavy>
+  <npctitle.jlp_xb1>Адвентизм - Старый длинный</npctitle.jlp_xb1>
+  <npctitle.jlp_xb2>Воин Адвента</npctitle.jlp_xb2>
+  <npctitle.jlp_xb3>Воин Пришествия</npctitle.jlp_xb3>
+  <npctitle.jlp_xb4>Воин Пришествия</npctitle.jlp_xb4>
+  <npctitle.jlp_xb5>Наемники пришествия</npctitle.jlp_xb5>
+  <npctitle.jlp_xb6>Наемники пришествия</npctitle.jlp_xb6>
+  <npctitle.lmptleader>Командующий операциями Альянса</npctitle.lmptleader>
+  <npctitle.lmpt1>Офицер безопасности коалиции</npctitle.lmpt1>
+  <npctitle.lmpt2>Офицер безопасности коалиции</npctitle.lmpt2>
+  <npctitle.lmpt3>Офицер безопасности профсоюза</npctitle.lmpt3>
+  <npctitle.lmpt4>Офицер безопасности коалиции</npctitle.lmpt4>
+  <npctitle.lmpt5>Наемники Альянса</npctitle.lmpt5>
+  <character.lmhuman>Контингент Альянса</character.lmhuman>
+  <!-- Выдавать себя за наемника Моря Чудес -->
+  <npctitle.tsmpt>Наемники Моря Чудес</npctitle.tsmpt>
+  <npctitle.tsmpt1>Наемники Моря Чудес</npctitle.tsmpt1>
+  <npctitle.tsmpt2>Наемники Моря Чудес</npctitle.tsmpt2>
+  <npctitle.tsmpt3>Наемники Моря Чудес</npctitle.tsmpt3>
+  <npctitle.tsmpt4>Наемники Чудесного моря</npctitle.tsmpt4>
+  <npctitle.tsmpt5>Наемники Чудесного моря</npctitle.tsmpt5>
+  <!--Миракл Си -->
+  <npctitle.tsm_tqzz>Команда специальных операций Чудесного моря</npctitle.tsm_tqzz>
+  <npctitle.tsm_xjzz>Продвинутый боец Чудесного моря</npctitle.tsm_xjzz>
+  <npctitle.tsm_qwd>Miracle Sea Pro-Guard</npctitle.tsm_qwd>
+  <npctitle.tsm_bb1>Управляемые воины</npctitle.tsm_bb1>
+  <character.tsmhuman>Усовершенствованный боевой отряд Моря Марвел</character.tsmhuman>
+</infotexts>

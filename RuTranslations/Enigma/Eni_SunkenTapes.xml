@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.boombox>Бумбокс</entityname.boombox>
+  <boombox.play>Воспроизвести</boombox.play>
+  <entitydescription.boombox>Отличные басы и радиус слышимости.</entitydescription.boombox>
+  <entityname.walkman-brown>Плеер БАРО коричневый</entityname.walkman-brown>
+  <entitydescription.walkman-brown>Ручной плеер для проигрывания музыки.</entitydescription.walkman-brown>
+  <entityname.walkman-silver>Плеер БАРО серебрянный</entityname.walkman-silver>
+  <entitydescription.walkman-silver>Ручной плеер для проигрывания музыки.</entitydescription.walkman-silver>
+  <entityname.walkman-black>Плеер БАРО чёрный</entityname.walkman-black>
+  <entitydescription.walkman-black>Ручной плеер для проигрывания музыки.</entitydescription.walkman-black>
+  <entityname.walkman-blue>Плеер БАРО синий</entityname.walkman-blue>
+  <entitydescription.walkman-blue>Ручной плеер для проигрывания музыки.</entitydescription.walkman-blue>
+  <entityname.cassette-tape-box>Коробка для кассет</entityname.cassette-tape-box>
+  <entitydescription.cassette-tape-box>Здесь можно хранить ваши любимые кассеты!</entitydescription.cassette-tape-box>
+  <!-- Cassette Tapes -->
+  <entityname.cassette-blank>Кассета: Blank Tape</entityname.cassette-blank>
+  <entitydescription.cassette-blank></entitydescription.cassette-blank>
+  <entityname.cassette-dmx>Кассета: DMX - X Gon Give It To Ya</entityname.cassette-dmx>
+  <entitydescription.cassette-dmx></entitydescription.cassette-dmx>
+  <entityname.cassette-dmxcut>Кассета: DMX Carnage Cut</entityname.cassette-dmxcut>
+  <entitydescription.cassette-dmxcut></entitydescription.cassette-dmxcut>
+  <entityname.cassette-blade>Кассета: Vampire Dance Club</entityname.cassette-blade>
+  <entitydescription.cassette-blade></entitydescription.cassette-blade>
+  <entityname.cassette-atarispeed>Кассета: Atari Teenage Riot - SPEED</entityname.cassette-atarispeed>
+  <entitydescription.cassette-atarispeed></entitydescription.cassette-atarispeed>
+  <entityname.cassette-ddt>Кассета: Dragostea Din Tei</entityname.cassette-ddt>
+  <entitydescription.cassette-ddt></entitydescription.cassette-ddt>
+  <entityname.cassette-java>Кассета: Kenny Larkin - Java</entityname.cassette-java>
+  <entitydescription.cassette-java></entitydescription.cassette-java>
+  <entityname.cassette-dm>Кассета: Menace Ruine - Dark Mother</entityname.cassette-dm>
+  <entitydescription.cassette-dm></entitydescription.cassette-dm>
+  <entityname.cassette-swgd>Кассета: Sewer Goddess - Chained To The Edge Of Existence</entityname.cassette-swgd>
+  <entitydescription.cassette-swgd></entitydescription.cassette-swgd>
+  <entityname.cassette-urfaust>Кассета: Urfaust - Die Kalte Teufelsfaust</entityname.cassette-urfaust>
+  <entitydescription.cassette-urfaust></entitydescription.cassette-urfaust>
+  <entityname.cassette-rainbowstalin>Кассета: Rainbow Stalin</entityname.cassette-rainbowstalin>
+  <entitydescription.cassette-rainbowstalin></entitydescription.cassette-rainbowstalin>
+  <entityname.cassette-nazare>Кассета: Альянс - На заре</entityname.cassette-nazare>
+  <entitydescription.cassette-nazare></entitydescription.cassette-nazare>
+  <entityname.cassette-vjeranpas>Кассета: Termiti - Vjeran pas</entityname.cassette-vjeranpas>
+  <entitydescription.cassette-vjeranpas></entitydescription.cassette-vjeranpas>
+  <entityname.cassette-put>Кассета: Morbidi I Mnoći - Put</entityname.cassette-put>
+  <entitydescription.cassette-put></entitydescription.cassette-put>
+  <entityname.cassette-shanty1>Кассета: Doodle Let Me Go</entityname.cassette-shanty1>
+  <entitydescription.cassette-shanty1></entitydescription.cassette-shanty1>
+  <entityname.cassette-shanty2>Кассета: Rolling Down To Old Maui</entityname.cassette-shanty2>
+  <entitydescription.cassette-shanty2></entitydescription.cassette-shanty2>
+  <entityname.cassette-shanty3>Кассета: Roll the Old Chariot</entityname.cassette-shanty3>
+  <entitydescription.cassette-shanty3></entitydescription.cassette-shanty3>
+  <entityname.cassette-shanty4>Кассета: Weigh, Hey and up She Rises</entityname.cassette-shanty4>
+  <entitydescription.cassette-shanty4></entitydescription.cassette-shanty4>
+  <entityname.cassette-shanty5>Кассета: Roll Northumbria</entityname.cassette-shanty5>
+  <entitydescription.cassette-shanty5></entitydescription.cassette-shanty5>
+  <entityname.cassette-rum>Кассета: 15 Men and a Bottle of Rum</entityname.cassette-rum>
+  <entitydescription.cassette-rum></entitydescription.cassette-rum>
+  <entityname.cassette-biosphere>Кассета: Biosphere - Daphnis 26</entityname.cassette-biosphere>
+  <entitydescription.cassette-biosphere></entitydescription.cassette-biosphere>
+  <entityname.cassette-bedouin>Кассета: Bedouin - Set The Control For The Heart Of The Sun</entityname.cassette-bedouin>
+  <entitydescription.cassette-bedouin></entitydescription.cassette-bedouin>
+  <entityname.cassette-deadmeadow>Кассета: Dead Meadow - Me and the Devil Blues</entityname.cassette-deadmeadow>
+  <entitydescription.cassette-deadmeadow></entitydescription.cassette-deadmeadow>
+  <entityname.cassette-hardbass>Кассета: Hardbass</entityname.cassette-hardbass>
+  <entitydescription.cassette-hardbass></entitydescription.cassette-hardbass>
+  <entityname.cassette-ira>Кассета: Come out and Fight</entityname.cassette-ira>
+  <entitydescription.cassette-ira></entitydescription.cassette-ira>
+  <entityname.cassette-tha>Кассета: Aphex Twin - Tha</entityname.cassette-tha>
+  <entitydescription.cassette-tha></entitydescription.cassette-tha>
+  <entityname.cassette-immigrantsong>Кассета: Led Zeppelin - Immigrant Song</entityname.cassette-immigrantsong>
+  <entitydescription.cassette-immigrantsong></entitydescription.cassette-immigrantsong>
+  <entityname.cassette-redoctober>Кассета: The Hunt for Red October</entityname.cassette-redoctober>
+  <entitydescription.cassette-redoctober></entitydescription.cassette-redoctober>
+  <entityname.cassette-shoegazeprincessa>Кассета: Шугейз-принцесса</entityname.cassette-shoegazeprincessa>
+  <entitydescription.cassette-shoegazeprincessa></entitydescription.cassette-shoegazeprincessa>
+  <entityname.cassette-rusija>Кассета: УБИЙЦЫ - Россия</entityname.cassette-rusija>
+  <entitydescription.cassette-rusija></entitydescription.cassette-rusija>
+  <entityname.cassette-schritte_08080>Кассета: Inka - Schritte (08080 remix)</entityname.cassette-schritte_08080>
+  <entitydescription.cassette-schritte_08080></entitydescription.cassette-schritte_08080>
+  <entityname.cassette-schritte>Кассета: Inka - Schritte</entityname.cassette-schritte>
+  <entitydescription.cassette-schritte></entitydescription.cassette-schritte>
+  <entityname.cassette-wacky_tape>Кассета: Neznani Rock Fotri</entityname.cassette-wacky_tape>
+  <entitydescription.cassette-wacky_tape></entitydescription.cassette-wacky_tape>
+  <entityname.cassette-08080_minor_threat>Кассета: 08080 - Minor Threat</entityname.cassette-08080_minor_threat>
+  <entitydescription.cassette-08080_minor_threat></entitydescription.cassette-08080_minor_threat>
+  <entityname.cassette-08080_canyons_joyride>Кассета: 08080 - Canyon's Joyride</entityname.cassette-08080_canyons_joyride>
+  <entitydescription.cassette-08080_canyons_joyride></entitydescription.cassette-08080_canyons_joyride>
+  <entityname.cassette-sigma>Кассета: ∑</entityname.cassette-sigma>
+  <entitydescription.cassette-sigma></entitydescription.cassette-sigma>
+  <entityname.cassette-devilinthedetails>Кассета: Boards of Canada - The Devil Is in the Details</entityname.cassette-devilinthedetails>
+  <entitydescription.cassette-devilinthedetails></entitydescription.cassette-devilinthedetails>
+  <entityname.cassette-alphabrain>Кассета: L.O.T.I.O.N. Multinational Corporation - Alphabrain</entityname.cassette-alphabrain>
+  <entitydescription.cassette-alphabrain></entitydescription.cassette-alphabrain>
+  <entityname.cassette-underwaterlove>Кассета: Smoke City - Underwater Love</entityname.cassette-underwaterlove>
+  <entitydescription.cassette-underwaterlove></entitydescription.cassette-underwaterlove>
+  <entityname.cassette-theroom>Кассета: The Room</entityname.cassette-theroom>
+  <entitydescription.cassette-theroom></entitydescription.cassette-theroom>
+  <entityname.cassette-theshadowsareyou>Кассета: Kiss The Anus Of A Black Cat - The Shadows Are You</entityname.cassette-theshadowsareyou>
+  <entitydescription.cassette-theshadowsareyou></entitydescription.cassette-theshadowsareyou>
+  <entityname.cassette-balans>Кассета: Balans - Sam Naprej</entityname.cassette-balans>
+  <entitydescription.cassette-balans></entitydescription.cassette-balans>
+  <entityname.cassette-diodiver>Кассета: Dio - Holy Diver</entityname.cassette-diodiver>
+  <entitydescription.cassette-diodiver></entitydescription.cassette-diodiver>
+  <entityname.cassette-rationalgaze>Кассета: Meshuggah - Rational Gaze</entityname.cassette-rationalgaze>
+  <entitydescription.cassette-rationalgaze></entitydescription.cassette-rationalgaze>
+  <entityname.cassette-dgrips1>Кассета: Death Grips - The Cage</entityname.cassette-dgrips1>
+  <entitydescription.cassette-dgrips1></entitydescription.cassette-dgrips1>
+  <entityname.song-blank>Песня: Blank Tape</entityname.song-blank>
+  <entitydescription.song-blank></entitydescription.song-blank>
+  <entityname.song-walkman-blank>Песня (Плеер): Blank Tape</entityname.song-walkman-blank>
+  <entitydescription.song-walkman-blank></entitydescription.song-walkman-blank>
+  <entityname.song-dmx>Песня: DMX - X Gon Give It To Ya</entityname.song-dmx>
+  <entitydescription.song-dmx></entitydescription.song-dmx>
+  <entityname.song-walkman-dmx>Песня (Плеер): DMX - X Gon Give It To Ya</entityname.song-walkman-dmx>
+  <entitydescription.song-walkman-dmx></entitydescription.song-walkman-dmx>
+  <entityname.song-dmxcut>Песня: DMX Carnage Cut</entityname.song-dmxcut>
+  <entitydescription.song-dmxcut></entitydescription.song-dmxcut>
+  <entityname.song-walkman-dmxcut>Песня (Плеер): DMX Carnage Cut</entityname.song-walkman-dmxcut>
+  <entitydescription.song-walkman-dmxcut></entitydescription.song-walkman-dmxcut>
+  <entityname.song-blade>Песня: Vampire Dance Club</entityname.song-blade>
+  <entitydescription.song-blade></entitydescription.song-blade>
+  <entityname.song-walkman-blade>Песня (Плеер): Vampire Dance Club</entityname.song-walkman-blade>
+  <entitydescription.song-walkman-blade></entitydescription.song-walkman-blade>
+  <entityname.song-atarispeed>Песня: Atari Teenage Riot - SPEED</entityname.song-atarispeed>
+  <entitydescription.song-atarispeed></entitydescription.song-atarispeed>
+  <entityname.song-walkman-atarispeed>Песня (Плеер): Atari Teenage Riot - SPEED</entityname.song-walkman-atarispeed>
+  <entitydescription.song-walkman-atarispeed></entitydescription.song-walkman-atarispeed>
+  <entityname.song-ddt>Песня: Dragostea Din Tei</entityname.song-ddt>
+  <entitydescription.song-ddt></entitydescription.song-ddt>
+  <entityname.song-walkman-ddt>Песня (Плеер): Dragostea Din Tei</entityname.song-walkman-ddt>
+  <entitydescription.song-walkman-ddt></entitydescription.song-walkman-ddt>
+  <entityname.song-java>Песня: Kenny Larkin - Java</entityname.song-java>
+  <entitydescription.song-java></entitydescription.song-java>
+  <entityname.song-walkman-java>Песня (Плеер): Kenny Larkin - Java</entityname.song-walkman-java>
+  <entitydescription.song-walkman-java></entitydescription.song-walkman-java>
+  <entityname.song-dm>Песня: Menace Ruine - Dark Mother</entityname.song-dm>
+  <entitydescription.song-dm></entitydescription.song-dm>
+  <entityname.song-walkman-dm>Песня (Плеер): Menace Ruine - Dark Mother</entityname.song-walkman-dm>
+  <entitydescription.song-walkman-dm></entitydescription.song-walkman-dm>
+  <entityname.song-swgd>Песня: Sewer Goddess - Chained To The Edge Of Existence</entityname.song-swgd>
+  <entitydescription.song-swgd></entitydescription.song-swgd>
+  <entityname.song-walkman-swgd>Песня (Плеер): Sewer Goddess - Chained To The Edge Of Existence</entityname.song-walkman-swgd>
+  <entitydescription.song-walkman-swgd></entitydescription.song-walkman-swgd>
+  <entityname.song-urfaust>Песня: Urfaust - Die Kalte Teufelsfaust</entityname.song-urfaust>
+  <entitydescription.song-urfaust></entitydescription.song-urfaust>
+  <entityname.song-walkman-urfaust>Песня (Плеер): Urfaust - Die Kalte Teufelsfaust</entityname.song-walkman-urfaust>
+  <entitydescription.song-walkman-urfaust></entitydescription.song-walkman-urfaust>
+  <entityname.song-rainbowstalin>Песня: Rainbow Stalin</entityname.song-rainbowstalin>
+  <entitydescription.song-rainbowstalin></entitydescription.song-rainbowstalin>
+  <entityname.song-walkman-rainbowstalin>Песня (Плеер): Rainbow Stalin</entityname.song-walkman-rainbowstalin>
+  <entitydescription.song-walkman-rainbowstalin></entitydescription.song-walkman-rainbowstalin>
+  <entityname.song-nazare>Песня: Альянс - На заре</entityname.song-nazare>
+  <entitydescription.song-nazare></entitydescription.song-nazare>
+  <entityname.song-walkman-nazare>Песня (Плеер): Альянс - На заре</entityname.song-walkman-nazare>
+  <entitydescription.song-walkman-nazare></entitydescription.song-walkman-nazare>
+  <entityname.song-vjeranpas>Песня: Termiti - Vjeran pas</entityname.song-vjeranpas>
+  <entitydescription.song-vjeranpas></entitydescription.song-vjeranpas>
+  <entityname.song-walkman-vjeranpas>Песня (Плеер): Termiti - Vjeran pas</entityname.song-walkman-vjeranpas>
+  <entitydescription.song-walkman-vjeranpas></entitydescription.song-walkman-vjeranpas>
+  <entityname.song-put>Песня: Morbidi I Mnoći - Put</entityname.song-put>
+  <entitydescription.song-put></entitydescription.song-put>
+  <entityname.song-walkman-put>Песня (Плеер): Morbidi I Mnoći - Put</entityname.song-walkman-put>
+  <entitydescription.song-walkman-put></entitydescription.song-walkman-put>
+  <entityname.song-shanty1>Песня: Doodle Let Me Go</entityname.song-shanty1>
+  <entitydescription.song-shanty1></entitydescription.song-shanty1>
+  <entityname.song-walkman-shanty1>Песня (Плеер): Doodle Let Me Go</entityname.song-walkman-shanty1>
+  <entitydescription.song-walkman-shanty1></entitydescription.song-walkman-shanty1>
+  <entityname.song-shanty2>Песня: Rolling Down To Old Maui</entityname.song-shanty2>
+  <entitydescription.song-shanty2></entitydescription.song-shanty2>
+  <entityname.song-walkman-shanty2>Песня (Плеер): Rolling Down To Old Maui</entityname.song-walkman-shanty2>
+  <entitydescription.song-walkman-shanty2></entitydescription.song-walkman-shanty2>
+  <entityname.song-shanty3>Песня: Roll the Old Chariot</entityname.song-shanty3>
+  <entitydescription.song-shanty3></entitydescription.song-shanty3>
+  <entityname.song-walkman-shanty3>Песня (Плеер): Roll the Old Chariot</entityname.song-walkman-shanty3>
+  <entitydescription.song-walkman-shanty3></entitydescription.song-walkman-shanty3>
+  <entityname.song-shanty4>Песня: Weigh, Hey and up She Rises</entityname.song-shanty4>
+  <entitydescription.song-shanty4></entitydescription.song-shanty4>
+  <entityname.song-walkman-shanty4>Песня (Плеер): Weigh, Hey and up She Rises</entityname.song-walkman-shanty4>
+  <entitydescription.song-walkman-shanty4></entitydescription.song-walkman-shanty4>
+  <entityname.song-shanty5>Песня: Roll Northumbria</entityname.song-shanty5>
+  <entitydescription.song-shanty5></entitydescription.song-shanty5>
+  <entityname.song-walkman-shanty5>Песня (Плеер): Roll Northumbria</entityname.song-walkman-shanty5>
+  <entitydescription.song-walkman-shanty5></entitydescription.song-walkman-shanty5>
+  <entityname.song-rum>Песня: 15 Men and a Bottle of Rum</entityname.song-rum>
+  <entitydescription.song-rum></entitydescription.song-rum>
+  <entityname.song-walkman-rum>Песня (Плеер): 15 Men and a Bottle of Rum</entityname.song-walkman-rum>
+  <entitydescription.song-walkman-rum></entitydescription.song-walkman-rum>
+  <entityname.song-biosphere>Песня: Biosphere - Daphnis 26</entityname.song-biosphere>
+  <entitydescription.song-biosphere></entitydescription.song-biosphere>
+  <entityname.song-walkman-biosphere>Песня (Плеер): Biosphere - Daphnis 26</entityname.song-walkman-biosphere>
+  <entitydescription.song-walkman-biosphere></entitydescription.song-walkman-biosphere>
+  <entityname.song-bedouin>Песня: Bedouin - Set The Control For The Heart Of The Sun</entityname.song-bedouin>
+  <entitydescription.song-bedouin></entitydescription.song-bedouin>
+  <entityname.song-walkman-bedouin>Песня (Плеер): Bedouin - Set The Control For The Heart Of The Sun</entityname.song-walkman-bedouin>
+  <entitydescription.song-walkman-bedouin></entitydescription.song-walkman-bedouin>
+  <entityname.song-deadmeadow>Песня: Dead Meadow - Me and the Devil Blues</entityname.song-deadmeadow>
+  <entitydescription.song-deadmeadow></entitydescription.song-deadmeadow>
+  <entityname.song-walkman-deadmeadow>Песня (Плеер): Dead Meadow - Me and the Devil Blues</entityname.song-walkman-deadmeadow>
+  <entitydescription.song-walkman-deadmeadow></entitydescription.song-walkman-deadmeadow>
+  <entityname.song-hardbass>Песня: Hardbass</entityname.song-hardbass>
+  <entitydescription.song-hardbass></entitydescription.song-hardbass>
+  <entityname.song-walkman-hardbass>Песня (Плеер): Hardbass</entityname.song-walkman-hardbass>
+  <entitydescription.song-walkman-hardbass></entitydescription.song-walkman-hardbass>
+  <entityname.song-ira>Песня: Come out and Fight</entityname.song-ira>
+  <entitydescription.song-ira></entitydescription.song-ira>
+  <entityname.song-walkman-ira>Песня (Плеер): Come out and Fight</entityname.song-walkman-ira>
+  <entitydescription.song-walkman-ira></entitydescription.song-walkman-ira>
+  <entityname.song-tha>Песня: Aphex Twin - Tha</entityname.song-tha>
+  <entitydescription.song-tha></entitydescription.song-tha>
+  <entityname.song-walkman-tha>Песня (Плеер): Aphex Twin - Tha</entityname.song-walkman-tha>
+  <entitydescription.song-walkman-tha></entitydescription.song-walkman-tha>
+  <entityname.song-immigrantsong>Песня: Led Zeppelin - Immigrant Song</entityname.song-immigrantsong>
+  <entitydescription.song-immigrantsong></entitydescription.song-immigrantsong>
+  <entityname.song-walkman-immigrantsong>Песня (Плеер): Led Zeppelin - Immigrant Song</entityname.song-walkman-immigrantsong>
+  <entitydescription.song-walkman-immigrantsong></entitydescription.song-walkman-immigrantsong>
+  <entityname.song-redoctober>Песня: The Hunt for Red October</entityname.song-redoctober>
+  <entitydescription.song-redoctober></entitydescription.song-redoctober>
+  <entityname.song-walkman-redoctober>Песня (Плеер): The Hunt for Red October</entityname.song-walkman-redoctober>
+  <entitydescription.song-walkman-redoctober></entitydescription.song-walkman-redoctober>
+  <entityname.song-shoegazeprincessa>Песня: Шугейз-принцесса</entityname.song-shoegazeprincessa>
+  <entitydescription.song-shoegazeprincessa></entitydescription.song-shoegazeprincessa>
+  <entityname.song-walkman-shoegazeprincessa>Песня (Плеер): Шугейз-принцесса</entityname.song-walkman-shoegazeprincessa>
+  <entitydescription.song-walkman-shoegazeprincessa></entitydescription.song-walkman-shoegazeprincessa>
+  <entityname.song-rusija>Песня: УБИЙЦЫ - Россия</entityname.song-rusija>
+  <entitydescription.song-rusija></entitydescription.song-rusija>
+  <entityname.song-walkman-rusija>Песня (Плеер): УБИЙЦЫ - Россия</entityname.song-walkman-rusija>
+  <entitydescription.song-walkman-rusija></entitydescription.song-walkman-rusija>
+  <entityname.song-schritte_08080>Песня: Inka - Schritte (08080 remix)</entityname.song-schritte_08080>
+  <entitydescription.song-schritte_08080></entitydescription.song-schritte_08080>
+  <entityname.song-walkman-schritte_08080>Песня (Плеер): Inka - Schritte (08080 remix)</entityname.song-walkman-schritte_08080>
+  <entitydescription.song-walkman-schritte_08080></entitydescription.song-walkman-schritte_08080>
+  <entityname.song-schritte>Песня: Inka - Schritte</entityname.song-schritte>
+  <entitydescription.song-schritte></entitydescription.song-schritte>
+  <entityname.song-walkman-schritte>Песня (Плеер): Inka - Schritte</entityname.song-walkman-schritte>
+  <entitydescription.song-walkman-schritte></entitydescription.song-walkman-schritte>
+  <entityname.song-wacky_tape>Песня: Neznani Rock Fotri</entityname.song-wacky_tape>
+  <entitydescription.song-wacky_tape></entitydescription.song-wacky_tape>
+  <entityname.song-walkman-wacky_tape>Песня (Плеер): Neznani Rock Fotri</entityname.song-walkman-wacky_tape>
+  <entitydescription.song-walkman-wacky_tape></entitydescription.song-walkman-wacky_tape>
+</infotext>
+<!-- Discord переводчика: enigmans -->

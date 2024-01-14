@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.thg_throwingknife>Метательный кинжал</entityname.thg_throwingknife>
+  <entitydescription.thg_throwingknife>Метательное холодное оружие, эффективное против небронированных целей</entitydescription.thg_throwingknife>
+  <entityname.thg_throwingstar>Метательная звезда</entityname.thg_throwingstar>
+  <entitydescription.thg_throwingstar>Метательное холодное оружие. Из-за лёгкого веса более удобен в обращении, но с низким уроном</entitydescription.thg_throwingstar>
+  <entityname.thg_throwingbottle>Пустая бутылка</entityname.thg_throwingbottle>
+  <entitydescription.thg_throwingbottle>Пустая стеклянная бутылка, слабо пахнущая ромом. Оглушает любого, кому она попадёт в голову</entitydescription.thg_throwingbottle>
+  <entityname.thg_throwingrock>Метательный камень</entityname.thg_throwingrock>
+  <entitydescription.thg_throwingrock>Метательное холодное оружие. Одно из самых примитивных оружий человечества, эффективное против неприкрытой головы цели</entitydescription.thg_throwingrock>
+  <entityname.thg_throwingpaper>Скомканная бумага</entityname.thg_throwingpaper>
+  <entitydescription.thg_throwingpaper>Ком бумаги, эффективный против надоедливого члена экипажа</entitydescription.thg_throwingpaper>
+  <entityname.thg_throwingdart>Метательный дротик</entityname.thg_throwingdart>
+  <entitydescription.thg_throwingdart>Лёгкий алюминиевый дротик, предназначенный для игр, но также способен выколоть глаз и удобен в обращении</entitydescription.thg_throwingdart>
+</infotexts>

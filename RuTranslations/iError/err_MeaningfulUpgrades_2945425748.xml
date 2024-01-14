@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <upgradecategory.dischargecoils>Разрядные катушки</upgradecategory.dischargecoils>
+  <upgradecategory.searchlights>Прожекторы</upgradecategory.searchlights>
+  <upgradecategory.cameras>Камеры</upgradecategory.cameras>
+  <upgradename.sonarmonitorincreaserange>Усиленный охват Сонара</upgradename.sonarmonitorincreaserange>
+  <upgradedescription.sonarmonitorincreaserange>Увеличивает дальность обзора сонарных систем.</upgradedescription.sonarmonitorincreaserange>
+  <upgradename.sonarmonitormineralscanner>Установка сканера минералов</upgradename.sonarmonitormineralscanner>
+  <upgradedescription.sonarmonitormineralscanner>Дооснащение матрицы детектора для расширения функциональности сканера минералов. (Не влияет на навигационный терминал)</upgradedescription.sonarmonitormineralscanner>
+  <upgradename.increasesupercapacitorefficiency>Эффективность суперконденсатора</upgradename.increasesupercapacitorefficiency>
+  <upgradedescription.increasesupercapacitorefficiency>Уменьшает потребление энергии впустую.</upgradedescription.increasesupercapacitorefficiency>
+  <upgradename.turretdecreasereloadtime>Улучшенный автозагрузчик</upgradename.turretdecreasereloadtime>
+  <upgradedescription.turretdecreasereloadtime>Увеличивает скорость стрельбы турелей.</upgradedescription.turretdecreasereloadtime>
+  <upgradename.dischargecoilincreaserange>Усилитель разрядной катушки</upgradename.dischargecoilincreaserange>
+  <upgradedescription.dischargecoilincreaserange>Увеличивает диапазон разрядных катушек.</upgradedescription.dischargecoilincreaserange>
+  <upgradename.dischargecoildecreasepowerconsumption>Энергоэффективность</upgradename.dischargecoildecreasepowerconsumption>
+  <upgradedescription.dischargecoildecreasepowerconsumption>Уменьшает энергопотребление.</upgradedescription.dischargecoildecreasepowerconsumption>
+  <upgradename.decreasenoiseproduction>Системы шумоподавления</upgradename.decreasenoiseproduction>
+  <upgradedescription.decreasenoiseproduction>Уменьшает обнаруживаемый шум, производимый данным устройством.</upgradedescription.decreasenoiseproduction>
+  <upgradename.searchlightincreaseoffsetonselected>Усовершенствованные перископы</upgradename.searchlightincreaseoffsetonselected>
+  <upgradedescription.searchlightincreaseoffsetonselected>Увеличивает дальность обзора всех прожекторов.</upgradedescription.searchlightincreaseoffsetonselected>
+  <upgradename.searchlightincreaserotationlowskill>Более быстрые Прожекторы</upgradename.searchlightincreaserotationlowskill>
+  <upgradedescription.searchlightincreaserotationlowskill>Увеличивает скорость вращения всех прожекторов, если ими управляет недостаточно квалифицированный экипаж.</upgradedescription.searchlightincreaserotationlowskill>
+  <upgradename.cameraincreaseoffsetonselected>Усовершенствованные перископы</upgradename.cameraincreaseoffsetonselected>
+  <upgradedescription.cameraincreaseoffsetonselected>Увеличивает диапазон обзора всех камер.</upgradedescription.cameraincreaseoffsetonselected>
+  <upgradename.increasecomponenthealth>Закаливание оборудования</upgradename.increasecomponenthealth>
+  <upgradedescription.increasecomponenthealth>Повышение стойкости систем корабля к боевым повреждениям.</upgradedescription.increasecomponenthealth>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->

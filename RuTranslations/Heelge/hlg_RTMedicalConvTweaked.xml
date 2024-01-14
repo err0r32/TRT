@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Acid Burn -->
+  <afflictionname.racidburn>Растворенный металл</afflictionname.racidburn>
+  <afflictiondescription.racidburn.low>Каркас получил небольшое повреждение кислотой. При внимательном осмотре можно обнаружить точечные пятна растворенного металла.</afflictiondescription.racidburn.low>
+  <afflictiondescription.racidburn>Каркас подвергся умеренному кислотному разрушению. Структурная целостность начала нарушаться, внешняя часть каркаса разрушается. Внутренние компоненты находятся под угрозой воздействия.</afflictiondescription.racidburn>
+  <afflictiondescription.racidburn.high>Каркас подвергся серьезной кислотной коррозии. Структурная целостность нарушена, а внутренние компоненты полностью обнажены.</afflictiondescription.racidburn.high>
+  <causeofdeathdescription.racidburn>ERR: Коррозийное разрушение</causeofdeathdescription.racidburn>
+  <self_causeofdeathdescription.racidburn>Процесс прекращен, каркас и внутренние компоненты растворились от воздействия кислотных химикатов.</self_causeofdeathdescription.racidburn>
+  <!-- Bite Wounds -->
+  <afflictionname.rbitewounds>Погрызенный каркас</afflictionname.rbitewounds>
+  <afflictiondescription.rbitewounds.low>Каркас имеет незначительные пробоины от укусов. Внутренние схемы практически не повреждены.</afflictiondescription.rbitewounds.low>
+  <afflictiondescription.rbitewounds>Каркас перенес множественные прокусы, в результате чего различные внутренние компоненты были изъедены.</afflictiondescription.rbitewounds>
+  <afflictiondescription.rbitewounds.high>Каркас страдает от многочисленных кусачих проколов, которые нарушают и повреждают внутренние схемы.</afflictiondescription.rbitewounds.high>
+  <causeofdeathdescription.rbitewounds>ERR: Внутренние системы разъедены</causeofdeathdescription.rbitewounds>
+  <self_causeofdeathdescription.rbitewounds>Процесс прекращен, каркас откусан и непоправимо поврежден.</self_causeofdeathdescription.rbitewounds>
+  <!-- Blunt Force Trauma -->
+  <afflictionname.rblunttrauma>Разбитый каркас</afflictionname.rblunttrauma>
+  <afflictiondescription.rblunttrauma.low>Каркас выдержал незначительные механические нагрузки, но имеет несколько небольших выпуклостей и вмятин.</afflictiondescription.rblunttrauma.low>
+  <afflictiondescription.rblunttrauma>Каркас выдержал умеренную механическую нагрузку и должен быть отремонтирован до нарушения герметичности. Движение затруднено.</afflictiondescription.rblunttrauma>
+  <afflictiondescription.rblunttrauma.high>Герметичность каркаса нарушена в следствии серьезных механических воздействий. Движение затруднено.</afflictiondescription.rblunttrauma.high>
+  <causeofdeathdescription.rblunttrauma>ERR: Раздавленный каркас</causeofdeathdescription.rblunttrauma>
+  <self_causeofdeathdescription.rblunttrauma>Процесс прекращен, каркас не выдержал многократных чрезмерных нагрузок.</self_causeofdeathdescription.rblunttrauma>
+  <!-- Burn -->
+  <afflictionname.rburn>Деформированный металл</afflictionname.rburn>
+  <afflictiondescription.rburn.low>Каркас пропекся под воздействием наружного тепла. Внешние и внутренние детали остались целыми, хотя и слегка потемнели.</afflictiondescription.rburn.low>
+  <afflictiondescription.rburn>Каркас раскален от сильного внешнего жара. Сочленения снаружи раскалены докрасна и быстро изнашиваются, затрудняя движение. Внутренние компоненты страдают от избыточного нагрева.</afflictiondescription.rburn>
+  <afflictiondescription.rburn.high>Каркас перегрелся от сильного внешнего нагрева. Сочленения, расположенные снаружи, с трудом двигаются, так как металл деформируется. Внутренние компоненты находятся в критическом состоянии.</afflictiondescription.rburn.high>
+  <causeofdeathdescription.rburn>ERR: Перегрелся</causeofdeathdescription.rburn>
+  <self_causeofdeathdescription.rburn>Процесс прекращен, каркас и внутренние компоненты расплавились от перегрева.</self_causeofdeathdescription.rburn>
+  <!-- Explosion Damage -->
+  <afflictionname.rexplosiondamage>Фрагментированные схемы</afflictionname.rexplosiondamage>
+  <afflictiondescription.rexplosiondamage.low>Каркас выдержал попадание мелких осколочных снарядов, но под действием резкой кинетической силы произошло дребезжание некоторых внутренних схем. Рекомендуется ремонт.</afflictiondescription.rexplosiondamage.low>
+  <afflictiondescription.rexplosiondamage>Каркас получил умеренные повреждения от осколков, некоторые осколки попали во внутренние схемы. Немедленно обратитесь за ремонтом.</afflictiondescription.rexplosiondamage>
+  <afflictiondescription.rexplosiondamage.high>Каркас получил серьезные осколочные повреждения, внутренние схемы находятся в критическом состоянии. Немедленно обратитесь за ремонтом.</afflictiondescription.rexplosiondamage.high>
+  <causeofdeathdescription.rexplosiondamage>ERR: Взорван</causeofdeathdescription.rexplosiondamage>
+  <self_causeofdeathdescription.rexplosiondamage>Процесс прекращен, каркас и внутренние компоненты разлетелись на мелкие кусочки.</self_causeofdeathdescription.rexplosiondamage>
+  <!-- Gunshot Wounds -->
+  <afflictionname.rgunshotwound>Огнестрельные отверстия</afflictionname.rgunshotwound>
+  <afflictiondescription.rgunshotwound.low>Каркас частично выдержал выстрелы из огнестрельного оружия. Немного пуль осталось в каркасе.</afflictiondescription.rgunshotwound.low>
+  <afflictiondescription.rgunshotwound>Каркас получил умеренные огнестрельные повреждения, в результате чего обнажились внутренние компоненты. Некоторые внутренние цепи прострелены.</afflictiondescription.rgunshotwound>
+  <afflictiondescription.rgunshotwound.high>Каркас имеет серьезные огнестрельные повреждения. Множество внутренних компонентов было прострелено, что привело к электрическому разряду.</afflictiondescription.rgunshotwound.high>
+  <causeofdeathdescription.rgunshotwound>ERR: Внутренние системы отстрелены</causeofdeathdescription.rgunshotwound>
+  <self_causeofdeathdescription.rgunshotwound>Процесс прекращен, каркас и внутренние компоненты прострелены напрочь.</self_causeofdeathdescription.rgunshotwound>
+  <!-- Internal Damage -->
+  <afflictionname.rinternaldamage1>Повреждение внутренних цепей</afflictionname.rinternaldamage1>&gt;
+  <afflictiondescription.rinternaldamage1.low>Внутренние системы получили незначительные повреждения основных компонентов. Возможны некоторые ошибки и сбои.</afflictiondescription.rinternaldamage1.low><afflictiondescription.rinternaldamage1>Внутренние системы получают серьезные повреждения основных компонентов. Происходят сбои в работе всей системы.</afflictiondescription.rinternaldamage1><afflictiondescription.rinternaldamage1.high>Внутренние системы находятся в критическом состоянии из-за обширных повреждений. Полный отказ системы неизбежен.</afflictiondescription.rinternaldamage1.high><causeofdeathdescription.rinternaldamage1>ERR: Внутренние системы не подлежат ремонту</causeofdeathdescription.rinternaldamage1><self_causeofdeathdescription.rinternaldamage1>Процесс прекращен, внутренние компоненты необратимо повреждены.</self_causeofdeathdescription.rinternaldamage1><!-- Lacerations --><afflictionname.rlacerations>Разорванный каркас</afflictionname.rlacerations><afflictiondescription.rlacerations.low>Каркас получил незначительные повреждения с небольшими разорванными участками, но ничего не обнажилось.</afflictiondescription.rlacerations.low><afflictiondescription.rlacerations>Каркас получил умеренные повреждения и имеет многочисленные следы разрывов, обнажающие внутренние компоненты.</afflictiondescription.rlacerations><afflictiondescription.rlacerations.high>Каркас получил серьёзное повреждение и почти полностью разодран. Немедленно произведите ремонт.</afflictiondescription.rlacerations.high><causeofdeathdescription.rlacerations>ERR: Оторванный каркас</causeofdeathdescription.rlacerations><self_causeofdeathdescription.rlacerations>Процесс прекращен, каркас полностью разодран и получил непоправимые повреждения.</self_causeofdeathdescription.rlacerations></infotexts>

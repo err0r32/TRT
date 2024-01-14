@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <afflictionname.internalbomb>Внутренняя бомба</afflictionname.internalbomb>
+  <afflictiondescription.internalbomb>Хирургически установленная бомба в туловище</afflictiondescription.internalbomb>
+  <!--Items-->
+  <entityname.surgerybomb>Хирургический UEX</entityname.surgerybomb>
+  <entitydescription.surgerybomb>UEX, который может быть помещен в человека хирургическим путем и может быть взорван с помощью Wi-Fi.</entitydescription.surgerybomb>
+  <entityname.surgeryC4Block>Хирургический Блок С-4</entityname.surgeryC4Block>
+  <entitydescription.surgeryC4Block>С-4, который можно поместить внутрь человека хирургическим путем. Взорвать его с помощью Wi-Fi.</entitydescription.surgeryC4Block>
+  <entityname.surgeryIC4Block>Хирургический блок IC-4</entityname.surgeryIC4Block>
+  <entitydescription.surgeryIC4Block>IC-4, который может быть помещен внутрь человека хирургическим путем. Взорвите его с помощью Wi-Fi.</entitydescription.surgeryIC4Block>
+  <entityname.surgerycompoundn>Хирургическая Смесь N</entityname.surgerycompoundn>
+  <entitydescription.surgerycompoundn>Соединение N, которое может быть введено в человека с помощью хирургической операции. Взрывается с помощью Wi-Fi.</entitydescription.surgerycompoundn>
+  <entityname.javierwarhead>Хирургическая Бомба Доктора Хавьера</entityname.javierwarhead>
+  <entitydescription.javierwarhead>Разрушение</entitydescription.javierwarhead>
+  <entityname.surgerydirtybomb>Хирургическая "Грязная" Бомба</entityname.surgerydirtybomb>
+  <entitydescription.surgerydirtybomb>Высокорадиоактивная взрывчатка, которую можно поместить в человека хирургическим путем.</entitydescription.surgerydirtybomb>
+  <entityname.internalbombdetonator>Взрыватель Хирургической Бомбы</entityname.internalbombdetonator>
+  <entitydescription.internalbombdetonator>Этот детонатор посылает сигнал через Wi-Fi, чтобы взорвать любые хирургические бомбы. (Введите !detonate в чате, чтобы взорвать конкретные цели)</entitydescription.internalbombdetonator>
+  <entityname.Javier_Pliers>Плоскогубцы</entityname.Javier_Pliers>
+  <entitydescription.Javier_Pliers>Хирургическое устройство, способное удалять внутренние бомбы.</entitydescription.Javier_Pliers>
+  <entityname.surgeryexplosion>Хирургический Взрыв</entityname.surgeryexplosion>
+  <entityname.javier_thermonuclearblast>Взрыв Хавьера</entityname.javier_thermonuclearblast>
+  <entityname.javiersFallout>Осадок</entityname.javiersFallout>
+</infotext>

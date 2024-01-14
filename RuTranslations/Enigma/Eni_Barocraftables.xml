@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.searchlightdown>Лампа вверх ногами</entityname.searchlightdown>
+  <entitydescription.searchlightdown></entitydescription.searchlightdown>
+  <entityname.WeldingTable>Сварочный стол</entityname.WeldingTable>
+  <entitydescription.WeldingTable>Фабрикатора для всех предметов в Barocraftables+</entitydescription.WeldingTable>
+  <entityname.card_medicaldoctor>Врач</entityname.card_medicaldoctor>
+  <entitydescription.card_medicaldoctor></entitydescription.card_medicaldoctor>
+  <entityname.card_mechanic>Механик</entityname.card_mechanic>
+  <entitydescription.card_mechanic></entitydescription.card_mechanic>
+  <entityname.card_engineer>Инженер</entityname.card_engineer>
+  <entitydescription.card_engineer></entitydescription.card_engineer>
+  <entityname.card_captain>Капитан</entityname.card_captain>
+  <entitydescription.card_captain></entitydescription.card_captain>
+  <entityname.card_securityofficer>Офицер СБ</entityname.card_securityofficer>
+  <entitydescription.card_securityofficer></entitydescription.card_securityofficer>
+  <entityname.card_assistant>Ассистент</entityname.card_assistant>
+  <entitydescription.card_assistant></entitydescription.card_assistant>
+  <entityname.card_1>ID Карта1</entityname.card_1>
+  <entitydescription.card_1></entitydescription.card_1>
+  <entityname.card_2>ID Карта2</entityname.card_2>
+  <entitydescription.card_2></entitydescription.card_2>
+  <entityname.card_3>ID Карта3</entityname.card_3>
+  <entitydescription.card_3></entitydescription.card_3>
+  <entityname.card_4>ID Карта4</entityname.card_4>
+  <entitydescription.card_4></entitydescription.card_4>
+  <entityname.card_5>ID Карта5</entityname.card_5>
+  <entitydescription.card_5></entitydescription.card_5>
+  <entityname.card_6>ID Карта6</entityname.card_6>
+  <entitydescription.card_6></entitydescription.card_6>
+  <entityname.card_7>ID Карта7</entityname.card_7>
+  <entitydescription.card_7></entitydescription.card_7>
+  <entityname.card_8>ID Карта8</entityname.card_8>
+  <entitydescription.card_8></entitydescription.card_8>
+  <entityname.radiocomponentL>Радиокомпонент, связанный с чатом</entityname.radiocomponentL>
+  <entitydescription.radiocomponentL></entitydescription.radiocomponentL>
+  <entityname.LRwifiComponentb>LRwifiComponent</entityname.LRwifiComponentb>
+  <entitydescription.LRwifiComponentb></entitydescription.LRwifiComponentb>
+  <entityname.SecureSteelCabinetM1>Защищённый стальной шкаф М1</entityname.SecureSteelCabinetM1>
+  <entitydescription.SecureSteelCabinetM1></entitydescription.SecureSteelCabinetM1>
+  <entityname.SecureSteelCabinetM2>Защищённый стальной шкаф М2</entityname.SecureSteelCabinetM2>
+  <entitydescription.SecureSteelCabinetM2></entitydescription.SecureSteelCabinetM2>
+  <entityname.SecureSteelCabinetM3>Защищённый стальной шкаф М3</entityname.SecureSteelCabinetM3>
+  <entitydescription.SecureSteelCabinetM3></entitydescription.SecureSteelCabinetM3>
+  <entityname.SecureSteelCabinetM4>Защищённый стальной шкаф М4</entityname.SecureSteelCabinetM4>
+  <entitydescription.SecureSteelCabinetM4></entitydescription.SecureSteelCabinetM4>
+  <entityname.SecureSteelCabinetM5>Защищённый стальной шкаф М5</entityname.SecureSteelCabinetM5>
+  <entitydescription.SecureSteelCabinetM5></entitydescription.SecureSteelCabinetM5>
+  <entityname.SecureSteelCabinetM6>Защищённый стальной шкаф М6</entityname.SecureSteelCabinetM6>
+  <entitydescription.SecureSteelCabinetM6></entitydescription.SecureSteelCabinetM6>
+  <entityname.SecureSteelCabinetM7>Защищённый стальной шкаф М7</entityname.SecureSteelCabinetM7>
+  <entitydescription.SecureSteelCabinetM7></entitydescription.SecureSteelCabinetM7>
+  <entityname.SecureSteelCabinetM8>Защищённый стальной шкаф М8</entityname.SecureSteelCabinetM8>
+  <entitydescription.SecureSteelCabinetM8></entitydescription.SecureSteelCabinetM8>
+  <entityname.textdisplaysb>Текстовый дисплей маленький</entityname.textdisplaysb>
+  <entitydescription.textdisplaysb></entitydescription.textdisplaysb>
+  <entityname.textdisplaylb>Текстовый дисплей большой</entityname.textdisplaylb>
+  <entitydescription.textdisplaylb></entitydescription.textdisplaylb>
+  <entityname.toolboxaluminumb>Контейнер для хранения [Алюминий]</entityname.toolboxaluminumb>
+  <entityname.toolboxballisitcfiberb>Контейнер для хранения [Противоударное волокно]</entityname.toolboxballisitcfiberb>
+  <entityname.toolboxcalciumb>Контейнер для хранения [Кальций]</entityname.toolboxcalciumb>
+  <entityname.toolboxcarbonb>Контейнер для хранения [Углерод]</entityname.toolboxcarbonb>
+  <entityname.toolboxchlorineb>Контейнер для хранения [Хлорин]</entityname.toolboxchlorineb>
+  <entityname.toolboxcopperb>Контейнер для хранения [Медь]</entityname.toolboxcopperb>
+  <entityname.toolboxdementoniteb>Контейнер для хранения [Дементонит]</entityname.toolboxdementoniteb>
+  <entityname.toolboxflashpowderb>Контейнер для хранения [Светящийся порошок]</entityname.toolboxflashpowderb>
+  <entityname.toolboxfulguriumb>Контейнер для хранения [Грозовий]</entityname.toolboxfulguriumb>
+  <entityname.toolboxincendiumb>Контейнер для хранения [Воспламенит]</entityname.toolboxincendiumb>
+  <entityname.toolboxironb>Контейнер для хранения [Железо]</entityname.toolboxironb>
+  <entityname.toolboxleadb>Контейнер для хранения [Свинец]</entityname.toolboxleadb>
+  <entityname.toolboxlithiumb>Контейнер для хранения [Литий]</entityname.toolboxlithiumb>
+  <entityname.toolboxmagnesiumb>Контейнер для хранения [Магний]</entityname.toolboxmagnesiumb>
+  <entityname.toolboxorganicfiberb>Контейнер для хранения [Органическое волокно]</entityname.toolboxorganicfiberb>
+  <entityname.toolboxoxygeniteshardb>Контейнер для хранения [Осколок кислородита]</entityname.toolboxoxygeniteshardb>
+  <entityname.toolboxparalyxisb>Контейнер для хранения [Параликс]</entityname.toolboxparalyxisb>
+  <entityname.toolboxphosphorusb>Контейнер для хранения [Фосфор]</entityname.toolboxphosphorusb>
+  <entityname.toolboxphysicoriumb>Контейнер для хранения [Физикорий]</entityname.toolboxphysicoriumb>
+  <entityname.toolboxplasticb>Контейнер для хранения [Пластик]</entityname.toolboxplasticb>
+  <entityname.toolboxpotassiumb>Контейнер для хранения [Калий]</entityname.toolboxpotassiumb>
+  <entityname.toolboxrubberb>Контейнер для хранения [Rubber]</entityname.toolboxrubberb>
+  <entityname.toolboxscrapb>Контейнер для хранения [Хлам]</entityname.toolboxscrapb>
+  <entityname.toolboxsiliconb>Контейнер для хранения [Кремний]</entityname.toolboxsiliconb>
+  <entityname.toolboxsodiumb>Контейнер для хранения [Натрий]</entityname.toolboxsodiumb>
+  <entityname.toolboxsteelb>Контейнер для хранения [Steel]</entityname.toolboxsteelb>
+  <entityname.toolboxsulphuriteshardb>Контейнер для хранения [Осколок сернита]</entityname.toolboxsulphuriteshardb>
+  <entityname.toolboxthoriumb>Контейнер для хранения [Торий]</entityname.toolboxthoriumb>
+  <entityname.toolboxtinb>Контейнер для хранения [Олово]</entityname.toolboxtinb>
+  <entityname.toolboxtitaniumaluminumalloyb>Контейнер для хранения [Слиток из титана и алюминия]</entityname.toolboxtitaniumaluminumalloyb>
+  <entityname.toolboxtitaniumb>Контейнер для хранения [Титан]</entityname.toolboxtitaniumb>
+  <entityname.toolboxuraniumb>Контейнер для хранения [Уран]</entityname.toolboxuraniumb>
+  <entityname.toolboxzincb>Контейнер для хранения [Цинк]</entityname.toolboxzincb>
+  <entityname.toolboxfpgacircuitb>Контейнер для хранения Схема на базе ППВМ]</entityname.toolboxfpgacircuitb>
+  <entityname.toolboxadrenalineb>Контейнер для хранения [Адреналин]</entityname.toolboxadrenalineb>
+  <entityname.toolboxalienbloodb>Контейнер для хранения [Инопланетная кровь]</entityname.toolboxalienbloodb>
+  <entityname.toolboxanabolicsteroidsb>Контейнер для хранения [Анаболические стероиды]</entityname.toolboxanabolicsteroidsb>
+  <entityname.toolboxantibioticglueb>Контейнер для хранения [Антибиотический клей]</entityname.toolboxantibioticglueb>
+  <entityname.toolboxantiradb>Контейнер для хранения [Антирад]</entityname.toolboxantiradb>
+  <entityname.toolboxbandageb>Контейнер для хранения [Бинт]</entityname.toolboxbandageb>
+  <entityname.toolboxbloodbagb>Контейнер для хранения [Пакет с кровью]</entityname.toolboxbloodbagb>
+  <entityname.toolboxbroad-spectrumantibioticsb>Контейнер для хранения [Антибиотики широкого спектра]</entityname.toolboxbroad-spectrumantibioticsb>
+  <entityname.toolboxcalyxanideb>Контейнер для хранения [Каликсанид]</entityname.toolboxcalyxanideb>
+  <entityname.toolboxcyanideantidoteb>Контейнер для хранения [Антидот цианида]</entityname.toolboxcyanideantidoteb>
+  <entityname.toolboxdeliriumineantidoteb>Контейнер для хранения [Антидот бредогена]</entityname.toolboxdeliriumineantidoteb>
+  <entityname.toolboxelastinb>Контейнер для хранения [Эластин]</entityname.toolboxelastinb>
+  <entityname.toolboxethanolb>Контейнер для хранения [Этанол]</entityname.toolboxethanolb>
+  <entityname.toolboxfentanylb>Контейнер для хранения [Фентанил]</entityname.toolboxfentanylb>
+  <entityname.toolboxhyperzineb>Контейнер для хранения [Гиперцин]</entityname.toolboxhyperzineb>
+  <entityname.toolboxliquidoxygeniteb>Контейнер для хранения [Жидкий кислородит]</entityname.toolboxliquidoxygeniteb>
+  <entityname.toolboxmorbusineantidoteb>Контейнер для хранения [Антидот морбузина]</entityname.toolboxmorbusineantidoteb>
+  <entityname.toolboxmorphineb>Контейнер для хранения [Морфин]</entityname.toolboxmorphineb>
+  <entityname.toolboxopiumb>Контейнер для хранения [Опиум]</entityname.toolboxopiumb>
+  <entityname.toolboxparalysisantidoteb>Контейнер для хранения [Анапарализатор]</entityname.toolboxparalysisantidoteb>
+  <entityname.toolboxplastisealb>Контейнер для хранения [Эластичный бинт]</entityname.toolboxplastisealb>
+  <entityname.toolboxpomegrenadeextractb>Контейнер для хранения [Экстракт взрывного граната]</entityname.toolboxpomegrenadeextractb>
+  <entityname.toolboxsalineb>Контейнер для хранения [Физраствор]</entityname.toolboxsalineb>
+  <entityname.toolboxsufforinantidoteb>Контейнер для хранения [Антидот страданита]</entityname.toolboxsufforinantidoteb>
+  <entityname.toolboxsulphuricacidb>Контейнер для хранения [Серная кислота]</entityname.toolboxsulphuricacidb>
+  <entityname.toolboxtonicliquidb>Контейнер для хранения [Жидкий тоник]</entityname.toolboxtonicliquidb>
+  <entityname.toolboxchloralhydrateb>Контейнер для хранения [Хлоральгидрат]</entityname.toolboxchloralhydrateb>
+  <entityname.toolboxcyanideb>Контейнер для хранения [Цианид]</entityname.toolboxcyanideb>
+  <entityname.toolboxdeliriumineb>Контейнер для хранения [Бредоген]</entityname.toolboxdeliriumineb>
+  <entityname.toolboxdeusizineb>Контейнер для хранения [Деусицин]</entityname.toolboxdeusizineb>
+  <entityname.toolboxhaloperidolb>Контейнер для хранения [Галоперидол]</entityname.toolboxhaloperidolb>
+  <entityname.toolboxmethamphetamineb>Контейнер для хранения [Метамфетамин]</entityname.toolboxmethamphetamineb>
+  <entityname.toolboxmorbusineb>Контейнер для хранения [Морбузин]</entityname.toolboxmorbusineb>
+  <entityname.toolboxnaloxoneb>Контейнер для хранения [Налоксон]</entityname.toolboxnaloxoneb>
+  <entityname.toolboxparalyzantb>Контейнер для хранения [Парализатор]</entityname.toolboxparalyzantb>
+  <entityname.toolboxradiotoxinb>Контейнер для хранения [Радиотоксин]</entityname.toolboxradiotoxinb>
+  <entityname.toolboxstabilozineb>Контейнер для хранения [Стабилоцин]</entityname.toolboxstabilozineb>
+  <entityname.toolboxsufforinb>Контейнер для хранения [Страданит]</entityname.toolboxsufforinb>
+  <entityname.toolboxvelonacepscalyxeggsb>Контейнер для хранения [Яйца велонацепса каликса]</entityname.toolboxvelonacepscalyxeggsb>
+  <entityname.packaging_crate>Ящик для сортировки тип I</entityname.packaging_crate>
+  <entityname.packaging_crate2>Ящик для сортировки тип II</entityname.packaging_crate2>
+</infotexts>

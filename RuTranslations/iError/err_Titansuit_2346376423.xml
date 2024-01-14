@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--
+	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
+	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
+	
+	-->
+  <entityname.titansuit>Бронескафандр Т.И.Т.А.Н.</entityname.titansuit>
+  <entitydescription.titansuit>Если вы думали, что скафандры Б.Е.З.Д.Н.А. - это нечто, то подождите, пока вы не увидите эту красоту разрушения в действии. Работающий от портальной батареи с 10-минутным временем работы и заряжающийся от реактора подводной лодки, этот костюм гарантирует, что пользователь не умрет, пока в нем есть энергия. Мелкие существа едва могут его поцарапать, а крупные с трудом его прогрызают. Костюм вас замедляет, если его использовать на суше, но благодаря мощности пропеллеров он может поддерживать хорошую скорость в воде. Самым большим недостатком является то, что для зарядки он потребляет энергию от подлодки, и если батарея разрядится посреди океана, то каркас костюма сломается, и давление сразу ворвется внутрь. Может хранить и перезаряжать все три вида вооружения Т.И.Т.А.Н.</entitydescription.titansuit>
+  <!-- Arm-Weapons -->
+  <entityname.titangun>Рельсотрон Т.И.Т.А.Н. "Червекрушитель"</entityname.titangun>
+  <entitydescription.titangun>Разработанный для убийства самых крупных хищников, этот одноручный рельсотрон способен измотать самого крупного врага, так что его гораздо легче будет убить другими орудиями. Если его использовать без Бронескафандра, он будет обжигать владельца. Перезаряжается с помощью Бронескафандра Т.И.Т.А.Н.</entitydescription.titangun>
+  <entityname.titanminigun>Цепная пушка Т.И.Т.А.Н. "Измельчитель"</entityname.titanminigun>
+  <entitydescription.titanminigun>Тяжёлое оружие. Несмотря на не очень впечатляющий урон она содержит в себе внушительное количество боеприпасов и крайне высокий темп стрельбы что делает ее силой, с которой надо считаться. Перезаряжается с помощью Бронескафандра Т.И.Т.А.Н.</entitydescription.titanminigun>
+  <entityname.titanflamer>Тяжелый огнемёт Т.И.Т.А.Н. "Испаритель глубин"</entityname.titanflamer>
+  <entitydescription.titanflamer>Ничто не пугает монстров глубин как огонь. Этот одноручный огнемёт имеет высочайшую температуру горения, что позволяет ему работать под водой. Если его использовать без Бронескафандра, он будет обжигать владельца. Перезаряжается с помощью Бронескафандра Т.И.Т.А.Н.</entitydescription.titanflamer>
+  <!-- Weapons -->
+  <entityname.titanrifle>Тяжёлая винтовка "Чистильщик"</entityname.titanrifle>
+  <entitydescription.titanrifle>Всё вооружение класса Т.И.Т.А.Н. не может показать себя хорошо при длительном использовании, эта винтовка призвана решить эту проблему, используя традиционный магазин, который вмещает большое количество патронов. Однако скорострельность этой винтовки гораздо ниже, чем у большинства других видов оружия подобного типа.</entitydescription.titanrifle>
+  <entityname.titanmagazine>Патроны "Чистильщик"</entityname.titanmagazine>
+  <entitydescription.titanmagazine>Большие, громоздкие пули. В каждом патроне заложена большая огневая мощь, за это приходится жертвовать скоростью полёта.</entitydescription.titanmagazine>
+  <!-- Components -->
+  <entityname.titanbattery>Энергоячейка класса Т.И.Т.А.Н.</entityname.titanbattery>
+  <entitydescription.titanbattery>Сверхмощная батарея, используемая для создания бронескафандра Т.И.Т.А.Н. Так же может полностью восполнить энергию бронескафандра.</entitydescription.titanbattery>
+  <entityname.titanframe>Рама Бронекостюм Т.И.Т.А.Н.</entityname.titanframe>
+  <entitydescription.titanframe>Прочнейшая смесь из сплавов и композитов, кажется, что эта рама Бронекостюма может выдержать любое повреждение. Черезвычайно громоздкая и тяжёлая.</entitydescription.titanframe>
+  <entityname.titanhelm>Шлем Т.И.Т.А.Н.</entityname.titanhelm>
+  <entitydescription.titanhelm>Усиленный шлем с респиратором и большим количеством воздуховодов. Слишком тяжел чтобы носить отдельно.</entitydescription.titanhelm>
+  <entityname.titanpropulsor>Пропульсивная Установка Т.И.Т.А.Н.</entityname.titanpropulsor>
+  <entitydescription.titanpropulsor>Усиленная пропульсивная установка. Бесполезна на суше из-за противостояния гравитации но не под водой. Вес не является проблемой.</entitydescription.titanpropulsor>
+  <!-- Sub ammo -->
+  <entityname.titanrailgunshell>Снаряд рельсотрона с нейротоксином</entityname.titanrailgunshell>
+  <entitydescription.titanrailgunshell>Полая оболочка содержащая в себе большое количество нейротоксина "Убийца Голиафа". Наносит минимальный урон из-за своей конструкции, но покрывает любое существо, в которое попадет, своим нейротоксином вызывающим изнурение.</entitydescription.titanrailgunshell>
+  <!-- Furniture -->
+  <entityname.titancharger>Зарядная станция Т.И.Т.А.Н.</entityname.titancharger>
+  <entitydescription.titancharger>Простая, но важная часть системы Т.И.Т.А.Н. При помощи нее можно зарядить Бронескафандр Т.И.Т.А.Н. Чрезвычайно громоздкая и тяжелая.</entitydescription.titancharger>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->

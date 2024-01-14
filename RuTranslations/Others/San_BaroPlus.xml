@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- 9/15/2022 All new names and descriptions will be handled in %ModDir%/Language/Russian.xml 
+		 I will go back and convert all old items when I have time - Nick -->
+  <!-- << Good luck - Удачи - 祝你好运 >> -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- Equipment - оборудование - 设备 -->
+  <!-- Machines - устройства - 机器 -->
+  <!-- Trade Goods - Торговые товары - 贸易商品 -->
+  <entityname.tradegoodcrate>Товарный ящик</entityname.tradegoodcrate>
+  <entitydescription.tradegoodcrate>Ящик с большим количеством места, предназначенный для хранения только товаров торговли.</entitydescription.tradegoodcrate>
+  <entityname.tradegoodcoffee>Кофейные зёрна</entityname.tradegoodcoffee>
+  <entitydescription.tradegoodcoffee>Товар для торговли</entitydescription.tradegoodcoffee>
+  <entityname.tradegoodsugar>Пакет с сахаром</entityname.tradegoodsugar>
+  <entitydescription.tradegoodsugar>Товар для торговли</entitydescription.tradegoodsugar>
+  <entityname.tradegoodgrain>Семена пшеницы Европы</entityname.tradegoodgrain>
+  <entitydescription.tradegoodgrain>Товар для торговли\nЗерна пшеницы, выращенные на Европе, с помощью гидропоника, из-за сложности выращивания считаются настоящей роскошью.</entitydescription.tradegoodgrain>
+  <entityname.tradegoodrice>Рис Европы</entityname.tradegoodrice>
+  <entitydescription.tradegoodrice>Товар для торговли\nРис, выращенный с помощью гидропоники Европы, прост в культивировании, но лишён вкуса.</entitydescription.tradegoodrice>
+  <entityname.tradegoodmoil>Моторное масло</entityname.tradegoodmoil>
+  <entitydescription.tradegoodmoil>Товар для торговли\nМасло, используемое для обслуживания подводных лодок наносящиеся на двигатель для поддержания его бесперебойной работы.</entitydescription.tradegoodmoil>
+  <entityname.tradegoodbwater>Очищенная вода</entityname.tradegoodbwater>
+  <entitydescription.tradegoodbwater>Товар для торговли\nСложность в очистке океанической воды Европы оказались неожиданным фактом повлиявшим на её количество. Хотя большинство простолюдинов считают что цена на эту жидкость искусственно завышена для получения прибыли на тех кто готов пожертвовать всем, чтобы выжить.</entitydescription.tradegoodbwater>
+  <entityname.tradegoodwwool>Кусок шерсти</entityname.tradegoodwwool>
+  <entitydescription.tradegoodwwool>Товар для торговли\nКусок водонепроницаемой шерсти добытый из существа называемого "Шерстиход". На Европе встретить ткань - большая редкость, ведь "импорт" не частая радость. Вследствие этого была предпринята попытка поиска альтернативы.</entitydescription.tradegoodwwool>
+  <!-- Creatures - существа - 动物 -->
+  <!-- Other - другие - 其他 -->
+  <!-- Event - мероприятие - 事件 -->
+  <eventtext.tradegoodcoffeeevent.c1>Вы проходите мимо уставшего, покрытого пылью и сажей простого рабочего. Со стороны он выглядят расстроенно и ворчит что-то не понятное себе под нос.</eventtext.tradegoodcoffeeevent.c1>
+  <eventtext.tradegoodcoffeeevent.o1>“Ты выглядишь довольно грустным, что-то случилось?”</eventtext.tradegoodcoffeeevent.o1>
+  <eventtext.tradegoodcoffeeevent.o2>Проигнорировать его</eventtext.tradegoodcoffeeevent.o2>
+  <eventtext.tradegoodcoffeeevent.o1.c1>Повернувшись в вашу сторону он начинает, "Да, что-то случилось! Эти лабораторные крысы высасывают всё кофе, что поступает к нам, и заставляют обычных добропорядочных рабочих, вроде меня, плыть на соседние станции, рискуя своей жизнью ради доставки гребанной чашки кофе. Я ведь уборщиком работаю, а не курьером. Так что да, что-то случилось!”</eventtext.tradegoodcoffeeevent.o1.c1>
+  <eventtext.tradegoodcoffeeevent.o1.o1>“Могу ли я помочь чем-то?”</eventtext.tradegoodcoffeeevent.o1.o1>
+  <eventtext.tradegoodcoffeeevent.o1.o2>“Это не приятная ситуация, но, мне нужно идти.”</eventtext.tradegoodcoffeeevent.o1.o2>
+  <eventtext.tradegoodcoffeeevent.o1.o1.c1>Вздохнув он ответил, "Я уже приплыл сюда за кофе, так что помочь ты уже ничем не можешь. Но дам совет, когда ты приплывёшь на исследовательский аванпост, привези с собой кофе, в бедняках ты точно не останешься. Спрос рождает предложение, как говорится. Удачи в плавании.”</eventtext.tradegoodcoffeeevent.o1.o1.c1>
+  <eventtext.tradegoodwoolevent.c1>Вы заметили человека, склонившегося над огромными насекомоподобными существами.</eventtext.tradegoodwoolevent.c1>
+  <eventtext.tradegoodwoolevent.o1>“Хм, интересные создания, кто они?”</eventtext.tradegoodwoolevent.o1>
+  <eventtext.tradegoodwoolevent.o3>“Что это чёрт возьми за мерзости у тебя там?”</eventtext.tradegoodwoolevent.o3>
+  <eventtext.tradegoodwoolevent.o2>Проигнорировать</eventtext.tradegoodwoolevent.o2>
+  <eventtext.tradegoodwoolevent.o1.c1>“Что?" Сказал человек, теряя концентрацию "Эти ребята? Это Шерстиходы. Ты что, никогда не думал откуда на Европе появляется одежда? Это все Шерстиходы. У них прекрасная шерсть не пропускающая воду. Из неё получается отличная ткань.”</eventtext.tradegoodwoolevent.o1.c1>
+  <eventtext.tradegoodwoolevent.o1.o1>“На самом деле я заинтересован в торговле их шерстью, есть какие-нибудь советы?”</eventtext.tradegoodwoolevent.o1.o1>
+  <eventtext.tradegoodwoolevent.o1.o2>“Спасибо за рассказ, до встречи.”</eventtext.tradegoodwoolevent.o1.o2>
+  <eventtext.tradegoodwoolevent.o1.o1.c1>Почесав затылок он ответил, "Ну, я не особо люблю торговать шерстью, но я наслышан о том, что на военных и жилых аванпостах могут очень щедро заплатить за этот недостающий материал."</eventtext.tradegoodwoolevent.o1.o1.c1>
+  <!-- Characters -->
+  <character.Wanderer>Странник</character.Wanderer>
+  <character.Wandereralt>Альфа Странник</character.Wandereralt>
+  <character.Fractalguardian>Страж руин</character.Fractalguardian>
+  <character.Fractalguardian2>Страж руин</character.Fractalguardian2>
+  <character.Woolwalker>Шерстиход</character.Woolwalker>
+  <!-- Items -->
+  <entityname.combatgrenadelauncher>Военный гранатомет</entityname.combatgrenadelauncher>
+  <entitydescription.combatgrenadelauncher>Многозаряднай версия обычного гранатомёта.</entitydescription.combatgrenadelauncher>
+  <entityname.antimaterialround>Винтовочный патрон антиматерии</entityname.antimaterialround>
+  <entityname.antimaterialrifle>Винтовка антиматерии</entityname.antimaterialrifle>
+  <entitydescription.antimaterialrifle>Биг Факинг Ган</entitydescription.antimaterialrifle>
+  <entityname.assaultchaingun>МиниГан</entityname.assaultchaingun>
+  <entitydescription.assaultchaingun>Более эффективен в руках опытного бойца</entitydescription.assaultchaingun>
+  <entityname.assaultchaingunround>*Неразборчиво* Компьютер</entityname.assaultchaingunround>
+  <entitydescription.assaultchaingunround>По его внешнему виду понятно, что кто-то очень не хотел чтобы узнали что там написано.\nПохоже что надпись была стёрта когтями в порыве жуткой ярости.</entitydescription.assaultchaingunround>
+  <entityname.assaultchaingunmagazine>Магазин для МиниГана</entityname.assaultchaingunmagazine>
+  <entitydescription.assaultchaingunmagazine>Набор патронов для МиниГана GAU-2</entitydescription.assaultchaingunmagazine>
+  <entityname.laserpistol>Обжалование</entityname.laserpistol>
+  <entitydescription.laserpistol>Подходит для случаев, когда какого-нибудь капитана или сотрудника службы безопасности необходимо "освободить" от их обязанностей.</entitydescription.laserpistol>
+  <entityname.laserpistolmag>Хакнутый аккумулятор</entityname.laserpistolmag>
+  <entitydescription.laserpistolmag>Все оригинальные меры предосторожности были взломаны и убраны.</entitydescription.laserpistolmag>
+  <entityname.laserpistolround>Патрон пистолета "Обжалование"</entityname.laserpistolround>
+  <entityname.cursedradio>Подводное радио</entityname.cursedradio>
+  <entitydescription.riversguitar>Реликвия одной старой земной группы</entitydescription.riversguitar>
+  <entityname.johnnycash>Рана</entityname.johnnycash>
+  <entitydescription.johnnycash>Одиночное плавание нелёгкая задача, но временами, это всё что тебе остается.</entitydescription.johnnycash>
+  <entityname.baroplusexosuit>Ядерный экзокостюм</entityname.baroplusexosuit>
+  <entitydescription.baroplusexosuit>Для корректной работы требуется топливный стержень.</entitydescription.baroplusexosuit>
+  <entityname.nucpowerarmor>Силовой ядерный экзокостюм</entityname.nucpowerarmor>
+  <entitydescription.nucpowerarmor>Для корректной работы требуется топливный стержень.\nЭффективен в бою.</entitydescription.nucpowerarmor>
+  <entityname.medicexosuit>Ядерный экзоскелет медика</entityname.medicexosuit>
+  <entitydescription.medicexosuit>Для корректной работы требуется топливный стержень.\nПредназначен для использования медиком.</entitydescription.medicexosuit>
+  <entityname.nucmedpowerarmor>Силовой ядерный экзоскелет медика</entityname.nucmedpowerarmor>
+  <entitydescription.nucmedpowerarmor>Для корректной работы требуется топливный стержень.\nПредназначен для использования боевым медиком.</entitydescription.nucmedpowerarmor>
+  <entityname.exorig>Силовое экзо-снаряжение</entityname.exorig>
+  <entitydescription.exorig>Установка имеющая возможность нести тяжёлое снаряжение. Обеспечивает небольшую защиту.</entitydescription.exorig>
+  <entityname.duffel>Спортивная сумка</entityname.duffel>
+  <entityname.allbag>Военная рюкзак</entityname.allbag>
+  <entityname.sphelm>Силовой шлем особого назначения</entityname.sphelm>
+  <entityname.medsphelm>Шлем медика особого назначения</entityname.medsphelm>
+  <entityname.precursorfragment>Фрагмент предвестника</entityname.precursorfragment>
+  <entityname.regicide>Цареубийство</entityname.regicide>
+  <entityname.regicideround>Патрон Цареубийства</entityname.regicideround>
+  <entityname.precursorcore>Ядро "Предвестник"</entityname.precursorcore>
+  <entitydescription.precursorcore>Используется как патрон для "Цареубийства", в качестве акумулятора и для создания предметов.</entitydescription.precursorcore>
+  <entityname.basicpistolround>Патрон КС</entityname.basicpistolround>
+  <entityname.basicpistolmagazine>Магазин карманного пистолета</entityname.basicpistolmagazine>
+  <entityname.basicpistol>Карманный пистолет Европы</entityname.basicpistol>
+  <entityname.alienstorage>Инопланетная сингулярность</entityname.alienstorage>
+  <entitydescription.alienstorage>Это межпространственное хранилище</entitydescription.alienstorage>
+  <entityname.alienforge>Инопланетный фабрикатор</entityname.alienforge>
+  <entityname.alienaltar>Передвижной инопланетный алтарь</entityname.alienaltar>
+  <entitydescription.alienaltar>Небольшое устройство, позволяющее удаленно использовать Инопланетный фабрикатор</entitydescription.alienaltar>
+  <entityname.standardrifle>Ежедневная проблема</entityname.standardrifle>
+  <entitydescription.standardrifle>Основная винтовка военных сил Европы</entitydescription.standardrifle>
+  <entityname.standardriflemagazine>Магазин "Ежедневной проблемы"</entityname.standardriflemagazine>
+  <entityname.standardrifleround>5.45x39мм картридж</entityname.standardrifleround>
+  <entityname.punchy>Пробивной</entityname.punchy>
+  <entitydescription.punchy>Он разозлился!</entitydescription.punchy>
+  <entityname.chainsaw>Бензопила</entityname.chainsaw>
+  <entitydescription.chainsaw>По изначальной задумке не предназначен для рубки деревьев.</entitydescription.chainsaw>
+  <entityname.cargoexosuit>Грузовой экзокостюм</entityname.cargoexosuit>
+  <entitydescription.cargoexosuit>Для корректной работы требуется топливный стержень</entitydescription.cargoexosuit>
+  <entityname.avenger>Мститель</entityname.avenger>
+  <entityname.baropplasticbag>Полиэтиленовый пакет</entityname.baropplasticbag>
+  <entityname.alienexosuit>Инопланетный экзокостюм</entityname.alienexosuit>
+  <entitydescription.alienexosuit>Для корректной работы требуется ядро "Предвестник".\nВысокая скорость бега.</entitydescription.alienexosuit>
+  <entityname.aliennucpowerarmor>Инопланетная силовая броня</entityname.aliennucpowerarmor>
+  <entitydescription.aliennucpowerarmor>Для коректной работы требуется ядро "Предвестник".\nВысокая скорость бега.\nЭффективен в бою.</entitydescription.aliennucpowerarmor>
+  <entityname.aliensphelm>Силовой инопланетный шлем особого назначения</entityname.aliensphelm>
+  <entityname.wornjournal>Поношенный журнал</entityname.wornjournal>
+  <entitydescription.wornjournal>Журнал заполнен различными заметками и историями, скорее всего вы сможете извлечь из него какой-то опыт.</entitydescription.wornjournal>
+  <entityname.outpostadminkatana>Катана</entityname.outpostadminkatana>
+  <entityname.outpostadminkatanasaya>Сая</entityname.outpostadminkatanasaya>
+  <entitydescription.outpostadminkatanasaya>Ножны для катаны</entitydescription.outpostadminkatanasaya>
+  <entityname.outpostadminkatanasaya2>Двойная сая</entityname.outpostadminkatanasaya2>
+  <entitydescription.outpostadminkatanasaya2>Двойные ножны для катаны</entitydescription.outpostadminkatanasaya2>
+  <entityname.europanite>Европанит</entityname.europanite>
+  <entitydescription.europanite>Металл, добытый из стража руин</entitydescription.europanite>
+  <entityname.alienscrap>Инопланетный металлолом</entityname.alienscrap>
+  <entityname.alienshotgun>Инопланетный дробовик</entityname.alienshotgun>
+  <entityname.alienshotgunshell>Патрон для инопланетного дробовика</entityname.alienshotgunshell>
+  <entityname.cursedradio>Подводное радио</entityname.cursedradio>
+  <entityname.riversguitar>Речная Гитара</entityname.riversguitar>
+  <entityname.alienmelee>Фазовой клинок</entityname.alienmelee>
+  <entityname.alienrevolverround>Патрон для инопланетного револьвера</entityname.alienrevolverround>
+  <entityname.alienrevolver>Инопланетный револьвер</entityname.alienrevolver>
+  <entityname.alienassaultriflemagazine>Магазин для инопланетной штурмовой винтовки</entityname.alienassaultriflemagazine>
+  <entityname.alienassaultrifle>Инопланетная штурмовая винтовка</entityname.alienassaultrifle>
+  <entityname.blackholegrenade>Инопланетная граната</entityname.blackholegrenade>
+  <entitydescription.blackholegrenade>Выглядит очень мощно</entitydescription.blackholegrenade>
+  <entityname.purpsword>Меч из малахита</entityname.purpsword>
+  <entityname.goldsword>Меч из малахита</entityname.goldsword>
+  <entityname.redsword>Меч из малахита</entityname.redsword>
+  <entityname.greensword>Меч из малахита</entityname.greensword>
+  <entityname.bluesword>Меч из малахита</entityname.bluesword>
+  <entityname.prismaticsword>Божественное право</entityname.prismaticsword>
+  <entitydescription.superboomhammer>Детонирует при контакте с живым существом, опасным как для жертвы, так и для пользователя.Это ОЧЕНЬ плохая идея.</entitydescription.superboomhammer>
+  <entityname.superboomhammer>Мега взрывной молот</entityname.superboomhammer>
+  <entityname.aupkit>Инопланетный набор улучшения</entityname.aupkit>
+  <entitydescription.aupkit>Может быть полезен для оружия</entitydescription.aupkit>
+  <entityname.drugpipe>Стеклянный бонг</entityname.drugpipe>
+  <entitydescription.drugpipe>Хорош для принятия разных наркотиков</entitydescription.drugpipe>
+  <entityname.eheadset>Инженерные наушники</entityname.eheadset>
+  <entitydescription.eheadset>Идеальная гарнитура для рабочего класса. Оснащен шумоподавлением, высокочастотными излучателями и регулируемой подвеской. Эта гарнитура предназначена для использования инженерными бригадами на борту, поскольку она не подвержена обычным помехам.</entitydescription.eheadset>
+  <entityname.feheadset>Наушники с фонарем</entityname.feheadset>
+  <entitydescription.feheadset>Удобная гарнитура, которая поможет при починки подлодки без энергии и также при отбитии аванпоста захваченными сепаратистами.</entitydescription.feheadset>
+  <entityname.cheadset>Рация службы безопасности</entityname.cheadset>
+  <entitydescription.cheadset>Низкопрофильная система радиосвязи, используемая в основном сотрудниками службы безопасности кораблей и станций, эта установка коалиционных сил специального назначения отлично подходит для водолазных команд, поскольку частота сводит к минимуму искажения от естественных источников и расход батареи за счет использования УВЧ в относительно компактном корпусе.</entitydescription.cheadset>
+  <entityname.mcheadset>Инженерные наушники</entityname.mcheadset>
+  <entitydescription.mcheadset>Идеальная гарнитура для рабочего класса. Оснащен шумоподавлением, высокочастотными излучателями и регулируемой комфортной подвеской. Эта гарнитура предназначена для использования инженерными бригадами на борту, поскольку она не подвержена обычным помехам.</entitydescription.mcheadset>
+  <entityname.vheadset>Радио дальнего действия</entityname.vheadset>
+  <entitydescription.vheadset>Водонепроницаемый пакет мощных радиопередатчиков с самозаряжающимися батареями, предназначенный для использования экипажами боевых экспедиций коалиции, его массивная конструкция гарнитуры также обеспечивает шумоподавление.</entitydescription.vheadset>
+</infotexts>
+<!-- Переводчик Санитар смотритель#3579 -->

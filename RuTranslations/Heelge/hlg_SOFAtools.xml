@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
+  <entityname.Upgraded_scooter>Скутер МК2</entityname.Upgraded_scooter>
+  <entitydescription.Upgraded_scooter>Улучшенный скутер</entitydescription.Upgraded_scooter>
+  <entityname.Bright_flare>Сверхяркий сигнальный огонь</entityname.Bright_flare>
+  <entitydescription.Bright_flare>Супер яркий сигнальный огонь, жмите Е чтобы зажечь</entitydescription.Bright_flare>
+  <entityname.Upgraded_plasmacutter>Плазменный резак МК2</entityname.Upgraded_plasmacutter>
+  <entitydescription.Upgraded_plasmacutter>Улучшенный плазменный резак</entitydescription.Upgraded_plasmacutter>
+  <entityname.Upgraded_weldingtool>Сварочный аппарат МК2</entityname.Upgraded_weldingtool>
+  <entitydescription.Upgraded_weldingtool>Улучшенный сварочный аппарат</entitydescription.Upgraded_weldingtool>
+  <entityname.Belt_Artifact1>Артефакт</entityname.Belt_Artifact1>
+  <entitydescription.Belt_Artifact1>Этот артефакт, по-видимому, влияет на скорость держателя</entitydescription.Belt_Artifact1>
+  <entityname.Belt_Artifact2>Артефакт</entityname.Belt_Artifact2>
+  <entitydescription.Belt_Artifact2>Этот артефакт, по-видимому, влияет на общий вид держателя</entitydescription.Belt_Artifact2>
+  <entityname.Belt_Artifact3>Артефакт</entityname.Belt_Artifact3>
+  <entitydescription.Belt_Artifact3>Этот артефакт, по-видимому, защищает держателя</entitydescription.Belt_Artifact3>
+  <entityname.Belt_Artifact4>Артефакт</entityname.Belt_Artifact4>
+  <entitydescription.Belt_Artifact4>Этот артефакт, по-видимому, исцеляет держателя</entitydescription.Belt_Artifact4>
+  <entityname.Customdivingknife>Необычный нож ныряльщика</entityname.Customdivingknife>
+  <entitydescription.Customdivingknife>Похоже, кому-то понравился их нож...</entitydescription.Customdivingknife>
+  <entityname.HandLamp>Фонарь</entityname.HandLamp>
+  <entitydescription.HandLamp>Здесь время кажется медленнее.</entitydescription.HandLamp>
+  <entityname.Strangealienobject1>Странный инопланетный предмет</entityname.Strangealienobject1>
+  <entityname.Strangealienobject2>Странный инопланетный предмет</entityname.Strangealienobject2>
+  <entityname.Strangealienobject3>Странный инопланетный предмет</entityname.Strangealienobject3>
+  <entityname.Strangealienobject4>Странный инопланетный предмет</entityname.Strangealienobject4>
+  <entityname.Strangealienobject4>Странное инопланетное оружие</entityname.Strangealienobject4>
+</infotext>

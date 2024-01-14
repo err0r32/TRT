@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <jobname.admiral>Адмирал</jobname.admiral>
+  <jobdescription.admiral>Адмирал - это военный лидер подлодки. Вместе с капитаном руководит экипажем и защищает подлодку от дикой природы Европы. Адмиралы обучены обращению с оружием и медицине. Так же они способны управлять подводной лодкой. </jobdescription.admiral>
+  <!-- Talent Trees -->
+  <talenttree.manofmanyguns>Человек со многими пушками</talenttree.manofmanyguns>
+  <talenttree.truesailor>Настоящий моряк</talenttree.truesailor>
+  <talenttree.spec>Специализация</talenttree.spec>
+  <talenttree.fielddoctor>Полевой доктор</talenttree.fielddoctor>
+  <!-- Prerequisite Talent Names -->
+  <talentname.riflesmith>Ружейник</talentname.riflesmith>
+  <talentname.dualpurpose>Двойное назначение</talentname.dualpurpose>
+  <talentname.upliftingpresence>Воодушевляющие присутствие</talentname.upliftingpresence>
+  <talentname.cargodefender>Защитник груза</talentname.cargodefender>
+  <talentname.expertsailor>Моряк эксперт</talentname.expertsailor>
+  <talentname.rifleexpert>Эксперт по ружьям</talentname.rifleexpert>
+  <talentname.excellentcommand>Отличный командир</talentname.excellentcommand>
+  <talentname.ammoless>Без боеприпасов</talentname.ammoless>
+  <talentname.morebandages>Больше бинтов!</talentname.morebandages>
+  <talentname.fireaway>Отстреливаемся!</talentname.fireaway>
+  <!-- Specialization Talent Names -->
+  <talentname.specialization>Специализация</talentname.specialization>
+  <talentname.specialization_captain>Специализация капитан</talentname.specialization_captain>
+  <talentname.specialization_security>Специализация охрана</talentname.specialization_security>
+  <talentname.specialization_medical>Специализация медик</talentname.specialization_medical>
+  <talentname.intothenight>В ночи</talentname.intothenight>
+  <talentname.assistedhealing>Вспомогательное лечение</talentname.assistedhealing>
+  <talentname.metalsancients>Металлы Древних</talentname.metalsancients>
+  <talentname.specializedammo>Специальные патроны</talentname.specializedammo>
+  <talentname.supremerifle>Величайшее ружьё</talentname.supremerifle>
+  <talentname.ammorecovery>Восстановление патронов</talentname.ammorecovery>
+  <talentname.radiosupport>Поддержка по радио</talentname.radiosupport>
+  <talentname.onthefrontlines>На передовой</talentname.onthefrontlines>
+  <talentname.unisonfire>Стрельба в унисон</talentname.unisonfire>
+  <talentname.emergencyrepairs>Аварийный ремонт</talentname.emergencyrepairs>
+  <talentname.healingexplosion>Оздоровительный взрыв</talentname.healingexplosion>
+  <talentname.speedyrescue>Стремительное спасение</talentname.speedyrescue>
+  <talentname.swiftrescue>Спасение в темпе</talentname.swiftrescue>
+  <talentname.getoffme>Отвали от меня!</talentname.getoffme>
+  <talentname.ontheground>На землю!</talentname.ontheground>
+  <!-- Prerequisite Talent Descriptions -->
+  <talentdescription.riflesmith>Вы начали понимать внутреннее устройство ружей. Теперь можете собирать их. Разблокирует рецепт: [itemname].</talentdescription.riflesmith>
+  <talentdescription.dualpurpose>Получаете бонус [statbonus] для [skill1] и [skill2].</talentdescription.dualpurpose>
+  <talentdescription.upliftingpresence>Весь экипаж получает [statbonus] к каждому навыку.</talentdescription.upliftingpresence>
+  <talentdescription.expertsailor>Получаете [expbonus] опыта, каждый раз когда вы развиваете [skill].</talentdescription.expertsailor>
+  <talentdescription.cargodefender>Получаете дополнительно [moneyBonus] денег и [expBonus] опыта при выполнении миссий [mission1] или [mission2].</talentdescription.cargodefender>
+  <talentdescription.rifleexpert>Вы становитесь опытным изготовителем ружей. Разблокирует рецепт: [itemname]</talentdescription.rifleexpert>
+  <talentdescription.rifleexpert2>[talentname]: Вы можете изготавливать ружья на [quality] выше качеством.</talentdescription.rifleexpert2>
+  <talentdescription.excellentcommand>При завершении миссии без смертей экипажа вы получаете дополнительно [expself] опыта, а ваш экипаж дополнительно [expcrew] опыта.</talentdescription.excellentcommand>
+  <talentdescription.ammoless>Увеличивает на [melee]% урон оружием ближнего боя на [duration] секунд после выстрела из ружья.</talentdescription.ammoless>
+  <talentdescription.morebandages>После выполнения по крайней мере одной миссии получаете: [itemamount] [item]. Допольнительно дает [medbonus] эффективности медицины.</talentdescription.morebandages>
+  <!-- Specialization Talent Descriptions -->
+  <talentdescription.specializationbase>Выберете специализацию. Это даст бонус дальнейшим талантам и постоянный бонус некоторым навыкам.</talentdescription.specializationbase>
+  <talentdescription.specializationtype>Специализация на [type] техниках дает [skillbonus] [skill] и [statbonus] [stat].</talentdescription.specializationtype>
+  <talentdescription.fireaway>Ковыряние с инопланетными артефактами позволило вашим ружьям держать руки свободными. Разблокирует рецепт: [recipe]</talentdescription.fireaway>
+  <talentdescription.fireaway2>[talent]: Добавляет [damage]% урона из ружей.</talentdescription.fireaway2>
+  <talentdescription.intothenight>Увеличивает скорость вашего двигателя на [engbonus]%.</talentdescription.intothenight>
+  <talentdescription.intothenight2>[talent]: Дополнительно увеличивает скорость двигателя на [capbonus]%.</talentdescription.intothenight2>
+  <talentdescription.assistedhealing>Дает вашему экипажу на [medbonus]% выше эффективность лечения пока вы живы.</talentdescription.assistedhealing>
+  <talentdescription.assistedhealing2>[talent]: Вместо этого дает [medbonus]% и поднимает на [health]% живучесть.</talentdescription.assistedhealing2>
+  <talentdescription.metalsancients>Есть [chance]% шанс нахождения инопланетных материалов в трупах.</talentdescription.metalsancients>
+  <talentdescription.insteadgain>[talent]: Вместо этого шанс [chance]%.</talentdescription.insteadgain>
+  <talentdescription.ammorecovery>Есть [chance]% шанс восстановить [item] при стрельбе из инопланетных ружей.</talentdescription.ammorecovery>
+  <talentdescription.specializedammo>Дает [skillbonus] [skill]. Разблокирует рецепт: [recipe]</talentdescription.specializedammo>
+  <talentdescription.specializedammo2>[talent]: При завершении по крайней мере 1 миссии вы получаете до [item] патронов.</talentdescription.specializedammo2>
+  <talentdescription.supremerifle>Ваше знание таинственной и древней инопланетной технологии развилось настолько, что позволило собирать следующий уровень инопланетных ружей.  Разблокирует рецепт: [recipe].</talentdescription.supremerifle>
+  <talentdescription.radiosupport>Пока вы внутри подлодки экипажу снаружи наноситься на [damage]% меньше повреждений.</talentdescription.radiosupport>
+  <talentdescription.onthefrontlines>Пока вы вне подлодки экипаж внутри наносит на [damage]% больше повреждений.</talentdescription.onthefrontlines>
+  <talentdescription.supportlines>[talent]: Вы получаете преимущества обоих вариантов.</talentdescription.supportlines>
+  <talentdescription.unisonfire>После стрельбы из ружья экипаж рядом наносит на [damage]% больше урона в течении [duration] секунд.</talentdescription.unisonfire>
+  <talentdescription.emergencyrepairs>После атаки монстра на подводную лодку экипаж поучает бонус [skillbonus] ко всем навыкам, [movespeed]% [movementspeed], [repairbonus]% [repairspeed], и [hullrepairbonus]% [hullrepair].</talentdescription.emergencyrepairs>
+  <talentdescription.healingexplosion>Когда вы используете "тряпичную куклу" весь экипаж рядом получает значительное лечение. Перезарядка [cooldown] секунд.</talentdescription.healingexplosion>
+  <talentdescription.speedyrescue>Вы плаваете на [speed]% быстрее.</talentdescription.speedyrescue>
+  <talentdescription.swiftrescue>Вы бегаете на [speed]% быстрее.</talentdescription.swiftrescue>
+  <talentdescription.doubledbonusmed>[talent]: Эффект от этого таланта удвоен, когда член экипажа без сознания.</talentdescription.doubledbonusmed>
+  <talentdescription.getoffme>Получаете [amount]% сопротивление оглушению.</talentdescription.getoffme>
+  <talentdescription.ontheground>Атаки на расстоянии вызывают [amount] дополнительное оглушение.</talentdescription.ontheground>
+  <talentdescription.emergencyrepairsbonus>[talent]: Бонус продолжается дополнительно [duration] секунд.</talentdescription.emergencyrepairsbonus>
+  <talentdescription.unisonfirebonus>[talent]: Вместо этого дает [bonus]% урона.</talentdescription.unisonfirebonus>
+  <!-- Affliction Names -->
+  <afflictionname.upliftingpresence>Воодушевляющие присутствие</afflictionname.upliftingpresence>
+  <afflictionname.fireaway>Отстреливаемся!</afflictionname.fireaway>
+  <afflictionname.assistedhealing>Вспомогательное лечение</afflictionname.assistedhealing>
+  <afflictionname.assistedhealingimproved>Вспомогательное лечение (Улучшенное)</afflictionname.assistedhealingimproved>
+  <afflictionname.radiosupport>Поддержка по радио</afflictionname.radiosupport>
+  <afflictionname.onthefrontlines>На передовой</afflictionname.onthefrontlines>
+  <afflictionname.unisonfire>Стрельба в унисон</afflictionname.unisonfire>
+  <afflictionname.emergencyrepairs>Аварийный ремонт</afflictionname.emergencyrepairs>
+  <afflictionname.healingexplosioncooldown>Откат взрывного лечения</afflictionname.healingexplosioncooldown>
+  <afflictionname.ammoless>Без боеприпасов</afflictionname.ammoless>
+  <!-- Affliction Descriptions -->
+  <afflictiondescription.upliftingpresence>Чувствует воодушевление.</afflictiondescription.upliftingpresence>
+  <afflictiondescription.fireaway>Огонь!</afflictiondescription.fireaway>
+  <afflictiondescription.assistedhealing>Ваш адмирал немного разбирается в медицине.</afflictiondescription.assistedhealing>
+  <afflictiondescription.assistedhealingimproved>Ваш адмирал знает пару ноухау в медицине и готов поделиться ими с вами.</afflictiondescription.assistedhealingimproved>
+  <afflictiondescription.radiosupport>Ваш адмирал поддерживает вас из подводной лодки.</afflictiondescription.radiosupport>
+  <afflictiondescription.onthefrontlines>Ваш адмирал на передовой поддерживает подводную лодку.</afflictiondescription.onthefrontlines>
+  <afflictiondescription.unisonfire>Стрельба бок о бок с адмиралом повышает урон.</afflictiondescription.unisonfire>
+  <afflictiondescription.emergencyrepairs>Монстры атакуют! Чини лодку!</afflictiondescription.emergencyrepairs>
+  <afflictiondescription.healingexplosioncooldown>Взрывное лечение откатывается.</afflictiondescription.healingexplosioncooldown>
+  <afflictiondescription.ammoless>Ваши атаки ближнего боя улучшены!</afflictiondescription.ammoless>
+  <!-- Stat Type Names -->
+  <!-- Item Names -->
+  <entityname.makeshiftrifle>Самодельное ружьё</entityname.makeshiftrifle>
+  <entityname.makeshiftriflebullet>Патрон для самодельного ружья</entityname.makeshiftriflebullet>
+  <entityname.alienrifle>Инопланетное ружьё</entityname.alienrifle>
+  <entityname.alienriflebullet>Патрон для инопланетного ружья</entityname.alienriflebullet>
+  <entitydescription.alienrifle>Ружьё, улучшенное с помощью инопланетных технологий. Требует специальные патроны для инопланетного ружья.</entitydescription.alienrifle>
+  <entityname.empalienriflebullet>ЭМИ патрон для инопланетного ружья</entityname.empalienriflebullet>
+  <entitydescription.empalienriflebullet>Этот патрон для инопланетного ружья электифицирует цель, сильно оглушая и накладывая ЭМИ эффект.</entitydescription.empalienriflebullet>
+  <entityname.apalienriflebullet>Патрон AP для инопланетного ружья</entityname.apalienriflebullet>
+  <entitydescription.apalienriflebullet>Патрон для инопланетного ружья содержит немного физикория, создающего бронебойный урон.</entitydescription.apalienriflebullet>
+  <entityname.supremealienrifle>Абсолютное инопланетное ружьё</entityname.supremealienrifle>
+  <entityname.idcard_admiral>Удостоверение личности</entityname.idcard_admiral>
+  <entitydescription.idcard_admiral>Обеспечивает ограниченный доступ в различные части подлодки.</entitydescription.idcard_admiral>
+  <!-- Event Text -->
+  <eventtext.hireadmiral.question>Вы ищите адмирала? Я свободен.</eventtext.hireadmiral.question>
+  <eventtext.hireadmiral.hire>Да, я ищу. (6,000 кр.)</eventtext.hireadmiral.hire>
+  <eventtext.hireadmiral.fail>Здесь недостаточно кредитов для меня.</eventtext.hireadmiral.fail>
+  <eventtext.hireadmiral.leave>Не сейчас.</eventtext.hireadmiral.leave>
+  <eventtext.hireadmiral.unfriendly>Может быть, я бы предложил тебе что-нибудь, если бы не твоё уродливое лицо.</eventtext.hireadmiral.unfriendly>
+  <eventtext.hireadmiral.attack>Давай я покажу тебе, что мы делаем тут с такими уродами.</eventtext.hireadmiral.attack>
+  <eventtext.hireadmiral.decline>Я буду здесь, если передумаете.</eventtext.hireadmiral.decline>
+  <eventtext.hireadmiral.hire>Рад присоединиться к вам!</eventtext.hireadmiral.hire>
+</infotexts>

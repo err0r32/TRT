@@ -1,0 +1,1158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <locationchange.outpost.changeto.abandoned>Мы потеряли связь с [previousname]. Исследуйте с осторожностью.</locationchange.outpost.changeto.abandoned>
+  <locationchange.outpost.changeto.abandoned>Маяк, неподалеку от [previousname], принял автоматический сигнал SOS со станции, но никаких дальнейших сообщений не поступило.</locationchange.outpost.changeto.abandoned>
+  <locationchange.outpost.changeto.abandoned>Сообщения из [previousname] указывают на то, что противники захватили аванпост. Выживших не обнаружено.</locationchange.outpost.changeto.abandoned>
+  <locationchange.outpost.changeto.abandoned>Сообщения из [previousname] указывают на то, что противники захватили форпост. Выживших эвакуируют на шаттле.</locationchange.outpost.changeto.abandoned>
+  <locationchange.none.changeto.waypoint>[previousname] отмечен для колонизации.</locationchange.none.changeto.waypoint>
+  <locationchange.none.changeto.waypoint>[previousname] имеет необходимое пространство для установки аванпоста.</locationchange.none.changeto.waypoint>
+  <locationchange.none.changeto.waypoint>[previousname] готов к колонизации.</locationchange.none.changeto.waypoint>
+  <locationchange.none.changeto.waypoint>Коалиция отметила [previousname] как подходящее место для колонизации.</locationchange.none.changeto.waypoint>
+  <locationchange.none.changeto.lair>[previousname] был заражен монстрами.</locationchange.none.changeto.lair>
+  <locationchange.lair.changeto.none>[previousname] был очищен силами коалиции.</locationchange.lair.changeto.none>
+  <locationchange.none.changeto.UnderAttack>[previousname] атакован монстрами.</locationchange.none.changeto.UnderAttack>
+  <locationchange.UnderAttack.changeto.none>[previousname] был защищен от заражения.</locationchange.UnderAttack.changeto.none>
+  <locationchange.UnderAttack.changeto.blockade>Коалиция устанавливает блокаду в [previousname].</locationchange.UnderAttack.changeto.blockade>
+  <locationchange.UnderAttack.changeto.blockade>Коалиция перемещает силы в [previousname].</locationchange.UnderAttack.changeto.blockade>
+  <locationchange.UnderAttack.changeto.blockade>Коалиция размещает войска в [previousname].</locationchange.UnderAttack.changeto.blockade>
+  <locationchange.colony.changeto.settlement>Колонисты с [previousname] расширили колонию, чтобы вмещать больше людей.</locationchange.colony.changeto.settlement>
+  <locationchange.colony.changeto.settlement>Колония [previousname] выросла.</locationchange.colony.changeto.settlement>
+  <locationchange.colony.changeto.settlement>[previousname] расширяется.</locationchange.colony.changeto.settlement>
+  <locationchange.colony.changeto.construction>Колонисты с [previousname] начали строительство станции.</locationchange.colony.changeto.construction>
+  <locationchange.colony.changeto.construction>Колонисты с [previousname] начали работу над создателем удобств.</locationchange.colony.changeto.construction>
+  <locationchange.colony.changeto.construction>[previousname]: начато строительство инфраструктуры.</locationchange.colony.changeto.construction>
+  <locationchange.construction.changeto.hydroponics>Инженеры с [previousname] завершили работу над проводкой в отсеке гидропоники.</locationchange.construction.changeto.hydroponics>
+  <locationchange.construction.changeto.hydroponics>Механики с [previousname] завершили сварочные работы в отсеке гидропоники.</locationchange.construction.changeto.hydroponics>
+  <locationchange.construction.changeto.hydroponics>[previousname] теперь обеспечивает посевами окрестности.</locationchange.construction.changeto.hydroponics>
+  <locationchange.construction.changeto.factory>Инженеры с [previousname] завершили установку фабрикаторов.</locationchange.construction.changeto.factory>
+  <locationchange.construction.changeto.factory>Механики с  [previousname] начали производство товаров массового спроса.</locationchange.construction.changeto.factory>
+  <locationchange.construction.changeto.factory>Промышленность на [previousname] процветает!</locationchange.construction.changeto.factory>
+  <locationchange.construction.changeto.camp>Оборонные Силы Коалиции начали развертывание базы в [previousname].</locationchange.construction.changeto.camp>
+  <locationchange.construction.changeto.camp>[previousname] теперь контролируется коалицией.</locationchange.construction.changeto.camp>
+  <locationchange.construction.changeto.camp>Лагерь Коалиции был развернут в [previousname].</locationchange.construction.changeto.camp>
+  <locationchange.construction.changeto.study>Исследование окрестностей [previousname] показало изобилие экзотической жизни в области.</locationchange.construction.changeto.study>
+  <locationchange.construction.changeto.study>Обнаружен удивительный образец цветов, растущий в пещере [previousname] .</locationchange.construction.changeto.study>
+  <locationchange.construction.changeto.study>Флора неподалёку от [previousname] вызывает научный интерес.</locationchange.construction.changeto.study>
+  <locationchange.construction.changeto.survey>Исследование окрестностей  [previousname] показало наличие ценной руды. </locationchange.construction.changeto.survey>
+  <locationchange.construction.changeto.survey>Вокруг станции [previousname] обнаружены минералы.</locationchange.construction.changeto.survey>
+  <locationchange.construction.changeto.survey>Неподалёку от [previousname] обнаружены богатые минералами области для выработки.</locationchange.construction.changeto.survey>
+  <locationchange.construction.changeto.fusion>Инженеры и Ученые с [previousname] завершили строительство термоядерной электростанции. </locationchange.construction.changeto.fusion>
+  <locationchange.construction.changeto.fusion>[previousname] теперь снабжает окрестности термоядерной энергией.</locationchange.construction.changeto.fusion>
+  <locationchange.construction.changeto.fusion>Охлаждающая турбина для термоядерной электростанции на [previousname] готова.</locationchange.construction.changeto.fusion>
+  <locationchange.construction.changeto.shipyard>Инженеры и Механики с [previousname] начали продажу судов и их запчастей.</locationchange.construction.changeto.shipyard>
+  <locationchange.construction.changeto.shipyard>[previousname]: завершено строительство Сухого Дока.</locationchange.construction.changeto.shipyard>
+  <locationchange.construction.changeto.shipyard>[previousname]: завершено строительство Верфи.</locationchange.construction.changeto.shipyard>
+  <locationchange.construction.changeto.clinic>Теперь на [previousname] доступна Медицинская Помощь.</locationchange.construction.changeto.clinic>
+  <locationchange.construction.changeto.clinic>В [previousname] открылся небольшой лазарет.</locationchange.construction.changeto.clinic>
+  <locationchange.construction.changeto.clinic>Завершено строительство клиники на [previousname].</locationchange.construction.changeto.clinic>
+  <locationchange.camp.changeto.base>Силы Коалиции укрепили [previousname].</locationchange.camp.changeto.base>
+  <locationchange.camp.changeto.base>Подкрепления Коалиции прибыли на [previousname].</locationchange.camp.changeto.base>
+  <locationchange.camp.changeto.base>[previousname]: установлены укрепления.</locationchange.camp.changeto.base>
+  <locationchange.base.changeto.military>Силы Коалиции воздвигли огромный форт на [previousname].</locationchange.base.changeto.military>
+  <locationchange.base.changeto.military>Силы Коалиции мобилизуют [previousname].</locationchange.base.changeto.military>
+  <locationchange.base.changeto.military>[previousname] теперь форт, защищающий станции неподалёку.</locationchange.base.changeto.military>
+  <locationchange.base.changeto.military>Силы Коалиции воздвигли огромный форт на [previousname].</locationchange.base.changeto.military>
+  <locationchange.base.changeto.military>Силы Коалиции мобилизуют [previousname].</locationchange.base.changeto.military>
+  <locationchange.base.changeto.military>[previousname] теперь форт, защищающий станции неподалёку.</locationchange.base.changeto.military>
+  <locationname.colony>Колония</locationname.colony>
+  <locationnameformat.colony>Территория [name]</locationnameformat.colony>
+  <locationnameformat.colony>Граница [name]</locationnameformat.colony>
+  <locationnameformat.colony>Фронтир [name]</locationnameformat.colony>
+  <locationnameformat.colony>Колония [name]</locationnameformat.colony>
+  <locationname.settlement>Поселение</locationname.settlement>
+  <locationnameformat.settlement>Пост[name]</locationnameformat.settlement>
+  <locationnameformat.settlement>Участок [name]</locationnameformat.settlement>
+  <locationnameformat.settlement>Популяция [name] </locationnameformat.settlement>
+  <locationnameformat.settlement>Поселение [name]</locationnameformat.settlement>
+  <locationname.outpost>Аванпост</locationname.outpost>
+  <locationnameformat.outpost>Станция [name]</locationnameformat.outpost>
+  <locationnameformat.outpost>Резиденция [name]</locationnameformat.outpost>
+  <locationnameformat.outpost>Сообщество [name]</locationnameformat.outpost>
+  <locationnameformat.outpost>Аванпост[name]</locationnameformat.outpost>
+  <locationname.city>Город</locationname.city>
+  <locationnameformat.city>Метрополис [name]</locationnameformat.city>
+  <locationnameformat.city>Мегаполис [name]</locationnameformat.city>
+  <locationnameformat.city>Застройка [name]</locationnameformat.city>
+  <locationnameformat.city>Город [name]</locationnameformat.city>
+  <locationname.survey>Наблюдательный Пункт</locationname.survey>
+  <locationnameformat.survey>Заповедник [name]</locationnameformat.survey>
+  <locationnameformat.survey>Поля [name]</locationnameformat.survey>
+  <locationnameformat.survey>Месторождение [name]</locationnameformat.survey>
+  <locationnameformat.survey>Наблюдательный Пункт [name] </locationnameformat.survey>
+  <locationname.extraction>Пост Добычи</locationname.extraction>
+  <locationnameformat.extraction>Каменоломня [name]</locationnameformat.extraction>
+  <locationnameformat.extraction>Раскопки [name]</locationnameformat.extraction>
+  <locationnameformat.extraction>Прииск [name]</locationnameformat.extraction>
+  <locationnameformat.extraction>Пост Добычи [name]</locationnameformat.extraction>
+  <locationname.mine>Карьер</locationname.mine>
+  <locationnameformat.mine>Драга [name]</locationnameformat.mine>
+  <locationnameformat.mine>Шахта [name]</locationnameformat.mine>
+  <locationnameformat.mine>Точка Бурения [name]</locationnameformat.mine>
+  <locationnameformat.mine>Карьер[name]</locationnameformat.mine>
+  <locationname.camp>Лагерь</locationname.camp>
+  <locationnameformat.camp>Бараки [name]</locationnameformat.camp>
+  <locationnameformat.camp>Стоянка [name]</locationnameformat.camp>
+  <locationnameformat.camp>Гарнизон [name]</locationnameformat.camp>
+  <locationnameformat.camp>Лагерь [name]</locationnameformat.camp>
+  <locationname.base>База</locationname.base>
+  <locationnameformat.base>Бункер [name]</locationnameformat.base>
+  <locationnameformat.base>Форт [name]</locationnameformat.base>
+  <locationnameformat.base>Бастион [name]</locationnameformat.base>
+  <locationnameformat.base>База [name]</locationnameformat.base>
+  <locationname.military>Форт</locationname.military>
+  <locationnameformat.military>Форт [name]</locationnameformat.military>
+  <locationnameformat.military>Военная База [name]</locationnameformat.military>
+  <locationnameformat.military>Оплот [name]</locationnameformat.military>
+  <locationnameformat.military>Командный Центр [name]</locationnameformat.military>
+  <locationname.study>Исследовательский объект </locationname.study>
+  <locationnameformat.study>Био-исследования [name]</locationnameformat.study>
+  <locationnameformat.study>Гео-исследования [name]</locationnameformat.study>
+  <locationnameformat.study>Обсерватория [name]</locationnameformat.study>
+  <locationnameformat.study>Растительный комплекс [name]</locationnameformat.study>
+  <locationnameformat.study>Комплекс Фауны [name]</locationnameformat.study>
+  <locationname.lab>Лаборатория</locationname.lab>
+  <locationnameformat.lab>Исследования стерильных материалов [name]</locationnameformat.lab>
+  <locationnameformat.lab>Эксперименты [name]</locationnameformat.lab>
+  <locationnameformat.lab>Химикаты [name]</locationnameformat.lab>
+  <locationnameformat.lab>Исследовательские лаборатории [name]</locationnameformat.lab>
+  <locationname.research>Институт</locationname.research>
+  <locationnameformat.research>Университет [name]</locationnameformat.research>
+  <locationnameformat.research>Учебное Заведение [name]</locationnameformat.research>
+  <locationnameformat.research>Учреждение [name]</locationnameformat.research>
+  <locationnameformat.research>Институт имени [name]</locationnameformat.research>
+  <locationname.hydroponics>Гидропоника </locationname.hydroponics>
+  <locationnameformat.hydroponics>Культуры [name]</locationnameformat.hydroponics>
+  <locationnameformat.hydroponics>Геопоника [name]</locationnameformat.hydroponics>
+  <locationnameformat.hydroponics>Сельское Хозяйство [name]</locationnameformat.hydroponics>
+  <locationname.biosphere>Биосфера</locationname.biosphere>
+  <locationnameformat.biosphere>Агроподы [name]</locationnameformat.biosphere>
+  <locationnameformat.biosphere>Агрономика [name]</locationnameformat.biosphere>
+  <locationnameformat.biosphere>Экосистема [name]</locationnameformat.biosphere>
+  <locationnameformat.biosphere>Биосферы [name]</locationnameformat.biosphere>
+  <locationname.nourishment>Центр питания</locationname.nourishment>
+  <locationnameformat.nourishment>Институт агробиологии [name]</locationnameformat.nourishment>
+  <locationnameformat.nourishment>Центр пропитания [name]</locationnameformat.nourishment>
+  <locationnameformat.nourishment>Пищевая клиника [name]</locationnameformat.nourishment>
+  <locationnameformat.nourishment>Центр питания [name]</locationnameformat.nourishment>
+  <locationname.clinic>Клиника</locationname.clinic>
+  <locationnameformat.clinic>Лазарет [name]</locationnameformat.clinic>
+  <locationnameformat.clinic>Медицинские капсулы [name]</locationnameformat.clinic>
+  <locationnameformat.clinic>Диспансер [name]</locationnameformat.clinic>
+  <locationnameformat.clinic>Клиника [name]</locationnameformat.clinic>
+  <locationname.hospital>Госпиталь</locationname.hospital>
+  <locationnameformat.hospital>[name] Pharmacy</locationnameformat.hospital>
+  <locationnameformat.hospital>Медстанция [name]</locationnameformat.hospital>
+  <locationnameformat.hospital>Центр здоровья [name]</locationnameformat.hospital>
+  <locationnameformat.hospital>Госпиталь [name]</locationnameformat.hospital>
+  <locationname.surgery>Хирургический центр</locationname.surgery>
+  <locationnameformat.surgery>Биомедицинский институт [name]</locationnameformat.surgery>
+  <locationnameformat.surgery>Хирургический центр [name]</locationnameformat.surgery>
+  <locationnameformat.surgery>Санаторий [name]</locationnameformat.surgery>
+  <locationnameformat.surgery>Лазарет [name]</locationnameformat.surgery>
+  <locationname.forge>Кузница</locationname.forge>
+  <locationnameformat.forge>Сплаволитейная станция [name]</locationnameformat.forge>
+  <locationnameformat.forge>Сталелитейная станция [name]</locationnameformat.forge>
+  <locationnameformat.forge>Железолитейная станция [name]</locationnameformat.forge>
+  <locationnameformat.forge>Кузница [name]</locationnameformat.forge>
+  <locationname.factory>Завод</locationname.factory>
+  <locationnameformat.factory>Фабрика [name]</locationnameformat.factory>
+  <locationnameformat.factory>Мастерская [name]</locationnameformat.factory>
+  <locationnameformat.factory>Мельница [name]</locationnameformat.factory>
+  <locationnameformat.factory>Производство [name]</locationnameformat.factory>
+  <locationname.shipyard>Судостроительный Завод</locationname.shipyard>
+  <locationnameformat.shipyard>Верфь [name]</locationnameformat.shipyard>
+  <locationnameformat.shipyard>Док [name]</locationnameformat.shipyard>
+  <locationnameformat.shipyard>Сухой док [name]</locationnameformat.shipyard>
+  <locationnameformat.shipyard>Судостроительный завод [name]</locationnameformat.shipyard>
+  <locationname.warehouse>Хранилище</locationname.warehouse>
+  <locationnameformat.warehouse>Склад [name]</locationnameformat.warehouse>
+  <locationnameformat.warehouse>Пункт логистики [name]</locationnameformat.warehouse>
+  <locationnameformat.warehouse>Депо [name]</locationnameformat.warehouse>
+  <locationnameformat.warehouse>Хранилище [name]</locationnameformat.warehouse>
+  <locationname.fusion>Станция синтеза</locationname.fusion>
+  <locationnameformat.fusion>Ядро реактора [name]</locationnameformat.fusion>
+  <locationnameformat.fusion>Атомная электростанция [name]</locationnameformat.fusion>
+  <locationnameformat.fusion>Термоядерная печь [name]</locationnameformat.fusion>
+  <locationnameformat.fusion>Место синтеза [name]</locationnameformat.fusion>
+  <locationname.construction>Строительная площадка</locationname.construction>
+  <locationnameformat.construction>Площадка [name]</locationnameformat.construction>
+  <locationnameformat.construction>Запланированная зона [name]</locationnameformat.construction>
+  <locationnameformat.construction>Строительный модуль [name]</locationnameformat.construction>
+  <locationnameformat.construction>Застройка [name]</locationnameformat.construction>
+  <locationname.blockade>Военная блокада</locationname.blockade>
+  <locationnameformat.blockade>Блокада [name]</locationnameformat.blockade>
+  <locationnameformat.blockade>Развёртывание [name]</locationnameformat.blockade>
+  <locationnameformat.blockade>Контрольная Точка [name]</locationnameformat.blockade>
+  <locationnameformat.blockade>Укрепление [name]</locationnameformat.blockade>
+  <locationnameformat.UnderAttack>[name]</locationnameformat.UnderAttack>
+  <locationname.UnderAttack>Под атакой</locationname.UnderAttack>
+  <locationname.Waypoint>Перевалочный пункт</locationname.Waypoint>
+  <locationname.HuskgroundsDE>Земли трупных паразитов</locationname.HuskgroundsDE>
+  <locationnameformat.Waypoint>Перевалочный пункт [name]</locationnameformat.Waypoint>
+  <locationnameformat.Waypoint>Путеводный маяк [name]</locationnameformat.Waypoint>
+  <locationnameformat.HuskGroundsDE>Земли трупных паразитов [name]</locationnameformat.HuskGroundsDE>
+  <locationname.WasteyardDE>Свалка</locationname.WasteyardDE>
+  <locationnameformat.WasteyardDE>Свалка [name]</locationnameformat.WasteyardDE>
+  <locationdescription.colony>Одинокое здание и начало новой жизни в этом районе.\nВ наличии:\n-Работа</locationdescription.colony>
+  <locationdescription.settlement>В наличии:\n-Работа\n-Наём экипажа</locationdescription.settlement>
+  <locationdescription.outpost>В наличии:\n-Работа\n-Наём экипажа\n-Инженерная бухта\n-Магазины: товары общего пользования</locationdescription.outpost>
+  <locationdescription.city>В наличии:\n-Работа\n-Наём экипажа\n-Врач\n-Инженерная бухта\n-Научные лаборатории\n-Магазины: Подводные лодки, модернизация подводных лодок, товары общего пользования;\n аптека, инженерные материалы, арсенал</locationdescription.city>
+  <locationdescription.camp>В наличии:\n-Работа\n-Наём экипажа</locationdescription.camp>
+  <locationdescription.base>В наличии:\n-Работа\n-Наём экипажа\n-Инженерная бухта\n-Магазины: Военные</locationdescription.base>
+  <locationdescription.military>В наличии:\n-Работа\n-Наём экипажа\n-Инженерная бухта\n-Магазины: Подводные лодки, модернизация подводных лодок;\n военные, арсенал</locationdescription.military>
+  <locationdescription.clinic>В наличии:\n-Работа\n-Врач</locationdescription.clinic>
+  <locationdescription.hospital>В наличии:\n-Работа\n-Наём экипажа\n-Врач\n-Инженерная бухта\n-Магазины: Аптека</locationdescription.hospital>
+  <locationdescription.surgery>В наличии:\n-Работа\n-Наём экипажа\n-Врач\n-Инженерная бухта\n-Научные лаборатории\n-Магазины: Аптека</locationdescription.surgery>
+  <locationdescription.hydroponics>В наличии:\n-Работа\n-Наём экипажа\n-Научные лаборатории</locationdescription.hydroponics>
+  <locationdescription.biosphere>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Исследовательская лаборатория\n-Магазины: исследовательские материалы</locationdescription.biosphere>
+  <locationdescription.nourishment>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Исследовательская лаборатория\n-Магазины: исследовательские материалы</locationdescription.nourishment>
+  <locationdescription.construction>Строительный объект, работающий над новым типом станции.\nВ наличии:\n-Работа</locationdescription.construction>
+  <locationdescription.shipyard>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Магазины: субмарины, модернизация субмарин</locationdescription.shipyard>
+  <locationdescription.factory>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Магазины: товары общего пользования</locationdescription.factory>
+  <locationdescription.fusion>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Магазины: инженерные материалы</locationdescription.fusion>
+  <locationdescription.survey>Небольшая станция, изучающая окружающую местность.\nВ наличии:\n-Работа\n-Наёмный экипаж\n-Шахты</locationdescription.survey>
+  <locationdescription.extraction>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Шахты\n-Магазины: минералы</locationdescription.extraction>
+  <locationdescription.mine>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Шахты\n-Магазины: субмарины, модернизация субмарин, минералы</locationdescription.mine>
+  <locationdescription.study>В наличии:\n-Работа\n-Наёмный экипаж\n-Исследовательская лаборатория</locationdescription.study>
+  <locationdescription.lab>В наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Исследовательская лаборатория\n-Магазины: исследовательские материалы</locationdescription.lab>
+  <locationdescription.research>В наличии:\n-Работа\n-Наёмный экипаж\n-Врач\n-Инженерная база\n-Исследовательская лаборатория\n-Магазины: субмарины, модернизация субмарин, исследовательские материалы</locationdescription.research>
+  <locationdescription.blockade>Военное оборонительное сооружение\nдля блокировки доступа к близлежащим пещерам\nс целью предотвращения проникновения враждебных сил\nна колонизированные территории.\nВ наличии:\n-Работа\n-Наёмный экипаж\n-Магазины: военное снаряжение, оружейная</locationdescription.blockade>
+  <locationdescription.pirateoutpost>Безопасное убежище, где пираты собираются и общаются, не нападая друг на друга.\nВ наличии:\n-Работа\n-Наёмный экипаж\n-Инженерная база\n-Врач\n-Исследовательская лаборатория\n-Магазины: субмарины, модернизация субмарин, товары общего пользования;\n аптека, инженерные материалы;\n оружейная, пиратское снаряжение</locationdescription.pirateoutpost>
+  <locationdescription.Lair>Местная фауна быстро распространяется на близлежащие территории.</locationdescription.Lair>
+  <locationdescription.HuskgroundsDE>Очаг фауны, заражённой паразитом, быстро распространяется.</locationdescription.HuskgroundsDE>
+  <locationdescription.WasteyardDE>Очаг фауны, заражённой отходной инфекцией, быстро распространяется.</locationdescription.WasteyardDE>
+  <locationdescription.waypoint>Место без препятствий и монстров. Готово к колонизации.</locationdescription.waypoint>
+  <locationdescription.PirateNone>Пираты разбирают заброшенный аванпост и строят новое убежище из его частей.</locationdescription.PirateNone>
+  <locationname.PirateNone>Пиратское заселение</locationname.PirateNone>
+  <locationnameformat.PirateNone>Пиратская Стройка [name]</locationnameformat.PirateNone>
+  <locationchange.construction.changeto.settlement>Строительство нового поселения в [previousname] завершено. Больше поселенцев переезжают в свои новые дома.</locationchange.construction.changeto.settlement>
+  <locationchange.survey.changeto.extraction>Исследования в [previousname] обнаружили месторождение минералов, и рабочие начинают разработку.</locationchange.survey.changeto.extraction>
+  <locationchange.hydroponics.changeto.biosphere>Гидропоника на [previousname] модернизировала свои объекты в биосферу для обеспечения местных станций мясом.</locationchange.hydroponics.changeto.biosphere>
+  <locationchange.abandoned.changeto.piratenone>Пираты разбирают заброшенный аванпост и строят новое убежище из его частей.</locationchange.abandoned.changeto.piratenone>
+  <EventText.DEgotoblockade.c1>"ЗАДАНИЕ КОАЛИЦИИИ ВЫДАНО", на выцветших и порванных плакатах перечислены разрушенные и заражённые места. Похоже, коалиция влипла по уши. Можно разобрать только один набор координат.</EventText.DEgotoblockade.c1>
+  <EventText.DEgotoblockade.o1>Деньги лишними не будут...</EventText.DEgotoblockade.o1>
+  <eventtext.missionevent_lair.c1>“Неподалёку большое логово существ, пополняющееся с каждой минутой. Если вы сможете его очистить, то получите награду!”</eventtext.missionevent_lair.c1>
+  <EventText.missionevent_lair.o1>Принял</EventText.missionevent_lair.o1>
+  <entityname.giantrubberduck>Огромная резиновая утка</entityname.giantrubberduck>
+  <entitydescription.giantrubberduck>Огромная резиновая утка, которую можно бросать и смотреть, как она плавает в воде.</entitydescription.giantrubberduck>
+  <entityname.bigrubberduck>Большая резиновая утка</entityname.bigrubberduck>
+  <entitydescription.bigrubberduck>Большая резиновая утка, которую можно бросать и смотреть, как она плавает в воде.</entitydescription.bigrubberduck>
+  <entityname.rubberduck>Резиновая утка</entityname.rubberduck>
+  <entitydescription.rubberduck>Резиновая утка, которую можно бросать и смотреть, как она плавает в воде.</entitydescription.rubberduck>
+  <entityname.giantpiraterubberduck>Огромная резиновая утка</entityname.giantpiraterubberduck>
+  <entitydescription.giantpiraterubberduck>Огромная резиновая утка с пиратской повязкой и шляпой, которую можно бросать и смотреть, как она плавает в воде.</entitydescription.giantpiraterubberduck>
+  <entityname.bigpiraterubberduck>Большая резиновая утка</entityname.bigpiraterubberduck>
+  <entitydescription.bigpiraterubberduck>Большая резиновая утка с пиратской повязкой и шляпой, которую можно бросать и смотреть, как она плавает в воде.</entitydescription.bigpiraterubberduck>
+  <entityname.piraterubberduck>Резиновая утка</entityname.piraterubberduck>
+  <entitydescription.piraterubberduck>Резиновая утка с пиратской повязкой и шляпой, которую можно бросать и смотреть, как она плавает в воде.</entitydescription.piraterubberduck>
+  <entityname.exosuitPA>Экзокостюм пиратов</entityname.exosuitPA>
+  <entitydescription.exosuitPA>Сильно модифицированный экзокостюм. Похоже, некоторые пираты довольно умелы и сумели увеличить сопротивление оглушению и позволить пользователю дышать кислородом корпуса, если он доступен.</entitydescription.exosuitPA>
+  <entityname.dirtybombPA>Грязная бомба</entityname.dirtybombPA>
+  <entitydescription.dirtybombPA>Кустарно сделанная радиоактивная бомба, которую можно положить в детонатор, рельсотрон или глубинный заряд. Лучше соблюдать дистанцию!</entitydescription.dirtybombPA>
+  <entityname.piratehelmetPA>Пиратский шлем</entityname.piratehelmetPA>
+  <entityname.piratebodyarmorPA>Пиратский бронежилет</entityname.piratebodyarmorPA>
+  <entityname.piratebandanaPA>Пиратская бандана</entityname.piratebandanaPA>
+  <entityname.piratecaptainhatPA>Шляпа пиратского капитана</entityname.piratecaptainhatPA>
+  <entityname.pirateclothesnovicePA>Одежда пирата (ассистент)</entityname.pirateclothesnovicePA>
+  <entitydescription.pirateclothesnovicePA>Суровое обмундирование, созданное пиратами вручную и рассчитанное на суровые условия жизни на Европе. Это обмундирование выдается в основном новичкам и членам экипажа, занимающим низшие должности.</entitydescription.pirateclothesnovicePA>
+  <entityname.pirateclothesPA>Одежда пирата</entityname.pirateclothesPA>
+  <entitydescription.pirateclothesPA>Суровое обмундирование, созданное пиратами вручную и рассчитанное на суровые условия жизни на Европе. Этот костюм был улучшен лёгкой бронёй.</entitydescription.pirateclothesPA>
+  <entityname.pirateclotheshardPA>Одежда пирата (боевая)</entityname.pirateclotheshardPA>
+  <entitydescription.pirateclotheshardPA>Суровое обмундирование, созданное пиратами вручную и рассчитанное на суровые условия жизни на Европе. Этот костюм носят опытные члены экипажа и высшие чины для повышенной выживаемости во время боя.</entitydescription.pirateclotheshardPA>
+  <locationnameformat.pirateoutpost>Гавань [name]</locationnameformat.pirateoutpost>
+  <locationnameformat.pirateoutpost>Бухта [name]</locationnameformat.pirateoutpost>
+  <locationnameformat.pirateoutpost>Укрытие [name]</locationnameformat.pirateoutpost>
+  <locationchange.none.changeto.pirateoutpost>[previousname]: пираты основали новую бухту.</locationchange.none.changeto.pirateoutpost>
+  <locationchange.none.changeto.pirateoutpost>Пираты проникли в [previousname] и основали новую гавань.</locationchange.none.changeto.pirateoutpost>
+  <missionname.pirate_heavy>Тяжёлое пиратское судно</missionname.pirate_heavy>
+  <missiondescription.pirate_heavy>Найдите пиратское судно, которое терроризирует эту местность и уничтожьте его команду. Но имейте в виду, что эти пираты смогли укрепить свой корпус: так что либо поливайте их непрерывным огнём, либо цельтесь в двери и люки! Отмеченные места показывают, где корабль был замечен в последний раз.</missiondescription.pirate_heavy>
+  <missionsuccess.pirate_heavy>Команда пиратского судна была успешно уничтожена.</missionsuccess.pirate_heavy>
+  <missionfailure.pirate_heavy>Команда пиратского судна осталась в живых.</missionfailure.pirate_heavy>
+  <missionsonarlabel.pirate_heavy>Пират замечен</missionsonarlabel.pirate_heavy>
+  <missionheader0.pirate_heavy>Пираты замечены</missionheader0.pirate_heavy>
+  <missionmessage0.pirate_heavy>Нейтрализуйте экипаж или затопите подлодку - пусть опустится на дно морское!</missionmessage0.pirate_heavy>
+  <missionheader1.pirate_heavy>Пираты уничтожены</missionheader1.pirate_heavy>
+  <missionmessage1.pirate_heavy>Отведите подлодку в точку [location2] , чтобы получить вознаграждение.</missionmessage1.pirate_heavy>
+  <missionname.pirate_party>Безумное судно</missionname.pirate_party>
+  <missiondescription.pirate_party>Было замечено пиратское судно, которое нападает на другие суда и крадет у них этанол и ром, при этом включая музыку так громко, что она привлекает всех монстров Европы к нашему порогу. Избавьтесь от этих пьяных придурков, чтобы нам не пришлось иметь дело с вещами гораздо хуже их. Отмеченные места показывают где, по нашим предположениям, находится их корабль.</missiondescription.pirate_party>
+  <missionsuccess.pirate_party>Команда пиратского судна была успешно уничтожена.</missionsuccess.pirate_party>
+  <missionfailure.pirate_party>Команда пиратского судна осталась в живых.</missionfailure.pirate_party>
+  <missionsonarlabel.pirate_party>Пират замечен</missionsonarlabel.pirate_party>
+  <missionheader0.pirate_party>Пираты замечены</missionheader0.pirate_party>
+  <missionmessage0.pirate_party>Нейтрализуйте экипаж или затопите подлодку - пусть опустится на дно морское!</missionmessage0.pirate_party>
+  <missionheader1.pirate_party>Пираты уничтожены</missionheader1.pirate_party>
+  <missionmessage1.pirate_party>Отведите подлодку в точку [location2] , чтобы получить вознаграждение.</missionmessage1.pirate_party>
+  <missionname.pirate_piezo>Странное судно пиратов</missionname.pirate_piezo>
+  <missiondescription.pirate_piezo>До нас дошли слухи о пиратском судне со странными способностями в этом районе. По-видимому, они создают какие-то аномалии чтобы защитить себя, поэтому вам лучше держать свою подводную лодку на безопасном расстоянии! Отмеченные места показывают где, по нашим предположениям, находится корабль.</missiondescription.pirate_piezo>
+  <missionsuccess.pirate_piezo>Экипаж пиратского судна был успешно уничтожен.</missionsuccess.pirate_piezo>
+  <missionfailure.pirate_piezo>Экипаж пиратского судна не был уничтожен.</missionfailure.pirate_piezo>
+  <missionsonarlabel.pirate_piezo>Пират замечен</missionsonarlabel.pirate_piezo>
+  <missionheader0.pirate_piezo>Пираты замечены</missionheader0.pirate_piezo>
+  <missionmessage0.pirate_piezo>Нейтрализуйте экипаж или затопите подлодку - пусть опустится на дно морское!</missionmessage0.pirate_piezo>
+  <missionheader1.pirate_piezo>Пираты уничтожены</missionheader1.pirate_piezo>
+  <missionmessage1.pirate_piezo>Отведите подлодку в точку [location2] , чтобы получить вознаграждение.</missionmessage1.pirate_piezo>
+  <missionname.pirate_lord>Пират-Лорд</missionname.pirate_lord>
+  <missiondescription.pirate_lord>Ходят слухи о судне пиратского лорда, которое терроризирует эту местность. Уничтожьте его команду и будете щедро вознаграждены! Но имейте в виду, что это судно пиратского лорда! У них очень прочный корпус и огромная огневая мощь, так что будьте готовы! Отмеченные места показывают, где корабль был замечен в последний раз.</missiondescription.pirate_lord>
+  <missionsuccess.pirate_lord>Команда пиратского судна была успешно нейтрализована.</missionsuccess.pirate_lord>
+  <missionfailure.pirate_lord>Команда пиратов осталась в живых.</missionfailure.pirate_lord>
+  <missionsonarlabel.pirate_lord>Пират замечен</missionsonarlabel.pirate_lord>
+  <missionheader0.pirate_lord>Пираты замечены</missionheader0.pirate_lord>
+  <missionmessage0.pirate_lord>Нейтрализуйте экипаж или затопите подлодку - пусть опустится на дно морское!</missionmessage0.pirate_lord>
+  <missionheader1.pirate_lord>Пираты уничтожены</missionheader1.pirate_lord>
+  <missionmessage1.pirate_lord>Отведите подлодку в точку [location2] , чтобы получить вознаграждение.</missionmessage1.pirate_lord>
+  <npctitle.pirateannihilator>Аннигилятор пиратов</npctitle.pirateannihilator>
+  <npctitle.partypiratecaptain>Безумный капитан пиратов</npctitle.partypiratecaptain>
+  <npctitle.partypiratecaptainlord>Безумный лорд пиратов</npctitle.partypiratecaptainlord>
+  <npctitle.partypiratesecurityrecruit>Безумный пират-новобранец</npctitle.partypiratesecurityrecruit>
+  <npctitle.partypiratesecuritygunner>Безумный пират-стрелок</npctitle.partypiratesecuritygunner>
+  <npctitle.partypiratesecuritybrute>Безумный пират-громила</npctitle.partypiratesecuritybrute>
+  <npctitle.partypiratesecurityelite>Безумный пират-элита</npctitle.partypiratesecurityelite>
+  <npctitle.partypiratemechanicveteran>Безумный пират-техник</npctitle.partypiratemechanicveteran>
+  <npctitle.partypirateengineerveteran>Безумный пират-физик</npctitle.partypirateengineerveteran>
+  <npctitle.partypiratemechanicrecruit>Безумный пират-механик</npctitle.partypiratemechanicrecruit>
+  <npctitle.partypirateengineerrecruit>Безумный пират-инженер</npctitle.partypirateengineerrecruit>
+  <locationname.PirateOutpost>Пиратская гавань</locationname.PirateOutpost>
+  <!-- UNUSED STUFF -->
+  <EventText.missionevent.piratevscoalition.c1>Мы слышали, что недалеко отсюда проходит судно коалиции. Может, у них есть товары которые вы можете "одолжить", если вы понимаете о чем я?</EventText.missionevent.piratevscoalition.c1>
+  <EventText.missionevent.piratevsseparatists.c1>Судя по всему, какие-то сепаратисты путешествуют по этим водам. Может, у них есть товары которые вы можете "одолжить", если вы понимаете о чем я?</EventText.missionevent.piratevsseparatists.c1>
+  <lockedpathtooltippirate>Пираты нашли способ обойти блокады чтобы попасть в более глубокие зоны Европы. Послушайте разговоры на станции чтобы узнать, как обойти блокады.</lockedpathtooltippirate>
+  <eventtext.unlockpatheuropanridgepirate.c1>"Хм? Тайный проход? Ооо, точно! Мы нашли туннель, который ведет мимо блокпостов. Я отмечу его на вашей карте... Но будьте осторожны! Там могут быть патрули!"</eventtext.unlockpatheuropanridgepirate.c1>
+  <eventtext.unlockpathaphoticplateaupirate.c1>"О, вы здесь чтобы преодолеть блокаду? Дайте мне свою карту... Хорошо, вот где вы можете найти туннель чтобы пройти через них, но будьте осторожны! По пути могут быть патрули! Удачи!"</eventtext.unlockpathaphoticplateaupirate.c1>
+  <eventtext.unlockpathgreatseapirate.c1>"Эгей! Вы, вероятно, хотите пройти через блокпосты, верно? Здесь есть туннель, ведущий мимо них. Вот, я отмечу его на вашей карте... Но смотрите в оба! Там ходят патрули!"</eventtext.unlockpathgreatseapirate.c1>
+  <missionname.trespassing_coalition>Незаконное проникновение</missionname.trespassing_coalition>
+  <missiondescription.trespassing_coalition>Вы незаконно пересекаете границы. Опасайтесь патрулей коалиции в этом районе!</missiondescription.trespassing_coalition>
+  <missionsuccess.trespassing_coalition>Вы успешно уничтожили патруль Коалиции!</missionsuccess.trespassing_coalition>
+  <missionfailure.trespassing_coalition>Вы успешно прошли мимо патруля Коалиции!</missionfailure.trespassing_coalition>
+  <missionsonarlabel.trespassing_coalition>Замечен патруль коалиции</missionsonarlabel.trespassing_coalition>
+  <missionheader0.trespassing_coalition>Судно коалиции замечено</missionheader0.trespassing_coalition>
+  <missionmessage0.trespassing_coalition>Скройтесь от патруля или нейтрализуйте угрозу!</missionmessage0.trespassing_coalition>
+  <missionheader1.trespassing_coalition>Патруль коалиции уничтожен</missionheader1.trespassing_coalition>
+  <missionmessage1.trespassing_coalition>Вы можете продолжить Ваш путь к  [location2].</missionmessage1.trespassing_coalition>
+  <missionname.pirate_vscoalition>Ограбление судна Коалиции</missionname.pirate_vscoalition>
+  <missiondescription.pirate_vscoalition>Выследите корабль коалиции, уничтожьте его экипаж и заберите их товары! Отмеченные места показывают, куда может направляться корабль.</missiondescription.pirate_vscoalition>
+  <missionsuccess.pirate_vscoalition>Команда судна коалиции была успешно уничтожена.</missionsuccess.pirate_vscoalition>
+  <missionfailure.pirate_vscoalition>Экипаж судна коалиции остался в живых.</missionfailure.pirate_vscoalition>
+  <missionsonarlabel.pirate_vscoalition>Коалиция замечена</missionsonarlabel.pirate_vscoalition>
+  <missionheader0.pirate_vscoalition>Судно коалиции замечено</missionheader0.pirate_vscoalition>
+  <missionmessage0.pirate_vscoalition>Нейтрализуйте экипаж или затопите подлодку - пусть опустится на дно морское!</missionmessage0.pirate_vscoalition>
+  <missionheader1.pirate_vscoalition>Команда коалиции нейтрализована</missionheader1.pirate_vscoalition>
+  <missionmessage1.pirate_vscoalition>Обыщите их судно и продолжайте путь к [location2].</missionmessage1.pirate_vscoalition>
+  <missionname.pirate_vsseparatists>Ограбление судна сепаратистов</missionname.pirate_vsseparatists>
+  <missiondescription.pirate_vsseparatists>Найдите судно сепаратистов, нейтрализуйте их команду и заберите их вещи! Отмеченные точки указывают, где судно видели в последнее время.</missiondescription.pirate_vsseparatists>
+  <missionsuccess.pirate_vsseparatists>Экипаж сепаратистского судна успешно устранён.</missionsuccess.pirate_vsseparatists>
+  <missionfailure.pirate_vsseparatists>Сепаратисты не были уничтожены.</missionfailure.pirate_vsseparatists>
+  <missionsonarlabel.pirate_vsseparatists>Сепаратисты замечены</missionsonarlabel.pirate_vsseparatists>
+  <missionheader0.pirate_vsseparatists>Судно сепаратистов замечено</missionheader0.pirate_vsseparatists>
+  <missionmessage0.pirate_vsseparatists>Нейтрализуйте команду или отправьте их судно на дно морское!</missionmessage0.pirate_vsseparatists>
+  <missionheader1.pirate_vsseparatists>Экипаж сепаратистов ликвидирован</missionheader1.pirate_vsseparatists>
+  <missionmessage1.pirate_vsseparatists>Обыщите их судно и продолжайте путь к [location2].</missionmessage1.pirate_vsseparatists>
+  <locationname.PirateGateway>КП пиратов</locationname.PirateGateway>
+  <!-- Dialog -->
+  <eventtext.cocivtransport.interact>Вы подходите к напуганному гражданину. Что вы сделаете?</eventtext.cocivtransport.interact>
+  <eventtext.cocivtransport.option.rob>"Или ты быстро отдаёшь все свои деньги, или живым отсюда не выйдешь!"</eventtext.cocivtransport.option.rob>
+  <eventtext.cocivtransport.option.rob.answer>"Ладно, ладно... Это все, что у меня есть!"</eventtext.cocivtransport.option.rob.answer>
+  <eventtext.cocivtransport.option.execute>"Последние слова?" (Казнить)</eventtext.cocivtransport.option.execute>
+  <eventtext.cocivtransport.option.execute.answer>"Нет, нет, нет, нет, пожалуйста, подо..."</eventtext.cocivtransport.option.execute.answer>
+  <eventtext.cocivtransport.option.hire>"Присоединяйтесь к нам или умрите, как другие!"</eventtext.cocivtransport.option.hire>
+  <eventtext.cocivtransport.option.hire.success>"Хорошо! Я сделаю всё, но, пожалуйста, не делай мне больно!"</eventtext.cocivtransport.option.hire.success>
+  <eventtext.cocivtransport.option.hire.failure>"Я лучше умру, чем присоединюсь к мерзким пиратам!"</eventtext.cocivtransport.option.hire.failure>
+  <eventtext.general.decline>"Не сейчас."</eventtext.general.decline>
+  <eventtext.option.leave>Уйти</eventtext.option.leave>
+  <eventtext.jobboardde.interact>На стене висит множество листовок, на каждой из которых написано вознаграждение. Какую из них вы возьмете?</eventtext.jobboardde.interact>
+  <eventtext.jobboardde.accept>Принять</eventtext.jobboardde.accept>
+  <eventtext.jobboardde.decline>Игнорировать</eventtext.jobboardde.decline>
+  <eventtext.jobboardde.option.piratemission>Пиратское задание</eventtext.jobboardde.option.piratemission>
+  <eventtext.jobboardde.option.piratemission.info>-ЗАДАНИЕ ДЛЯ МЕСТНЫХ ОХОТНИКОВ НА ПИРАТОВ-</eventtext.jobboardde.option.piratemission.info>
+  <eventtext.jobboardde.option.piratemission.accept>Вы думаете про себя: "Коалиции по-настоящему нужны люди, которые будут делать грязную работу анонимно."</eventtext.jobboardde.option.piratemission.accept>
+  <eventtext.jobboardde.option.monstermission>Обезвреживание фауны</eventtext.jobboardde.option.monstermission>
+  <eventtext.jobboardde.option.monstermission.info>-МЕСТНАЯ ФАУНА СОЗДАЕТ ХАОС - МЫ ПЛАТИМ ЗА ИХ УНИЧТОЖЕНИЕ-</eventtext.jobboardde.option.monstermission.info>
+  <eventtext.jobboardde.option.monstermission.accept>Вы думаете про себя: "Кто-то должен уничтожить этих опасных тварей."</eventtext.jobboardde.option.monstermission.accept>
+  <eventtext.jobboardde.option.miningmission>Миссия по добыче</eventtext.jobboardde.option.miningmission>
+  <eventtext.jobboardde.option.miningmission.info>-МЕСТНАЯ ПЕЩЕРА МОЖЕТ СОДЕРЖАТЬ ЗАЛЕЖИ ПОЛЕЗНЫХ ИСКОПАЕМЫХ - МЫ ПЛАТИМ ЗА ДОКАЗАТЕЛЬСТВО ИХ СУЩЕСТВОВАНИЯ-</eventtext.jobboardde.option.miningmission.info>
+  <eventtext.jobboardde.option.miningmission.accept>Вы думаете про себя: "Немного честной шахтерской работы, что может пойти не так?"</eventtext.jobboardde.option.miningmission.accept>
+  <eventtext.jobboardde.option.cargomission>Перевозка грузов</eventtext.jobboardde.option.cargomission>
+  <eventtext.jobboardde.option.cargomission.info>-ТРЕБУЮТСЯ ПЕРЕВОЗЧИКИ ДЛЯ ТРАНСПОРТИРОВКИ ГРУЗОВ-</eventtext.jobboardde.option.cargomission.info>
+  <eventtext.jobboardde.option.cargomission.accept>Вы думаете про себя: "Честно говоря, мне плевать на все эти ограничения по скорости.!"</eventtext.jobboardde.option.cargomission.accept>
+  <eventtext.jobboardde.option.salvagemission>Поиск добычи</eventtext.jobboardde.option.salvagemission>
+  <eventtext.jobboardde.option.salvagemission.info>-В МЕСТНОЙ ПЕЩЕРЕ ПОЯВИЛСЯ СИГНАЛ - МЫ ЗАПЛАТИМ КАЖДОМУ, КТО ИССЛЕДУЕТ И ЗАБЕРЁТ ТО, ЧТО ОН НАЙДЁТ-</eventtext.jobboardde.option.salvagemission.info>
+  <eventtext.jobboardde.option.salvagemission.accept>Вы думаете про себя: "Уверен, там найдется что присвоить!"</eventtext.jobboardde.option.salvagemission.accept>
+  <eventtext.shop.engineer.interact>"У меня есть некоторые материалы, будешь что-то брать? Однако, Вы можете взять только одну вещь!"</eventtext.shop.engineer.interact>
+  <eventtext.shop.engineer.option.fuelrod>4x Топливный стержень (900 кредитов)</eventtext.shop.engineer.option.fuelrod>
+  <eventtext.shop.engineer.option.fuelrod.buy.success>"Вот Ваше топливо."</eventtext.shop.engineer.option.fuelrod.buy.success>
+  <eventtext.shop.engineer.option.fuelrod.buy.failure>"Извините, я не занимаюсь благотворительностью."</eventtext.shop.engineer.option.fuelrod.buy.failure>
+  <eventtext.shop.engineer.option.fpga>2x Схема на базе ППВМ (250 кредитов)</eventtext.shop.engineer.option.fpga>
+  <eventtext.shop.engineer.option.fpga.buy.success>"Вы можете до сих пор учуять смазку от фабрикатора на них."</eventtext.shop.engineer.option.fpga.buy.success>
+  <eventtext.shop.engineer.option.fpga.buy.failure>"Вы же знаете, что они стоят денег, верно?"</eventtext.shop.engineer.option.fpga.buy.failure>
+  <eventtext.shop.engineer.option.extinguisher>1x Огнетушитель (100 кредитов)</eventtext.shop.engineer.option.extinguisher>
+  <eventtext.shop.engineer.option.extinguisher.buy.success>"Лучше перестраховаться, чем потом жалеть."</eventtext.shop.engineer.option.extinguisher.buy.success>
+  <eventtext.shop.engineer.option.extinguisher.buy.failure>"Вы сильно пострадаете, если начнётся пожар."</eventtext.shop.engineer.option.extinguisher.buy.failure>
+  <eventtext.shop.engineer.unfriedly>"Мы не собираемся помогать таким, как вы."</eventtext.shop.engineer.unfriedly>
+  <eventtext.shop.engineer.attack>"Ты сегодня заплатишь, Viva la revolution!"</eventtext.shop.engineer.attack>
+  <eventtext.shop.quartermaster.interact>"У меня есть излишки сварочного топлива, если вам нужно пополнить запасы."</eventtext.shop.quartermaster.interact>
+  <eventtext.shop.quartermaster.option.weldingfuel>8x Топливо для сварочного аппарата (1000 кредитов)</eventtext.shop.quartermaster.option.weldingfuel>
+  <eventtext.shop.quartermaster.option.weldingfuel.buy.success>"Помните, огнеопасно!"</eventtext.shop.quartermaster.option.weldingfuel.buy.success>
+  <eventtext.shop.quartermaster.option.weldingfuel.buy.failure>"Извините, я не занимаюсь благотворительностью."</eventtext.shop.quartermaster.option.weldingfuel.buy.failure>
+  <eventtext.shop.quartermaster.option.scrap>1x Хлам + Информация (1000 кредитов)</eventtext.shop.quartermaster.option.scrap>
+  <eventtext.shop.quartermaster.option.scrap.buy.success>"Получил это с затонувшей подлодки недалеко отсюда, позвольте мне добавить местоположение на вашу карту..."</eventtext.shop.quartermaster.option.scrap.buy.success>
+  <eventtext.shop.quartermaster.option.scrap.buy.failure>"Это не мусор для меня, сынок. Плати."</eventtext.shop.quartermaster.option.scrap.buy.failure>
+  <eventtext.shop.securityofficer.interact>"У меня есть излишки патронов если вы хотите пополнить запасы, но я могу продать вам только 1 товар!"</eventtext.shop.securityofficer.interact>
+  <eventtext.shop.securityofficer.option.coilgunammo>Ящик боеприпасов для магнитной пушки (150 кредитов)</eventtext.shop.securityofficer.option.coilgunammo>
+  <eventtext.shop.securityofficer.option.coilgunammo.buy.success>"Превратите их в швейцарский сыр."</eventtext.shop.securityofficer.option.coilgunammo.buy.success>
+  <eventtext.shop.securityofficer.option.coilgunammo.buy.failure>"Эти боеприпасы не подачка."</eventtext.shop.securityofficer.option.coilgunammo.buy.failure>
+  <eventtext.shop.securityofficer.option.revolverammo>12x Патрон для револьвера (600 кредитов)</eventtext.shop.securityofficer.option.revolverammo>
+  <eventtext.shop.securityofficer.option.revolverammo.buy.success>"Старый добрый .38."</eventtext.shop.securityofficer.option.revolverammo.buy.success>
+  <eventtext.shop.securityofficer.option.revolverammo.buy.failure>"Ты же знаешь что пули не бесплатные, верно?"</eventtext.shop.securityofficer.option.revolverammo.buy.failure>
+  <eventtext.shop.securityofficer.option.smgmagazine>2x Магазин для ПП (400 кредитов)</eventtext.shop.securityofficer.option.smgmagazine>
+  <eventtext.shop.securityofficer.option.smgmagazine.buy.success>".45, для убийства самой души."</eventtext.shop.securityofficer.option.smgmagazine.buy.success>
+  <eventtext.shop.securityofficer.option.smgmagazine.buy.failure>"Ты же знаешь что пули не бесплатные, верно?"</eventtext.shop.securityofficer.option.smgmagazine.buy.failure>
+  <eventtext.securityofficer.interact>"У вас есть украденные вещи?"</eventtext.securityofficer.interact>
+  <eventtext.securityofficer.option.polite>"Нет, Сэр."</eventtext.securityofficer.option.polite>
+  <eventtext.securityofficer.option.polite.answer>"Лучше тебе их не иметь."</eventtext.securityofficer.option.polite.answer>
+  <eventtext.securityofficer.option.rude>"Нет тех, о которых ты знаешь."</eventtext.securityofficer.option.rude>
+  <eventtext.securityofficer.option.rude.answer>"Умный парень, а?"</eventtext.securityofficer.option.rude.answer>
+  <eventtext.securityofficer.bribe.interact>"Я буду смотреть за тобой."</eventtext.securityofficer.bribe.interact>
+  <eventtext.securityofficer.bribe.option.polite>"Всё в порядке, офицер, я буду вести себя хорошо."</eventtext.securityofficer.bribe.option.polite>
+  <eventtext.securityofficer.bribe.option.polite.answer>"Посмотрим..."</eventtext.securityofficer.bribe.option.polite.answer>
+  <eventtext.securityofficer.bribe.option.rude>"Жизнь ворам, смерть мусорам! Фарту масти, Коалиции по пасти!"</eventtext.securityofficer.bribe.option.rude>
+  <eventtext.securityofficer.bribe.option.rude.answer>"Ты не ищешь простых путей, да?"</eventtext.securityofficer.bribe.option.rude.answer>
+  <eventtext.securityofficer.bribe.option.leave.answer>"У меня тут подозреваемый, ожидайте."</eventtext.securityofficer.bribe.option.leave.answer>
+  <eventtext.securityofficer.bribe.option.bribe.high>Взятка (500 кредитов)</eventtext.securityofficer.bribe.option.bribe.high>
+  <eventtext.securityofficer.bribe.option.bribe.medium>Взятка (250 кредитов)</eventtext.securityofficer.bribe.option.bribe.medium>
+  <eventtext.securityofficer.bribe.option.bribe.low>Взятка (75 кредитов)</eventtext.securityofficer.bribe.option.bribe.low>
+  <eventtext.securityofficer.bribe.option.bribe.success>"Если так подумать, ты не тот парень, которого я искал."</eventtext.securityofficer.bribe.option.bribe.success>
+  <eventtext.securityofficer.bribe.option.bribe.failure>"Ты пытаешься подкупить меня такой ничтожной суммой?"</eventtext.securityofficer.bribe.option.bribe.failure>
+  <eventtext.securityofficer.bribe.option.bribe.rejected>"Ты пытаешься подкупить меня?"</eventtext.securityofficer.bribe.option.bribe.rejected>
+  <eventtext.shop.piratesecurityofficer.interact>"У меня есть немного охеренного оружия, если вы хотите пополнить запасы. Я продам вам один товар на ваш выбор."</eventtext.shop.piratesecurityofficer.interact>
+  <eventtext.shop.piratesecurityofficer.option.hyperzine>Гиперцин (500 кредитов)</eventtext.shop.piratesecurityofficer.option.hyperzine>
+  <eventtext.shop.piratesecurityofficer.option.hyperzine.buy.success>"О, это хорошая вещь."</eventtext.shop.piratesecurityofficer.option.hyperzine.buy.success>
+  <eventtext.shop.piratesecurityofficer.option.hyperzine.buy.failure>"Ты не кайфанёшь бесплатно."</eventtext.shop.piratesecurityofficer.option.hyperzine.buy.failure>
+  <eventtext.shop.piratesecurityofficer.option.handcannonammo>6x Боеприпасы для бомбарды (1000 кредитов)</eventtext.shop.piratesecurityofficer.option.handcannonammo>
+  <eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.success>"Это пробьёт любую броню Коалиции, богомола и даже молоха, мамой клянусь."</eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.success>
+  <eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.failure>"Я похож на монашку, дающую бесплатно?"</eventtext.shop.piratesecurityofficer.option.handcannonammo.buy.failure>
+  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine>2x Магазин для штурмовой винтовки (1000 кредитов)</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine>
+  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.success>"Они сделаны с ненавистью и заряжены злым умыслом, используйте их ответственно."</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.success>
+  <eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.failure>"Ты тоже только прибыл с заброшенной станции? Здесь нужны деньги."</eventtext.shop.piratesecurityofficer.option.assaultriflemagazine.buy.failure>
+  <eventtext.piratesecurityofficer.toll.low.interact>"Ты должен знать, мы не позволяем всем просто так шляться. Здесь, блядь, платный въезд! Мой тебе совет: лучше заплати!"</eventtext.piratesecurityofficer.toll.low.interact>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high>Оплатить сбор (1000 кредитов)</eventtext.piratesecurityofficer.toll.low.option.pay.high>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high.success>"Хах! Вот это мне нравится. Никаких хлопот!"</eventtext.piratesecurityofficer.toll.low.option.pay.high.success>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation>"Знаешь что... Если ты заплатишь вдвое больше, я распространю несколько хороших слов о твоей команде среди остальных!"</eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.buy>Заплатить 1000 кредитов (Репутация Коалиции -20)</eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.buy>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.buy.success>"Ха! Я знал, что ты мне понравишься!"</eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.buy.success>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.buy.failure>"Чувак, у тебя даже ничего нет... Пытаешься меня наебать? Съебись отсюда!"</eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.buy.failure>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.declined>"Пфф! Отлично... Продолжай лизать сапоги Коалиции!"</eventtext.piratesecurityofficer.toll.low.option.pay.high.success.extra.reputation.declined>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.high.failure>"У тебя даже денег нет? Наверняка у тебя есть что-то стоящее моего времени, которое я на тебя потратил."</eventtext.piratesecurityofficer.toll.low.option.pay.high.failure>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.medium>Торг (750 кредитов)</eventtext.piratesecurityofficer.toll.low.option.pay.medium>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.medium.success>"Правда? Ты издеваешься надо мной, да? Ладно, хорошо! Заходи..."</eventtext.piratesecurityofficer.toll.low.option.pay.medium.success>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.medium.failure>"В твоих снах, солнце."</eventtext.piratesecurityofficer.toll.low.option.pay.medium.failure>
+  <eventtext.piratesecurityofficer.toll.low.pay.medium.rejected>"О, у меня есть для тебя предложение получше..."</eventtext.piratesecurityofficer.toll.low.pay.medium.rejected>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.low>Умолять (100 кредитов)</eventtext.piratesecurityofficer.toll.low.option.pay.low>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.low.success>"Твой плач меня забавляет... Не желаю ничего больше слышать. Убирайся с глаз моих."</eventtext.piratesecurityofficer.toll.low.option.pay.low.success>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.low.failure>"Это оскорбление, маленький говнюк!"</eventtext.piratesecurityofficer.toll.low.option.pay.low.failure>
+  <eventtext.piratesecurityofficer.toll.low.option.pay.low.rejected>"Твоя жалкая причина тебя не спасёт!"</eventtext.piratesecurityofficer.toll.low.option.pay.low.rejected>
+  <eventtext.piratesecurityofficer.toll.option.leave.answer>"Я знаю язык, который ты поймёшь."</eventtext.piratesecurityofficer.toll.option.leave.answer>
+  <eventtext.piratesecurityofficer.toll.option.insult>Оскорбить</eventtext.piratesecurityofficer.toll.option.insult>
+  <eventtext.piratesecurityofficer.toll.option.insult.answer>"Ты, блядь такая, сейчас будешь дохлой!"</eventtext.piratesecurityofficer.toll.option.insult.answer>
+  <eventtext.piratesecurityofficer.attack>"Кончайте их!"</eventtext.piratesecurityofficer.attack>
+  <eventtext.piratesecurityofficer.attack.coalition>Прикончите этих свиней Коалиции!</eventtext.piratesecurityofficer.attack.coalition>
+  <eventtext.piratesecurityofficer.toll.high.interact>"О, кто у нас тут? Мразь Коалиции!? Ты знаешь, что здесь есть чёртова ПЛАТА ЗА ВХОД! Плати, тупорылина!"</eventtext.piratesecurityofficer.toll.high.interact>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high>Заплатить за вход (5000 кредитов)</eventtext.piratesecurityofficer.toll.high.option.pay.high>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high.success>"Спасибо, что заглянула, свинья!"</eventtext.piratesecurityofficer.toll.high.option.pay.high.success>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation>"Я сделаю тебе специальное предложение. Заплати мне вдвое больше и я расскажу о вашей команде несколько действительно хороших слов среди других здесь."</eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.buy>Заплатить 5000 кредитов (Репутация Коалиции -40)</eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.buy>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.buy.success>"Хм, не ожидал, что ты действительно заплатишь. Хорошо, я распущу несколько крутых слухов о вашей команде. Коалиции не понравится, если они это услышат, хе-хе."</eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.buy.success>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.buy.failure>"Вы, шавки Коалиции, пиздец тупые. Даже не можете уследить за своими деньгами. Потеряйся!"</eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.buy.failure>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.declined>"Надо было догадаться. Ты просто преданный лизоблюд. Убирайся с глаз моих!"</eventtext.piratesecurityofficer.toll.high.option.pay.high.success.extra.reputation.declined>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.high.failure>"У вас даже денег нет? Наверняка у вас есть что-то стоящее моего времени."</eventtext.piratesecurityofficer.toll.high.option.pay.high.failure>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.medium>Торг (3000 кредитов)</eventtext.piratesecurityofficer.toll.high.option.pay.medium>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.medium.success>"Давай быстрее, свинья."</eventtext.piratesecurityofficer.toll.high.option.pay.medium.success>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.medium.failure>"Я ожидал чего-то большего от такого человека, как ты... Иди сюда!"</eventtext.piratesecurityofficer.toll.high.option.pay.medium.failure>
+  <eventtext.piratesecurityofficer.toll.high.pay.medium.rejected>"Знаешь что? Забудь об этом! Тебе конец!"</eventtext.piratesecurityofficer.toll.high.pay.medium.rejected>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.low>Умолять (1000 кредитов)</eventtext.piratesecurityofficer.toll.high.option.pay.low>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.low.success>"Хаха, эй, пацаны! Посмотрите на этого плаксивого говнюка! Ладно, ты меня рассмешил. Заходи, пока я не передумал!"</eventtext.piratesecurityofficer.toll.high.option.pay.low.success>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.low.failure>"Ты, блядь, издеваешься надо мной!? Я заберу всё с твоего трупа!"</eventtext.piratesecurityofficer.toll.high.option.pay.low.failure>
+  <eventtext.piratesecurityofficer.toll.high.option.pay.low.rejected>"Твоя жалкая история тебя не спасёт и твои друзья из Коалиции тебе не помогут! Говори свои последние слова!"</eventtext.piratesecurityofficer.toll.high.option.pay.low.rejected>
+  <eventtext.piratemissioninformant.interact>"Хм? Говорите, что ищете работу? Позвольте вам кое-что сказать! Здесь нет никаких административных услуг! Но... Я получил наводку на транспорт коалиции, проходящий недалеко отсюда и я не уверен, готова ли моя команда к этому. Я отдам его вам, если у вас есть деньги!"</eventtext.piratemissioninformant.interact>
+  <eventtext.piratemissioninformant.option.buy>Купить (1000 кредитов)</eventtext.piratemissioninformant.option.buy>
+  <eventtext.piratemissioninformant.option.buy.success>"Отлично! Сейчас я вам покажу, где он пройдёт!"</eventtext.piratemissioninformant.option.buy.success>
+  <eventtext.piratemissioninformant.option.buy.failure>"Я не собираюсь отдавать его тебе бесплатно, тупица! Возвращайся, когда у тебя будут деньги!"</eventtext.piratemissioninformant.option.buy.failure>
+  <eventtext.factionseparatist.meltdown>Реактор скрипит и стонет от давления, что вы сделаете?</eventtext.factionseparatist.meltdown>
+  <eventtext.factionseparatist.meltdown.option.pressure>Сбросить давление</eventtext.factionseparatist.meltdown.option.pressure>
+  <eventtext.factionseparatist.meltdown.option.pressure.success>Реактор содрогается, но вы слышите, как пар выходит из ядра. Похоже, кто-то что-то подсоединил к нему...</eventtext.factionseparatist.meltdown.option.pressure.success>
+  <eventtext.factionseparatist.meltdown.option.pressure.failure>Реактор бурчит, пар заполняет защитные шланги, выходящие из ядра, похоже, требуется квалифицированный инженер.</eventtext.factionseparatist.meltdown.option.pressure.failure>
+  <eventtext.factionseparatist.smellofsulfur>Запах серы жжёт ваши ноздри...</eventtext.factionseparatist.smellofsulfur>
+  <eventtext.factionseparatist.hiddenstash>Вы замечаете небольшую металлическую коробку, спрятанную в стенах, которая мерцает.</eventtext.factionseparatist.hiddenstash>
+  <eventtext.factionseparatist.hiddenstash.take>Вы находите записку, спрятанную в детонаторе, с подробными инструкциями о том, что нужно сделать ради демократии.</eventtext.factionseparatist.hiddenstash.take>
+  <eventtext.bartender.offerdrink.nodrunk>Похоже, вам нужно выпить.</eventtext.bartender.offerdrink.nodrunk>
+  <eventtext.bartender.offerdrink.slightdrunk>Похоже, вам нужен ещё выпить.</eventtext.bartender.offerdrink.slightdrunk>
+  <eventtext.bartender.offerdrink.drunk>Ещё раз?</eventtext.bartender.offerdrink.drunk>
+  <eventtext.bartender.buy.rum>Ром (150 кредитов)</eventtext.bartender.buy.rum>
+  <eventtext.bartender.buy.rum.success.nodrunk>Только искусственный подсластитель, извините.</eventtext.bartender.buy.rum.success.nodrunk>
+  <eventtext.bartender.buy.rum.success.slightdrunk>Ещё есть.</eventtext.bartender.buy.rum.success.slightdrunk>
+  <eventtext.bartender.buy.rum.success.drunk>Посмотрим, как вы выпьете этот!</eventtext.bartender.buy.rum.success.drunk>
+  <eventtext.bartender.buy.rum.failure>Мы держим счета только для местных жителей, принесите мне сначала деньги.</eventtext.bartender.buy.rum.failure>
+  <eventtext.bartender.tip>Оставить чаевые и уйти (50 кредитов)</eventtext.bartender.tip>
+  <eventtext.bartender.tip.success>Я обменяюсь с вами чаевыми на чаевые; проверьте этот сигнал, когда вы отплывёте, это может быть чего-то стоит.</eventtext.bartender.tip.success>
+  <eventtext.bartender.tip.failure>Жаль, что комплименты не оплачивают счета, спасибо в любом случае.</eventtext.bartender.tip.failure>
+  <eventtext.pirateoutpostevent>Пират остановился и смотрит на вас, как будто ждёт, что вы что-то сделаете. Что вы будете делать?</eventtext.pirateoutpostevent>
+  <eventtext.pirateoutpostevent.option.ignore>Уйти</eventtext.pirateoutpostevent.option.ignore>
+  <eventtext.pirateoutpostevent.option.ignore.answer>Вам всё равно, и вы проходите мимо.</eventtext.pirateoutpostevent.option.ignore.answer>
+  <eventtext.pirateoutpostevent.option.attack>Атаковать (Уничтожить Пиратский Аванпост)</eventtext.pirateoutpostevent.option.attack>
+  <eventtext.pirateoutpostevent.option.attack.answer>"Мне совсем не нравится ваш вид, грязных пиратских ублюдков... Время резни!"</eventtext.pirateoutpostevent.option.attack.answer>
+  <eventtext.pirateoutpostevent.option.attack2>Разнести всё вдребезги (Уничтожить Пиратский Аванпост)</eventtext.pirateoutpostevent.option.attack2>
+  <eventtext.pirateoutpostevent.option.attack2.answer>"Пришло время отправить вас всех в ад!"</eventtext.pirateoutpostevent.option.attack2.answer>
+  <eventtext.commsrelay.piratehaven>Станция пытается установить связь...</eventtext.commsrelay.piratehaven>
+  <eventtext.commsrelay.piratehaven.answer>Эй! Ты что, тупой? Думал, мы не проверяем, кто причаливает? Ну, подумай ещё раз, уёбок! Вы же с Коалицией! Даже не думайте ступать ногой на этот аванпост, иначе пожалеете, мрази! Исчезните!</eventtext.commsrelay.piratehaven.answer>
+  <!-- Items -->
+  <entityname.commlinkDE>Комм. Связь</entityname.commlinkDE>
+  <entitydescription.commlinkDE>Устройство связи, позволяющее во время путешествия дистанционно получать задания от близлежащих аванпостов</entitydescription.commlinkDE>
+  <!-- Structures -->
+  <entityname.labelslogocoalition>Логотип коалиции</entityname.labelslogocoalition>
+  <entityname.labelslogocoalitioncolor>Цветной логотип коалиции</entityname.labelslogocoalitioncolor>
+  <entityname.labelslogocoalitiondamaged>Повреждённый логотип коалиции</entityname.labelslogocoalitiondamaged>
+  <entityname.labelslogocoalitionbroken>Сломанный логотип коалиции</entityname.labelslogocoalitionbroken>
+  <entityname.labelslogoseparatists>Логотип юпитерианских сепаратистов</entityname.labelslogoseparatists>
+  <entityname.labelslogoseparatistscolor>Цветной логотип юпитерианских сепаратистов</entityname.labelslogoseparatistscolor>
+  <entityname.labelslogoseparatistsdamaged>Повреждённый логотип юпитерианских сепаратистов</entityname.labelslogoseparatistsdamaged>
+  <entityname.labelslogoseparatistsbroken>Сломанный логотип юпитерианских сепаратистов</entityname.labelslogoseparatistsbroken>
+  <!-- Missions -->
+  <missionname.coalition_cargo2>Ограбление транспортного судна Коалиции</missionname.coalition_cargo2>
+  <missiondescription.coalition_cargo2>Мимо проходит грузовое судно коалиции. Убейте их команду и разграбьте их подлодку!</missiondescription.coalition_cargo2>
+  <missionsuccess.coalition_cargo2>Вы успешно уничтожили команду коалиции и забрали их груз!</missionsuccess.coalition_cargo2>
+  <missionfailure.coalition_cargo2>Вы не убили команду коалиции!</missionfailure.coalition_cargo2>
+  <missionheader0.coalition_cargo2>Судно Коалиции Замечено</missionheader0.coalition_cargo2>
+  <missionmessage0.coalition_cargo2>Время атаковать! Бери что хочешь!</missionmessage0.coalition_cargo2>
+  <missionheader1.coalition_cargo2>Экипаж коалиции ликвидирован</missionheader1.coalition_cargo2>
+  <missionmessage1.coalition_cargo2>Разграбьте их судно и продолжайте путь к [location2].</missionmessage1.coalition_cargo2>
+  <missionname.random_salvageskyholderartifactruins>Случайное событие</missionname.random_salvageskyholderartifactruins>
+  <missiondescription.random_salvageskyholderartifactruins>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_salvageskyholderartifactruins>
+  <missionsonarlabel.random_salvageskyholderartifactruins>Неизвестный сигнал</missionsonarlabel.random_salvageskyholderartifactruins>
+  <missionsuccess.random_salvageskyholderartifactruins>Вы решили взять артефакт с собой. Возможно, он чего-то стоит.</missionsuccess.random_salvageskyholderartifactruins>
+  <missionfailure.random_salvageskyholderartifactruins>Вы не исследовали сигнал.</missionfailure.random_salvageskyholderartifactruins>
+  <missionheader0.random_salvageskyholderartifactruins>Артефакт забран</missionheader0.random_salvageskyholderartifactruins>
+  <missionmessage0.random_salvageskyholderartifactruins>Вы исследовали сигнал и нашли артефакт.</missionmessage0.random_salvageskyholderartifactruins>
+  <missionname.random_salvagethermalartifactruins>Случайное событие</missionname.random_salvagethermalartifactruins>
+  <missiondescription.random_salvagethermalartifactruins>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_salvagethermalartifactruins>
+  <missionsonarlabel.random_salvagethermalartifactruins>Неизвестный сигнал</missionsonarlabel.random_salvagethermalartifactruins>
+  <missionsuccess.random_salvagethermalartifactruins>Вы решили взять артефакт с собой. Возможно, он чего-то стоит.</missionsuccess.random_salvagethermalartifactruins>
+  <missionfailure.random_salvagethermalartifactruins>Вы не исследовали сигнал.</missionfailure.random_salvagethermalartifactruins>
+  <missionheader0.random_salvagethermalartifactruins>Артефакт забран</missionheader0.random_salvagethermalartifactruins>
+  <missionmessage0.random_salvagethermalartifactruins>Вы исследовали сигнал и нашли артефакт.</missionmessage0.random_salvagethermalartifactruins>
+  <missionname.random_salvagethermalartifactcave>Случайное событие</missionname.random_salvagethermalartifactcave>
+  <missiondescription.random_salvagethermalartifactcave>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_salvagethermalartifactcave>
+  <missionsonarlabel.random_salvagethermalartifactcave>Неизвестный сигнал</missionsonarlabel.random_salvagethermalartifactcave>
+  <missionsuccess.random_salvagethermalartifactcave>Вы решили взять артефакт с собой. Возможно, он чего-то стоит.</missionsuccess.random_salvagethermalartifactcave>
+  <missionfailure.random_salvagethermalartifactcave>Вы не исследовали сигнал.</missionfailure.random_salvagethermalartifactcave>
+  <missionheader0.random_salvagethermalartifactcave>Артефакт забран</missionheader0.random_salvagethermalartifactcave>
+  <missionmessage0.random_salvagethermalartifactcave>Вы исследовали сигнал и нашли артефакт.</missionmessage0.random_salvagethermalartifactcave>
+  <missionname.random_salvagenasonovartifactcave>Случайное событие</missionname.random_salvagenasonovartifactcave>
+  <missiondescription.random_salvagenasonovartifactcave>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_salvagenasonovartifactcave>
+  <missionsonarlabel.random_salvagenasonovartifactcave>Неизвестный сигнал</missionsonarlabel.random_salvagenasonovartifactcave>
+  <missionsuccess.random_salvagenasonovartifactcave>Вы решили взять артефакт с собой. Возможно, он чего-то стоит.</missionsuccess.random_salvagenasonovartifactcave>
+  <missionfailure.random_salvagenasonovartifactcave>Вы не исследовали сигнал.</missionfailure.random_salvagenasonovartifactcave>
+  <missionheader0.random_salvagenasonovartifactcave>Артефакт забран</missionheader0.random_salvagenasonovartifactcave>
+  <missionmessage0.random_salvagenasonovartifactcave>Вы исследовали сигнал и нашли артефакт.</missionmessage0.random_salvagenasonovartifactcave>
+  <missionname.random_killmoloch>Случайное событие</missionname.random_killmoloch>
+  <missiondescription.random_killmoloch>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmoloch>
+  <missionsonarlabel.random_killmoloch>Неизвестный сигнал</missionsonarlabel.random_killmoloch>
+  <missionsuccess.random_killmoloch>Сигнал исследован и молох убит.</missionsuccess.random_killmoloch>
+  <missionheader0.random_killmoloch>Цель уничтожена</missionheader0.random_killmoloch>
+  <missionmessage0.random_killmoloch>Оказалось, что сигнал исходил от молоха.</missionmessage0.random_killmoloch>
+  <missionname.random_killmolochblack>Случайное событие</missionname.random_killmolochblack>
+  <missiondescription.random_killmolochblack>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmolochblack>
+  <missionsonarlabel.random_killmolochblack>Неизвестный сигнал</missionsonarlabel.random_killmolochblack>
+  <missionsuccess.random_killmolochblack>Сигнал исследован и молох убит.</missionsuccess.random_killmolochblack>
+  <missionheader0.random_killmolochblack>Цель уничтожена</missionheader0.random_killmolochblack>
+  <missionmessage0.random_killmolochblack>Оказалось, что сигнал исходил от молоха.</missionmessage0.random_killmolochblack>
+  <missionname.random_killlargecrawler>Случайное событие</missionname.random_killlargecrawler>
+  <missiondescription.random_killlargecrawler>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killlargecrawler>
+  <missionsonarlabel.random_killlargecrawler>Неизвестный сигнал</missionsonarlabel.random_killlargecrawler>
+  <missionsuccess.random_killlargecrawler>Сигнал исследован и ползуны были уничтожены.</missionsuccess.random_killlargecrawler>
+  <missionname.random_killtigerthresher>Случайное событие</missionname.random_killtigerthresher>
+  <missiondescription.random_killtigerthresher>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killtigerthresher>
+  <missionsonarlabel.random_killtigerthresher>Неизвестный сигнал</missionsonarlabel.random_killtigerthresher>
+  <missionsuccess.random_killtigerthresher>Сигнал исследован и акулий тигр был убит.</missionsuccess.random_killtigerthresher>
+  <missionheader0.random_killtigerthresher>Цель уничтожена</missionheader0.random_killtigerthresher>
+  <missionmessage0.random_killtigerthresher>Оказалось, что сигнал исходил от акульего тигра.</missionmessage0.random_killtigerthresher>
+  <missionname.random_killcrawlerbroodmother1>Случайное событие</missionname.random_killcrawlerbroodmother1>
+  <missiondescription.random_killcrawlerbroodmother1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killcrawlerbroodmother1>
+  <missionsonarlabel.random_killcrawlerbroodmother1>Неизвестный сигнал</missionsonarlabel.random_killcrawlerbroodmother1>
+  <missionsuccess.random_killcrawlerbroodmother1>Сигнал исследован и матка ползунов была уничтожена.</missionsuccess.random_killcrawlerbroodmother1>
+  <missionheader0.random_killcrawlerbroodmother1>Цель уничтожена</missionheader0.random_killcrawlerbroodmother1>
+  <missionmessage0.random_killcrawlerbroodmother1>Оказалось, что сигнал исходил от матки ползунов.</missionmessage0.random_killcrawlerbroodmother1>
+  <missionname.random_killcrawlerbroodmother2>Случайное событие</missionname.random_killcrawlerbroodmother2>
+  <missiondescription.random_killcrawlerbroodmother2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killcrawlerbroodmother2>
+  <missionsonarlabel.random_killcrawlerbroodmother2>Неизвестный сигнал</missionsonarlabel.random_killcrawlerbroodmother2>
+  <missionsuccess.random_killcrawlerbroodmother2>Сигнал исследован и матка ползунов была убита.</missionsuccess.random_killcrawlerbroodmother2>
+  <missionname.random_killcrawlerbroodmother3>Случайное событие</missionname.random_killcrawlerbroodmother3>
+  <missiondescription.random_killcrawlerbroodmother3>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killcrawlerbroodmother3>
+  <missionsonarlabel.random_killcrawlerbroodmother3>Неизвестный сигнал</missionsonarlabel.random_killcrawlerbroodmother3>
+  <missionsuccess.random_killcrawlerbroodmother3>Сигнал исследован и матка ползунов была убита.</missionsuccess.random_killcrawlerbroodmother3>
+  <missionname.random_killcrawlerswarm1>Случайное событие</missionname.random_killcrawlerswarm1>
+  <missiondescription.random_killcrawlerswarm1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killcrawlerswarm1>
+  <missionsonarlabel.random_killcrawlerswarm1>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm1>
+  <missionsuccess.random_killcrawlerswarm1>Сигнал расследован и ползуны были уничтожены.</missionsuccess.random_killcrawlerswarm1>
+  <missionheader0.random_killcrawlerswarm1>Цели уничтожены</missionheader0.random_killcrawlerswarm1>
+  <missionmessage0.random_killcrawlerswarm1>Оказалось, что сигнал исходил от роя.</missionmessage0.random_killcrawlerswarm1>
+  <missionname.random_killcrawlerswarm1large>Случайное событие</missionname.random_killcrawlerswarm1large>
+  <missiondescription.random_killcrawlerswarm1large>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killcrawlerswarm1large>
+  <missionsonarlabel.random_killcrawlerswarm1large>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm1large>
+  <missionsuccess.random_killcrawlerswarm1large>Сигнал исследован и ползуны были уничтожены.</missionsuccess.random_killcrawlerswarm1large>
+  <missionname.random_killcrawlerswarm1huge>Случайное событие</missionname.random_killcrawlerswarm1huge>
+  <missiondescription.random_killcrawlerswarm1huge>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killcrawlerswarm1huge>
+  <missionsonarlabel.random_killcrawlerswarm1huge>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm1huge>
+  <missionsuccess.random_killcrawlerswarm1huge>Оказалось, что сигнал исходил от роя.</missionsuccess.random_killcrawlerswarm1huge>
+  <missionname.random_killcrawlerswarm2>Случайное событие</missionname.random_killcrawlerswarm2>
+  <missiondescription.random_killcrawlerswarm2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killcrawlerswarm2>
+  <missionsonarlabel.random_killcrawlerswarm2>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm2>
+  <missionsuccess.random_killcrawlerswarm2>Сигнал исследован и рой был уничтожен.</missionsuccess.random_killcrawlerswarm2>
+  <missionheader0.random_killcrawlerswarm2>Цели уничтожены</missionheader0.random_killcrawlerswarm2>
+  <missionmessage0.random_killcrawlerswarm2>Оказалось, что сигнал исходил от роя.</missionmessage0.random_killcrawlerswarm2>
+  <missionname.random_killhammerhead_basic>Случайное событие</missionname.random_killhammerhead_basic>
+  <missiondescription.random_killhammerhead_basic>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killhammerhead_basic>
+  <missionsonarlabel.random_killhammerhead_basic>Неизвестный сигнал</missionsonarlabel.random_killhammerhead_basic>
+  <missionsuccess.random_killhammerhead_basic>Сигнал исследован и молотоглав был уничтожен.</missionsuccess.random_killhammerhead_basic>
+  <missionheader0.random_killhammerhead_basic>Цель уничтожена</missionheader0.random_killhammerhead_basic>
+  <missionmessage0.random_killhammerhead_basic>Оказалось, что сигнал исходил от молотоглава.</missionmessage0.random_killhammerhead_basic>
+  <missionname.random_killhammerhead>Случайное событие</missionname.random_killhammerhead>
+  <missiondescription.random_killhammerhead>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killhammerhead>
+  <missionsonarlabel.random_killhammerhead>Неизвестный сигнал</missionsonarlabel.random_killhammerhead>
+  <missionsuccess.random_killhammerhead>Сигнал исследован и молотоглавы были убиты.</missionsuccess.random_killhammerhead>
+  <missionheader0.random_killhammerhead>Цели уничтожены</missionheader0.random_killhammerhead>
+  <missionmessage0.random_killhammerhead>Оказалось, что сигнал исходил от молотоглавов.</missionmessage0.random_killhammerhead>
+  <missionname.random_killhammerhead2>Случайное событие</missionname.random_killhammerhead2>
+  <missiondescription.random_killhammerhead2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killhammerhead2>
+  <missionsonarlabel.random_killhammerhead2>Неизвестный сигнал</missionsonarlabel.random_killhammerhead2>
+  <missionsuccess.random_killhammerhead2>Сигнал исследован и молотоглавы были убиты.</missionsuccess.random_killhammerhead2>
+  <missionheader0.random_killhammerhead2>Цели уничтожены</missionheader0.random_killhammerhead2>
+  <missionmessage0.random_killhammerhead2>Оказалось, что сигнал исходил от молотоглавов.</missionmessage0.random_killhammerhead2>
+  <missionname.random_killmatriarch1>Случайное событие</missionname.random_killmatriarch1>
+  <missiondescription.random_killmatriarch1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmatriarch1>
+  <missionsonarlabel.random_killmatriarch1>Неизвестный сигнал</missionsonarlabel.random_killmatriarch1>
+  <missionsuccess.random_killmatriarch1>Сигнал исследован и молотоглавы были убиты. Маршрут должен быть снова безопасным.</missionsuccess.random_killmatriarch1>
+  <missionheader0.random_killmatriarch1>Цели уничтожены</missionheader0.random_killmatriarch1>
+  <missionmessage0.random_killmatriarch1>Оказалось, что сигнал исходил от молотоглавов.</missionmessage0.random_killmatriarch1>
+  <missionname.random_killmatriarch2>Случайное событие</missionname.random_killmatriarch2>
+  <missiondescription.random_killmatriarch2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmatriarch2>
+  <missionsonarlabel.random_killmatriarch2>Неизвестный сигнал</missionsonarlabel.random_killmatriarch2>
+  <missionsuccess.random_killmatriarch2>Сигнал исследован и матриарх была убита.  Маршрут должен быть снова безопасным.</missionsuccess.random_killmatriarch2>
+  <missionheader0.random_killmatriarch2>Цель уничтожена</missionheader0.random_killmatriarch2>
+  <missionmessage0.random_killmatriarch2>Оказалось, что сигнал исходил от матриарха.</missionmessage0.random_killmatriarch2>
+  <missionname.random_killhammerheadgold>Случайное событие</missionname.random_killhammerheadgold>
+  <missiondescription.random_killhammerheadgold>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killhammerheadgold>
+  <missionsonarlabel.random_killhammerheadgold>Неизвестный сигнал</missionsonarlabel.random_killhammerheadgold>
+  <missionsuccess.random_killhammerheadgold>Сигнал исследован и Золотой молотоглав был убит.</missionsuccess.random_killhammerheadgold>
+  <missionheader0.random_killhammerheadgold>Цель уничтожена</missionheader0.random_killhammerheadgold>
+  <missionmessage0.random_killhammerheadgold>Оказалось, что сигнал исходил от Золотого молотоглава.</missionmessage0.random_killhammerheadgold>
+  <missionname.random_killgiantspineling1>Случайное событие</missionname.random_killgiantspineling1>
+  <missiondescription.random_killgiantspineling1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killgiantspineling1>
+  <missionsonarlabel.random_killgiantspineling1>Неизвестный сигнал</missionsonarlabel.random_killgiantspineling1>
+  <missionsuccess.random_killgiantspineling1>Сигнал исследован и гигантский шипостай был убит.</missionsuccess.random_killgiantspineling1>
+  <missionheader0.random_killgiantspineling1>Цель уничтожена</missionheader0.random_killgiantspineling1>
+  <missionmessage0.random_killgiantspineling1>Оказалось, что сигнал исходил от гигантского шипостая.</missionmessage0.random_killgiantspineling1>
+  <missionname.random_killgiantspineling2>Случайное событие</missionname.random_killgiantspineling2>
+  <missiondescription.random_killgiantspineling2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killgiantspineling2>
+  <missionsonarlabel.random_killgiantspineling2>Неизвестный сигнал</missionsonarlabel.random_killgiantspineling2>
+  <missionsuccess.random_killgiantspineling2>Сигнал расследован и гигантский шипостай был убит.</missionsuccess.random_killgiantspineling2>
+  <missionname.random_killspinelingswarm1>Случайное событие</missionname.random_killspinelingswarm1>
+  <missiondescription.random_killspinelingswarm1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killspinelingswarm1>
+  <missionsonarlabel.random_killspinelingswarm1>Неизвестный сигнал</missionsonarlabel.random_killspinelingswarm1>
+  <missionsuccess.random_killspinelingswarm1>Сигнал исследован и рой был уничтожен.</missionsuccess.random_killspinelingswarm1>
+  <missionname.random_killthresherswarm1>Случайное событие</missionname.random_killthresherswarm1>
+  <missiondescription.random_killthresherswarm1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killthresherswarm1>
+  <missionsonarlabel.random_killthresherswarm1>Неизвестный сигнал</missionsonarlabel.random_killthresherswarm1>
+  <missionsuccess.random_killthresherswarm1>Сигнал исследован и рой был уничтожен.</missionsuccess.random_killthresherswarm1>
+  <missionheader0.random_killthresherswarm1>Цель уничтожена</missionheader0.random_killthresherswarm1>
+  <missionmessage0.random_killthresherswarm1>Оказалось, что сигнал исходил от этого роя.</missionmessage0.random_killthresherswarm1>
+  <missionname.random_killthresherswarm2>Случайное событие</missionname.random_killthresherswarm2>
+  <missiondescription.random_killthresherswarm2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killthresherswarm2>
+  <missionsonarlabel.random_killthresherswarm2>Неизвестный сигнал</missionsonarlabel.random_killthresherswarm2>
+  <missionsuccess.random_killthresherswarm2>Сигнал исследован и рой был уничтожен.</missionsuccess.random_killthresherswarm2>
+  <missionname.random_killmudraptors_basic>Случайное событие</missionname.random_killmudraptors_basic>
+  <missiondescription.random_killmudraptors_basic>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmudraptors_basic>
+  <missionsonarlabel.random_killmudraptors_basic>Неизвестный сигнал</missionsonarlabel.random_killmudraptors_basic>
+  <missionsuccess.random_killmudraptors_basic>Сигнал исследован и рой грязевые рапторы были убиты</missionsuccess.random_killmudraptors_basic>
+  <missionname.random_killmudraptors1>Случайное событие</missionname.random_killmudraptors1>
+  <missiondescription.random_killmudraptors1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmudraptors1>
+  <missionsonarlabel.random_killmudraptors1>Неизвестный сигнал</missionsonarlabel.random_killmudraptors1>
+  <missionsuccess.random_killmudraptors1>Сигнал исследован и грязевые рапторы были уничтожены.</missionsuccess.random_killmudraptors1>
+  <missionheader0.random_killmudraptors1>Цель уничтожена</missionheader0.random_killmudraptors1>
+  <missionmessage0.random_killmudraptors1>Оказалось, что сигнал исходил от грязевых рапторов.</missionmessage0.random_killmudraptors1>
+  <missionname.random_killmudraptors2>Случайное событие</missionname.random_killmudraptors2>
+  <missiondescription.random_killmudraptors2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmudraptors2>
+  <missionsonarlabel.random_killmudraptors2>Неизвестный сигнал</missionsonarlabel.random_killmudraptors2>
+  <missionsuccess.random_killmudraptors2>Сигнал исследован и грязевые рапторы были уничтожены.</missionsuccess.random_killmudraptors2>
+  <missionname.random_salvagewreck1>Случайное событие</missionname.random_salvagewreck1>
+  <missiondescription.random_salvagewreck1>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_salvagewreck1>
+  <missionsonarlabel.random_salvagewreck1>Неизвестный сигнал</missionsonarlabel.random_salvagewreck1>
+  <missionsuccess.random_salvagewreck1>Сигнал расследован и журнал успешно извлечён.</missionsuccess.random_salvagewreck1>
+  <missionfailure.random_salvagewreck1>Сигнал не был исследован.</missionfailure.random_salvagewreck1>
+  <missionheader0.random_salvagewreck1>Данные получены</missionheader0.random_salvagewreck1>
+  <missionmessage0.random_salvagewreck1>Оказалось, что сигнал исходил от журнала с зашифрованными данными.</missionmessage0.random_salvagewreck1>
+  <missionname.random_pirate_heavy>Случайное событие</missionname.random_pirate_heavy>
+  <missiondescription.random_pirate_heavy>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_pirate_heavy>
+  <missionsuccess.random_pirate_heavy>Сигнал исследован и команда пиратского судна была успешно уничтожена.</missionsuccess.random_pirate_heavy>
+  <missionfailure.random_pirate_heavy>Сигнал не был исследован.</missionfailure.random_pirate_heavy>
+  <missionsonarlabel.random_pirate_heavy>Неизвестный сигнал</missionsonarlabel.random_pirate_heavy>
+  <missionheader0.random_pirate_heavy>Пираты замечены</missionheader0.random_pirate_heavy>
+  <missionmessage0.random_pirate_heavy>Нейтрализуйте экипаж или затопите подлодку - пусть опустится на дно морское!</missionmessage0.random_pirate_heavy>
+  <missionheader1.random_pirate_heavy>Пираты уничтожены</missionheader1.random_pirate_heavy>
+  <missionmessage1.random_pirate_heavy>Оказалось, что сигнал исходил от пиратов. Может быть, у них на борту есть добыча? Отведите подлодку в точку [location2] когда вы будете готовы.</missionmessage1.random_pirate_heavy>
+  <missionname.random_pirate_party>Случайное событие</missionname.random_pirate_party>
+  <missiondescription.random_pirate_party>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_pirate_party>
+  <missionsuccess.random_pirate_party>Экипаж пиратского судна был успешно уничтожен.</missionsuccess.random_pirate_party>
+  <missionfailure.random_pirate_party>Экипаж пиратского судна не был уничтожен.</missionfailure.random_pirate_party>
+  <missionsonarlabel.random_pirate_party>Неизвестный сигнал</missionsonarlabel.random_pirate_party>
+  <missionheader0.random_pirate_party>Пираты замечены</missionheader0.random_pirate_party>
+  <missionmessage0.random_pirate_party>Нейтрализуйте экипаж или затопите подлодку - пусть опустится на дно морское!</missionmessage0.random_pirate_party>
+  <missionheader1.random_pirate_party>Пираты уничтожены</missionheader1.random_pirate_party>
+  <missionmessage1.random_pirate_party>Оказалось, что сигнал исходил от пиратов. Может быть, у них на борту есть добыча? Отведите подлодку в точку [location2] когда вы будете готовы.</missionmessage1.random_pirate_party>
+  <eventtext.securityofficer.option.insult>Оскорбить</eventtext.securityofficer.option.insult>
+  <eventtext.securityofficer.option.insult.answer>"Что ты мне только что сказал!? Я подам заявление, если ты не престанешь такое говорить!"</eventtext.securityofficer.option.insult.answer>
+  <eventtext.securityofficer.option.insult.answer.insult.answer>"Ну всё! Ты арестован!"</eventtext.securityofficer.option.insult.answer.insult.answer>
+  <eventtext.securityofficer.option.insult.leave.answer>"Лучше иди своей дорогой!"</eventtext.securityofficer.option.insult.leave.answer>
+  <!-- Дополнение от 24.01.2023 -->
+  <eventtext.option.accept>Принять</eventtext.option.accept>
+  <eventtext.option.listen>Слушать</eventtext.option.listen>
+  <eventtext.option.investigate>Расследовать</eventtext.option.investigate>
+  <eventtext.option.decline>Отклонить</eventtext.option.decline>
+  <eventtext.option.ignore>Игнорировать</eventtext.option.ignore>
+  <eventtext.option.leave>Уйти</eventtext.option.leave>
+  <eventtext.general.decline>"Не сейчас."</eventtext.general.decline>
+  <eventtext.commsrelay.monster>Вы принимаете странный радиосигнал. Возможно, стоит разобраться...</eventtext.commsrelay.monster>
+  <eventtext.commsrelay.monster.answer>Навязчивый вой эхом отражается от корпуса, что-то должно излучать эти странные сигналы.</eventtext.commsrelay.monster.answer>
+  <eventtext.commsrelay.monster.answer>Визжащие пронзительные крики вызывают мурашки по позвоночнику: что-то должно излучать эти странные сигналы.</eventtext.commsrelay.monster.answer>
+  <eventtext.commsrelay.wreck>Вы принимаете автоматический сигнал бедствия. Возможно, стоит провести расследование...</eventtext.commsrelay.wreck>
+  <eventtext.commsrelay.wreck.answer>Вы получаете сигнал SOS, передаваемый откуда-то рядом с вашим текущим местоположением.</eventtext.commsrelay.wreck.answer>
+  <eventtext.commsrelay.ruin>Вы улавливаете инопланетный сигнал. Возможно, стоит провести расследование...</eventtext.commsrelay.ruin>
+  <eventtext.commsrelay.ruin.answer>Жуткое жужжание пробуждает глубокий страх. Что-то должно излучать эти странные сигналы.</eventtext.commsrelay.ruin.answer>
+  <eventtext.commsrelay.closetosignal>Странный радиосигнал усиливается, он должен быть поблизости...</eventtext.commsrelay.closetosignal>
+  <eventtext.commsrelay.generic.decline>"У нас сейчас нет времени на это."</eventtext.commsrelay.generic.decline>
+  <eventtext.factionstowaway.separatist>Из ящика выпрыгивает суровый борец за свободу, размахивая огнестрельным оружием.</eventtext.factionstowaway.separatist>
+  <eventtext.factionstowaway.coalition.good>Оказывается, это перепутанная партия вещей другого капитана. Отлично!</eventtext.factionstowaway.coalition.good>
+  <eventtext.factionstowaway.coalition.bad>В ящике лежало небольшое письмо с печатью коалиции. В нём штраф, не повезло.</eventtext.factionstowaway.coalition.bad>
+  <eventtext.factionstowaway.cultist>Вслед за вонью гниющей плоти из ящика начинает вставать ржавый водолазный костюм.</eventtext.factionstowaway.cultist>
+  <eventtext.factionstowaway.clown>Мерзко ухмыляющийся клоун встречает ваш взгляд улыбкой, из-под его маски капает слюна.</eventtext.factionstowaway.clown>
+  <!-- Дополнение от от 25.01.2023 -->
+  <locationchange.biosphere.changeto.nourishment>[previousname]: Биосфера была успешно улучшена до станции питания.</locationchange.biosphere.changeto.nourishment>
+  <locationchange.study.changeto.lab>Были сделаны выводы по исследовательским материалам на [previousname], и станция была улучшена до лаборатории.</locationchange.study.changeto.lab>
+  <locationchange.settlement.changeto.outpost>Колонисты расширили [previousname] для возможности принять больше людей.</locationchange.settlement.changeto.outpost>
+  <locationchange.settlement.changeto.outpost>[previousname]: колония увеличилась в размерах.</locationchange.settlement.changeto.outpost>
+  <locationchange.lab.changeto.research>Все больше исследователей тянутся к [previousname] и основывают институт.</locationchange.lab.changeto.research>
+  <locationchange.excavation.changeto.mine>Раскопки на [previousname] закончились, и рабочие приступили к обустройству шахты.</locationchange.excavation.changeto.mine>
+  <locationchange.hospital.changeto.surgery>Больница [previousname] была успешно переоборудована в хирургический центр.</locationchange.hospital.changeto.surgery>
+  <locationchange.clinic.changeto.hospital>Клиника [previousname] нуждалась в дополнительных мощностях, поэтому её переоборудовали в больницу.</locationchange.clinic.changeto.hospital>
+  <!-- Новый мод-->
+  <!-- Display names -->
+  <displayname.humanfooditem>[itemname] (Человек)</displayname.humanfooditem>
+  <displayname.crawlerfooditem>[itemname] (Ползун)</displayname.crawlerfooditem>
+  <displayname.mudraptorfooditem>[itemname] (Раптор)</displayname.mudraptorfooditem>
+  <displayname.hammerheadfooditem>[itemname] (Молотоглав)</displayname.hammerheadfooditem>
+  <displayname.thresherfooditem>[itemname] (Акулий тигр)</displayname.thresherfooditem>
+  <displayname.endwormfooditem>[itemname] (Червь Конца)</displayname.endwormfooditem>
+  <!-- Food Items -->
+  <entityname.he-proteinbar1>Протеиновый Батончик</entityname.he-proteinbar1>
+  <entitydescription.he-proteinbar1>Довольно вкусный протеиновый батончик. Помогает немного ускорить процесс заживления.</entitydescription.he-proteinbar1>
+  <entityname.he-chips1>Пакетик Чипсов из Граната</entityname.he-chips1>
+  <entitydescription.he-chips1>Сушёные чипсы из граната. Популярная закуска для просмотра ежегодного 'DUNWICE FACE-OFF'.</entitydescription.he-chips1>
+  <entityname.he-chips2>Пакетик чипсов из мутировавшего граната</entityname.he-chips2>
+  <entitydescription.he-chips2>Сушёные чипсы из мутировавшего граната. Популярная закуска. Говорят, что немного ускоряет заживление ожогов.</entitydescription.he-chips2>
+  <entityname.he-bread>Хлеб</entityname.he-bread>
+  <entitydescription.he-bread>Буханка хлеба.</entitydescription.he-bread>
+  <entityname.he-burgerbun>Булочка для Бургера</entityname.he-burgerbun>
+  <entitydescription.he-burgerbun>Используется для приготовления бургеров.</entitydescription.he-burgerbun>
+  <entityname.he-hotdogbun>Булочка для Хот-дога</entityname.he-hotdogbun>
+  <entitydescription.he-hotdogbun>Воткните в неё сосиску.</entitydescription.he-hotdogbun>
+  <!--crawler-->
+  <entityname.he-crawlerburger>Бургер</entityname.he-crawlerburger>
+  <entitydescription.he-crawlerburger>Довольно вкусный бургер.</entitydescription.he-crawlerburger>
+  <entityname.he-crawlerhotdog>Хот-дог</entityname.he-crawlerhotdog>
+  <entitydescription.he-crawlerhotdog>Довольно вкусный хот-дог.</entitydescription.he-crawlerhotdog>
+  <entityname.he-cookedcrawlerfilet>Приготовленное филе</entityname.he-cookedcrawlerfilet>
+  <entitydescription.he-cookedcrawlerfilet>Вкус ужасен, но на Европе это не редкость.</entitydescription.he-cookedcrawlerfilet>
+  <!--human-->
+  <entityname.he-cookedhumanfilet>Приготовленное филе</entityname.he-cookedhumanfilet>
+  <entitydescription.he-cookedhumanfilet>Вкус напоминает свинину, но немного горче и пикантней.</entitydescription.he-cookedhumanfilet>
+  <entityname.he-humanburger>Бургер</entityname.he-humanburger>
+  <entitydescription.he-humanburger>Имеет лёгкую горчинку во вкусе.</entitydescription.he-humanburger>
+  <entityname.he-humanhotdog>Хот-дог</entityname.he-humanhotdog>
+  <entitydescription.he-humanhotdog>Имеет лёгкую горчинку во вкусе.</entitydescription.he-humanhotdog>
+  <!--mudraptor-->
+  <entityname.he-cookedmudraptorroast>Жаркое</entityname.he-cookedmudraptorroast>
+  <entitydescription.he-cookedmudraptorroast>Большой кусок жаркого.</entitydescription.he-cookedmudraptorroast>
+  <entityname.he-mudraptorburger>Бургер</entityname.he-mudraptorburger>
+  <entitydescription.he-mudraptorburger>Вкус похож на курицу.</entitydescription.he-mudraptorburger>
+  <entityname.he-mudraptorhotdog>Хот-дог</entityname.he-mudraptorhotdog>
+  <entitydescription.he-mudraptorhotdog>Вкус похож на курицу.</entitydescription.he-mudraptorhotdog>
+  <!--hammerhead-->
+  <entityname.he-cookedhammerheadroast>Жаркое</entityname.he-cookedhammerheadroast>
+  <entitydescription.he-cookedhammerheadroast>Большой кусок жаркого.</entitydescription.he-cookedhammerheadroast>
+  <entityname.he-cookedhammerheadspawnpickled>Маринованный Детёныш молотоглава</entityname.he-cookedhammerheadspawnpickled>
+  <entitydescription.he-cookedhammerheadspawnpickled>Деликатес.</entitydescription.he-cookedhammerheadspawnpickled>
+  <entityname.he-hammerheadburger>Гамбургер</entityname.he-hammerheadburger>
+  <entitydescription.he-hammerheadburger>Ммм, так вкусно, что хочется разбить голову от удовольствия!</entitydescription.he-hammerheadburger>
+  <entityname.he-hammerheadhotdog>Хот-дог из молотоглава</entityname.he-hammerheadhotdog>
+  <entitydescription.he-hammerheadhotdog>Ммм, так вкусно, что хочется разбить голову от удовольствия!</entitydescription.he-hammerheadhotdog>
+  <entityname.he-cookedhammerheadspareribs>Рёбрышки молотоглава</entityname.he-cookedhammerheadspareribs>
+  <entitydescription.he-cookedhammerheadspareribs>Вкусное блюдо с насыщенным вкусом.</entitydescription.he-cookedhammerheadspareribs>
+  <!--tresher-->
+  <entityname.he-cookedthresherfilet>Приготовленный Филе акульего тигра</entityname.he-cookedthresherfilet>
+  <entitydescription.he-cookedthresherfilet>Оно мягкое и немного слизкое.</entitydescription.he-cookedthresherfilet>
+  <entityname.he-thresherburger>Бургер</entityname.he-thresherburger>
+  <entitydescription.he-thresherburger>От вкуса захватывает дух.</entitydescription.he-thresherburger>
+  <entityname.he-thresherhotdog>Хот-дог акулы-молота</entityname.he-thresherhotdog>
+  <entitydescription.he-thresherhotdog>От вкуса захватывает дух.</entitydescription.he-thresherhotdog>
+  <!--endworm-->
+  <entityname.he-endwormhotdog>Хот-дог</entityname.he-endwormhotdog>
+  <entitydescription.he-endwormhotdog>Вкус безумный!</entitydescription.he-endwormhotdog>
+  <entityname.he-endwormburger>Бургер</entityname.he-endwormburger>
+  <entitydescription.he-endwormburger>Вкус безумный!</entitydescription.he-endwormburger>
+  <!-- Drinks -->
+  <entityname.he-energydrink1>Энергетический напиток</entityname.he-energydrink1>
+  <entitydescription.he-energydrink1>Освежающий энергетический напиток. Хорош для тех ситуаций, когда вы в полной заднице и нуждаетесь в дополнительной энергии.</entitydescription.he-energydrink1>
+  <entityname.rum>Ром</entityname.rum>
+  <entitydescription.rum>Крепкий алкогольный напиток. |Алкогольный напиток |Уменьшение психоза |Уменьшение галлюцинаций |Уменьшение инфекции трупного паразита (если менее 90%) |Исцеление повреждений |Увеличение устойчивости к психозу</entitydescription.rum>
+  <entityname.he-rum>Пиратский ром</entityname.he-rum>
+  <entitydescription.he-rum>Очень крепкий ром с добавлением урана для пряности. |Алкогольный напиток |Снижает психоз |Снижает галлюцинации |Снижает инфекцию трупного паразита (если ниже 90%) |Лечебные свойства |Увеличивает сопротивляемость психозу |Увеличивает радиационную болезнь (слегка)</entitydescription.he-rum>
+  <entityname.he-whiskey>Виски доктора Майкла</entityname.he-whiskey>
+  <entitydescription.he-whiskey>Оригинальный виски доктора Майкла. Одобрен докторами по всей Европе. |Алкогольный напиток |Снижает галлюцинации |Увеличивает сопротивляемость психозу</entitydescription.he-whiskey>
+  <entityname.he-halucinova>Галлюциновка</entityname.he-halucinova>
+  <entitydescription.he-halucinova>Держитесь подальше от "Садаши Киры" любой ценой! | Алкогольный напиток | Увеличивает галлюцинации | Небольшие лечебные свойства</entitydescription.he-halucinova>
+  <entityname.he-beer>Премиум Лагер Пиво "Коалиция"</entityname.he-beer>
+  <entitydescription.he-beer>Премиум Лагер Пиво "Коалиция". | Алкогольный напиток | Уменьшает галлюцинации | Увеличивает устойчивость к психозу</entitydescription.he-beer>
+  <entityname.he-water>Вода</entityname.he-water>
+  <entitydescription.he-water>Свежая вода. Немного помогает, если вы переели или перебрали с алкоголем.</entitydescription.he-water>
+  <entityname.he-milk>Молоко молоха</entityname.he-milk>
+  <entitydescription.he-milk>бутылка молока молоха. Вкус немного странный. Не спрашивайте, как его получают! Может помочь, когда вы пьяны или голодны.</entitydescription.he-milk>
+  <entityname.he-seawaterrum>Морская вода</entityname.he-seawaterrum>
+  <entitydescription.he-seawaterrum>Морская вода. Лучше, чем ничего, но лучше ее не пить.</entitydescription.he-seawaterrum>
+  <entityname.he-seawaterwhiskey>Морская вода</entityname.he-seawaterwhiskey>
+  <entitydescription.he-seawaterwhiskey>Морская вода. Лучше, чем ничего, но лучше ее не пить.</entitydescription.he-seawaterwhiskey>
+  <entityname.he-seawaterhalucinova>Морская вода</entityname.he-seawaterhalucinova>
+  <entitydescription.he-seawaterhalucinova>Морская вода. Лучше, чем ничего, но лучше ее не пить.</entitydescription.he-seawaterhalucinova>
+  <entityname.he-seawater>Морская вода</entityname.he-seawater>
+  <entitydescription.he-seawater>Морская вода. Лучше, чем ничего, но лучше ее не пить.</entitydescription.he-seawater>
+  <!-- Ingredients -->
+  <entityname.he-emptybottlerum>Пустая бутылка Рома</entityname.he-emptybottlerum>
+  <entitydescription.he-emptybottlerum>Пустая бутылка рома, используемая для некоторых рецептов. Можно выбросить или использовать в воде, чтобы собрать морскую воду.</entitydescription.he-emptybottlerum>
+  <entityname.he-emptybottlewhiskey>Пустая бутылка Виски</entityname.he-emptybottlewhiskey>
+  <entitydescription.he-emptybottlewhiskey>Пустая бутылка виски, используемая для некоторых рецептов. Можно выбросить или использовать в воде, чтобы собрать морскую воду.</entitydescription.he-emptybottlewhiskey>
+  <entityname.he-emptybottlehalucinova>Пустая бутылка Галлюциновки</entityname.he-emptybottlehalucinova>
+  <entitydescription.he-emptybottlehalucinova>Пустая бутылка Галлюциновки, используемая для некоторых рецептов. Можно выбросить или использовать в воде, чтобы собрать морскую воду.</entitydescription.he-emptybottlehalucinova>
+  <entityname.he-emptybottle>Пустая бутылка</entityname.he-emptybottle>
+  <entitydescription.he-emptybottle>Пустая бутылка, используемая для некоторых рецептов. Может быть выброшена или использована для сбора морской воды.</entitydescription.he-emptybottle>
+  <entityname.he-emptyjar>Пустая банка</entityname.he-emptyjar>
+  <entitydescription.he-emptyjar>Пустая банка, используемая для некоторых рецептов. Может быть выброшена.</entitydescription.he-emptyjar>
+  <entityname.he-endwormmeatchunk>Кусок мяса Червя Конца</entityname.he-endwormmeatchunk>
+  <entitydescription.he-endwormmeatchunk>Толстый кусок мяса червя конца. Быстро портится, если не находится в охлаждаемом контейнере.</entitydescription.he-endwormmeatchunk>
+  <entityname.he-rawendwormmeat>Сырое мясо Червя Конца</entityname.he-rawendwormmeat>
+  <entitydescription.he-rawendwormmeat>Быстро портится, если не находится в охлаждаемом контейнере.</entitydescription.he-rawendwormmeat>
+  <entityname.he-rawendwormsausage>Сырая сосиска из мяса Червя Конца</entityname.he-rawendwormsausage>
+  <entitydescription.he-rawendwormsausage>Быстро портится, если не находится в охлаждаемом контейнере.</entitydescription.he-rawendwormsausage>
+  <entityname.he-humanmeatchunk>Человечина</entityname.he-humanmeatchunk>
+  <entitydescription.he-humanmeatchunk>Части тела человека. Быстро портится, если не находится в охлаждаемом контейнере.</entitydescription.he-humanmeatchunk>
+  <entityname.he-rawhumanmeat>Сырая человечина</entityname.he-rawhumanmeat>
+  <entitydescription.he-rawhumanmeat>Испортится, если не хранить в охлаждаемом контейнере.</entitydescription.he-rawhumanmeat>
+  <entityname.he-crawlermeatchunk>Половина ползуна</entityname.he-crawlermeatchunk>
+  <entitydescription.he-crawlermeatchunk>Кусок Ползуна, разрезанный пополам. Испортится, если не хранить в охлаждаемом контейнере.</entitydescription.he-crawlermeatchunk>
+  <entityname.he-rawcrawlermeat>Сырое мясо ползуна</entityname.he-rawcrawlermeat>
+  <entitydescription.he-rawcrawlermeat>Испортится, если не хранить в охлаждаемом контейнере.</entitydescription.he-rawcrawlermeat>
+  <entityname.he-rawcrawlermeatpatty>Сырая котлета из мяса ползуна</entityname.he-rawcrawlermeatpatty>
+  <entitydescription.he-rawcrawlermeatpatty>Испортится, если не хранить в охлаждаемом контейнере.</entitydescription.he-rawcrawlermeatpatty>
+  <entityname.he-mudraptormeatchunk>Кусок мяса Грязевого раптора</entityname.he-mudraptormeatchunk>
+  <entitydescription.he-mudraptormeatchunk>Кусок мяса, нарезанный с грязевого раптора. Быстро портится, если не хранить в охлаждаемом контейнере.</entitydescription.he-mudraptormeatchunk>
+  <entityname.he-rawmudraptormeat>Сырое мясо Грязевого раптора</entityname.he-rawmudraptormeat>
+  <entitydescription.he-rawmudraptormeat>Быстро портится, если не хранить в охлаждаемом контейнере.</entitydescription.he-rawmudraptormeat>
+  <entityname.he-rawmudraptorroast>Сырой Окорок Грязевого раптора</entityname.he-rawmudraptorroast>
+  <entitydescription.he-rawmudraptorroast>Время положить в духовку! Быстро портится, если не хранить в охлаждаемом контейнере.</entitydescription.he-rawmudraptorroast>
+  <entityname.he-hammerheadmeatchunk>Кусок мяса молотоглава</entityname.he-hammerheadmeatchunk>
+  <entitydescription.he-hammerheadmeatchunk>Хороший кусок мяса, отрезанный от молотоглава. Портится, если не хранится в охлаждаемом контейнере.</entitydescription.he-hammerheadmeatchunk>
+  <entityname.he-rawhammerheadmeat>Сырое мясо молотоглава</entityname.he-rawhammerheadmeat>
+  <entitydescription.he-rawhammerheadmeat>Портится, если не хранится в охлаждаемом контейнере.</entitydescription.he-rawhammerheadmeat>
+  <entityname.he-rawhammerheadspareribs>Сырые Рёбра молотоглава</entityname.he-rawhammerheadspareribs>
+  <entitydescription.he-rawhammerheadspareribs>Отрезаны от массивной грудной клетки. Портятся, если не хранятся в охлаждаемом контейнере.</entitydescription.he-rawhammerheadspareribs>
+  <entityname.he-rawhammerheadroast>Сырой Окорок молотоглава</entityname.he-rawhammerheadroast>
+  <entitydescription.he-rawhammerheadroast>Пора засунуть его в духовку! Портится, если не хранится в охлаждаемом контейнере.</entitydescription.he-rawhammerheadroast>
+  <entityname.he-hammerheadspawnmeatchunk>Детёныш молотоглава</entityname.he-hammerheadspawnmeatchunk>
+  <entitydescription.he-hammerheadspawnmeatchunk>Детёныш молотоглава. Портится, если не хранится в охлаждаемом контейнере.</entitydescription.he-hammerheadspawnmeatchunk>
+  <entityname.he-threshermeatchunk>Кусок мяса Костяного акульего тигра</entityname.he-threshermeatchunk>
+  <entitydescription.he-threshermeatchunk>Кусок мяса, отрезанный от акульего тигра. Портится, если не хранится в охлаждаемом контейнере.</entitydescription.he-threshermeatchunk>
+  <entityname.he-rawthreshermeat>Сырое мясо Костяного акульего тигра</entityname.he-rawthreshermeat>
+  <entitydescription.he-rawthreshermeat>Портится, если не хранится в охлаждаемом контейнере.</entitydescription.he-rawthreshermeat>
+  <entityname.he-salt>Соль</entityname.he-salt>
+  <entitydescription.he-salt>Не сыпьте на рану!</entitydescription.he-salt>
+  <entityname.he-pepper>Синтетический перец</entityname.he-pepper>
+  <entitydescription.he-pepper>Крутой перец!</entitydescription.he-pepper>
+  <entityname.he-sugar>Сахар</entityname.he-sugar>
+  <entitydescription.he-sugar>О, как сладко!</entitydescription.he-sugar>
+  <entityname.he-ketchup>Кетчуп</entityname.he-ketchup>
+  <entitydescription.he-ketchup>Сделано из граната.</entitydescription.he-ketchup>
+  <entityname.he-vinegar>Уксус</entityname.he-vinegar>
+  <entitydescription.he-vinegar>Этот запах...</entitydescription.he-vinegar>
+  <entityname.he-cookingoil>Растительное Масло</entityname.he-cookingoil>
+  <entitydescription.he-cookingoil>Оно не используется в двигателях.</entitydescription.he-cookingoil>
+  <entityname.he-flour>Синтетическая Мука</entityname.he-flour>
+  <entitydescription.he-flour>Оригинальная европейская синтетическая мука</entitydescription.he-flour>
+  <!-- Tools -->
+  <entityname.he-enableneeds>Голодный Европеец (включить потребности)</entityname.he-enableneeds>
+  <entitydescription.he-enableneeds>[ПКМ+E] Включает потребность в голоде и жажде для пользователя, заставляя его регулярно есть и пить. Это совершенно необязательно и НЕ требуется для получения бонусов от еды или напитков. Внимание: Нельзя отключить для текущего персонажа после включения. НЕ ИСПОЛЬЗУЙТЕ, ЕСЛИ ИГРАЕТЕ С 'ПОТРЕБНОСТЯМИ' ОТ 'LeDoux'!</entitydescription.he-enableneeds>
+  <entityname.he-cleaver>Топор мясника</entityname.he-cleaver>
+  <entitydescription.he-cleaver>Время истекло! Время резать!\n\nМожет резать:\n-Ползунов\n-Грязевых рапторов\n-Акульих тигров\n-Молотоголавов\n-Детёнышей молотоглавов\n-Червей конца\n-Людей\n</entitydescription.he-cleaver>
+  <entityname.he-skillbooktheeuropan>Европеец Том 66</entityname.he-skillbooktheeuropan>
+  <entitydescription.he-skillbooktheeuropan>"... Загляни за занавес времени. Ты ли это, Роберт? Нет, я Роберт. Но я также и Дорис. Я - мясо. Ешь меня и стань единым с Червём. ..."</entitydescription.he-skillbooktheeuropan>
+  <entityname.he-skillbookauntdoris>ИСКУССТВО ГЛУБОКОВОДНОЙ КУЛИНАРИИ от Тётушки Дорис</entityname.he-skillbookauntdoris>
+  <entitydescription.he-skillbookauntdoris>Европейский способ готовки.</entitydescription.he-skillbookauntdoris>
+  <!-- Medical -->
+  <entityname.he-antistarve>Пробудитель Сознания от Голода</entityname.he-antistarve>
+  <entitydescription.he-antistarve>Используется для пробуждения пациента, потерявшего сознание из-за голода или жажды.</entitydescription.he-antistarve>
+  <!-- Gear -->
+  <entityname.he-chefscap1>Шапка Шеф-повара</entityname.he-chefscap1>
+  <entitydescription.he-chefscap1>Покажи им, чья это кухня!</entitydescription.he-chefscap1>
+  <entityname.he-chefsuniform1>Униформа Шеф-повара</entityname.he-chefsuniform1>
+  <entitydescription.he-chefsuniform1>Носится шеф-поварами по всей Европе!</entitydescription.he-chefsuniform1>
+  <entityname.he-chefscapmaster1>Шапка Мастер-шефа</entityname.he-chefscapmaster1>
+  <entitydescription.he-chefscapmaster1>Только для элиты кухни!</entitydescription.he-chefscapmaster1>
+  <entityname.he-chefsuniformmaster1>Униформа Мастер-шефа</entityname.he-chefsuniformmaster1>
+  <entitydescription.he-chefsuniformmaster1>Носится мастер-шефами!</entitydescription.he-chefsuniformmaster1>
+  <!-- Fabricators and Containers -->
+  <entityname.he-kitchencounter>Кухонный Стол</entityname.he-kitchencounter>
+  <entitydescription.he-kitchencounter>Может хранить до 10 различных мелких предметов.</entitydescription.he-kitchencounter>
+  <entityname.he-refrigerator>Холодильник</entityname.he-refrigerator>
+  <entitydescription.he-refrigerator>Предотвращает гниение. Может хранить только еду и напитки. Требует электричество для работы.</entitydescription.he-refrigerator>
+  <entityname.he-stove>Плита</entityname.he-stove>
+  <entitydescription.he-stove>Используется для приготовления пищи. Требует электричество для работы.</entitydescription.he-stove>
+  <entityname.he-oven>Духовка</entityname.he-oven>
+  <entitydescription.he-oven>Используется для выпечки. Требует электричество для работы.</entitydescription.he-oven>
+  <entityname.he-cuttingboard>Разделочная Доска</entityname.he-cuttingboard>
+  <entitydescription.he-cuttingboard>Используется для приготовления ингредиентов.</entitydescription.he-cuttingboard>
+  <!-- Skills -->
+  <skillname.cooking>Готовка</skillname.cooking>
+  <skillname.butchery>мясничество</skillname.butchery>
+  <!-- Afflictions -->
+  <afflictionname.he-hunger>Голод</afflictionname.he-hunger>
+  <afflictiondescription.he-hunger>Желудок доволен.</afflictiondescription.he-hunger>
+  <afflictioncauseofdeath.he-hunger>Умер от голода.</afflictioncauseofdeath.he-hunger>
+  <afflictioncauseofdeathself.he-hunger>Вы умерли от голода.</afflictioncauseofdeathself.he-hunger>
+  <afflictiondescription.he-hunger.self>Живот урчит!</afflictiondescription.he-hunger.self>
+  <afflictiondescription.he-hunger.lethal.self>Близок к голодной смерти...</afflictiondescription.he-hunger.lethal.self>
+  <afflictiondescription.he-hunger.other.low>У пациента лёгкий аппетит.</afflictiondescription.he-hunger.other.low>
+  <afflictiondescription.he-hunger.other>Пациент голоден.</afflictiondescription.he-hunger.other>
+  <afflictiondescription.he-hunger.lethal.other>Пациент начинает голодать.</afflictiondescription.he-hunger.lethal.other>
+  <afflictionname.he-thirst>Жажда</afflictionname.he-thirst>
+  <afflictiondescription.he-thirst>Вы чувствуете себя свежо.</afflictiondescription.he-thirst>
+  <afflictioncauseofdeath.he-thirst>Умер от жажды.</afflictioncauseofdeath.he-thirst>
+  <afflictioncauseofdeathself.he-thirst>Вы умерли от жажды.</afflictioncauseofdeathself.he-thirst>
+  <afflictiondescription.he-thirst.self>В горле сухо.</afflictiondescription.he-thirst.self>
+  <afflictiondescription.he-thirst.lethal.self>Начинаете умирать от жажды...</afflictiondescription.he-thirst.lethal.self>
+  <afflictiondescription.he-thirst.other.low>Пациент начинает испытывать жажду.</afflictiondescription.he-thirst.other.low>
+  <afflictiondescription.he-thirst.other>Пациент испытывает жажду.</afflictiondescription.he-thirst.other>
+  <afflictiondescription.he-thirst.lethal.other>Пациент начинает умирать от жажды.</afflictiondescription.he-thirst.lethal.other>
+  <afflictionname.he-starvation>Голод</afflictionname.he-starvation>
+  <afflictiondescription.he-starvation>Голодание...</afflictiondescription.he-starvation>
+  <afflictioncauseofdeath.he-starvation>Умер от голода.</afflictioncauseofdeath.he-starvation>
+  <afflictioncauseofdeathself.he-starvation>Вы умерли от голода.</afflictioncauseofdeathself.he-starvation>
+  <afflictiondescription.he-starvation.self>Голодание...</afflictiondescription.he-starvation.self>
+  <afflictiondescription.he-starvation.other>Пациент голодает.</afflictiondescription.he-starvation.other>
+  <afflictionname.he-dieofthirst>Умирание от жажды</afflictionname.he-dieofthirst>
+  <afflictiondescription.he-dieofthirst>Умираете от жажды...</afflictiondescription.he-dieofthirst>
+  <afflictioncauseofdeath.he-dieofthirst>Умер от жажды.</afflictioncauseofdeath.he-dieofthirst>
+  <afflictioncauseofdeathself.he-dieofthirst>Вы иссохли.</afflictioncauseofdeathself.he-dieofthirst>
+  <afflictiondescription.he-dieofthirst.self>Умираете от жажды...</afflictiondescription.he-dieofthirst.self>
+  <afflictiondescription.he-dieofthirst.other>Пациент умирает от жажды.</afflictiondescription.he-dieofthirst.other>
+  <afflictionname.he-increasedswimmingspeedcrawler>Увеличенная скорость плавания (еда)</afflictionname.he-increasedswimmingspeedcrawler>
+  <afflictiondescription.he-increasedswimmingspeedcrawler>Вы плаваете на 25% быстрее.</afflictiondescription.he-increasedswimmingspeedcrawler>
+  <afflictionname.he-damageresistancemudraptor>Сопротивление урону (еда)</afflictionname.he-damageresistancemudraptor>
+  <afflictiondescription.he-damageresistancemudraptor>Вы получаете на 10% меньше урона.</afflictiondescription.he-damageresistancemudraptor>
+  <afflictionname.he-increasedwalkingspeedmudraptor>Увеличенная скорость ходьбы (еда)</afflictionname.he-increasedwalkingspeedmudraptor>
+  <afflictiondescription.he-increasedwalkingspeedmudraptor>Вы ходите на 20% быстрее.</afflictiondescription.he-increasedwalkingspeedmudraptor>
+  <afflictionname.he-damageresistancemoloch>Сопротивление урону (еда)</afflictionname.he-damageresistancemoloch>
+  <afflictiondescription.he-damageresistancemoloch>Вы получаете на 25% меньше урона.</afflictiondescription.he-damageresistancemoloch>
+  <afflictionname.he-increasedmeleedamagehammerhead>Увеличенный урон в ближнем бою (еда)</afflictionname.he-increasedmeleedamagehammerhead>
+  <afflictiondescription.he-increasedmeleedamagehammerhead>Вы наносите на 15% больше урона в ближнем бою.</afflictiondescription.he-increasedmeleedamagehammerhead>
+  <afflictionname.he-decreasedoxygenconsumption>Снижение потребления кислорода (еда)</afflictionname.he-decreasedoxygenconsumption>
+  <afflictiondescription.he-decreasedoxygenconsumption>Вам не нужно дышать.</afflictiondescription.he-decreasedoxygenconsumption>
+  <afflictionname.he-pressureresistance>Стойкость к давлению (еда)</afflictionname.he-pressureresistance>
+  <afflictiondescription.he-pressureresistance>Вы невосприимчивы к давлению.</afflictiondescription.he-pressureresistance>
+  <afflictionname.he-alcoholism>Алкоголизм</afflictionname.he-alcoholism>
+  <afflictiondescription.he-alcoholism>Пациент чувствует себя счастливым... пока получает то, что ему нужно.</afflictiondescription.he-alcoholism>
+  <advancedafflictiondescription.self.he-alcoholism>Пора на алкогольный круиз! Вы зависимы от алкоголя.</advancedafflictiondescription.self.he-alcoholism>
+  <advancedafflictiondescription.others.he-alcoholism>Пациент страдает от алкоголизма.</advancedafflictiondescription.others.he-alcoholism>
+  <afflictionname.he-alcoholwithdrawal>Алкогольный абстинентный синдром</afflictionname.he-alcoholwithdrawal>
+  <afflictiondescription.he-alcoholwithdrawal>Заметны раздражительность и тремор, а также признаки тошноты.</afflictiondescription.he-alcoholwithdrawal>
+  <afflictioncauseofdeath.he-alcoholwithdrawal>Умер от алкогольного абстинентного синдрома</afflictioncauseofdeath.he-alcoholwithdrawal>
+  <afflictioncauseofdeathself.he-alcoholwithdrawal>Вы умерли от алкогольного абстинентного синдрома.</afflictioncauseofdeathself.he-alcoholwithdrawal>
+  <advancedafflictiondescription.self.he-alcoholism>У вас возникает чувство, что пора открыть ещё одну холодную с парнями!</advancedafflictiondescription.self.he-alcoholism>
+  <advancedafflictiondescription.others.he-alcoholism>Пациент проявляет лёгкие признаки алкогольного абстинентного синдрома.</advancedafflictiondescription.others.he-alcoholism>
+  <advancedafflictiondescription.self.he-alcoholism.2>Холодное пиво или бутылка рома... Что угодно, чтобы утолить эту ужасную жажду выпить!</advancedafflictiondescription.self.he-alcoholism.2>
+  <advancedafflictiondescription.others.he-alcoholism.2>Пациент проявляет тяжелые признаки алкогольного абстинентного синдрома.</advancedafflictiondescription.others.he-alcoholism.2>
+  <afflictionname.he-drunkinvertcontrols>Дезориентирован</afflictionname.he-drunkinvertcontrols>
+  <afflictiondescription.he-drunkinvertcontrols>Вверх-вниз, а влево... вправо? Где я?</afflictiondescription.he-drunkinvertcontrols>
+  <afflictionname.he-stuffed>Переедание</afflictionname.he-stuffed>
+  <afflictiondescription.he-stuffed>Желудок полон.</afflictiondescription.he-stuffed>
+  <afflictioncauseofdeath.he-stuffed>Задохнулся рвотой.</afflictioncauseofdeath.he-stuffed>
+  <afflictioncauseofdeathself.he-stuffed>Вы задохнулись собственной рвотой.</afflictioncauseofdeathself.he-stuffed>
+  <advancedafflictiondescription.self.he-stuffed>Желудок полон.</advancedafflictiondescription.self.he-stuffed>
+  <advancedafflictiondescription.self.he-stuffed.2>Желудок на пределе. Если съесть ещё, будет рвота.</advancedafflictiondescription.self.he-stuffed.2>
+  <advancedafflictiondescription.self.he-stuffed.3>Желудок слишком полон. Вы чувствуете необходимость рвать.</advancedafflictiondescription.self.he-stuffed.3>
+  <advancedafflictiondescription.others.he-stuffed>Желудок полон. Пациент сыт.</advancedafflictiondescription.others.he-stuffed>
+  <advancedafflictiondescription.others.he-stuffed.2>Желудок очень полон. Пациент чуть не переел.</advancedafflictiondescription.others.he-stuffed.2>
+  <advancedafflictiondescription.others.he-stuffed.3>Желудок слишком полон. Пациента может рвать.</advancedafflictiondescription.others.he-stuffed.3>
+  <afflictionname.he-stomachache>Боль в желудке</afflictionname.he-stomachache>
+  <afflictiondescription.he-stomachache>Живот болит.</afflictiondescription.he-stomachache>
+  <afflictioncauseofdeath.he-stomachache>Задохнулся рвотой.</afflictioncauseofdeath.he-stomachache>
+  <afflictioncauseofdeathself.he-stomachache>Вы задохнулись собственной рвотой.</afflictioncauseofdeathself.he-stomachache>
+  <advancedafflictiondescription.self.he-stomachache>Живот болит, и вы чувствуете лёгкую тошноту.</advancedafflictiondescription.self.he-stomachache>
+  <advancedafflictiondescription.self.he-stomachache.2>Живот сильно болит, и вы испытываете сильную тошноту.</advancedafflictiondescription.self.he-stomachache.2>
+  <advancedafflictiondescription.others.he-stomachache>Живот пациента болит из-за избытка выпитой морской воды.</advancedafflictiondescription.others.he-stomachache>
+  <afflictionname.he-geneticextraction>Генетическая экстракция</afflictionname.he-geneticextraction>
+  <afflictiondescription.he-geneticextraction>Гены извлекаются.</afflictiondescription.he-geneticextraction>
+  <afflictionname.he-butchered>Разделан</afflictionname.he-butchered>
+  <afflictiondescription.he-butchered>Труп разделывается на мясо.</afflictiondescription.he-butchered>
+  <afflictionname.he-halucinova>Галлюциновка</afflictionname.he-halucinova>
+  <afflictiondescription.he-halucinova>Вы чувствуете желание отправиться в другое измерение.</afflictiondescription.he-halucinova>
+  <eventtext.pirateoutpostevent.option.ignore.answer.response>Эй, подождите секунду!</eventtext.pirateoutpostevent.option.ignore.answer.response>
+  <!--Версия от 1.0-->
+  <missionname.crawlerlair>Логово ползунов</missionname.crawlerlair>
+  <missiondescription.crawlerlair>Ползуны гнездятся в [location1]. Помогите нам избавиться от них, найдя и уничтожив их яйца внутри пещеры.</missiondescription.crawlerlair>
+  <missionsuccess.crawlerlair>Гнёзда успешно уничтожены.</missionsuccess.crawlerlair>
+  <missionfailure.crawlerlair>Местность остаётся заражённой.</missionfailure.crawlerlair>
+  <missionheader0.crawlerlair>Уничтожены Гнёзда</missionheader0.crawlerlair>
+  <missionmessage0.crawlerlair>"Отличная работа! Похоже, вы успешно уничтожили каждое гнездо там. Покиньте эту зону, и мы отправим вам вашу зарплату."</missionmessage0.crawlerlair>
+  <missionname.mudraptorlair>Логово грязевых рапторов</missionname.mudraptorlair>
+  <missiondescription.mudraptorlair>Грязевые рапторы гнездятся в [location1]. Помогите нам избавиться от них, найдя и уничтожив их яйца внутри пещеры.</missiondescription.mudraptorlair>
+  <missionsuccess.mudraptorlair>Гнёзда успешно уничтожены.</missionsuccess.mudraptorlair>
+  <missionfailure.mudraptorlair>Местность остаётся заражённой.</missionfailure.mudraptorlair>
+  <missionheader0.mudraptorlair>Гнёзда Уничтожены</missionheader0.mudraptorlair>
+  <missionmessage0.mudraptorlair>"Отличная работа! Похоже, вы успешно уничтожили каждое гнездо там. Покиньте эту зону, и мы отправим вам вашу зарплату."</missionmessage0.mudraptorlair>
+  <missionname.thresherlair>Логово акульих тигров</missionname.thresherlair>
+  <missiondescription.thresherlair>Акульи тигры гнездятся в [location1]. Помогите нам избавиться от них, найдя и уничтожив их яйца внутри пещеры.</missiondescription.thresherlair>
+  <missionsuccess.thresherlair>Гнёзда успешно уничтожены.</missionsuccess.thresherlair>
+  <missionfailure.thresherlair>Местность остаётся заражённой.</missionfailure.thresherlair>
+  <missionheader0.thresherlair>Гнёзда Уничтожены</missionheader0.thresherlair>
+  <missionmessage0.thresherlair>"Отличная работа! Похоже, вы успешно уничтожили каждое гнездо там. Покиньте эту зону, и мы отправим вам вашу зарплату."</missionmessage0.thresherlair>
+  <missionname.huskcrawlerlair>Логово инфицированных ползунов</missionname.huskcrawlerlair>
+  <missiondescription.huskcrawlerlair>Инфицированные ползуны распространяются с бешеной скоростью в [location1]. Мы не можем позволить им распространяться дальше! Помогите нам избавиться от них, убив каждого, которого вы найдете в этой пещере.</missiondescription.huskcrawlerlair>
+  <missionsuccess.huskcrawlerlair>Инфицированные ползуны успешно уничтожены.</missionsuccess.huskcrawlerlair>
+  <missionfailure.huskcrawlerlair>Местность остаётся заражённой.</missionfailure.huskcrawlerlair>
+  <missionheader0.huskcrawlerlair>Ползуны убиты</missionheader0.huskcrawlerlair>
+  <missionmessage0.huskcrawlerlair>"Вау, отличная работа! Похоже, вы успешно убили каждого из них там. Покиньте эту зону, и мы отправим вам вашу зарплату."</missionmessage0.huskcrawlerlair>
+  <missionname.wasteyard>Свалка</missionname.wasteyard>
+  <missiondescription.wasteyard>Слишком много судов погибли в [location1], и все их токсичное отходы, проникающие в океан, превратили местную фауну в чрезвычайно опасных существ. Мы не можем позволить им распространять эту инфекцию дальше! Помогите нам избавиться от них, уничтожив каждое существо и каждое яйцо, которые вы найдете на этой свалке.</missiondescription.wasteyard>
+  <missionsuccess.wasteyard>Свалка очищена.</missionsuccess.wasteyard>
+  <missionfailure.wasteyard>Место остаётся заражённым.</missionfailure.wasteyard>
+  <missionheader0.wasteyard>Цели устранены</missionheader0.wasteyard>
+  <missionmessage0.wasteyard>"Не думали, что вы выберетесь оттуда живыми! Похоже, вы всех их уничтожили. Покиньте местность, и мы отправим вам вашу оплату."</missionmessage0.wasteyard>
+  <!-- 29.03.2023 -->
+  <entityname.he-cookedhammerheadspawnfried>Жареный Детёныш молотоглава</entityname.he-cookedhammerheadspawnfried>
+  <entitydescription.he-cookedhammerheadspawnfried>Дорогая уличная еда.</entitydescription.he-cookedhammerheadspawnfried>
+  <entityname.he-rawendwormmeatpatty>Сырая Котлета из Червя Конца</entityname.he-rawendwormmeatpatty>
+  <entitydescription.he-rawendwormmeatpatty>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawendwormmeatpatty>
+  <entityname.he-rawhumansausage>Сырая Сосиска из Человечины</entityname.he-rawhumansausage>
+  <entitydescription.he-rawhumansausage>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawhumansausage>
+  <entityname.he-rawhumanmeatpatty>Сырая Котлета из Человечины </entityname.he-rawhumanmeatpatty>
+  <entitydescription.he-rawhumanmeatpatty>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawhumanmeatpatty>
+  <entityname.he-rawcrawlersausage>Сырая Колбаса из ползуна</entityname.he-rawcrawlersausage>
+  <entitydescription.he-rawcrawlersausage>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawcrawlersausage>
+  <entityname.he-rawmudraptorsausage>Сырая Колбаса из Грязевого раптора</entityname.he-rawmudraptorsausage>
+  <entitydescription.he-rawmudraptorsausage>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawmudraptorsausage>
+  <entityname.he-rawmudraptormeatpatty>Сырая Котлета из Грязевого раптора</entityname.he-rawmudraptormeatpatty>
+  <entitydescription.he-rawmudraptormeatpatty>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawmudraptormeatpatty>
+  <entityname.he-rawhammerheadsausage>Сырая Колбаса из молотоглава</entityname.he-rawhammerheadsausage>
+  <entitydescription.he-rawhammerheadsausage>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawhammerheadsausage>
+  <entityname.he-rawhammerheadmeatpatty>Сырая Котлета из молотоглава</entityname.he-rawhammerheadmeatpatty>
+  <entitydescription.he-rawhammerheadmeatpatty>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawhammerheadmeatpatty>
+  <entityname.he-rawthreshersausage>Сырая Колбаса акульего тигра</entityname.he-rawthreshersausage>
+  <entitydescription.he-rawthreshersausage>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawthreshersausage>
+  <entityname.he-rawthreshermeatpatty>Сырая Котлета из акульего тигра</entityname.he-rawthreshermeatpatty>
+  <entitydescription.he-rawthreshermeatpatty>Испортится, если не будет храниться в охлаждаемом контейнере.</entitydescription.he-rawthreshermeatpatty>
+  <entityname.exosuitplayerPA>Экзокостюм пиратов</entityname.exosuitplayerPA>
+  <entitydescription.exosuitplayerPA>Сильно модифицированный экзокостюм. Похоже, некоторые пираты довольно умелы и сумели увеличить сопротивление оглушению и позволить пользователю дышать кислородом корпуса, если он доступен.</entitydescription.exosuitplayerPA>
+  <entityname.exosuitpartsPA>Поврежденные детали пиратского экзоскелета</entityname.exosuitpartsPA>
+  <entitydescription.exosuitpartsPA>Поврежденные детали из модифицированного пиратского экзоскелета.</entitydescription.exosuitpartsPA>
+  <entityname.he-fryer>Фритюрница</entityname.he-fryer>
+  <entitydescription.he-fryer>Используется для жарки. Требует электропитания.</entitydescription.he-fryer>
+  <entityname.de-jobboard>Доска объявлений о работе</entityname.de-jobboard>
+  <afflictiondescription.he-halucinova.self>Вы чувствуете, что перемещаетесь в другое измерение.</afflictiondescription.he-halucinova.self>
+  <afflictiondescription.he-halucinova.others>Человек явно отключился от реальности.</afflictiondescription.he-halucinova.others>
+  <!-- 07.04.2023 -->
+  <missionname.destroypirateoutpost>Пиратская гавань</missionname.destroypirateoutpost>
+  <!-- 19.05.2023 -->
+  <eventtext.takeover.success>Вы слышите, как кто-то настраивается на вашу частоту: "Хватит! Мы сдаёмся! Станция ваша... Только, пожалуйста, прекратите кровопролитие!".</eventtext.takeover.success>
+  <eventtext.takeover.success.info>Покиньте станцию, чтобы получить вознаграждение.</eventtext.takeover.success.info>
+  <eventtext.takeover.complete>"Отличная работа! Теперь станция наша. Мы отправим туда пару наших людей. Она будет восстановлена и работать под нашим контролем в кратчайшие сроки! Вам же следует покинуть станцию. Я высылаю вам ваше вознаграждение..."</eventtext.takeover.complete>
+  <eventtext.takeover.attack>"Мы прибыли! Убедитесь, что ваше оружие заряжено и предохранитель снят! Сделаем это!"</eventtext.takeover.attack>
+  <eventtext.gettakeovermission.general.isactive>"Нам ещё предстоит захватить последнюю станцию, на которую был отправлен ваш экипаж, прежде чем мы сможем спланировать атаку на следующую".</eventtext.gettakeovermission.general.isactive>
+  <eventtext.gettakeovermission.coalition.highrep.askingforhelp>"Рад тебя видеть! Ваша команда отлично справляется! Мы запланировали еще одну атаку. Не мог бы ваш экипаж оказать помощь в захвате другой сепаратистской станции поблизости?"</eventtext.gettakeovermission.coalition.highrep.askingforhelp>
+  <eventtext.gettakeovermission.coalition.medrep.askingforhelp>"Поскольку ваша команда отлично справляется, мы хотели бы спросить, может ли ваш экипаж помочь нам в ещё одной атаке на сепаратистскую станцию неподалеку?"</eventtext.gettakeovermission.coalition.medrep.askingforhelp>
+  <eventtext.gettakeovermission.coalition.lowrep.askingforhelp>"Мы заметили ваши усилия по поддержанию хорошей репутации с нами и хотели бы дать вашей команде шанс доказать, что вы серьёзно настроены по отношению к нам. Помогите нам в атаке на сепаратистскую станцию поблизости, и вы скоро будете работать с нашими лучшими людьми!"</eventtext.gettakeovermission.coalition.lowrep.askingforhelp>
+  <eventtext.gettakeovermission.separatists.highrep.askingforhelp>"Рад тебя видеть! Ваша команда отлично справляется! Мы запланировали ещё одну атаку. Не мог бы ваш экипаж оказать помощь в захвате другой станции Коалиции поблизости?"</eventtext.gettakeovermission.separatists.highrep.askingforhelp>
+  <eventtext.gettakeovermission.separatists.medrep.askingforhelp>"Поскольку ваша команда отлично справляется, мы хотели бы спросить, может ли ваш экипаж помочь нам в ещё одной атаке на станцию Коалиции неподалеку?"</eventtext.gettakeovermission.separatists.medrep.askingforhelp>
+  <eventtext.gettakeovermission.separatists.lowrep.askingforhelp>""Мы заметили ваши усилия по поддержанию хорошей репутации с нами и хотели бы дать вашей команде шанс доказать, что вы серьёзно настроены по отношению к нам. Помогите нам в атаке на станцию Коалиции поблизости, и вы скоро будете работать с нашими лучшими людьми!"</eventtext.gettakeovermission.separatists.lowrep.askingforhelp>
+  <eventtext.gettakeovermission.option.accept>"Да, мы хотели бы помочь. Какая станция является нашей целью?"</eventtext.gettakeovermission.option.accept>
+  <eventtext.gettakeovermission.option.accept.answer>"Вот, я отмечу её на вашей карте... Мы также приказали некоторым из наших солдат помочь вам и вашему экипажу во время атаки. Они присоединятся к вам через минуту".</eventtext.gettakeovermission.option.accept.answer>
+  <eventtext.gettakeovermission.option.decline>"Извините, но у нас сейчас другие дела, о которых нужно позаботиться в первую очередь".</eventtext.gettakeovermission.option.decline>
+  <eventtext.gettakeovermission.option.decline.answer>"Хорошо. Дайте мне знать, когда разберётесь со своими делами или если передумаете".</eventtext.gettakeovermission.option.decline.answer>
+  <eventtext.bartender.buy.coalitionbeer>Пиво - Коалиция Премиум (10 кредитов)</eventtext.bartender.buy.coalitionbeer>
+  <eventtext.bartender.buy.separatistbeer>Пиво - Сила Сепаратистов (10 кредитов)</eventtext.bartender.buy.separatistbeer>
+  <eventtext.bartender.buy.huskbeer>Пиво - Жидкое вознесение (59 кредитов)</eventtext.bartender.buy.huskbeer>
+  <eventtext.bartender.buy.clownbeer>Пиво - Сок клоуна (38 кредитов)</eventtext.bartender.buy.clownbeer>
+  <eventtext.bartender.buy.whiskey>Виски (125 кредитов)</eventtext.bartender.buy.whiskey>
+  <eventtext.bartender.buy.coalitionbeer.success.nodrunk>"Весьма популярный выбор."</eventtext.bartender.buy.coalitionbeer.success.nodrunk>
+  <eventtext.bartender.buy.separatistbeer.success.nodrunk>"О да, аутсайдер".</eventtext.bartender.buy.separatistbeer.success.nodrunk>
+  <eventtext.bartender.buy.huskbeer.success.nodrunk>"Понятно. Интересный выбор. Вам, наверное, стоит быть осторожным с этой штукой... Я слышал, что в нём могут быть паразиты".</eventtext.bartender.buy.huskbeer.success.nodrunk>
+  <eventtext.bartender.buy.clownbeer.success.nodrunk>"Один из этих, да? Держи."</eventtext.bartender.buy.clownbeer.success.nodrunk>
+  <eventtext.bartender.buy.whiskey.success.nodrunk>"Рекомендуется врачами по всей Европе".</eventtext.bartender.buy.whiskey.success.nodrunk>
+  <eventtext.bartender.outofstock>"Извините, больше не осталось".</eventtext.bartender.outofstock>
+  <!-- 27.05.2023 -->
+  <afflictionname.temporarycrew>Временный член экипажа</afflictionname.temporarycrew>
+  <afflictiondescription.temporarycrew.other>Покинет вашу команду через 6 часов с момента присоединения.</afflictiondescription.temporarycrew.other>
+  <afflictiondescription.temporarycrew.self>Я здесь, чтобы поддерживать эту команду в течение 6 часов с момента прибытия. Ни больше, ни меньше.</afflictiondescription.temporarycrew.self>
+  <eventtext.shop.engineer.co.attack>"Вы заплатите сегодня, Viva la révolution!"</eventtext.shop.engineer.co.attack>
+  <missionname.cotakeover_separatistoutpost>Захват станции Коалиции</missionname.cotakeover_separatistoutpost>
+  <missionname.septakeover_coalitionoutpost>Захват станции Сепаратистов</missionname.septakeover_coalitionoutpost>
+  <missionheader0.coalitiontakeover>Аванпост освобождён</missionheader0.coalitiontakeover>
+  <missionmessage0.coalitiontakeover>Похоже, сепаратистам этого хватило.</missionmessage0.coalitiontakeover>
+  <missionheader0.separatisttakeover>Аванпост захвачен</missionheader0.separatisttakeover>
+  <missionmessage0.separatisttakeover>Похоже, что Коалиция отказалась от этой станции.</missionmessage0.separatisttakeover>
+  <!-- 15.06.2023 -->
+  <entityname.he-beercoalitionpremium>Коалиция Премиум</entityname.he-beercoalitionpremium>
+  <entitydescription.he-beercoalitionpremium>Популярное пиво среди населения аванпостов Коалиции.</entitydescription.he-beercoalitionpremium>
+  <entityname.he-beerjovianforce>Сила Юпитера</entityname.he-beerjovianforce>
+  <entitydescription.he-beerjovianforce>Пиво полюбившееся сепаратистам.</entitydescription.he-beerjovianforce>
+  <entityname.he-beerliquidascension>Жидкое Вознесение</entityname.he-beerliquidascension>
+  <entitydescription.he-beerliquidascension>Пиво сопровождающее прихожан Церкви Паразита на их пути к Вознесению!</entitydescription.he-beerliquidascension>
+  <entityname.he-beerclownjuice>Цирковой сок</entityname.he-beerclownjuice>
+  <entitydescription.he-beerclownjuice>Пивко заядлых пранкеров. Слава Красному носу!</entitydescription.he-beerclownjuice>
+  <entityname.he-beerreaperstribute>Дань Жнеца</entityname.he-beerreaperstribute>
+  <entitydescription.he-beerreaperstribute>Крепкое пиво в уплату дани жнеца.</entitydescription.he-beerreaperstribute>
+  <entityname.he-kitchencounter>Кухонная раковина</entityname.he-kitchencounter>
+  <entitydescription.he-kitchencounter>Может заполнять пустые бутылки и кеги морской водой, а также хранить до восемнадцати различных маленьких и средних предметов.</entitydescription.he-kitchencounter>
+  <!-- 21.06.2023 -->
+  <eventtext.piratemissionbroadcast.receive>"Йо-хо-хо, что тут у нас? Мои глаза видят хорошую добычу! Надеюсь, вы готовы..."</eventtext.piratemissionbroadcast.receive>
+  <eventtext.cocargobroadcast.receive>Вы принимаете передачу с другого судна. Что вы хотите сделать?</eventtext.cocargobroadcast.receive>
+  <eventtext.cocargobroadcast.receive.accept.answer>"Это CO-CT-43. Немедленно объявите о своих намерениях в этой области!"</eventtext.cocargobroadcast.receive.accept.answer>
+  <eventtext.cocargobroadcast.receive.accept.answer.truth>(Сказать правду) "Очевидно, что мы здесь, чтобы ограбить вас... Приготовьтесь к абордажу!"</eventtext.cocargobroadcast.receive.accept.answer.truth>
+  <eventtext.cocargobroadcast.receive.accept.answer.truth.answer>"По крайней мере, вы честны.... *ВСЕМ ЗАНЯТЬ СВОИ МЕСТА! К НАМ ПРИБЛИЖАЮТСЯ ВРАГИ*"</eventtext.cocargobroadcast.receive.accept.answer.truth.answer>
+  <eventtext.cocargobroadcast.receive.accept.answer.lie>(Соврать) "У нас есть официальный приказ адмирала Эдварда проверить ваш груз из-за возможной контрабанды. Просим вас сотрудничать с нами и остановить вашу подводную лодку."</eventtext.cocargobroadcast.receive.accept.answer.lie>
+  <eventtext.cocargobroadcast.receive.accept.answer.lie.success>"Ох, адмирал Эдвард? Конечно, мы немедленно остановим наше судно! Добро пожаловать на борт!"</eventtext.cocargobroadcast.receive.accept.answer.lie.success>
+  <eventtext.cocargobroadcast.receive.accept.answer.lie.failure>"Вы думаете, мы настолько глупы? Нет никакого адмирала Эдварда! Кем бы вы ни были, мы предлагаем вам развернуться и убраться с нашего пути или столкнётесь с последствиями."</eventtext.cocargobroadcast.receive.accept.answer.lie.failure>
+  <entityname.he-emptybottlebeer>Пустая пивная бутылка</entityname.he-emptybottlebeer>
+  <entitydescription.he-emptybottlebeer>Пустая пивная бутылка, используемая для некоторых рецептов. Можно бросить или использовать в воде для сбора морской воды.</entitydescription.he-emptybottlebeer>
+  <!-- 19.11.2023 -->
+  <eventtext.piratedivers.monitor>Монитор состояния внезапно отображает что-то внутри воздушного шлюза...</eventtext.piratedivers.monitor>
+  <eventtext.huskencounter.monitor>Монитор состояния внезапно отображает что-то внутри воздушного шлюза...</eventtext.huskencounter.monitor>
+  <eventtext.troubledengine.monitor>На мониторе состояния отображается предупреждение о неисправности двигателя. Лучше прикажите механику взглянуть.</eventtext.troubledengine.monitor>
+  <eventtext.troubledengine.engine>Двигатель перестал работать. Лучше всего быстро вернуть его в рабочее состояние.</eventtext.troubledengine.engine>
+  <eventtext.troubledengine.engine.success>Вы вернули двигатель в рабочее состояние!</eventtext.troubledengine.engine.success>
+  <eventtext.troubledengine.engine.failure>Двигатель не запустился. Попробовать еще раз?</eventtext.troubledengine.engine.failure>
+  <eventtext.troubledengine.engine.smack.failure>Какая-то деталь отвалилась. Наверняка ничего важного... Просто дайте ему немного времени, и он, вероятно, снова заработает.</eventtext.troubledengine.engine.smack.failure>
+  <eventtext.option.useitem.wrench>Использовать Гаечный Ключ</eventtext.option.useitem.wrench>
+  <eventtext.option.smack>Стукнуть!</eventtext.option.smack>
+  <eventtext.option.releasepressure>Сбросить Давление</eventtext.option.releasepressure>
+  <eventtext.option.dontbother>Пусть кто-нибудь другой разберется с этим...</eventtext.option.dontbother>
+  <eventtext.reactormalfunction.monitor>На мониторе состояния отображается предупреждение о неисправности реактора. Инженеру, вероятно, следует взглянуть.</eventtext.reactormalfunction.monitor>
+  <eventtext.reactormalfunction.reactor>Реактор работает со сбоями, и в нем повышается давление. Это серьезная проблема, и ее следует решить немедленно!</eventtext.reactormalfunction.reactor>
+  <eventtext.reactormalfunction.reactor.success>Вы решили проблему, и реактор возвращается к нормальным показателям!</eventtext.reactormalfunction.reactor.success>
+  <eventtext.reactormalfunction.reactor.failure>Вам не удалось сбросить давление. Попробовать еще раз?</eventtext.reactormalfunction.reactor.failure>
+  <eventtext.reactormalfunction.reactor.smack.failure>Какая-то деталь отвалилась. Будем надеяться, что это не что-то важное...</eventtext.reactormalfunction.reactor.smack.failure>
+</infotext>
+<!-- Переводчики Enigma#0599 и Memestofel#5403-->

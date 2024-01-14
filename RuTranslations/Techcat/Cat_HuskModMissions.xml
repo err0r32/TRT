@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- hypeskillhuskthresherswarm -->
+  <missionname.hypeskillhuskthresherswarm>Уничтожение стаи хасков</missionname.hypeskillhuskthresherswarm>
+  <missiondescription.hypeskillhuskthresherswarm>Стая акульих тигров хасков терроризирует суда, плавающие по маршруту [location1] - [location2]. Команде, способной нейтрализовать их, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhuskthresherswarm>
+  <missionsonarlabel.hypeskillhuskthresherswarm>Стая акульих тигров хасков</missionsonarlabel.hypeskillhuskthresherswarm>
+  <missionsuccess.hypeskillhuskthresherswarm>Стая уничтожена.</missionsuccess.hypeskillhuskthresherswarm>
+  <missionheader0.hypeskillhuskthresherswarm>Цель уничтожена</missionheader0.hypeskillhuskthresherswarm>
+  <missionmessage0.hypeskillhuskthresherswarm>Стая хасков уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskthresherswarm>
+  <!-- hypeskillhuskmoloch -->
+  <missionname.hypeskillhuskmoloch>Уничтожение Молоха хасков</missionname.hypeskillhuskmoloch>
+  <missiondescription.hypeskillhuskmoloch>Странный Молох терроризирует суда, плавающие по маршруту [location1] - [location2]. Тому, кто убьет это опасное создание, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhuskmoloch>
+  <missionsonarlabel.hypeskillhuskmoloch>Молох хасков</missionsonarlabel.hypeskillhuskmoloch>
+  <missionsuccess.hypeskillhuskmoloch>Молох хасков был убит.</missionsuccess.hypeskillhuskmoloch>
+  <missionheader0.hypeskillhuskmoloch>Цель уничтожена</missionheader0.hypeskillhuskmoloch>
+  <missionmessage0.hypeskillhuskmoloch>Молох хасков мертв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskmoloch>
+  <!-- hypeskillhuskhammerhead -->
+  <missionname.hypeskillhuskhammerhead>Уничтожение молотоглава хасков</missionname.hypeskillhuskhammerhead>
+  <missiondescription.hypeskillhuskhammerhead>Странный молотоглав терроризирует суда, плавающие по маршруту [location1] - [location2]. Тому, кто убьет это опасное создание, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhuskhammerhead>
+  <missionsonarlabel.hypeskillhuskhammerhead>Молотоглав хасков</missionsonarlabel.hypeskillhuskhammerhead>
+  <missionsuccess.hypeskillhuskhammerhead>Молотоглав хасков был убит.</missionsuccess.hypeskillhuskhammerhead>
+  <missionheader0.hypeskillhuskhammerhead>Цель уничтожена</missionheader0.hypeskillhuskhammerhead>
+  <missionmessage0.hypeskillhuskhammerhead>Молотоглав хасков мертв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskhammerhead>
+  <!-- hypeskillhuskgoldhammerhead -->
+  <missionname.hypeskillhuskgoldhammerhead>Уничтожение молотоглава хасков</missionname.hypeskillhuskgoldhammerhead>
+  <missiondescription.hypeskillhuskgoldhammerhead>Странный молотоглав терроризирует суда, плавающие по маршруту [location1] - [location2]. Тому, кто убьет это опасное создание, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhuskgoldhammerhead>
+  <missionsonarlabel.hypeskillhuskgoldhammerhead>Молотоглав</missionsonarlabel.hypeskillhuskgoldhammerhead>
+  <missionsuccess.hypeskillhuskgoldhammerhead>Молотоглав хасков был убит.</missionsuccess.hypeskillhuskgoldhammerhead>
+  <missionheader0.hypeskillhuskgoldhammerhead>Цель уничтожена</missionheader0.hypeskillhuskgoldhammerhead>
+  <missionmessage0.hypeskillhuskgoldhammerhead>Молотоглав хасков мертв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskgoldhammerhead>
+  <!-- hypeskillhuskmatriarch1 -->
+  <missionname.hypeskillhuskmatriarch1>Уничтожение матриарха хасков</missionname.hypeskillhuskmatriarch1>
+  <missiondescription.hypeskillhuskmatriarch1>Уничтожтье молотоглав-матриарха хасков и её свиту.</missiondescription.hypeskillhuskmatriarch1>
+  <missionsonarlabel.hypeskillhuskmatriarch1>Матриарх хасков</missionsonarlabel.hypeskillhuskmatriarch1>
+  <missionsuccess.hypeskillhuskmatriarch1>Матриарх хасков был уничтожен.</missionsuccess.hypeskillhuskmatriarch1>
+  <missionheader0.hypeskillhuskmatriarch1>Цель уничтожена</missionheader0.hypeskillhuskmatriarch1>
+  <missionmessage0.hypeskillhuskmatriarch1>Матриарх хасков уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskmatriarch1>
+  <!-- hypeskillcrawlerhuskswarm1 -->
+  <missionname.hypeskillcrawlerhuskswarm1>Уничтожение стаи хасков</missionname.hypeskillcrawlerhuskswarm1>
+  <missiondescription.hypeskillcrawlerhuskswarm1>Стая ползунов хасков терроризирует суда, плавающие по маршруту [location1] - [location2]. Команде, способной нейтрализовать их, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillcrawlerhuskswarm1>
+  <missionsonarlabel.hypeskillcrawlerhuskswarm1>Стая ползунов хасков</missionsonarlabel.hypeskillcrawlerhuskswarm1>
+  <missionsuccess.hypeskillcrawlerhuskswarm1>Стая уничтожена.</missionsuccess.hypeskillcrawlerhuskswarm1>
+  <missionheader0.hypeskillcrawlerhuskswarm1>Цель уничтожена</missionheader0.hypeskillcrawlerhuskswarm1>
+  <missionmessage0.hypeskillcrawlerhuskswarm1>Стая хасков уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillcrawlerhuskswarm1>
+  <!-- hypeskillmudraptorhuskswarm1 -->
+  <missionname.hypeskillmudraptorhuskswarm1>Уничтожение стаи хасков</missionname.hypeskillmudraptorhuskswarm1>
+  <missiondescription.hypeskillmudraptorhuskswarm1>Стая грязевых рапторов  хасков терроризирует суда, плавающие по маршруту [location1] - [location2]. Команде, способной нейтрализовать их, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillmudraptorhuskswarm1>
+  <missionsonarlabel.hypeskillmudraptorhuskswarm1>Стая грязевых рапторов хасков</missionsonarlabel.hypeskillmudraptorhuskswarm1>
+  <missionsuccess.hypeskillmudraptorhuskswarm1>Стая уничтожена.</missionsuccess.hypeskillmudraptorhuskswarm1>
+  <missionheader0.hypeskillmudraptorhuskswarm1>Цель уничтожена</missionheader0.hypeskillmudraptorhuskswarm1>
+  <missionmessage0.hypeskillmudraptorhuskswarm1>Стая хасков уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillmudraptorhuskswarm1>
+  <!-- hypeskillhumanhuskswarm1 -->
+  <missionname.hypeskillhumanhuskswarm1>Уничтожение стаи хасков</missionname.hypeskillhumanhuskswarm1>
+  <missiondescription.hypeskillhumanhuskswarm1>Стая людей хасков терроризирует суда, плавающие по маршруту [location1] - [location2]. Команде, способной нейтрализовать их, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhumanhuskswarm1>
+  <missionsonarlabel.hypeskillhumanhuskswarm1>Стая хасков</missionsonarlabel.hypeskillhumanhuskswarm1>
+  <missionsuccess.hypeskillhumanhuskswarm1>Стая уничтожена.</missionsuccess.hypeskillhumanhuskswarm1>
+  <missionheader0.hypeskillhumanhuskswarm1>Цель уничтожена</missionheader0.hypeskillhumanhuskswarm1>
+  <missionmessage0.hypeskillhumanhuskswarm1>Стая хасков уничтожен. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhumanhuskswarm1>
+  <!-- hypeskillhuskwatcher -->
+  <missionname.hypeskillhuskwatcher>Уничтожение Смотрителя хасков</missionname.hypeskillhuskwatcher>
+  <missiondescription.hypeskillhuskwatcher>Странный Смотритель терроризирует суда, плавающие по маршруту [location1] - [location2]. Тому, кто убьет это опасное создание, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhuskwatcher>
+  <missionsonarlabel.hypeskillhuskwatcher>Смотритель хасков</missionsonarlabel.hypeskillhuskwatcher>
+  <missionsuccess.hypeskillhuskwatcher>Смотритель хасков был убит.</missionsuccess.hypeskillhuskwatcher>
+  <missionheader0.hypeskillhuskwatcher>Цель уничтожена</missionheader0.hypeskillhuskwatcher>
+  <missionmessage0.hypeskillhuskwatcher>Смотритель хасков мертв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskwatcher>
+  <!-- hypeskillhuskcharybdis -->
+  <missionname.hypeskillhuskcharybdis>Охотник из бездны</missionname.hypeskillhuskcharybdis>
+  <missiondescription.hypeskillhuskcharybdis>Во время путешествий между [location1] и [location2] был слышен рёв и множество транспортных судов пропало там. Тому, кто убьет то опасное создание, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhuskcharybdis>
+  <missionsonarlabel.hypeskillhuskcharybdis>Чудовище из бездны</missionsonarlabel.hypeskillhuskcharybdis>
+  <missionsuccess.hypeskillhuskcharybdis>Харибда хасков была убита.</missionsuccess.hypeskillhuskcharybdis>
+  <missionheader0.hypeskillhuskcharybdis>Цель уничтожена</missionheader0.hypeskillhuskcharybdis>
+  <missionmessage0.hypeskillhuskcharybdis>Харибда хасков мертва. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskcharybdis>
+  <!-- hypeskillhuskendworm -->
+  <missionname.hypeskillhuskendworm>Охотник из бездны</missionname.hypeskillhuskendworm>
+  <missiondescription.hypeskillhuskendworm>Во время путешествий между [location1] и [location2] был слышен рёв и множество транспортных судов пропало там. Тому, кто убьет то опасное создание, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillhuskendworm>
+  <missionsonarlabel.hypeskillhuskendworm>Чудовище из бездны</missionsonarlabel.hypeskillhuskendworm>
+  <missionsuccess.hypeskillhuskendworm>Червь Рока хасков был убит.</missionsuccess.hypeskillhuskendworm>
+  <missionheader0.hypeskillhuskendworm>Цель уничтожена</missionheader0.hypeskillhuskendworm>
+  <missionmessage0.hypeskillhuskendworm>Червь Рока хасков мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskendworm>
+</infotexts>
+<!-- Переводчик Techcat#2371 -->

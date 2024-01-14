@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <locationchange.none.changeto.UnderAttack>[previousname] под атакой монстров.</locationchange.none.changeto.UnderAttack>
+  <locationchange.none.changeto.pirateoutpost>Пираты захватили новое убежище [previousname].</locationchange.none.changeto.pirateoutpost>
+  <locationchange.outpost.changeto.overrun>Сообщение от [previousname] указывает на то, что монстры захватили аванпост. Если они не будут уничтожены в ближайшее время, поселение будет разрушено.</locationchange.outpost.changeto.overrun>
+  <locationchange.outpost.changeto.quarantined>Маяк рядом с [previousname] отправил автоматическое сообщение SOS со станции, но никаких дальнейших сообщений получено не было.</locationchange.outpost.changeto.quarantined>
+  <locationchange.outpost.changeto.abandoned>Мы потеряли связь с [previousname]. Мы советуем проводить расследование с осторожностью.</locationchange.outpost.changeto.abandoned>
+  <locationchange.UnderAttack.changeto.none>Монстры около [previousname] были уничтожены.</locationchange.UnderAttack.changeto.none>
+  <locationchange.none.changeto.lair>Монстры отложили яйца рядом с [previousname].</locationchange.none.changeto.lair>
+  <locationchange.none.changeto.blockade>Пираты засели на [previousname] и атакуют все проходящие корабли.</locationchange.none.changeto.blockade>
+  <locationchange.lair.changeto.none>[previousname] зачищено силами коалиции.</locationchange.lair.changeto.none>
+  <locationchange.blockade.changeto.none>Пираты ушли с [previousname].</locationchange.blockade.changeto.none>
+  <locationchange.Overrun.changeto.none>Внешние силы уничтожили [previousname].</locationchange.Overrun.changeto.none>
+  <missionname.crawlerlair>Уничтожить гнездо Ползуна.</missionname.crawlerlair>
+  <missiondescription.crawlerlair>Рой ползунов осел неподалёку. Пока они находятся там, все близлежащие аванпосты находятся в опасности.</missiondescription.crawlerlair>
+  <missionsonarlabel.crawlerlair>Гнездо</missionsonarlabel.crawlerlair>
+  <missionsuccess.crawlerlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionsuccess.crawlerlair>
+  <missionfailure.crawlerlair>Существа из гнезда остаются угрозой для близлежащих колонистов.</missionfailure.crawlerlair>
+  <missionheader0.crawlerlair>Цели уничтожены.</missionheader0.crawlerlair>
+  <missionmessage0.crawlerlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionmessage0.crawlerlair>
+  <missionname.mudraptorlair>Уничтожить гнездо Грязевых рапторов.</missionname.mudraptorlair>
+  <missiondescription.mudraptorlair>Рой грязевых рапторов осел неподалёку. Близлежащие аванпосты просят уничтожить угрозу так быстро, как это возможно.</missiondescription.mudraptorlair>
+  <missionsonarlabel.mudraptorlair>Гнездо</missionsonarlabel.mudraptorlair>
+  <missionsuccess.mudraptorlair>Все цели уничтожены, выберитесь из пещеры, чтобы получить награду.</missionsuccess.mudraptorlair>
+  <missionfailure.mudraptorlair>Существа из гнезда остаются угрозой для близлежащих колонистов.</missionfailure.mudraptorlair>
+  <missionheader0.mudraptorlair>Цели уничтожены.</missionheader0.mudraptorlair>
+  <missionmessage0.mudraptorlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionmessage0.mudraptorlair>
+  <missionname.thresherlair>Уничтожьте гнездо Акульих тигров.</missionname.thresherlair>
+  <missiondescription.thresherlair>Акульи тигры неподалёку занимают всё больше территории. У них рядом должно быть гнездо, уничтожьте его, пока рой не стал слишком большим.</missiondescription.thresherlair>
+  <missionsonarlabel.thresherlair>Гнездо</missionsonarlabel.thresherlair>
+  <missionsuccess.thresherlair>Все цели уничтожены, выберитесь из пещеры, чтобы получить награду.</missionsuccess.thresherlair>
+  <missionfailure.thresherlair>Существа из гнезда остаются угрозой для близлежащих колонистов.</missionfailure.thresherlair>
+  <missionheader0.thresherlair>Цели уничтожены.</missionheader0.thresherlair>
+  <missionname.husklair>Уничтожьте гнездо Хасков.</missionname.husklair>
+  <missiondescription.husklair>Шахтёры прислали сообщение о пещере забитой хасками. Они предлагают награду любому, кто сможет уничтожить их.</missiondescription.husklair>
+  <missionsonarlabel.husklair>Гнездо</missionsonarlabel.husklair>
+  <missionsuccess.husklair>Все цели уничтожены, выберитесь из пещеры, чтобы получить награду.</missionsuccess.husklair>
+  <missionfailure.husklair>Существа из гнезда остаются угрозой для близлежащих колонистов.</missionfailure.husklair>
+  <missionheader0.husklair>Цели уничтожены.</missionheader0.husklair>
+  <missionmessage0.husklair>Все цели уничтожены и путь снова безопасен для передвижения.</missionmessage0.husklair>
+  <missionname.husklairwreck>Уничтожьте колонию Хасков.</missionname.husklairwreck>
+  <missiondescription.husklairwreck>Зарегистрирован автоматический S.O.S сигнал, с предупреждением о хасках на борту торгового судна. Сигнал достаточно старый, однако мы можем получить награду, если сначала уничтожим обитателей судна. </missiondescription.husklairwreck>
+  <missionsonarlabel.husklairwreck>S.O.S</missionsonarlabel.husklairwreck>
+  <missionsuccess.husklairwreck>Все цели уничтожены, обломки зачищены. Выберитесь из пещеры чтобы получить награду.</missionsuccess.husklairwreck>
+  <missionfailure.husklairwreck>Существа до сих пор представляют угрозу.</missionfailure.husklairwreck>
+  <missionheader0.husklairwreck>Все цели уничтожены.</missionheader0.husklairwreck>
+  <missionmessage0.husklairwreck>Все цели уничтожены и путь снова безопасен для передвижения.</missionmessage0.husklairwreck>
+  <missionname.husklairswarm>Уничтожьте гнездо Хасков.</missionname.husklairswarm>
+  <missiondescription.husklairswarm>Вспышка вируса хаска заразила местную фауну. Коалиция предлагает вознаграждение любому экипажу, готовому уничтожить зараженных существ.</missiondescription.husklairswarm>
+  <missionsonarlabel.husklairswarm>Гнездо</missionsonarlabel.husklairswarm>
+  <missionsuccess.husklairswarm>Все цели уничтожены, выберитесь из пещеры, чтобы получить награду.</missionsuccess.husklairswarm>
+  <missionfailure.husklairswarm>Существа до сих пор представляют угрозу.</missionfailure.husklairswarm>
+  <missionheader0.husklairswarm>Цели уничтожены.</missionheader0.husklairswarm>
+  <missionmessage0.husklairswarm>Все цели уничтожены и путь снова безопасен для передвижения.</missionmessage0.husklairswarm>
+  <missionname.molochlair>Отбившиеся от стаи Молохи.</missionname.molochlair>
+  <missiondescription.molochlair>Популяция местных молохов растёт. Если их станет слишком много, это повлечёт опасность для близлежащих аванпостов.</missiondescription.molochlair>
+  <missionsonarlabel.molochlair>Молохи</missionsonarlabel.molochlair>
+  <missionsuccess.molochlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionsuccess.molochlair>
+  <missionfailure.molochlair>Существа остаются угрозой для близлежащих колонистов.</missionfailure.molochlair>
+  <missionheader0.molochlair>Цели уничтожены.</missionheader0.molochlair>
+  <missionmessage0.molochlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionmessage0.molochlair>
+  <missionname.hammerheadlair>Отбившиеся от стаи Молотоглавы.</missionname.hammerheadlair>
+  <missiondescription.hammerheadlair>Молотоглавы поселились в этих пещерах, чтобы размножаться. Местные корабли и колонии находятся под угрозой, пока чудовища не будут изгнаны.</missiondescription.hammerheadlair>
+  <missionsonarlabel.hammerheadlair>Молотоглавы</missionsonarlabel.hammerheadlair>
+  <missionsuccess.hammerheadlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionsuccess.hammerheadlair>
+  <missionfailure.hammerheadlair>Существа до сих пор представляют угрозу.</missionfailure.hammerheadlair>
+  <missionheader0.hammerheadlair>Цели уничтожены.</missionheader0.hammerheadlair>
+  <missionname.broodmotherlair>Отбившиеся от стаи Ползуны.</missionname.broodmotherlair>
+  <missiondescription.broodmotherlair>Ползуны нерестятся в большом количестве, и их необходимо уничтожить, пока они не напали на соседние колонии.</missiondescription.broodmotherlair>
+  <missionsonarlabel.broodmotherlair>Ползуны</missionsonarlabel.broodmotherlair>
+  <missionsuccess.broodmotherlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionsuccess.broodmotherlair>
+  <missionfailure.broodmotherlair>Существа до сих пор представляют угрозу.</missionfailure.broodmotherlair>
+  <missionheader0.broodmotherlair>Цели уничтожены.</missionheader0.broodmotherlair>
+  <missionmessage0.broodmotherlair>Все цели уничтожены и путь снова безопасен для передвижения.</missionmessage0.broodmotherlair>
+  <eventtext.missionevent_laireasy.c1>“Разведчики заметили большую стаю монстров, гнездящихся в близлежащих пещерах. Если дать им время, они могут представлять угрозу для станции, поэтому я приготовил небольшое вознаграждение для команды, которая уничтожит гнездо.”</eventtext.missionevent_laireasy.c1>
+  <eventtext.missionevent_underattackeasy.c1>“Нападения монстров становятся все более частыми в этом районе. Мне нужен человек с достаточной огневой мощью, чтобы отправиться туда и сократить их число. Вам заплатят, когда работа будет выполнена.”</eventtext.missionevent_underattackeasy.c1>
+  <upgradecategory.coilgunturrets>Магнитная пушка</upgradecategory.coilgunturrets>
+  <upgradename.coilgunoverhaul>Сверхзарядник для магнитной пушки</upgradename.coilgunoverhaul>
+  <upgradedescription.coilgunoverhaul>Усиливает магнитный цикл для значительного увеличения скорости стрельбы. Увеличивает скорострельность на 50%.</upgradedescription.coilgunoverhaul>
+  <upgradename.coilgunfirepower>Урон магнитной пушки</upgradename.coilgunfirepower>
+  <upgradedescription.coilgunfirepower>Увеличивает урон на 7% и потребление энергии на 10%.</upgradedescription.coilgunfirepower>
+  <upgradecategory.doublecoilgunturrets>Двойная магнитная пушка</upgradecategory.doublecoilgunturrets>
+  <upgradename.doublecoilgunoverhaul>Стабилизатор для двойной магнитной пушки</upgradename.doublecoilgunoverhaul>
+  <upgradedescription.doublecoilgunoverhaul>Уравновешивая противоположные магнитные направляющие пушки, можно производить выстрелы с еще большей скоростью. Улучшает управляемость и увеличивает скорость полета снаряда на 20%.</upgradedescription.doublecoilgunoverhaul>
+  <upgradename.doublecoilgunfirepower>Урон двойной магнитной пушки</upgradename.doublecoilgunfirepower>
+  <upgradedescription.doublecoilgunfirepower>Увеличивает урон на 7% и потребление энергии на 10%.</upgradedescription.doublecoilgunfirepower>
+  <upgradecategory.flakcannons>Шрапнельное орудие</upgradecategory.flakcannons>
+  <upgradename.flakcannonhaul>Капитальная модернизация шрапнельного орудия</upgradename.flakcannonhaul>
+  <upgradedescription.flakcannonhaul>Полная переработка внутренних компонентов шрапнельного орудия приводит к улучшению скорости и точности стрельбы. Улучшает управляемость и увеличивает скорострельность на 25%.</upgradedescription.flakcannonhaul>
+  <upgradename.flakcannonfirepower>Урон шрапнельного орудия</upgradename.flakcannonfirepower>
+  <upgradedescription.flakcannonfirepower>Увеличивает урон на 7% и потребление энергии на 10%.</upgradedescription.flakcannonfirepower>
+  <upgradecategory.chainguns>Цепная пушка</upgradecategory.chainguns>
+  <upgradename.chaingunhaul>Улучшенный ротор цепной пушки</upgradename.chaingunhaul>
+  <upgradedescription.chaingunhaul>Позволяет быстро разогнать блок стволов цепной пушки до скорости стрельбы. Сокращает время раскрутки на 66%.</upgradedescription.chaingunhaul>
+  <upgradename.chaingunfirepower>Урон цепной пушки</upgradename.chaingunfirepower>
+  <upgradedescription.chaingunfirepower>Увеличивает урон на 7% и потребление энергии на 10%.</upgradedescription.chaingunfirepower>
+  <upgradecategory.pulselasers>Импульсный лазер</upgradecategory.pulselasers>
+  <upgradename.pulselaserhaul>Оптимизация импульсного лазера</upgradename.pulselaserhaul>
+  <upgradedescription.pulselaserhaul>Модернизация внутренних конденсаторов лазера значительно снижает потребность в бортовых системах питания. Сокращение времени зарядки на 50%.</upgradedescription.pulselaserhaul>
+  <upgradename.pulselaserfirepower>Урон импульсного лазера</upgradename.pulselaserfirepower>
+  <upgradedescription.pulselaserfirepower>Увеличивает урон на 7% и потребление энергии на 10%.</upgradedescription.pulselaserfirepower>
+  <upgradecategory.railguns>Рельсотрон</upgradecategory.railguns>
+  <upgradename.railgunoverhaul>Капитальная модернизация рельсотрона</upgradename.railgunoverhaul>
+  <upgradedescription.railgunoverhaul>Полная переработка внутренних компонентов рельсотрона приводит к повышению скорости и точности стрельбы. Улучшает управляемость и увеличивает скорострельность на 25%.</upgradedescription.railgunoverhaul>
+  <upgradename.railgunfirepower>Урон рельсотрона</upgradename.railgunfirepower>
+  <upgradedescription.railgunfirepower>Увеличивает урон на 7% и потребление энергии на 10%.</upgradedescription.railgunfirepower>
+  <upgradecategory.doors>Шлюзы</upgradecategory.doors>
+  <upgradename.reinforceddoor>Армированные шлюзы</upgradename.reinforceddoor>
+  <upgradedescription.reinforceddoor>Заменяет основные шлюзы на более прочные. Увеличивает прочность на 20%.</upgradedescription.reinforceddoor>
+  <upgradename.decreaseenginepower>Эффективность двигателей</upgradename.decreaseenginepower>
+  <upgradedescription.decreaseenginepower>Модернизация турбины двигателя в сборе для снижения потребления судовой электроэнергии без потери мощности. Снижает потребление энергии на 4%.</upgradedescription.decreaseenginepower>
+  <talentname.canopener>Открывашка</talentname.canopener>
+  <talentdescription.canopener>Вы открываете двери и прорезаете стены на [amount]% быстрее.</talentdescription.canopener>
+  <talentname.castledoctrine>Моя лодка это моя крепость</talentname.castledoctrine>
+  <talentdescription.castledoctrine>Вы наносите на [amount]% больше урона внутри своего судна.</talentdescription.castledoctrine>
+  <talentname.certifiedoperator>Сертифицированный оператор</talentname.certifiedoperator>
+  <talentdescription.certifiedoperator>Вы двигаетесь на 20% быстрее, когда переносите ящики или артефакты.</talentdescription.certifiedoperator>
+  <talentname.radioman>Радист</talentname.radioman>
+  <talentdescription.findadditionalscrapnew>Когда вы впервые открываете контейнер на затонувшем корабле, у вас есть[probability]% шанс найти дополнительный хлам, а также вы можете изготовить инопланетные материалы.</talentdescription.findadditionalscrapnew>
+  <talentdescription.ironstormnew>Магазины и коробки с боеприпасами которые вы изготавливаете на 1 выше качеством.</talentdescription.ironstormnew>
+  <talentdescription.toolmaintenancenew>Все члены команды изготавливают инструменты на [amount] выше качеством и ремонтируют предметы на 20% быстрее когда вы рядом.</talentdescription.toolmaintenancenew>
+  <talenttree.combatengineer>Боевой инженер</talenttree.combatengineer>
+  <talentname.privateer>Капер</talentname.privateer>
+  <talentdescription.privateer>Даёт [xpbonus]% бонусных очков опыта и [xpbonus]% бонусных кредитов когда вы завершаете миссию [missiontype].</talentdescription.privateer>
+  <talentdescription.bootcampnew>Каждый раз, когда вы заканчиваете миссию без гибели члена экипажа, вы получаете дополнительно [amount]% максимального здоровья, вплоть до [max]%. Эффект пропадает после смерти.</talentdescription.bootcampnew>
+  <talentname.leadfarmer>Свинцовый фермер</talentname.leadfarmer>
+  <talentdescription.leadfarmer>Каждый раз, когда вы завершаете хотя бы одно задание, вы получаете один свинец в свой инвентарь.</talentdescription.leadfarmer>
+  <talentdescription.stationengineernew>Даёт [bonus] бонусных кредитов после активации маяка.</talentdescription.stationengineernew>
+  <talentname.handsonlearning>Практика</talentname.handsonlearning>
+  <talentdescription.handsonlearning>Ожоги медленно заживают.</talentdescription.handsonlearning>
+  <talentname.splittingtheatom>Расщепление атома</talentname.splittingtheatom>
+  <talentdescription.splittingtheatom>Топливные стержни которые вы создаёте на [qualitybonus] выше качеством. Когда вы создаёте предмет использующий в своём создании уран, есть [percent]% шанс что уран не потребуется.</talentdescription.splittingtheatom>
+  <talentname.reverseengineering>Реверсивная инженерия</talentname.reverseengineering>
+  <talentdescription.reverseengineering>Когда вы впервые обыскиваете фрактального стража, у вас есть 25% шанс найти дополнительные предметы.</talentdescription.reverseengineering>
+  <talentname.powerplay>Игра с напряжением</talentname.powerplay>
+  <talentdescription.polymathnew>Даёт бонус 10 ко всем навыкам и на 30% больше опыта за выполнение заданий, но у вас на 30% меньше максимального здоровья.</talentdescription.polymathnew>
+  <talentname.fieldresearch>Полевые исследования</talentname.fieldresearch>
+  <talentdescription.fieldresearch>Когда вы разбираете инопланетные артефакты, вы и вся ваша команда получаете [amount] опыта, а также [percent] шанс получить двойной опыт после разбора.</talentdescription.fieldresearch>
+  <talentname.crawlerfodder>Корм для ползунов</talentname.crawlerfodder>
+  <talentdescription.crawlerfodder>Вы получаете [percent] устойчивости к кровотечению, а также когда вы отакованы монстром вы получаете [vigor] на 30 секунд, эффекты складываются.</talentdescription.crawlerfodder>
+  <talentdescription.peerlearningnew>Когда вы завершаете миссию, все члены команды с уровнем ниже вашего получают [amount] бонусного опыта.</talentdescription.peerlearningnew>
+  <talentname.drughound>Наркоконтроль</talentname.drughound>
+  <talentdescription.drughound>У вас есть [percent] шанс найти опиум когда вы впервые открываете контейнер вне своего судна.</talentdescription.drughound>
+  <talentname.greenthumb>Садовник</talentname.greenthumb>
+  <talentdescription.greenthumb>Когда вы разбираете растение есть [percent] шанс получить в 2 раза больше ресурсов.</talentdescription.greenthumb>
+  <talentname.jarhead>Тугодум</talentname.jarhead>
+  <talentdescription.jarhead>У вас на [health] больше здоровья и на [skill] больше навык обращения с оружием, но вы получаете на [percent] меньше опыта после выполнения миссий.</talentdescription.jarhead>
+  <talentname.gungho>Меткий глаз</talentname.gungho>
+  <talentdescription.gungho>Вы получаете на [xpbonus] больше опыта когда убиваете врага за пределами вашего судна из оружия дальнего боя.</talentdescription.gungho>
+  <missionname.killmudraptorveteran1>Альфа грязевой раптор</missionname.killmudraptorveteran1>
+  <missiondescription.killmudraptorveteran1>Разведчики сообщают, что видели особенно большого и крайне враждебного грязевого раптора, атакующего корабли, проходящие между [location1] и [location2]. Я могу предложить вам [reward] кредитов чтобы положить этому конец.</missiondescription.killmudraptorveteran1>
+  <missionsonarlabel.killmudraptorveteran1>Альфа грязевой раптор</missionsonarlabel.killmudraptorveteran1>
+  <missionsuccess.killmudraptorveteran1>Альфа грязевой раптор умер.</missionsuccess.killmudraptorveteran1>
+  <missionheader0.killmudraptorveteran1>Цель уничтожена.</missionheader0.killmudraptorveteran1>
+  <missionmessage0.killmudraptorveteran1>Задание выполнено, выведите подводную лодку из пещеры, чтобы получить награду.</missionmessage0.killmudraptorveteran1>
+  <missiondescription.capturingoutpost>Колония в [location1] была захвачена пиратами. Потеря такого важного объекта представляет серьезную угрозу для всего региона, и Коалиция назначила значительную награду тому, кто сможет его вернуть.</missiondescription.capturingoutpost>
+  <missiondescription.pirateblockade>Пираты атакуют корабли в [location1], побудив близлежащие аванпосты объявить награду, открытую для любого капитана, готового выследить их.</missiondescription.pirateblockade>
+  <missionname.killhuskswarm>Уничтожьте хасков.</missionname.killhuskswarm>
+  <missiondescription.killhuskswarm>Вспышка паразита хаска заразила местную фауну между [location1] и [location2]. Любому экипажу, готовому уничтожить зараженных существ, обещано вознаграждение в размере [reward] кредитов.</missiondescription.killhuskswarm>
+  <missionsonarlabel.killhuskswarm>Хаски</missionsonarlabel.killhuskswarm>
+  <missionsuccess.killhuskswarm>Поражённые существа были уничтожены.</missionsuccess.killhuskswarm>
+  <missionheader0.killhuskswarm>Цели уничтожены.</missionheader0.killhuskswarm>
+  <missionmessage0.killhuskswarm>Все зараженные мертвы. Выведите подводную лодку из пещеры, чтобы получить награду.</missionmessage0.killhuskswarm>
+  <afflictiondescription.infection.low>Рана пациента опухла и горячая на ощупь.</afflictiondescription.infection.low>
+  <afflictiondescription.infection>У пациента высокая температура, а очаг инфекции стал септическим.</afflictiondescription.infection>
+  <entityname.breaching_charge>Пробивной заряд</entityname.breaching_charge>
+  <entitydescription.breaching_charge>Небольшой заряд, используемый для пробивания корпусов кораблей.</entitydescription.breaching_charge>
+  <entityname.ekgunnery_newmediumssl>Средняя SSL турель</entityname.ekgunnery_newmediumssl>
+  <entitydescription.ekgunnery_newmediumssl>Экспериментальная орудийная система, способная быстро вести огонь на средней дальности. Стреляет 100мм торпедами.</entitydescription.ekgunnery_newmediumssl>
+  <entityname.ekgunnery_newmediumsslloader>Зарядник 100мм торпед</entityname.ekgunnery_newmediumsslloader>
+  <entitydescription.ekgunnery_newmediumsslloader>Подаёт боеприпасы в турель SSL</entitydescription.ekgunnery_newmediumsslloader>
+  <entityname.ekgunnery_mediumsslrocket_he>Торпеда HE SSL</entityname.ekgunnery_mediumsslrocket_he>
+  <entitydescription.ekgunnery_mediumsslrocket_he>Торпеда 100x800мм SSL, оснащенная взрывной боеголовкой.</entitydescription.ekgunnery_mediumsslrocket_he>
+  <entityname.ekgunnery_mediumsslrocket_ap>Торпеда HEAT SSL</entityname.ekgunnery_mediumsslrocket_ap>
+  <entitydescription.ekgunnery_mediumsslrocket_ap>Торпеда 100x800мм SSL, оснащенный бронебойной боеголовкой.</entitydescription.ekgunnery_mediumsslrocket_ap>
+  <entityname.ekgunnery_mediumsslrocket_DF>Торпеда SSL Shell "дыхание дракона"</entityname.ekgunnery_mediumsslrocket_DF>
+  <entitydescription.ekgunnery_mediumsslrocket_DF>Торпеда 100x800мм SSL, оснащенный кассетной боеголовкой ближнего взрыва. Нестабилен, не сбрасывать.</entitydescription.ekgunnery_mediumsslrocket_DF>
+  <entityname.ekgunnery_newchaingunturret>Турель точечной обороны</entityname.ekgunnery_newchaingunturret>
+  <entitydescription.ekgunnery_newchaingunturret>Орудие с высокой скорострельностью, использующее самозарядные патроны. Эффективно против мелких, быстрых целей</entitydescription.ekgunnery_newchaingunturret>
+  <entityname.ekgunnery_newchaingunloader>Зарядник для турели точечной обороны</entityname.ekgunnery_newchaingunloader>
+  <entitydescription.ekgunnery_newchaingunloader>Подает боеприпасы в связанную турель.</entitydescription.ekgunnery_newchaingunloader>
+  <entityname.ekgunnery_chaingunammo>Боеприпасы для турели точечной обороны</entityname.ekgunnery_chaingunammo>
+  <entitydescription.ekgunnery_chaingunammo>Обычные боеприпасы для турели точечной обороны.</entitydescription.ekgunnery_chaingunammo>
+  <entityname.ekgunnery_chaingunround>Боеприпас для турели точечной обороны</entityname.ekgunnery_chaingunround>
+  <entityname.ekgunnery_chaingunpiercingammo>Пробивные боеприпасы для турели точечной обороны</entityname.ekgunnery_chaingunpiercingammo>
+  <entitydescription.ekgunnery_chaingunpiercingammo>Боеприпасы для турели точечной обороны с пробивной способностью.</entitydescription.ekgunnery_chaingunpiercingammo>
+  <entityname.ekgunnery_chaingunpiercinground>Пробивной боеприпас для турели точечной обороны</entityname.ekgunnery_chaingunpiercinground>
+  <entityname.ekgunnery_chaingunphysicoriumammo>Кислотные боеприпасы для турели точечной обороны</entityname.ekgunnery_chaingunphysicoriumammo>
+  <entitydescription.ekgunnery_chaingunphysicoriumammo>Боеприпасы для турели точечной обороны с кислотой.</entitydescription.ekgunnery_chaingunphysicoriumammo>
+  <entityname.ekgunnery_chaingunphysicoriumround>Кислотный боеприпас для турели точечной обороны</entityname.ekgunnery_chaingunphysicoriumround>
+  <entityname.flakcannonslugammobox>Бронебойные снаряды с твёрдым сердечником</entityname.flakcannonslugammobox>
+  <entitydescription.flakcannonslugammobox>Специальные снаряды для пробития брони.</entitydescription.flakcannonslugammobox>
+  <entityname.skillbookbluejacket>Руководство синего пиджака</entityname.skillbookbluejacket>
+  <entitydescription.skillbookbluejacket>Исчерпывающее руководство по жизни в море. Дает небольшое количество опыта.</entitydescription.skillbookbluejacket>
+  <entityname.ekgunnery_magazinestoragesmall>Стойка для боеприпасов оборонительной турели</entityname.ekgunnery_magazinestoragesmall>
+  <entitydescription.ekgunnery_magazinestoragesmall>Защищённое хранилище для боеприпасов.</entitydescription.ekgunnery_magazinestoragesmall>
+  <entityname.ekgunnery_magazinestoragemedium>Стойка для торпед</entityname.ekgunnery_magazinestoragemedium>
+  <entitydescription.ekgunnery_magazinestoragemedium>Защищённое хранилище для торпед.</entitydescription.ekgunnery_magazinestoragemedium>
+  <entityname.servo_assisted_divesuit>Водолазный костюм с сервоприводами</entityname.servo_assisted_divesuit>
+  <entitydescription.servo_assisted_divesuit>Прочный герметичный костюм, разработанный для строительства верфей, добычи полезных ископаемых и спасательных операций. Костюм обеспечивает умеренную защиту, в него встроенны сервоприводы для противостояния сильному течению и рециркулятор CO2 для длительных операций.</entitydescription.servo_assisted_divesuit>
+  <entityname.ekutility_longrangeradio>Радио большой дальности</entityname.ekutility_longrangeradio>
+  <entitydescription.ekutility_longrangeradio>Водонепроницаемый высоко мощный радиопередатчик, предназначенный для использования экспедиционными командами коалиций.</entitydescription.ekutility_longrangeradio>
+  <entityname.ekutility_guicompass>Датчик перемещения</entityname.ekutility_guicompass>
+  <entitydescription.ekutility_guicompass>Самоподсвечивающийся ручной компас.</entitydescription.ekutility_guicompass>
+  <entityname.ekutility_placeablebattery>Портативная батарея</entityname.ekutility_placeablebattery>
+  <entityname.ekutility_sledgehammer>Кувалда</entityname.ekutility_sledgehammer>
+  <entityname.omega_ballisticshield>Баллистический щит</entityname.omega_ballisticshield>
+  <entityname.tungsten>Вольфрам</entityname.tungsten>
+  <entityname.coppertungstenalloy>Медно-вольфрамовый сплав</entityname.coppertungstenalloy>
+  <entityname.aluminiumzincalloy>Алюцинк</entityname.aluminiumzincalloy>
+  <entityname.plc>Программируемый логический контроллер</entityname.plc>
+  <entityname.quickclot>КвикЛот</entityname.quickclot>
+  <entitydescription.quickclot>Мгновенная герметизирующая повязка, предназначенная для быстрого лечения артериального кровотечения. Вызывает легкие ожоги.</entitydescription.quickclot>
+  <entityname.zagustin>Загустин</entityname.zagustin>
+  <entitydescription.zagustin>Экспериментальное лекарство, способствующее быстрому свертыванию крови, вызывает незначительные повреждения органов.</entitydescription.zagustin>
+  <entityname.statusmonitor2>Монитор состояния МК2</entityname.statusmonitor2>
+  <entityname.ekdockyard_reactorslow_small>Ядерный реактор медленного распада</entityname.ekdockyard_reactorslow_small>
+  <entitydescription.ekdockyard_reactorslow_small>Конструкция ядерного энергоблока, рассчитана на реакцию большой массы и эффективное использование топлива на подкритических уровнях.</entitydescription.ekdockyard_reactorslow_small>
+  <entityname.ek_gaussrifle>Гаусс винтовка</entityname.ek_gaussrifle>
+  <entitydescription.ek_gaussrifle>Грозовиевое оружие, использует магнитные катушки, чтобы двигать металлические пули с огромной скоростью. Требует периодической зарядки.</entitydescription.ek_gaussrifle>
+  <entityname.ek_gaussrifle_mag>Магазин гаусс винтовки</entityname.ek_gaussrifle_mag>
+  <entityname.ek_gaussrifle_round>Снаряд гаусс винтовки</entityname.ek_gaussrifle_round>
+  <entityname.gatlinglaserround>Снаряд гатлинг лазера</entityname.gatlinglaserround>
+  <entityname.gatlinglasermagazine>Термоядерное ядро</entityname.gatlinglasermagazine>
+  <entitydescription.gatlinglasermagazine>Высококачественная ядерная батарея длительного действия. Используется для питания гатлинг лазера.</entitydescription.gatlinglasermagazine>
+  <entityname.gatlinglaser>Гатлинг лазер</entityname.gatlinglaser>
+  <entitydescription.gatlinglaser>Лазер Гатлинга эффективен против небронированных противников. В качестве боеприпасов используются термоядерные ядра.</entitydescription.gatlinglaser>
+  <missionname.killmudraptors22>Вредные грязевые рапторы</missionname.killmudraptors22>
+  <missiondescription.killmudraptors22>Грязевые рапторы атаковали несколько кораблей в этом районе. Награда предлагается любому экипажу, который сможет их устранить.</missiondescription.killmudraptors22>
+  <missionname.killcrawlers22>Рой ползунов</missionname.killcrawlers22>
+  <missiondescription.killcrawlers22>Большая стая ползунов превратила эту пещеру в свое новое охотничье угодье. Судам рекомендуется использовать альтернативные маршруты.</missiondescription.killcrawlers22>
+  <missionname.killthreshers22>Стая акульих тигров</missionname.killthreshers22>
+  <missiondescription.killthreshers22>Сообщения указывают на то, что в этом районе была замечена агрессивная стая акульих тигров. Корабли предупреждены, чтобы они держались подальше, пока угроза не будет устранена.</missiondescription.killthreshers22>
+  <!-- Genes.xml -->
+  <!--Item Descriptions -->
+  <entityname.unidentifiedgeneticmaterial>Неопознанный генетический материал</entityname.unidentifiedgeneticmaterial>
+  <entitydescription.unidentifiedgeneticmaterial>Масса инопланетного генетического материала. Используйте исследовательскую станцию, чтобы идентифицировать материал и переработать его в нечто, что можно вставить в спайщик генов.</entitydescription.unidentifiedgeneticmaterial>
+  <entityname.geneticmaterialcrawler>Генетический материал (Ползун)</entityname.geneticmaterialcrawler>
+  <entitydescription.geneticmaterialcrawler>Увеличивает скорость плавания на [value]%.</entitydescription.geneticmaterialcrawler>
+  <entityname.geneticmaterialmudraptor>Генетический материал (Грязевой раптор)</entityname.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmoloch>Увеличивает сопротивление физическому урону на [value]%</entitydescription.geneticmaterialmoloch>
+  <entitydescription.geneticmaterialthresher>Снижает потребление кислорода субъектом на [value]%.</entitydescription.geneticmaterialthresher>
+  <entitydescription.geneticmaterialmantis>Увеличивает скорость передвижения по суше на [value]%.</entitydescription.geneticmaterialmantis>
+  <entitydescription.geneticmaterialhammerhead>Позволяет субъекту наносить на [value]% больше урона оружием ближнего боя.</entitydescription.geneticmaterialhammerhead>
+  <entitydescription.geneticmaterialhammerheadmatriarch>Заставляет физические повреждения субъекта заживать со скоростью [value]% в минуту.</entitydescription.geneticmaterialhammerheadmatriarch>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialhusk>Предотвращает развитие хаска до такой степени, когда паразит берет под контроль носителя.</entitydescription.geneticmaterialhusk>
+  <character.mollusc>Моллюск</character.mollusc>
+  <entitydescription.geneticmaterialmollusc>При получении физического урона субъект получает [value]% решительности.</entitydescription.geneticmaterialmollusc>
+  <character.skitter>Проныра</character.skitter>
+  <entitydescription.geneticmaterialskitter>При получении физического урона субъект получает [value]% гиперактивности.</entitydescription.geneticmaterialskitter>
+  <character.hunter>Охотник</character.hunter>
+  <entitydescription.geneticmaterialhunter>При получении физического урона субъект наносит на [value]% больше урона в ближнем бою.</entitydescription.geneticmaterialhunter>
+  <!-- Я знаю, что это уродство. Но пока так... -->
+  <!-- jank workaround -->
+  <!-- for some reason, you can't override localization files, and changing gene descriptions here has the game choose at random between vanilla desc and modded desc. -->
+  <!-- while imperfect, the likelihood of the vanilla desc appearing can be reduced by creating several copies of the modded description; for mudraptors and spinelings, that is exactly what ive done: -->
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialmudraptor>У субъекта развивается значительная способность к более быстрому восстановлению после кровотечения на [value]%.</entitydescription.geneticmaterialmudraptor>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <entitydescription.geneticmaterialspineling>Повышает устойчивость субъекта к оглушению, параличу и нейротоксинам на [value]%.</entitydescription.geneticmaterialspineling>
+  <!--Health HUD Descriptions -->
+  <afflictionname.increasedswimmingspeed>Гены ползуна</afflictionname.increasedswimmingspeed>
+  <afflictiondescription.increasedswimmingspeed>Кислород свободнее поступает в конечности субъекта, что приводит к увеличению скорости плавания. [10-50%]</afflictiondescription.increasedswimmingspeed>
+  <afflictionname.chunkyblood>Гены грязевого раптора</afflictionname.chunkyblood>
+  <afflictiondescription.chunkyblood>Кровь субъекта сворачивается и коагулирует с повышенной скоростью. [От 0,1 до 0,6 исцеления кровотечения/1с].</afflictiondescription.chunkyblood>
+  <afflictionname.hypernerves>Гены шипостая</afflictionname.hypernerves>
+  <afflictiondescription.hypernerves>Нервы субъекта гиперэффективны и устойчивы к препятствиям, токсинам и параличу. [10-25%]</afflictiondescription.hypernerves>
+  <afflictionname.damageresistance>Гены молоха</afflictionname.damageresistance>
+  <afflictiondescription.damageresistance>Кожа субъекта упрочняется и становится более устойчивой к повреждениям. [10-25%]</afflictiondescription.damageresistance>
+  <afflictionname.decreasedoxygenconsumption>Гены акульего тигра</afflictionname.decreasedoxygenconsumption>
+  <afflictiondescription.decreasedoxygenconsumption>Увеличивается жизненная емкость легких субъекта, что приводит к более эффективному потреблению кислорода. [0-100%]</afflictiondescription.decreasedoxygenconsumption>
+  <afflictionname.increasedwalkingspeed>Гены богомола</afflictionname.increasedwalkingspeed>
+  <afflictiondescription.increasedwalkingspeed>Костная структура субъекта становится легче, что приводит к увеличению скорости ходьбы и бега. [10-30%]</afflictiondescription.increasedwalkingspeed>
+  <afflictionname.increasedmeleedamage>Гены молотоглава</afflictionname.increasedmeleedamage>
+  <afflictiondescription.increasedmeleedamage>Субъект набрал мышечную массу, что привело к увеличению силы. [20-100%]</afflictiondescription.increasedmeleedamage>
+  <afflictionname.healdamage>Гены молотоглава матриарха</afflictionname.healdamage>
+  <afflictiondescription.healdamage>Раны субъекта исцеляются с ускоренной скоростью. [0-100%]</afflictiondescription.healdamage>
+  <afflictionname.vigorondamage>Гены моллюска</afflictionname.vigorondamage>
+  <afflictiondescription.vigorondamage>Болевые рецепторы субъекта немеют в ответ на физическую травму. [16-80% Решительность]</afflictiondescription.vigorondamage>
+  <afflictionname.hyperactivityondamage>Гены проныры</afflictionname.hyperactivityondamage>
+  <afflictiondescription.hyperactivityondamage>Рефлексы субъекта повышаются в ответ на физическую травму. [15-75% Гиперактивность]</afflictiondescription.hyperactivityondamage>
+  <afflictionname.increasedmeleedamageondamage>Гены охотника</afflictionname.increasedmeleedamageondamage>
+  <afflictiondescription.increasedmeleedamageondamage>В ответ на физическую травму у субъекта повышается уровень адреналина. [75%-150%]</afflictiondescription.increasedmeleedamageondamage>
+  <afflictionname.increasedmeleedamage_temporary>Повышен урон оружием ближнего боя. (Временно)</afflictionname.increasedmeleedamage_temporary>
+  <afflictionname.husktransformimmunity>Гены хаска</afflictionname.husktransformimmunity>
+  <afflictiondescription.husktransformimmunity>Объект приобрел повышенную устойчивость к трупному паразиту. [инфекция не может развиться больше 90%]</afflictiondescription.husktransformimmunity>
+  <afflictionname.tunnelvision>Туннельное зрение</afflictionname.tunnelvision>
+  <afflictiondescription.tunnelvision>Глаза субъекта чувствительны к свету. [Постоянное размытие и искажение экрана]</afflictiondescription.tunnelvision>
+  <afflictionname.rigidjoints>Жёсткие суставы</afflictionname.rigidjoints>
+  <afflictiondescription.rigidjoints>Суставы субъекта скованны, и передвигаться становится труднее. [15-45% снижение скорости передвижения]</afflictiondescription.rigidjoints>
+  <afflictionname.hypersensitivity>Гиперчувствительность</afflictionname.hypersensitivity>
+  <afflictiondescription.hypersensitivity>Кожа субъекта раздражена и более чувствительна к прикосновениям. [25-75% увеличение входящего урона]</afflictiondescription.hypersensitivity>
+  <afflictionname.xenobiology>Внеземное строение</afflictionname.xenobiology>
+  <afflictiondescription.xenobiology>Органы субъекта менее восприимчивы к традиционной медицине. [25-66% лечение снижено]</afflictiondescription.xenobiology>
+  <afflictionname.outsideinfluence>Влияние извне</afflictionname.outsideinfluence>
+  <afflictiondescription.outsideinfluence>Субъект слышит нечленораздельные голоса в своей голове. [Постоянный психоз]</afflictiondescription.outsideinfluence>
+  <afflictionname.glassjaw>Стеклянная челюсть</afflictionname.glassjaw>
+  <afflictiondescription.glassjaw>Субъект страдает от более длительных периодов бессознательного состояния, когда находится в нокауте. [25-75% снижение устойчивости к оглушению]</afflictiondescription.glassjaw>
+  <afflictionname.decrepify>Ослебленность</afflictionname.decrepify>
+  <afflictiondescription.decrepify>Выносливость субъекта снижена. [10-25% снижение уровня здоровья]</afflictiondescription.decrepify>
+  <afflictionname.musculardystrophy>Мышечная дистрофия</afflictionname.musculardystrophy>
+  <afflictiondescription.musculardystrophy>Субъект страдает от снижения мышечной массы. [10-50% снижение урона в ближнем бою]</afflictiondescription.musculardystrophy>
+  <afflictionname.inflamedlung>Воспалённые лёгкие</afflictionname.inflamedlung>
+  <afflictiondescription.inflamedlung>У субъекта наблюдается неблагоприятная реакция на кислород. [0-50% снижение уровня здоровья при дыхании]</afflictiondescription.inflamedlung>
+</infotexts>
+<!-- Переводчик Царь Некит#9637 -->

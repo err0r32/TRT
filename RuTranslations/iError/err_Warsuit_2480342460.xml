@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <displayname.uesmcalternatewarsuit>[itemname] (Weld helmet)</displayname.uesmcalternatewarsuit>
+  <!--
+	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
+	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
+	
+	-->
+  <!-- Warsuit seperated -->
+  <entityname.warsuitr>Костюм Боескафандра Б.Е.З.Д.Н.А.</entityname.warsuitr>
+  <entitydescription.warsuitr>В последнем "Боескафандре" смешаны технологии всех имеющихся на рынке гидрокостюмов. Эргономика оригинала, пластины боевого варианта и демпферы давления от скафандра бездны.</entitydescription.warsuitr>
+  <entityname.warsuithr>Шлем Боескафандра Б.Е.З.Д.Н.А.</entityname.warsuithr>
+  <entitydescription.warsuithr>В последнем "Боескафандре" смешаны технологии всех имеющихся на рынке гидрокостюмов. Эргономика оригинала, пластины боевого варианта и демпферы давления от скафандра бездны.</entitydescription.warsuithr>
+  <!-- Warsuit fullsuit -->
+  <entityname.warsuitrfull>Комплект Боескафандра Б.Е.З.Д.Н.А.</entityname.warsuitrfull>
+  <entitydescription.warsuitrfull>В последнем "Боескафандре" смешаны технологии всех имеющихся на рынке гидрокостюмов. Эргономика оригинала, пластины боевого варианта и демпферы давления от скафандра бездны.</entitydescription.warsuitrfull>
+  <entityname.warsuitrnpc>Комплект Боескафандра Б.Е.З.Д.Н.А.</entityname.warsuitrnpc>
+  <entitydescription.warsuitrnpc>В последнем "Боескафандре" смешаны технологии всех имеющихся на рынке гидрокостюмов. Эргономика оригинала, пластины боевого варианта и демпферы давления от скафандра бездны.</entitydescription.warsuitrnpc>
+  <!-- Composts -->
+  <entityname.warsuitdscompost>Разложившиеся останки водолазного скафандра</entityname.warsuitdscompost>
+  <entitydescription.warsuitdscompost>Первый шаг к переработке необходимого каркаса для Боекостюма. Используется непосредственно как компонент для полноценного скафандра или может быть деконструирован на отдельные запчасти.</entitydescription.warsuitdscompost>
+  <entityname.warsuitcdscompost>Разложившиеся останки боевого водолазного скафандра</entityname.warsuitcdscompost>
+  <entitydescription.warsuitcdscompost>Первый шаг к переработке необходимого каркаса для Боекостюма. Используется непосредственно как компонент для полноценного скафандра или может быть деконструирован на отдельные запчасти.</entitydescription.warsuitcdscompost>
+  <entityname.warsuitdadscompost>Разложившиеся останки водолазного скафандра бездны</entityname.warsuitdadscompost>
+  <entitydescription.warsuitdadscompost>Первый шаг к переработке необходимого каркаса для Боекостюма. Используется непосредственно как компонент для полноценного скафандра или может быть деконструирован на отдельные запчасти.</entitydescription.warsuitdadscompost>
+  <!-- Components -->
+  <entityname.warsuitframe>Каркас Боескафандра</entityname.warsuitframe>
+  <entitydescription.warsuitframe>Каркас водолазного скафандра, костяк Боескафандра. Получен путем деконструкции останков водолазного скафандра.</entitydescription.warsuitframe>
+  <entityname.warsuitpadding>Заплатки Боескафандра</entityname.warsuitpadding>
+  <entitydescription.warsuitpadding>Прочные листы металла с гораздо более мягкой внутренней подкладкой - это щиты боевого скафандра. Получен путем деконструкции останков боевого водолазного скафандра.</entitydescription.warsuitpadding>
+  <entityname.warsuitdampers>Демпферы Боескафандра</entityname.warsuitdampers>
+  <entitydescription.warsuitdampers>Демпферы позволяют быстро адаптироваться к постоянному давлению, что удобно, когда мир состоит из воды. Получен путем деконструкции останков водолазного скафандра бездны.</entitydescription.warsuitdampers>
+  <entityname.warsuithelmetframe>Каркас шлема Боескафандра</entityname.warsuithelmetframe>
+  <entitydescription.warsuithelmetframe>Каркас водолазного шлема, череп Боескафандра. Получен путем деконструкции останков водолазного скафандра.</entitydescription.warsuithelmetframe>
+  <entityname.warsuitglass>Пуленепробиваемое стекло Боескафандра</entityname.warsuitglass>
+  <entitydescription.warsuitglass>Пуленепробиваемость означает, что всему, что попытается цапнуть вас за лицо, будет очень трудно это сделать. Получен путем деконструкции останков боевого водолазного скафандра.</entitydescription.warsuitglass>
+  <entityname.warsuitpress>Нагнетатель давления Боескафандра</entityname.warsuitpress>
+  <entitydescription.warsuitpress>Сдерживание давления воды снаружи - одна из многочисленных проблем, поддержание давления на уровне, близком к человеческому, является жизненно важным для подводных операций. Получен путем деконструкции останков водолазного скафандра бездны.</entitydescription.warsuitpress>
+  <!-- B-Rods -->
+  <entityname.marinebatteryrodr>Б-стержень</entityname.marinebatteryrodr>
+  <entitydescription.marinebatteryrodr>Мощный стержень для столь же мощного костюма, перезаряжайте его в зарядном доке или батарее челнока. Хотя он использует компоненты стержня, он не истощается; вместо этого он использует электрический ток от батарей для выполнения большей части сложной работы.</entitydescription.marinebatteryrodr>
+  <entityname.marinethoriumbatteryrodr>Сфокусированный Б-Стержень</entityname.marinethoriumbatteryrodr>
+  <entitydescription.marinethoriumbatteryrodr>Повышает устойчивость к психозу. Мощный стержень для столь же мощного костюма, перезаряжайте его в зарядном доке или батарее челнока. Хотя он использует компоненты стержня, он не истощается; вместо этого он использует электрический ток от батарей для выполнения большей части сложной работы.</entitydescription.marinethoriumbatteryrodr>
+  <entityname.marinefulguriumbatteryrodr>Энергичный Б-Стержень</entityname.marinefulguriumbatteryrodr>
+  <entitydescription.marinefulguriumbatteryrodr>Повышает скорость ходьбы и плавания. Мощный стержень для столь же мощного костюма, перезаряжайте его в зарядном доке или батарее челнока. Хотя он использует компоненты стержня, он не истощается; вместо этого он использует электрический ток от батарей для выполнения большей части сложной работы.</entitydescription.marinefulguriumbatteryrodr>
+  <entityname.marinedecoybatteryrodr>Насмешливый Б-Стержень</entityname.marinedecoybatteryrodr>
+  <entitydescription.marinedecoybatteryrodr>Значительно повышает защиту, но существа охотнее предпочтут вас в качестве еды. Мощный стержень для столь же мощного костюма, перезаряжайте его в зарядном доке или батарее челнока. Хотя он использует компоненты стержня, он не истощается; вместо этого он использует электрический ток от батарей для выполнения большей части сложной работы.</entitydescription.marinedecoybatteryrodr>
+  <entityname.marineboostbatteryrodr>Стимулирующий Б-Стержень</entityname.marineboostbatteryrodr>
+  <entitydescription.marineboostbatteryrodr>Повышенная устойчивость к параличу. Мощный стержень для столь же мощного костюма, перезаряжайте его в зарядном доке или батарее челнока. Хотя он использует компоненты стержня, он не истощается; вместо этого он использует электрический ток от батарей для выполнения большей части сложной работы.</entitydescription.marineboostbatteryrodr>
+  <!-- Helmet container -->
+  <entityname.divehelmlockerr>Ящик для водолазных шлемов</entityname.divehelmlockerr>
+  <entitydescription.divehelmlockerr></entitydescription.divehelmlockerr>
+  <entityname.largedivehelmlockervr>Большой ящик для водолазных шлемов(вертикальный)</entityname.largedivehelmlockervr>
+  <entitydescription.largedivehelmlockervr></entitydescription.largedivehelmlockervr>
+  <entityname.largedivehelmlockerhr>Большой ящик для водолазных шлемов(горизонтальный)</entityname.largedivehelmlockerhr>
+  <entitydescription.largedivehelmlockerhr></entitydescription.largedivehelmlockerhr>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->

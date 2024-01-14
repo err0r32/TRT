@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--Talents-->
+  <talentname.genespliceromega>Сращивание генов "Омега"</talentname.genespliceromega>
+  <talentdescription.genespliceromega>Когда-то считалось невозможным полностью интегрироваться с европейскими формами жизни, но вы быстро обнаружили, насколько это ошибочно, и благодаря своим исследовательским навыкам изобрели самое мощное в мире устройство для изменения генов. Открывает рецепт спайщика генов "Омега"</talentdescription.genespliceromega>
+  <!-- Characters -->
+  <character.mudraptorveteran>Грязераптор-ветеран</character.mudraptorveteran>
+  <!--Afflictions-->
+  <afflictionname.eyeball>Гены смотрителя</afflictionname.eyeball>
+  <afflictionname.fractallyenhanced>Гены фрактального стража</afflictionname.fractallyenhanced>
+  <afflictionname.psilobiotic>Гены псиложабы</afflictionname.psilobiotic>
+  <afflictionname.goldenhammerheadeffect>Гены золотого молотоглава</afflictionname.goldenhammerheadeffect>
+  <afflictionname.watchersgazefrendly>"Взгляд смотрителя"</afflictionname.watchersgazefrendly>
+  <afflictionname.crawlerbroodmothereffect>Гены матки роя ползунов</afflictionname.crawlerbroodmothereffect>
+  <!--Items-->
+  <entitydescription.geneticmaterialwatcher>Субъект получает способность выделять феромоны, повышающие эффективность, в результате чего находящиеся поблизости члены экипажа становятся более сосредоточенными и разъяренными.</entitydescription.geneticmaterialwatcher>
+  <entitydescription.geneticmaterialfractalguardian>Ваш мозг наполнится информацией обо всем электрическом и механическом, что повысит скорость ремонта до непревзойденного уровня.</entitydescription.geneticmaterialfractalguardian>
+  <entitydescription.geneticmaterialpsilotoad>Модифицированные гены псиложабы, которые продуцируют антибиотическое соединение, позволяющее обратить вспять заражение паразитами, вы все равно можете быть полностью инфицированы при достаточно высоком уровне заражения.</entitydescription.geneticmaterialpsilotoad>
+  <entitydescription.geneticmaterialhammerheadgold>Значительно увеличивает скорость передвижения по суше и в воде.</entitydescription.geneticmaterialhammerheadgold>
+  <entityname.genespliceroverdrivechip>Разогнанный чип для спайщика генов</entityname.genespliceroverdrivechip>
+  <entitydescription.genespliceroverdrivechip>Нелегальный чип, который используется для разгона вашего спайщика генов.</entitydescription.genespliceroverdrivechip>
+  <entityname.genespliceralpha>Спайщик генов "Альфа"</entityname.genespliceralpha>
+  <entitydescription.genespliceralpha>Улучшенная версия, позволяющая активировать сразу три типа генетического материала.</entitydescription.genespliceralpha>
+  <entityname.genesplicersuper>Спайщик генов "Бета"</entityname.genesplicersuper>
+  <entitydescription.genesplicersuper>Улучшенная версия, позволяющая активировать сразу четыре типа генетического материала.</entitydescription.genesplicersuper>
+  <entityname.genesplicergamma>Спайщик генов "Гамма"</entityname.genesplicergamma>
+  <entitydescription.genesplicergamma>Улучшенная версия, позволяющая активировать сразу пять типов генетического материала.</entitydescription.genesplicergamma>
+  <entityname.genesplicerdelta>Спайщик генов "Дельта"</entityname.genesplicerdelta>
+  <entitydescription.genesplicerdelta>Улучшенная версия, позволяющая активировать сразу шесть типов генетического материала.</entitydescription.genesplicerdelta>
+  <entityname.genesplicerepsilon>Спайщик генов "Эпсилон"</entityname.genesplicerepsilon>
+  <entitydescription.genesplicerepsilon>Улучшенная версия, позволяющая активировать сразу семь типов генетического материала.</entitydescription.genesplicerepsilon>
+  <entityname.genespliceromega>Спайщик генов "Дзета"</entityname.genespliceromega>
+  <entitydescription.genespliceromega>Улучшенная версия, позволяющая активировать сразу восемь типов генетического материала.</entitydescription.genespliceromega>
+  <entityname.genesplicereta>Спайщик генов "Эта"</entityname.genesplicereta>
+  <entitydescription.genesplicereta>Улучшенная версия, позволяющая активировать сразу девять типов генетического материала.</entitydescription.genesplicereta>
+  <entityname.genesplicertheta>Спайщик генов "Тета"</entityname.genesplicertheta>
+  <entitydescription.genesplicertheta>Улучшенная версия, позволяющая активировать сразу десять типов генетического материала.</entitydescription.genesplicertheta>
+  <entityname.genespliceriota>Спайщик генов "Йота"</entityname.genespliceriota>
+  <entitydescription.genespliceriota>Улучшенная версия, позволяющая активировать сразу одиннадцать типов генетического материала.</entitydescription.genespliceriota>
+  <entityname.genesplicerkappa>Спайщик генов "Каппа"</entityname.genesplicerkappa>
+  <entitydescription.genesplicerkappa>Улучшенная версия, позволяющая активировать сразу двенадцать типов генетического материала.</entitydescription.genesplicerkappa>
+  <entityname.genesplicerlambda>Спайщик генов "Лямбда"</entityname.genesplicerlambda>
+  <entitydescription.genesplicerlambda>Улучшенная версия, позволяющая активировать сразу тринадцать типов генетического материала.</entitydescription.genesplicerlambda>
+  <entityname.genesplicermu>Спайщик генов "Мю"</entityname.genesplicermu>
+  <entitydescription.genesplicermu>Улучшенная версия, позволяющая активировать сразу четырнадцать типов генетического материала.</entitydescription.genesplicermu>
+  <entityname.genesplicernu>Спайщик генов "Ню"</entityname.genesplicernu>
+  <entitydescription.genesplicernu>Улучшенная версия, позволяющая активировать сразу пятнадцать типов генетического материала.</entitydescription.genesplicernu>
+  <entityname.genesplicerxi>Спайщик генов "Кси"</entityname.genesplicerxi>
+  <entitydescription.genesplicerxi>Улучшенная версия, позволяющая активировать сразу шестнадцать типов генетического материала.</entitydescription.genesplicerxi>
+  <entityname.genespliceromicron>Спайщик генов "Омикрон"</entityname.genespliceromicron>
+  <entitydescription.genespliceromicron>Улучшенная версия, позволяющая активировать сразу семнадцать типов генетического материала.</entitydescription.genespliceromicron>
+  <entityname.genesplicerpi>Спайщик генов "Пи"</entityname.genesplicerpi>
+  <entitydescription.genesplicerpi>Улучшенная версия, позволяющая активировать сразу восемнадцать типов генетического материала.</entitydescription.genesplicerpi>
+  <entityname.genesplicerrho>Спайщик генов "Ро"</entityname.genesplicerrho>
+  <entitydescription.genesplicerrho>Улучшенная версия, позволяющая активировать сразу девятнадцать типов генетического материала.</entitydescription.genesplicerrho>
+  <entityname.genesplicersigma>Спайщик генов "Сигма"</entityname.genesplicersigma>
+  <entitydescription.genesplicersigma>Улучшенная версия, позволяющая активировать сразу двадцать типов генетического материала.</entitydescription.genesplicersigma>
+  <entityname.genesplicertau>Спайщик генов "Тау"</entityname.genesplicertau>
+  <entitydescription.genesplicertau>Улучшенная версия, позволяющая активировать сразу двадцать один тип генетического материала.</entitydescription.genesplicertau>
+  <entityname.genesplicerupsilon>Спайщик генов "Ипсилон"</entityname.genesplicerupsilon>
+  <entitydescription.genesplicerupsilon>Улучшенная версия, позволяющая активировать сразу двадцать два типа генетического материала.</entitydescription.genesplicerupsilon>
+  <entityname.genesplicerphi>Спайщик генов "Фи"</entityname.genesplicerphi>
+  <entitydescription.genesplicerphi>Улучшенная версия, позволяющая активировать сразу двадцать три типа генетического материала.</entitydescription.genesplicerphi>
+  <entityname.genesplicerchi>Спайщик генов "Хи"</entityname.genesplicerchi>
+  <entitydescription.genesplicerchi>Улучшенная версия, позволяющая активировать сразу двадцать четыре типа генетического материала.</entitydescription.genesplicerchi>
+  <entityname.genesplicerpsi>Спайщик генов "Пси"</entityname.genesplicerpsi>
+  <entitydescription.genesplicerpsi>Улучшенная версия, позволяющая активировать сразу двадцать пять типов генетического материала.</entitydescription.genesplicerpsi>
+  <entityname.genesplicerzeta>Спайщик генов "Омега"</entityname.genesplicerzeta>
+  <entitydescription.genesplicerzeta>Улучшенная версия, позволяющая активировать сразу двадцать шесть типов генетического материала.</entitydescription.genesplicerzeta>
+</infotexts>
+<!-- Переводчик sfgtoha-->

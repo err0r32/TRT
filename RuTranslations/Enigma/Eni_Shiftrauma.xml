@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.emptyball>Треснувшая пустая сфера</entityname.emptyball>
+  <entitydescription.emptyball>Странная пустая сфера с трещинами, наполненная непроглядной тьмой. Для чего её можно использовать?</entitydescription.emptyball>
+  <entityname.mudraptortransform>Странная голубая сфера</entityname.mudraptortransform>
+  <entitydescription.mudraptortransform>Этот стеклоподобный шар даёт чувство стремительной скорости и агрессии. Он вызывает приятные ощущения! Скорость... дай мне. Можно использовать внутри.</entitydescription.mudraptortransform>
+  <entityname.darkmudraptortransform>Странная синяя сфера</entityname.darkmudraptortransform>
+  <entitydescription.darkmudraptortransform>Этот стеклоподобный шар производит впечатление стремительной скорости и ЖЕСТОКОСТИ. Он заставляет вас чувствовать себя потрясающе! Крооовь... дай мне. Можно использовать внутри.</entitydescription.darkmudraptortransform>
+  <entityname.broodmothertransform>Странная жёлтая сфера</entityname.broodmothertransform>
+  <entitydescription.broodmothertransform>От этого странно большого шара исходят одновременно склизкие и материнские жидкости. Нервирует...</entitydescription.broodmothertransform>
+  <entityname.hammerheadtransform>Странная красная сфера</entityname.hammerheadtransform>
+  <entitydescription.hammerheadtransform>Эта штука - тяжёлый шар, вызывающий чувство агрессии. Я только слегка разозлился! И мои руки уже устали.</entitydescription.hammerheadtransform>
+  <entityname.matriarchtransform>Странная большая фиолетовая сфера</entityname.matriarchtransform>
+  <entitydescription.matriarchtransform>Эта штука - чрезвычайно тяжёлый и большой фиолетовый шар, который вибрирует от агрессии. Клянусь, я вижу, как в нём плавают маленькие существа. Пожалуйста, оставьте его в покое.</entitydescription.matriarchtransform>
+  <entityname.threshertransform>Странная оранжевая? полосатая сфера</entityname.threshertransform>
+  <entitydescription.threshertransform>Хотя этот шар выглядит так, будто он сделан из какого-то экзотического стекла, его поверхность на ощупь напоминает наждачную бумагу. Хм, возможно, я мог бы использовать его, чтобы отшлифовать некоторые острые края, о которые я постоянно режусь.</entitydescription.threshertransform>
+  <entityname.bonethreshertransform>Странная песочная? полосатая сфера</entityname.bonethreshertransform>
+  <entitydescription.bonethreshertransform>Эта такая же абразивный, как и другая, только теперь она выглядит как песок, в два раза больше и весит в 5 раз больше. Вероятно, её также можно использовать в качестве устройства пыточного!</entitydescription.bonethreshertransform>
+  <entityname.fractalguardiantransform>Странная серая чешуйчатая сфера</entityname.fractalguardiantransform>
+  <entitydescription.fractalguardiantransform>Очень странная сфера, имеющая мало общего с другими шарами. Она выглядит как постоянно меняющаяся масса живого металла и на ощупь кажется чешуйчатой. Странно тёплая...</entitydescription.fractalguardiantransform>
+  <entityname.spinelingtransform>Странная металлическая сфера</entityname.spinelingtransform>
+  <entitydescription.spinelingtransform>В отличие от многих других шаров, этот, похоже, сделан из гладкого металла. Хотя я бы не назвал его гладким, так как только что получил небольшую металлическую занозу в большом пальце.</entitydescription.spinelingtransform>
+  <entityname.giantspinelingtransform>Странная чёрная металлическая сфера</entityname.giantspinelingtransform>
+  <entitydescription.giantspinelingtransform>Эта сфера тоже металлическая, однако металл, из которого она состоит, гораздо темнее, чем прошлый. Кроме того, я почти уверен, что уколол палец о какой-то невидимый шип.</entitydescription.giantspinelingtransform>
+  <entityname.mantistransform>Странный сферический камень</entityname.mantistransform>
+  <entitydescription.mantistransform>Так, этот шар имеет те же джуджу вибрации, что и остальные, только теперь это просто грубый круглый камень. Смотрите, в нём даже есть два отверстия! (͡° ͜ʖ ͡°)</entitydescription.mantistransform>
+  <entityname.watchertransform>Странная чёрная сфера</entityname.watchertransform>
+  <entitydescription.watchertransform>Чёрный шар, напоминающий обсидиан. Он странно покалывает, когда я прикасаюсь к нему. Интересно, он съедобен?</entitydescription.watchertransform>
+  <entityname.watervision>Зрение</entityname.watervision>
+  <entityname.watchervision>Зрение наблюдателя</entityname.watchervision>
+  <entityname.mudraptorleap>Прыжок грязевого раптора</entityname.mudraptorleap>
+  <entitydescription.mudraptorleap>Прыгните в направлении вашего курсора!</entitydescription.mudraptorleap>
+  <entityname.darkmudraptorleap>Прыжок тёмного мудраптора</entityname.darkmudraptorleap>
+  <entitydescription.darkmudraptorleap>Прыгните в направлении вашего курсора!</entitydescription.darkmudraptorleap>
+  <entityname.crawlerspawn>Создать дружественных ползунов</entityname.crawlerspawn>
+  <entitydescription.crawlerspawn>При использовании создаёт дружественных ползунов, которые помогают вам сражаться!</entitydescription.crawlerspawn>
+  <entityname.hammerattack>Атака молотом</entityname.hammerattack>
+  <entitydescription.hammerattack>Атака, вызывающая взрыв, наносящий урон всем поблизости.</entitydescription.hammerattack>
+  <entityname.goldenhammerattack>Атака золотым молотом</entityname.goldenhammerattack>
+  <entitydescription.goldenhammerattack>Атака, вызывающая взрыв, наносящий урон всем поблизости.</entitydescription.goldenhammerattack>
+  <entityname.momhammerattack>Атака молотом матриарха</entityname.momhammerattack>
+  <entitydescription.momhammerattack>Атака, вызывающая взрыв, наносящий урон всем поблизости.</entitydescription.momhammerattack>
+  <entityname.boomspawn>Создать злых детёнышей молотоглава</entityname.boomspawn>
+  <entitydescription.boomspawn>Создаёт злую маленькую взрывчатку в виде детёнышей молотоглава. Они взрываются при смерти, и даже малейшего толчка достаточно, чтобы привести их в действие.</entitydescription.boomspawn>
+  <entityname.hammerheadspawn>Создать дружественного молотоглава!</entityname.hammerheadspawn>
+  <entitydescription.hammerheadspawn>Используйте, чтобы создать дружественного молотоглава, который поможет вам в сражении!</entitydescription.hammerheadspawn>
+  <entityname.thresherspawn>Создать дружественных акульих тигров!</entityname.thresherspawn>
+  <entitydescription.thresherspawn>При использовании создаёт дружественных акульих тигров, которые помогают вам сражаться!</entitydescription.thresherspawn>
+  <entityname.thresherdash>Рывок тигра</entityname.thresherdash>
+  <entitydescription.thresherdash>Быстро переместитесь вперёд, чтобы избежать врагов. Не используйте внутри подлодки, так как это нанесёт вам урон.</entitydescription.thresherdash>
+  <entityname.bonethresherdash>Рывок костяного тигра</entityname.bonethresherdash>
+  <entitydescription.bonethresherdash>Быстро переместитесь вперёд, чтобы избежать врагов. Не используйте внутри подлодки, так как это нанесёт вам урон.</entitydescription.bonethresherdash>
+  <entityname.guardiansteamcannonplayer>Паровая пушка стража</entityname.guardiansteamcannonplayer>
+  <entitydescription.guardiansteamcannonplayer>Устройство для ускорения частиц на основе пара, которое можно использовать для быстрого восстановления повреждений, нанесённых стенам, а также в качестве оружия в случае необходимости.</entitydescription.guardiansteamcannonplayer>
+  <entityname.abyssvision>Видение бездны</entityname.abyssvision>
+  <entitydescription.abyssvision>Я могу ВИДЕТЬ ВСЁ.</entitydescription.abyssvision>
+  <entityname.endwormdash>Рывок конца</entityname.endwormdash>
+  <entitydescription.endwormdash>Что может быть страшнее червя конца? Быстрый червь конца. Я САМА НЕОТВРАТИМОСТЬ</entitydescription.endwormdash>
+  <entityname.bonethresherspawn>Создать дружественного костяного тигра</entityname.bonethresherspawn>
+  <entitydescription.bonethresherspawn>Используйте для создания дружественных костяных тигров, которые будут сражаться за вас! Я СТАЛ БОГОМ.</entitydescription.bonethresherspawn>
+  <entityname.endwormbite>Укус конца</entityname.endwormbite>
+  <entitydescription.endwormbite>Соедините клыки вместе, чтобы получить смертоносный взрыв. Я - ВЕРШИТЕЛЬ СМЕРТИ.</entitydescription.endwormbite>
+  <entityname.spineshooter>Выстрелить шипом</entityname.spineshooter>
+  <entitydescription.spineshooter>Запустить шип в эту надоедливую рыбу.</entitydescription.spineshooter>
+  <entityname.mantisknife>Нож мантиса</entityname.mantisknife>
+  <entitydescription.mantisknife>Чик, чик.</entitydescription.mantisknife>
+  <entityname.watcherthresherspawn>Создать дружественных акульих тигров!</entityname.watcherthresherspawn>
+  <entitydescription.watcherthresherspawn>При использовании создаёт дружественных акульих тигров, которые помогают вам сражаться!</entitydescription.watcherthresherspawn>
+  <entityname.watcherspinelingspawn>Создать парочку шпинелинов</entityname.watcherspinelingspawn>
+  <entitydescription.watcherspinelingspawn>Теперь вы можете создать свой собственный рой шпинелинов!</entitydescription.watcherspinelingspawn>
+  <entityname.watchercrawlerspawn>Создать дружественных ползунов!</entityname.watchercrawlerspawn>
+  <entitydescription.watchercrawlerspawn>При использовании создаёт дружественных ползунов, которые помогают вам сражаться!</entitydescription.watchercrawlerspawn>
+  <entityname.mudraptorspawn>Создать дружественных грязевых рапторов</entityname.mudraptorspawn>
+  <entitydescription.mudraptorspawn>При использовании создаёт дружественных грязевых рапторов, которые помогают вам сражаться!</entitydescription.mudraptorspawn>
+  <entityname.charybdisscream>Крик харибды</entityname.charybdisscream>
+  <entitydescription.charybdisscream>Кричите очень громко, оглушая всех поблизости и разрывая их барабанные перепонки.</entitydescription.charybdisscream>
+  <entityname.charybdistransform>Странная тёмно-красная сфера</entityname.charybdistransform>
+  <entitydescription.charybdistransform>Сфера, заполненная до краев непроглядной тьмой, напоминающей Бездну с оттенками глубокого кроваво-красного цвета. Если долго смотреть в Бездну, то кроваво-красный цвет будет смотреть на вас.</entitydescription.charybdistransform>
+  <entityname.latchertransform>Странная шипастая кристаллическая сфера</entityname.latchertransform>
+  <entitydescription.latchertransform>Сфера, покрытая шипастыми кристаллами всевозможных размеров. Как бы вы ни старались, вы не можете понять, из чего растут эти прозрачные кристаллы. Если долго всматриваться в тёмные кристаллы, можно увидеть отражение сотен глаз, смотрящих в ответ.</entitydescription.latchertransform>
+  <entityname.massivespineshooter>Выстрелить одним огромным шипом</entityname.massivespineshooter>
+  <entitydescription.massivespineshooter>Запустите массивный шип с ужасающей силой в тех, кто посмеет встать на вашем пути.</entitydescription.massivespineshooter>
+</infotext>
+<!-- Discord переводчика: enigmans -->

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- weapons-->
+  <!-- AK-12 -->
+  <entityname.AK-12>АК-12</entityname.AK-12>
+  <entitydescription.AK-12>Стандартный автомат калибра 5,45х39мм</entitydescription.AK-12>
+  <!-- RPK-74 -->
+  <entityname.RPK-74>РПК-74</entityname.RPK-74>
+  <!-- RPK-16 -->
+  <entityname.RPK-16>РПК-16</entityname.RPK-16>
+  <entitydescription.RPK-16>Ручной пулемёт калибра 5,45х39мм с 95 магазином</entitydescription.RPK-16>
+  <!-- PP-2000 -->
+  <entityname.PP-2000>ПП-2000</entityname.PP-2000>
+  <entitydescription.PP-2000>Быстрый ПП калибра 9х19мм</entitydescription.PP-2000>
+  <!-- vityaz -->
+  <entityname.vityaz>ПП-19 Витязь</entityname.vityaz>
+  <entitydescription.vityaz>ПП калибра 9х19мм</entitydescription.vityaz>
+  <!-- ADS -->
+  <entityname.ADS>АДС</entityname.ADS>
+  <entitydescription.ADS>Винтовка-амфибия, предназначенная для дайверов. Использует магазины АК-74</entitydescription.ADS>
+  <!-- RMB-93 -->
+  <entityname.RMB-93>РМБ-93</entityname.RMB-93>
+  <entitydescription.RMB-93>Помповое ружье ближнего боя</entitydescription.RMB-93>
+  <!-- MP-443 -->
+  <entityname.MP-443>МР-443 Грач</entityname.MP-443>
+  <!-- ASVal -->
+  <entityname.ASVal>АС Вал</entityname.ASVal>
+  <entitydescription.ASVal>Автомат со встроенным глушителем калибра 9х39мм</entitydescription.ASVal>
+  <!-- AN-94 -->
+  <entityname.AN-94>АН-94</entityname.AN-94>
+  <entitydescription.AN-94>Автомат калибра 5,45х39мм, использующий магазины АК-74</entitydescription.AN-94>
+  <!-- PKP -->
+  <entityname.PKP>ПКМ</entityname.PKP>
+  <entitydescription.PKP>Пулемёт калибра 7.62x54ммR</entitydescription.PKP>
+  <!-- Saiga-12 -->
+  <entityname.Saiga-12>Сайга-12</entityname.Saiga-12>
+  <entitydescription.Saiga-12>Полуавтоматический дробовик с магазинным питанием</entitydescription.Saiga-12>
+  <!-- KSVK -->
+  <entityname.KSVK>КСВК</entityname.KSVK>
+  <entitydescription.KSVK>Противотанковая снайперская винтовка калибра 12,7мм</entitydescription.KSVK>
+  <!-- GM-94 -->
+  <entityname.GM-94>ГМ-94</entityname.GM-94>
+  <entitydescription.GM-94>Трёх зарядный гранатомет</entitydescription.GM-94>
+  <!-- SVDM -->
+  <entityname.SVDM>СВДМ</entityname.SVDM>
+  <entitydescription.SVDM>Снайперская винтовка калибра 7,62х54ммR</entitydescription.SVDM>
+  <!-- magazines -->
+  <!-- ak12mag -->
+  <entityname.ak12mag>Магазин АК-12</entityname.ak12mag>
+  <!-- rpk74mag -->
+  <entityname.rpk74mag>Магазин РПК-74</entityname.rpk74mag>
+  <!-- rpk16mag -->
+  <entityname.rpk16mag>Барабанный магазин РПК-16</entityname.rpk16mag>
+  <!-- pp19mag -->
+  <entityname.pp19mag>Магазин ПП-19</entityname.pp19mag>
+  <!-- advmag -->
+  <entityname.advmag>Магазин АК-74</entityname.advmag>
+  <!-- grachmag -->
+  <entityname.grachmag>Магазин MP-443</entityname.grachmag>
+  <!-- valmag -->
+  <entityname.valmag>Магазин АС Вал</entityname.valmag>
+  <!-- saigamag -->
+  <entityname.saigamag>Магазин Сайга-12</entityname.saigamag>
+  <!-- PKPmag -->
+  <entityname.PKPmag>Магазин ПКМ</entityname.PKPmag>
+  <!-- pp2000mag -->
+  <entityname.pp2000mag>Магазин ПП-2000</entityname.pp2000mag>
+  <!-- ksvkmag -->
+  <entityname.ksvkmag>Магазин КСВК</entityname.ksvkmag>
+  <!-- svdmmag -->
+  <entityname.svdmmag>Магазин СВДМ</entityname.svdmmag>
+</infotexts>
+<!-- Переводчик Techcat#2371 -->

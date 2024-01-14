@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- ITEMS -->
+  <entityname.milktank>Бак молохка</entityname.milktank>
+  <entitydescription.milktank>Бак с молохком. Молохко через некоторое время испортится </entitydescription.milktank>
+  <entityname.freshmilk>Бак молохка (свежее)</entityname.freshmilk>
+  <entitydescription.freshmilk>Полный бак свежего молохка</entitydescription.freshmilk>
+  <entityname.spoiltmilk>Бак молохка (просрочено)</entityname.spoiltmilk>
+  <entitydescription.spoiltmilk>Полный бак испорченного молохка.</entitydescription.spoiltmilk>
+  <entityname.milkingtool>Устройство для дойки</entityname.milkingtool>
+  <entitydescription.milkingtool>Инструмент для извлечения из Молохов драгоценного молохка</entitydescription.milkingtool>
+  <entityname.cooledmilktank>Бак-холодильник для молохка</entityname.cooledmilktank>
+  <entitydescription.cooledmilktank>Размещаемый бак для хранения молохка, удваивая его время хранения. Если подключен к питанию - молохко не портится вообще.</entitydescription.cooledmilktank>
+  <entityname.molochvenomprecursor>Прекурсор яда Молоха</entityname.molochvenomprecursor>
+  <entitydescription.molochvenomprecursor>Парализующий яд, сделанный из испорченного молока Молоха. Большие дозировки летальны.</entitydescription.molochvenomprecursor>
+  <entityname.molochvenomconcentrated>Концентрат яда Молоха</entityname.molochvenomconcentrated>
+  <entitydescription.molochvenomconcentrated>Концентрированный яд Молоха. Парализует, затем "растворяет".</entitydescription.molochvenomconcentrated>
+  <!-- AFFLICTIONS -->
+  <afflictionname.molochvenom>Отравление ядом Молоха</afflictionname.molochvenom>
+  <afflictiondescription.molochvenom>Кожа онемела и покалывает. Двигаться постепенно становится тяжелее.</afflictiondescription.molochvenom>
+  <afflictionname.developedmolochvenom>Спрогрессировавшее отравление ядом Молоха</afflictionname.developedmolochvenom>
+  <afflictiondescription.developedmolochvenom>Кожа имеет сероватый оттенок и ощущается жухлой. </afflictiondescription.developedmolochvenom>
+  <afflictionname.saturation>Насыщение</afflictionname.saturation>
+  <afflictiondescription.saturation>Недавний прием пищи заставляет вас чувствовать себя немного сильнее и быстрее. Действие яда замедлено. Если вы съедите больше, эффект продлится дольше.</afflictiondescription.saturation>
+  <afflictionname.overconsumption>Перенасыщение</afflictionname.overconsumption>
+  <afflictiondescription.overconsumption>Есть лучше в меру. Кажется, вам следует немного полежать.</afflictiondescription.overconsumption>
+  <afflictionname.sat5>Sat5</afflictionname.sat5>
+  <afflictiondescription.sat5>Вспомогательный эффект для отслеживания длительности насыщения. Он не должен быть виден игроку, так что сообщите Working Joe, если вы всё-таки его увидели.</afflictiondescription.sat5>
+  <afflictionname.sat20>Sat20</afflictionname.sat20>
+  <afflictiondescription.sat20>Вспомогательный эффект для отслеживания длительности насыщения. Он не должен быть виден игроку, так что сообщите Working Joe, если вы всё-таки его увидели.</afflictiondescription.sat20>
+  <afflictionname.sat50>Sat50</afflictionname.sat50>
+  <afflictiondescription.sat50>Вспомогательный эффект для отслеживания длительности насыщения. Он не должен быть виден игроку, так что сообщите Working Joe, если вы всё-таки его увидели.</afflictiondescription.sat50>
+  <afflictionname.milkmoustache>Milk Moustache</afflictionname.milkmoustache>
+  <afflictiondescription.milkmoustache>Вспомогательный эффект для отслеживания длительности насыщения. Он не должен быть виден игроку, так что сообщите Working Joe, если вы всё-таки его увидели.</afflictiondescription.milkmoustache>
+</infotexts>
+<!-- Переводчик V.Livingshield#3236 -->

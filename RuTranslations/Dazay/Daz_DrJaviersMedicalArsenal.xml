@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--Item-->
+  <entityname.javier_syringesmg>Шприцевой пистолет Mk. 3</entityname.javier_syringesmg>
+  <entitydescription.javier_syringesmg>Третья версия шприцевого пистолета. Быстрый огонь, а также хорошее распространение.</entitydescription.javier_syringesmg>
+  <entityname.javier_syringeshotgun>Шприцевой дробовик</entityname.javier_syringeshotgun>
+  <entitydescription.javier_syringeshotgun>Возможность одновременной стрельбы 6 шприцами. Для работы требуется батарейка.</entitydescription.javier_syringeshotgun>
+  <entityname.javier_syringerevolver>Шприцевой пистолет Mk. 2</entityname.javier_syringerevolver>
+  <entitydescription.javier_syringerevolver>Вторая версия шприцевого пистолета. Имеет большую емкость, и вы можете смешивать различные типы шприцев.</entitydescription.javier_syringerevolver>
+  <entityname.javier_syringepistol>Шприцевой пистолет</entityname.javier_syringepistol>
+  <entitydescription.javier_syringepistol>Шприц-пистолет, который достаточно легок, чтобы его можно было держать в одной руке.</entitydescription.javier_syringepistol>
+  <entityname.javier_syringeminigun>Шприц-пистолет доктора Хавьера</entityname.javier_syringeminigun>
+  <entitydescription.javier_syringeminigun>На нём есть синяя маркировка с надписью "Д-р Хавьер".</entitydescription.javier_syringeminigun>
+  <entityname.javier_minigunpart1>Механизм загрузки шприцевого пистолета доктора Хавьера</entityname.javier_minigunpart1>
+  <entitydescription.javier_minigunpart1>Часть шприцевого пистолета доктора Хавьера. Мне нужен ствол...</entitydescription.javier_minigunpart1>
+  <entityname.javier_minigunpart2>Ствол шприцевого пистолета доктора Хавьера</entityname.javier_minigunpart2>
+  <entitydescription.javier_minigunpart2>Часть шприцевого пистолета доктора Хавьера. Мне нужен механизм загрузки...</entitydescription.javier_minigunpart2>
+  <entityname.javier_machinesyringepistol>Пистолет с машинным шприцем</entityname.javier_machinesyringepistol>
+  <entitydescription.javier_machinesyringepistol>Сложный в прицеливании для неумелых пользователей, но обладает высокой скорострельностью и компактностью.</entitydescription.javier_machinesyringepistol>
+  <entityname.javier_uniquepistol>Шприцевой пистолет доктора Хавьера</entityname.javier_uniquepistol>
+  <entitydescription.javier_uniquepistol>Единственный шприц-пистолет, способный стрелять отваром доктора Хавьера.</entitydescription.javier_uniquepistol>
+  <entityname.Javier_Concoction>Отвар доктора Хавьера</entityname.Javier_Concoction>
+  <entitydescription.Javier_Concoction>Отвар доктора Хавьера, взрывается при контакте с кровью через несколько секунд. Можно стрелять только из шприцевого пистолета доктора Хавьера.</entitydescription.Javier_Concoction>
+  <!--Afflictions-->
+  <afflictionname.javier_concoctionaffliction>Отвар Хавьера</afflictionname.javier_concoctionaffliction>
+  <afflictiondescription.javier_concoctionaffliction>Быстрая смерть</afflictiondescription.javier_concoctionaffliction>
+  <afflictioncauseofdeath.javier_concoctionaffliction>Почувствовал гнев Хавьера</afflictioncauseofdeath.javier_concoctionaffliction>
+  <afflictioncauseofdeathself.javier_concoctionaffliction>Вы почувствовали гнев Хавьера.</afflictioncauseofdeathself.javier_concoctionaffliction>
+</infotext>
+<!-- Переводчик Дазя(Сергей)#3055 -->

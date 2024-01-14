@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- afflictions -->
+  <afflictionname.CF_blurred_vision>Затуманенное зрение</afflictionname.CF_blurred_vision>
+  <afflictiondescription.CF_blurred_vision>Линия обзора закрыта, что затрудняет атаку и прицеливание.</afflictiondescription.CF_blurred_vision>
+  <!-- clothes -->
+  <!-- head -->
+  <entityname.CF_NVG_1>ПНВ</entityname.CF_NVG_1>
+  <entitydescription.CF_NVG_1>Очки ночного видения, или сокращенно ПНВ.</entitydescription.CF_NVG_1>
+  <entityname.CF_NVG_2>ПНВ+</entityname.CF_NVG_2>
+  <entitydescription.CF_NVG_2>Очки ночного видения плюс, или сокращенно ПНВ+.</entitydescription.CF_NVG_2>
+  <entityname.CF_Skill_Trainer>Тренер навыков</entityname.CF_Skill_Trainer>
+  <entitydescription.CF_Skill_Trainer>Оборудуйте место и постепенно обучайтесь через встроенный компьютер.  \nНавыки повышаются каждые 30 минут.</entitydescription.CF_Skill_Trainer>
+  <!-- headset -->
+  <entityname.CF_Tactical_Headset>Тактическая гарнитура</entityname.CF_Tactical_Headset>
+  <entitydescription.CF_Tactical_Headset>Он оснащен до 22 различными массивами датчиков. \nЭто значительно повышает эффективность боя с дальнобойным оружием и турелями.</entitydescription.CF_Tactical_Headset>
+  <!-- inner clothes -->
+  <entityname.CF_Fangs_uniform>Клыки Униформа</entityname.CF_Fangs_uniform>
+  <entitydescription.CF_Fangs_uniform>Усовершенствованная боевая форма, легкая, но эффективная против шрапнели и стрелкового оружия.
+\nОт Частной военной компании LMB.</entitydescription.CF_Fangs_uniform>
+  <entityname.CF_Straitjacket>смирительная рубашка</entityname.CF_Straitjacket>
+  <entitydescription.CF_Straitjacket>Используется для ограничения передвижения опасных заключенных и психически больных пациентов, чье поведение агрессивно.</entitydescription.CF_Straitjacket>
+  <!-- outer clothes -->
+  <entityname.CF_HuskDivingSuit>Водолазный костюм Хаск</entityname.CF_HuskDivingSuit>
+  <entitydescription.CF_HuskDivingSuit>Защищает личность владельца.  Забавный на определенных вечеринках.
+\nДаже Хаска можно обмануть.</entitydescription.CF_HuskDivingSuit>
+  <entityname.CF_StealthDivingSuit>Водолазный костюм-невидимка</entityname.CF_StealthDivingSuit>
+  <entitydescription.CF_StealthDivingSuit>Оптический камуфляж затрудняет поиск, идентификацию, отслеживание и атаку монстров.</entitydescription.CF_StealthDivingSuit>
+  <entityname.CF_Exosuit_1>PUCE Mk-I</entityname.CF_Exosuit_1>
+  <entitydescription.CF_Exosuit_1>Сочетает в себе PUCS и экзокостюм и может хранить средние предметы.
+\nОснащен системами помощи ближнего и дальнего боя, а также турельными системами.
+\nУдвойте стоимость топлива.</entitydescription.CF_Exosuit_1>
+  <entityname.CF_Exosuit_2>PUCE Mk-II</entityname.CF_Exosuit_2>
+  <entitydescription.CF_Exosuit_2>На основе оригинальной конструкции, улучшенной брони и систем.</entitydescription.CF_Exosuit_2>
+  <entityname.CF_Exosuit_3>PUCE Mk-III</entityname.CF_Exosuit_3>
+  <entitydescription.CF_Exosuit_3>На основе оригинального дизайна, лучшей брони и системы.</entitydescription.CF_Exosuit_3>
+  <!-- ammo -->
+  <!-- 5.56mm -->
+  <fabricationdescription.hmgmagazine_recycle>Любой пустой магазин HMG.</fabricationdescription.hmgmagazine_recycle>
+  <entityname.CF_HmgMagazineFulgurium>Магазин HMG с Фульгурием</entityname.CF_HmgMagazineFulgurium>
+  <entitydescription.CF_HmgMagazineFulgurium>Магазин патронов калибра 5,56 мм для пулеметного пулемета, содержащий фульгуровые патроны.
+\nБоеприпасы специально созданы для воздействия на цель урон ЭМИ.</entitydescription.CF_HmgMagazineFulgurium>
+  <entityname.CF_HmgMagazineIncendium>Магазин HMG с зажигательными</entityname.CF_HmgMagazineIncendium>
+  <entitydescription.CF_HmgMagazineIncendium>Магазин для пулеметного пулемета калибра 5,56 мм, содержащий зажигательные патроны.
+\nБоеприпасы специально созданы для нанесения ожогов цели.</entitydescription.CF_HmgMagazineIncendium>
+  <entityname.CF_HmgMagazinePhysicorium>Магазин HMG с Физикорием</entityname.CF_HmgMagazinePhysicorium>
+  <entitydescription.CF_HmgMagazinePhysicorium>Магазин патронов калибра 5,56 мм для пулемета, содержащий патроны физикория.</entitydescription.CF_HmgMagazinePhysicorium>
+  <entityname.CF_HmgMagazineSmart>Магазин HMG Smart</entityname.CF_HmgMagazineSmart>
+  <entitydescription.CF_HmgMagazineSmart>Магазин патронов калибра 5,56 мм для пулемета, содержащий умные боеприпасы.
+\nНикакого дружественного огня.</entitydescription.CF_HmgMagazineSmart>
+  <!-- 6.8mm -->
+  <fabricationdescription.assaultriflemagazine_recycle>Любой пустой магазин для штурмовой винтовки.</fabricationdescription.assaultriflemagazine_recycle>
+  <entityname.CF_AssaultrifleMagazineFulgurium>Магазин для Штурмовой винтовки с Фульгурием</entityname.CF_AssaultrifleMagazineFulgurium>
+  <entitydescription.CF_AssaultrifleMagazineFulgurium>Магазин предназначен для патронов калибра 6,8 мм, содержащих фульгуровые патроны.
+\nБоеприпасы специально созданы для воздействия на цель урон ЭМИ.</entitydescription.CF_AssaultrifleMagazineFulgurium>
+  <entityname.CF_AssaultrifleMagazineIncendium>Магазин для Штурмовой винтовки с зажигательными</entityname.CF_AssaultrifleMagazineIncendium>
+  <entitydescription.CF_AssaultrifleMagazineIncendium>Магазин предназначен для патронов калибра 6,8 мм, содержащих зажигательные патроны.
+\nБоеприпасы специально созданы для воздействия на цель урон ЭМИ.</entitydescription.CF_AssaultrifleMagazineIncendium>
+  <entityname.CF_AssaultrifleMagazinePhysicorium>Магазин для Штурмовой винтовки с Физикорием</entityname.CF_AssaultrifleMagazinePhysicorium>
+  <entitydescription.CF_AssaultrifleMagazinePhysicorium>Магазин предназначен для патронов калибра 6,8 мм, содержащих патроны физикория.</entitydescription.CF_AssaultrifleMagazinePhysicorium>
+  <entityname.CF_AssaultrifleMagazineSmart>Магазин Smart для штурмовой винтовки с</entityname.CF_AssaultrifleMagazineSmart>
+  <entitydescription.CF_AssaultrifleMagazineSmart>Магазин, предназначенный для патронов калибра 6,8 мм и содержащих умные боеприпасы.
+\nНикакого дружественного огня.</entitydescription.CF_AssaultrifleMagazineSmart>
+  <!-- .30 -->
+  <entityname.CF_RifleBulletFulgurium>Винтовочный патрон с Фульгурием</entityname.CF_RifleBulletFulgurium>
+  <entitydescription.CF_RifleBulletFulgurium>Винтовочная пуля .30, изготовленная из фульгурия.
+\nБоеприпасы специально созданы для воздействия на цель урон ЭМИ.</entitydescription.CF_RifleBulletFulgurium>
+  <entityname.CF_RifleBulletIncendium>Винтовочный зажигательный патрон</entityname.CF_RifleBulletIncendium>
+  <entitydescription.CF_RifleBulletIncendium>Винтовочная пуля .30, сделанная из горящего вещества.
+\nБоеприпасы специально созданы для нанесения ожогов цели.</entitydescription.CF_RifleBulletIncendium>
+  <entityname.CF_RifleBulletPhysicorium>Винтовочный патрон с Физикорием</entityname.CF_RifleBulletPhysicorium>
+  <entitydescription.CF_RifleBulletPhysicorium>Винтовочная пуля .30, изготовленная из физикория.</entitydescription.CF_RifleBulletPhysicorium>
+  <entityname.CF_RifleBulletSmart>Винтовочный патрон Smart</entityname.CF_RifleBulletSmart>
+  <entitydescription.CF_RifleBulletSmart>Умная пуля для винтовки .30.
+\nНикакого дружественного огня.</entitydescription.CF_RifleBulletSmart>
+  <!-- .38 -->
+  <entityname.CF_RevolverRoundFulgurium>Патроны дял револьвера с Фульгурием</entityname.CF_RevolverRoundFulgurium>
+  <entitydescription.CF_RevolverRoundFulgurium>Патрон .38 для револьвера, изготовленный из фульгурия.
+\nБоеприпасы специально созданы для воздействия на цель урон ЭМИ.</entitydescription.CF_RevolverRoundFulgurium>
+  <entityname.CF_RevolverRoundIncendium>Зажигательные патроны дял револьвера</entityname.CF_RevolverRoundIncendium>
+  <entitydescription.CF_RevolverRoundIncendium>Патрон .38 для револьвера, сделанный из воспламеняющего вещества.
+\nБоеприпасы специально созданы для нанесения ожогов цели.</entitydescription.CF_RevolverRoundIncendium>
+  <entityname.CF_RevolverRoundPhysicorium>Патроны дял револьвера с Физикорием</entityname.CF_RevolverRoundPhysicorium>
+  <entitydescription.CF_RevolverRoundPhysicorium>Патрон .38 для револьвера, сделанный из физикория.</entitydescription.CF_RevolverRoundPhysicorium>
+  <entityname.CF_RevolverRoundSmart>Патроны дял револьвера Smart</entityname.CF_RevolverRoundSmart>
+  <entitydescription.CF_RevolverRoundSmart>Патрон .38 для умного револьвера.
+\nНикакого дружественного огня.</entitydescription.CF_RevolverRoundSmart>
+  <!-- .45 -->
+  <fabricationdescription.smgmagazine_recycle>Любой пустой магазин для пистолета-пулемета.</fabricationdescription.smgmagazine_recycle>
+  <entityname.CF_SmgMagazineFulgurium>Магазин SMG с Фульгурием</entityname.CF_SmgMagazineFulgurium>
+  <entitydescription.CF_SmgMagazineFulgurium>Магазин для пистолета-пулемета .45 калибра, содержащий фульгуровые патроны.
+\nБоеприпасы специально созданы для воздействия на цель урон ЭМИ.</entitydescription.CF_SmgMagazineFulgurium>
+  <entityname.CF_SmgMagazineIncendium>Магазин SMG с зажигательными</entityname.CF_SmgMagazineIncendium>
+  <entitydescription.CF_SmgMagazineIncendium>Магазин для пистолета-пулемета .45 калибра, содержащий зажигательные патроны.
+\nБоеприпасы специально созданы для нанесения ожогов цели.</entitydescription.CF_SmgMagazineIncendium>
+  <entityname.CF_SmgMagazinePhysicorium>Магазин SMG с Физикорием</entityname.CF_SmgMagazinePhysicorium>
+  <entitydescription.CF_SmgMagazinePhysicorium>Магазин для пистолета-пулемета .45 калибра, содержащий патроны физикория.</entitydescription.CF_SmgMagazinePhysicorium>
+  <entityname.CF_SmgMagazineSmart>Магазин SMG Smart</entityname.CF_SmgMagazineSmart>
+  <entitydescription.CF_SmgMagazineSmart>Магазин для пистолета-пулемета .45 калибра, содержащий умные боеприпасы.
+\nНикакого дружественного огня.</entitydescription.CF_SmgMagazineSmart>
+  <!-- .61 -->
+  <entityname.CF_HandcannonRoundFulgurium>Патрон для Ручной пушки с Фульгурием</entityname.CF_HandcannonRoundFulgurium>
+  <entitydescription.CF_HandcannonRoundFulgurium>Чрезвычайно большой патрон для револьвера .61.
+\nМатериалы из сплава фульгурия обеспечивают высокий урон ЭМИ.</entitydescription.CF_HandcannonRoundFulgurium>
+  <entityname.CF_HandcannonRoundIncendium>Зажигательный снаряд для ручной пушки</entityname.CF_HandcannonRoundIncendium>
+  <entitydescription.CF_HandcannonRoundIncendium>Чрезвычайно большой патрон для револьвера .61.
+\nМатериалы из сплава Воспламенит допускают высокий урон от ожогов.</entitydescription.CF_HandcannonRoundIncendium>
+  <entityname.CF_HandcannonRoundPhysicorium>Патрон для Ручной пушки с Физикорием</entityname.CF_HandcannonRoundPhysicorium>
+  <entitydescription.CF_HandcannonRoundPhysicorium>Чрезвычайно большой патрон для револьвера .61.
+\nМатериалы из сплава физикориума обеспечивают более высокий останавливающую способность.</entitydescription.CF_HandcannonRoundPhysicorium>
+  <entityname.CF_HandcannonRoundSmart>Патрон Smart для Ручной пушки</entityname.CF_HandcannonRoundSmart>
+  <entitydescription.CF_HandcannonRoundSmart>Чрезвычайно большой умный патрон для револьвера .61.
+\nНикакого дружественного огня.</entitydescription.CF_HandcannonRoundSmart>
+  <!-- 12 gauge -->
+  <entityname.CF_ShotgunShellFulgurium>Патроны для дробовика с Фульгурием</entityname.CF_ShotgunShellFulgurium>
+  <entitydescription.CF_ShotgunShellFulgurium>Боеприпасы для дробовика.  Нанесите урон ЭМИ на цель.</entitydescription.CF_ShotgunShellFulgurium>
+  <entityname.CF_ShotgunShellPhysicorium>Патроны для дробовика с Физикорием</entityname.CF_ShotgunShellPhysicorium>
+  <entitydescription.CF_ShotgunShellPhysicorium>Боеприпасы для дробовика.  Чрезвычайно смертоносен.</entitydescription.CF_ShotgunShellPhysicorium>
+  <entityname.CF_ShotgunShellSmart>Патроны для дробовика Smart</entityname.CF_ShotgunShellSmart>
+  <entitydescription.CF_ShotgunShellSmart>Боеприпасы для дробовика.  Никакого дружественного огня.</entitydescription.CF_ShotgunShellSmart>
+  <!-- melee weapons -->
+  <entityname.CF_Bat>Летучая мышь</entityname.CF_Bat>
+  <entitydescription.CF_Bat>Хоумран!</entitydescription.CF_Bat>
+  <entityname.CF_Dark_Moon_Greatsword_1>Большой меч Темной Луны</entityname.CF_Dark_Moon_Greatsword_1>
+  <entitydescription.CF_Dark_Moon_Greatsword_1>Поднимите меч высоко, омывая его светом темной луны.
+\nАтакуйте вспышками лунного света.
+\nПолная луна, холодная и свинцовая, и этот меч — луч ее света.</entitydescription.CF_Dark_Moon_Greatsword_1>
+  <entityname.CF_Dark_Moon_Greatsword_2>Большой меч Темной Луны</entityname.CF_Dark_Moon_Greatsword_2>
+  <entitydescription.CF_Dark_Moon_Greatsword_2>Поднимите меч высоко, омывая его светом темной луны.
+\nАтакуйте вспышками лунного света.
+\nПолная луна, холодная и свинцовая, и этот меч — луч ее света.</entitydescription.CF_Dark_Moon_Greatsword_2>
+  <entityname.CF_Halberd>Алебарда</entityname.CF_Halberd>
+  <entitydescription.CF_Halberd>Может использоваться для давления на одного врага непрерывными колющими атаками или для нанесения ударов по группам, используя преимущества его большой досягаемости и рубящего клинка.</entitydescription.CF_Halberd>
+  <entityname.CF_Lance>Лэнс</entityname.CF_Lance>
+  <entitydescription.CF_Lance>Оно стало основным атакующим оружием кавалерии, непригодным для метания или многократного колющего удара.</entitydescription.CF_Lance>
+  <entityname.CF_Magic_Wellness-Stick>Волшебная лечебная палочка</entityname.CF_Magic_Wellness-Stick>
+  <entitydescription.CF_Magic_Wellness-Stick>Вылечите своих раненых друзей с помощью Волшебной лечебная палочки.</entitydescription.CF_Magic_Wellness-Stick>
+  <entityname.CF_Mjölnir>Мьёльнир</entityname.CF_Mjölnir>
+  <entitydescription.CF_Mjölnir>Каждая атака будет генерировать урон ЭМИ.
+\nМьёльнир используется и как оружие разрушения, и как благословляющий артефакт.</entitydescription.CF_Mjölnir>
+  <entityname.CF_Pickaxe>Кирка</entityname.CF_Pickaxe>
+  <entitydescription.CF_Pickaxe>Ни один уважаемый шахтер не выйдет из дома без неё.</entitydescription.CF_Pickaxe>
+  <entityname.CF_Zweihänder>Цвайхандер</entityname.CF_Zweihänder>
+  <entitydescription.CF_Zweihänder>Длинное лезвие тяжелое и острое, широкими ударами отбрасывая врагов назад, а также способное нанести разрушительный колющий удар.</entitydescription.CF_Zweihänder>
+  <!-- ranged weapons -->
+  <entityname.CF416_mod3>CF416 Мод 3</entityname.CF416_mod3>
+  <entitydescription.CF416_mod3>Усовершенствованная штурмовая винтовка калибра 6,8х51 мм, оснащенная источником энергии для стрельбы снарядами.
+\nМожет нанести большой урон, если у пользователя достаточно навыков обращения с оружием, чтобы справиться с отдачей.</entitydescription.CF416_mod3>
+  <entityname.CF_coilgun>Турель</entityname.CF_coilgun>
+  <entitydescription.CF_coilgun>Оружие, которое размещается на земле и автоматически стреляет по целям, обнаруженным датчиками.
+\nИспользуйте патроны для койлгана.</entitydescription.CF_coilgun>
+  <entityname.CF_Gravity_Gun>Гравитационная пушка</entityname.CF_Gravity_Gun>
+  <entitydescription.CF_Gravity_Gun>Манипулятор энергетического поля нулевой точки, широко известный как гравитационная пушка, представляет собой оружие притягивающего луча, предназначенное для работы с опасными материалами и в основном используемое для подъема тяжестей.</entitydescription.CF_Gravity_Gun>
+  <entityname.CF_H_Chaingun>Ручной пулемет</entityname.CF_H_Chaingun>
+  <entitydescription.CF_H_Chaingun>Пулемет уменьшен в размерах, чтобы его можно было удобно держать в руке, но ему необходимо рассеивать тепло.
+\nНеобходимо носить экзокостюм.  В противном случае ваши руки будут раздавлены отдачей.</entitydescription.CF_H_Chaingun>
+  <entityname.CF_H_Pulselaser>Ручной импульсный лазер</entityname.CF_H_Pulselaser>
+  <entitydescription.CF_H_Pulselaser>Импульсный лазер уменьшен, чтобы поместиться в руке, но зарядка занимает больше времени.
+\nНеобходимо носить экзокостюм.  В противном случае ваши руки будут раздавлены отдачей.</entitydescription.CF_H_Pulselaser>
+  <entityname.CF_Railgun_Launcher>Рейлган-пусковая установка</entityname.CF_Railgun_Launcher>
+  <entitydescription.CF_Railgun_Launcher>Может стрелять снарядами рельсотрона.</entitydescription.CF_Railgun_Launcher>
+  <entityname.CF_Scatter_HarpoonGun>Рассеивающий гарпунный пистолет</entityname.CF_Scatter_HarpoonGun>
+  <entitydescription.CF_Scatter_HarpoonGun>Мгновенно стреляет большим количеством гарпунов, но точность ужасна.</entitydescription.CF_Scatter_HarpoonGun>
+  <entityname.CF_Super_Shotgun>Супер дробовик</entityname.CF_Super_Shotgun>
+  <entitydescription.CF_Super_Shotgun>Мясной кроюк позволяет вам хватать врагов и притягивать их к себе для разрушительного взрыва с близкого расстояния.
+\nСтарайтесь присесть или отступить назад, чтобы перезарядить Мясной Крюк.</entitydescription.CF_Super_Shotgun>
+  <entityname.CF_Meat_Hook>Мясной крюк</entityname.CF_Meat_Hook>
+  <entitydescription.CF_Meat_Hook>Исчезает через 10 секунд.
+\nХватайте врагов и притягивайте их к себе, чтобы нанести сокрушительный удар с близкого расстояния.</entitydescription.CF_Meat_Hook>
+  <!-- throwable weapons -->
+  <entityname.CF_Arc_Star>Дуговая звезда</entityname.CF_Arc_Star>
+  <entitydescription.CF_Arc_Star>Прилипает, а затем взрывается после 3-секундной задержки.
+\nНаносит физический урон и урон ЭМИ.</entitydescription.CF_Arc_Star>
+  <entityname.CF_Banana_Grenade>Банановая граната</entityname.CF_Banana_Grenade>
+  <entitydescription.CF_Banana_Grenade>Выглядит как экзотический фрукт родом с Земли.
+\nОтличный реквизит для розыгрышей.</entitydescription.CF_Banana_Grenade>
+  <entityname.CF_Decoy_Grenade>Приманка-граната</entityname.CF_Decoy_Grenade>
+  <entitydescription.CF_Decoy_Grenade>Они излучают эффект гидролокатора и громкий звуковой сигнал, привлекая всех существ в радиусе 25 метров.</entitydescription.CF_Decoy_Grenade>
+  <entityname.CF_Gravity_Grenade>Гравитационная граната</entityname.CF_Gravity_Grenade>
+  <entitydescription.CF_Gravity_Grenade>Притягивает врагов к центру.  В конце концов взрывается.</entitydescription.CF_Gravity_Grenade>
+  <entityname.CF_Smoke_Grenade>Дымовая граната</entityname.CF_Smoke_Grenade>
+  <entitydescription.CF_Smoke_Grenade>При взрыве образуется большое количество дыма, закрывающего обзор.</entitydescription.CF_Smoke_Grenade>
+  <!-- tools -->
+  <entityname.CF_Crank_Flashlight>Заводной фонарик</entityname.CF_Crank_Flashlight>
+  <entitydescription.CF_Crank_Flashlight>Позволяет игроку перезаряжать фонарик и батарею с помощью динамо-машины с ручным заводом.</entitydescription.CF_Crank_Flashlight>
+  <entityname.CF_Laser_SightG>Лазерный прицел (зеленый)</entityname.CF_Laser_SightG>
+  <entitydescription.CF_Laser_SightG>Лазерные прицелы проецируют луч на цель, обеспечивая визуальный ориентир.
+\nВидно в темноте, но требуют много энергии.</entitydescription.CF_Laser_SightG>
+  <entityname.CF_Laser_SightR>Лазерный прицел (красный)</entityname.CF_Laser_SightR>
+  <entitydescription.CF_Laser_SightR>Лазерные прицелы проецируют луч на цель, обеспечивая визуальный ориентир.
+\nВидно в темноте, энергоэффективно.</entitydescription.CF_Laser_SightR>
+  <entityname.CF_MakeshiftCabinet>Импровизированный шкаф</entityname.CF_MakeshiftCabinet>
+  <entitydescription.CF_MakeshiftCabinet>Шкаф для хранения, который можно вручную установить на подводную лодку.</entitydescription.CF_MakeshiftCabinet>
+  <entityname.CF_MakeshiftDeconstructor>Импровизированный деконструктор</entityname.CF_MakeshiftDeconstructor>
+  <entitydescription.CF_MakeshiftDeconstructor>Деконструктор, который можно вручную установить на подводные лодки.
+\nЭффективность вдвое ниже нормальной.  Можно разместить с помощью ПКМ + E.</entitydescription.CF_MakeshiftDeconstructor>
+  <entityname.CF_MakeshiftFabricator>Импровизированный фабрикатор</entityname.CF_MakeshiftFabricator>
+  <entitydescription.CF_MakeshiftFabricator>Фабрикатор, который можно устанавливать вручную на подводные лодки.
+\nЭффективность вдвое ниже нормальной.  Можно разместить с помощью ПКМ + E.</entitydescription.CF_MakeshiftFabricator>
+  <entityname.CF_Medical_Kit>Медицинская аптечка</entityname.CF_Medical_Kit>
+  <entitydescription.CF_Medical_Kit>Контейнер среднего размера, используемый в основном для хранения медикаментов.</entitydescription.CF_Medical_Kit>
+  <entityname.CF_Multitool>Мульти инструмент</entityname.CF_Multitool>
+  <entitydescription.CF_Multitool>С этим компактным и универсальным многофункциональным инструментом вам не придется беспокоиться о том, чтобы в нужное время иметь нужные инструменты.</entitydescription.CF_Multitool>
+  <entityname.CF_PlasticHandcuffs>Пластиковые наручники</entityname.CF_PlasticHandcuffs>
+  <entitydescription.CF_PlasticHandcuffs>Они действуют как наручники, но их дешевле и легче носить с собой, чем металлические наручники, и их нельзя использовать повторно.</entitydescription.CF_PlasticHandcuffs>
+  <entityname.CF_riotshield>Энергетический щит</entityname.CF_riotshield>
+  <entitydescription.CF_riotshield>Энергетический щит — это передовая защитная технология, которая использует поле заряженных частиц, обволакивающее поверхность, отклоняя объекты, пытающиеся ударить ее.</entitydescription.CF_riotshield>
+</infotexts>

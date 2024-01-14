@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.thgtonfa>Тонфа</entityname.thgtonfa>
+  <entitydescription.thgtonfa>После архаичной дубинки, но еще до печально известной дубинки-электрошокера, появилась скромная тонфа. Она находится на тонкой грани между возможностью раскалывать черепа и , но для этого нужна вся сила.</entitydescription.thgtonfa>
+  <entityname.thgtruncheon>Траншейная дубинка</entityname.thgtruncheon>
+  <entitydescription.thgtruncheon>Простая, тяжёлая дубинка с твёрдым железным сердечником и головкой. Когда-то она считалась не летальным оружием. В наши дни люди просто принимают её за размозжитель черепов, которым она и является.</entitydescription.thgtruncheon>
+  <entityname.thgcutlass>Сабля</entityname.thgcutlass>
+  <entitydescription.thgcutlass>Классическая сабля с широким лезвием и кулачной гардой, модная в высших эшелонах командования Коалиции.</entitydescription.thgcutlass>
+  <entityname.thgkatana>Катана</entityname.thgkatana>
+  <entitydescription.thgkatana>Острая, как бритва, обманчиво лёгкая сабля, по какой-то причине популярная среди сепаратистов.</entitydescription.thgkatana>
+  <entityname.thgsledge>Кувалда</entityname.thgsledge>
+  <entitydescription.thgsledge>Тяжёлый молот на длинной палке, что делает его чертовски увесистым инструментом, который не только сносит стены, но и черепа.</entitydescription.thgsledge>
+  <entityname.thgshocksledge>Шоковая кувалда</entityname.thgshocksledge>
+  <entitydescription.thgshocksledge>Тяжёлый молот на длинной палке, что делает его чертовски увесистым инструментом, который не только сносит стены, но и черепа. Модифицированный укороченной рукояткой и системой разряда конденсатора, хоть он и обладает чуть меньшей грубой силой, но все ещё способен раскалывать черепа и оглушать электрическим напряжением почи всех существ, кроме самых крупных.</entitydescription.thgshocksledge>
+  <entityname.thgfireax>Пожарный топор</entityname.thgfireax>
+  <entitydescription.thgfireax>Тяжёлый топор из закалённой стали с прочной рукояткой. Очень полезен при пробитии корпусов и дверей в чрезвычайных ситуациях. Несмотря на его массу, он всё ещё пригоден в качестве оружия.</entitydescription.thgfireax>
+  <entityname.thgpick>Кирка</entityname.thgpick>
+  <entitydescription.thgpick>Тяжёлая и острая кирка из закалённой стали на прочной рукоятке. Будучи похожей на кувалду с шипами, она наносит крайне мощные удары, предназначенные для разрушения глыб руды, хотя она также хорошо действует и на более мягкие, мясистые цели.</entitydescription.thgpick>
+  <entityname.thgbroom>Метла</entityname.thgbroom>
+  <entitydescription.thgbroom>Классическое оружие для жёпного уничтожения, часто используемое злыми тётушками как на Европе, так и на Земле.</entitydescription.thgbroom>
+  <entityname.thgflamberge>Фламберг</entityname.thgflamberge>
+  <entitydescription.thgflamberge>Огромный меч с волнистым лезвием безупречного качества. Подобное оружие почти исключительно является церемониальным, ведь им трудно размахивать в подводной лодке, но, тем не менее, можно разрубить человека пополам.</entitydescription.thgflamberge>
+  <entityname.thggreatsword>Цвайхендер</entityname.thggreatsword>
+  <entitydescription.thggreatsword>Огромный двуручный меч. Скорее всего, выкован каким-нибудь механиком, у которого было лишнее топливо два сварки, слишком много свободного времени и странные рыцарские увлечения.</entitydescription.thggreatsword>
+  <entityname.thgemergencyaxe>Экстренный Топор</entityname.thgemergencyaxe>
+  <entitydescription.thgemergencyaxe>Лёгкий одноручный топор с обухом для выбивания дверей, корпусов и черепов каннибалов-аборигенов.</entitydescription.thgemergencyaxe>
+</infotexts>
+<!-- Discord переводчика: enigmans -->

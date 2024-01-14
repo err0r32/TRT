@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="true" translatedname="Русский">
+  <!--原版-->
+  <!-- tsmmission11 -->
+  <missionname.tsmmission11>Довод в пользу границ. Один из них.</missionname.tsmmission11>
+  <missiondescription.tsmmission11>С тех пор, как открылись Врата Бездны, в Бездне появилось множество гостей, и в последний раз, когда мы наблюдали эту группу гостей, мы отметили их на расстоянии. На этот раз сигнал был обнаружен в стране Моря Чудес. Итак, воины, теперь, когда наши мечи в руках, давайте сражаться до конца!</missiondescription.tsmmission11>
+  <missionsuccess.tsmmission11>Колончатое падение</missionsuccess.tsmmission11>
+  <missionheader0.tsmmission11>Зафиксировано в межевом деле, № 011.</missionheader0.tsmmission11>
+  <missionmessage0.tsmmission11>Наша земля, которую не может топтать ни одна тварь.</missionmessage0.tsmmission11>
+  <missionsonarlabel.tsmmission11>Дислокация</missionsonarlabel.tsmmission11>
+  <!-- tsmmission12 -->
+  <missionname.tsmmission12>Небесные псы глотают солнце, на проспекте нет света</missionname.tsmmission12>
+  <missiondescription.tsmmission12>Море Чудес сражается на 73 передовых позициях и сейчас не имеет времени беспокоиться о безопасности этой области, но гарантирует [reward] mk капитану, который убьет этих фей.</missiondescription.tsmmission12>
+  <missionsuccess.tsmmission12>Поздравляю, цели уничтожены!</missionsuccess.tsmmission12>
+  <missionheader0.tsmmission12>Неистовый свет</missionheader0.tsmmission12>
+  <missionmessage0.tsmmission12>Какое блестящее выступление!</missionmessage0.tsmmission12>
+  <missionsonarlabel.tsmmission12>Цели</missionsonarlabel.tsmmission12>
+  <!-- tsmmission13 -->
+  <missionname.tsmmission13>ЖУКИ!ЖУКИ!</missionname.tsmmission13>
+  <missiondescription.tsmmission13>Мы обнаружили несколько больших жуков, приближающихся к этому району, и ожидаем, что они достигнут этой станции через 5 часов, капитан, пожалуйста, отразите их, иначе мы все будем погребены во льдах.</missiondescription.tsmmission13>
+  <missionsuccess.tsmmission13>Цель уничтожена, пожалуйста, вернитесь как можно скорее.</missionsuccess.tsmmission13>
+  <missionheader0.tsmmission13>Терминатор роя</missionheader0.tsmmission13>
+  <missionmessage0.tsmmission13>Нам больше не страшен рой!</missionmessage0.tsmmission13>
+  <missionsonarlabel.tsmmission13>ЖУКИ</missionsonarlabel.tsmmission13>
+  <!-- tsmmission14 -->
+  <missionname.tsmmission14>Демоны и чудовища</missionname.tsmmission14>
+  <missiondescription.tsmmission14>!!! СРОЧНО!!! Передовая обсерватория Моря Чудес заметила гигантских чудовищ, стремительно приближающихся к району, но команда Горы Хигураши находится на задании в этом районе и не успеет вернуться вовремя. Море Чудес собирает своих отважных капитанов в надежде предотвратить катастрофу. Капитанам, которые вернутся живыми, обещана [reward] mk.</missiondescription.tsmmission14>
+  <missionsuccess.tsmmission14>Сбивайте богов с ног.</missionsuccess.tsmmission14>
+  <missionheader0.tsmmission14>Демоны и чудовища</missionheader0.tsmmission14>
+  <missionmessage0.tsmmission14>Это невероятно, вы действительно сделали это, достойно легендарного капитана!</missionmessage0.tsmmission14>
+  <missionsonarlabel.tsmmission14>Чудовища</missionsonarlabel.tsmmission14>
+  <!-- tsmmission15 -->
+  <missionname.tsmmission15>Бури сходятся, чтобы поднять меня к облакам.</missionname.tsmmission15>
+  <missiondescription.tsmmission15>Большая группа молотоголовых акул угрожает безопасности канала между [location1] и [location2]. Этот шторм молотоголовых акул пронесся через столько станций, что в некоторых районах их канонизировали. Поэтому, пожалуйста, капитан, откройте огонь и уничтожьте их.</missiondescription.tsmmission15>
+  <missionsuccess.tsmmission15>Их алтарь Бога стерт мною.</missionsuccess.tsmmission15>
+  <missionheader0.tsmmission15>Непревзойденный</missionheader0.tsmmission15>
+  <missionmessage0.tsmmission15>Свержение старых богов и восстание новых.</missionmessage0.tsmmission15>
+  <missionsonarlabel.tsmmission15>Буря</missionsonarlabel.tsmmission15>
+  <!-- tsmmission16 -->
+  <missionname.tsmmission16>Блокираторы приближаются! </missionname.tsmmission16>
+  <missiondescription.tsmmission16>Корабль "Море чудес" заметил стаю блокираторов, направляющихся к этому району, и мы обещаем [reward] mk капитану, который от них отобьется. </missiondescription.tsmmission16>
+  <missionsuccess.tsmmission16>Блокираторы уничтожены. </missionsuccess.tsmmission16>
+  <missionheader0.tsmmission16>Шок, который не произошел</missionheader0.tsmmission16>
+  <missionmessage0.tsmmission16>Капитан, отличная работа, вы снова защитили территорию. </missionmessage0.tsmmission16>
+  <missionsonarlabel.tsmmission16>Зверь</missionsonarlabel.tsmmission16>
+  <!-- tsmmission17 -->
+  <missionname.tsmmission17>Плачущие первые звери</missionname.tsmmission17>
+  <missiondescription.tsmmission17>Капитан, мы просканировали эту область на наличие множества гнезд рептилий-матерей с рептилиями, сражающимися за территорию, но их сражения мешают нормальной навигации нашего канала, и мы ранее отправили небольшую группу воинов Чудесного моря для выполнения задания, но они вскоре были потеряны. Ситуация срочная, поэтому мы выбрали вас для этой миссии, чтобы очистить все население и найти местонахождение потерянных солдат. </missiondescription.tsmmission17>
+  <missionsuccess.tsmmission17>Могила рептилоидов? Нет, наши могилы. </missionsuccess.tsmmission17>
+  <missionheader0.tsmmission17>Рассеянное прошлое</missionheader0.tsmmission17>
+  <missionmessage0.tsmmission17>Мы видим внутри брюха гусеницы воинов в форме Моря Чудес, таких молодых, но сражающихся как солдаты, используемых как оружие и похороненных как предметы. В конце концов, они не получат ни славы, ни похвалы, которая им принадлежит, для них не будет подготовлено даже надгробного слова или маленькой могилы. </missionmessage0.tsmmission17>
+  <missionsonarlabel.tsmmission17>Крадущийся</missionsonarlabel.tsmmission17>
+  <!--Экспериментальное тело ЭМБИ-->
+  <!-- tsmmission21 -->
+  <missionname.tsmmission21>Эксперимент Магической Биотехнологии Инк</missionname.tsmmission21>
+  <missiondescription.tsmmission21>Корпорация IoMagic Biotechnology передала EMBI партию модифицированных мистических существ, но EMBI не смогла сдержать их во время тестирования, ранее мы отправили Хигурашияму, чтобы подавить их, но потеряли сообщение после контакта с экспериментами, пожалуйста, обратите внимание, капитан, это не кучка обычных позвоночников! Это не обычная группа позвоночников! Пожалуйста, будьте осторожны! </missiondescription.tsmmission21>
+  <missionsuccess.tsmmission21>Эта миссия должна храниться в секрете, иначе Восточно-Азиатская Тяжелая Промышленность будет оштрафована на крупную сумму. </missionsuccess.tsmmission21>
+  <missionheader0.tsmmission21>Истек срок действия задания</missionheader0.tsmmission21>
+  <missionmessage0.tsmmission21>Шшшш! Тишина, пожалуйста! </missionmessage0.tsmmission21>
+  <missionsonarlabel.tsmmission21>Экспериментальное тело 1</missionsonarlabel.tsmmission21>
+  <!-- tsmmission23 -->
+  <missionname.tsmmission23>ЭМБИ Испытательный полигон (1)</missionname.tsmmission23>
+  <missiondescription.tsmmission23>Ио Magic Biotech бросила вызов, их новое экспериментальное тело готово к использованию и ищет храбрых членов команды, которые не боятся умереть, чтобы бросить вызов силе нового экспериментального тела, они будут записывать данные во время битвы. Они предложат щедрый приз, если будут живые, чтобы вернуться. </missiondescription.tsmmission23>
+  <missionsuccess.tsmmission23>"Боги скорбят! Дай мне послушать... Кто скорбит?"</missionsuccess.tsmmission23>
+  <missionfailure.tsmmission23>Вы наконец... Не закончили эксперимент... </missionfailure.tsmmission23>
+  <missionheader0.tsmmission23>Смертельный звонок</missionheader0.tsmmission23>
+  <missionmessage0.tsmmission23>Колокол смерти прозвучал, но это приветствие к открытию врат другого мира</missionmessage0.tsmmission23>
+  <missionsonarlabel.tsmmission23>Новые три короля</missionsonarlabel.tsmmission23>
+  <!-- tsmmission24 -->
+  <missionname.tsmmission24>Звездный огонь моря джедаев</missionname.tsmmission24>
+  <missiondescription.tsmmission24>EMBI модифицировал "Призрачный крик Земли" на основе данных последней битвы и сейчас набирает новых членов экипажа, чтобы принять вызов, интересно, заинтересованы ли вы</missiondescription.tsmmission24>
+  <missionsuccess.tsmmission24>"Крик земли эхом отдается в бездне, когда он ревет в гневе, его морда постоянно издает пронзительный вой, наполняя близлежащие воды, пламя, извергаемое из его пасти, жжет и жжет ......". </missionsuccess.tsmmission24>
+  <missionfailure.tsmmission24>Вы наконец... Не закончили эксперимент... </missionfailure.tsmmission24>
+  <missionheader0.tsmmission24>Клеймо мертвых</missionheader0.tsmmission24>
+  <missionmessage0.tsmmission24>Внутри бездны земля оплакивает и пишет о моих военных, ставших всего лишь вспышкой звезды. </missionmessage0.tsmmission24>
+  <missionsonarlabel.tsmmission24>Земля плачет</missionsonarlabel.tsmmission24>
+  <!-- tsmmission25 -->
+  <missionname.tsmmission25>Умереть за свет</missionname.tsmmission25>
+  <missiondescription.tsmmission25>EMBI модифицировала Драконическую Чуму на основе данных последнего живого боя и в настоящее время набирает новую команду, чтобы принять вызов, интересно, заинтересованы ли вы</missiondescription.tsmmission25>
+  <missionsuccess.tsmmission25>"Зубы чумы вырваны, свет факела разложения задерживается в бездне, лед полон трупов, но не бойтесь, ибо мы благословлены Железным Зверем." </missionsuccess.tsmmission25>
+  <missionfailure.tsmmission25>Вы наконец... Не закончили эксперимент... </missionfailure.tsmmission25>
+  <missionheader0.tsmmission25>Осознание, которое не ржавеет</missionheader0.tsmmission25>
+  <missionmessage0.tsmmission25>Во льдах проносится чума опустошения, держа в руке пистолет, но не более того. </missionmessage0.tsmmission25>
+  <missionsonarlabel.tsmmission25>Чума запустения</missionsonarlabel.tsmmission25>
+  <!-- tsmmission26 -->
+  <missionname.tsmmission26>Миньоны памяти</missionname.tsmmission26>
+  <missiondescription.tsmmission26>EMBI модифицировал Бронтозавра на основе данных последнего живого боя и в настоящее время набирает новую команду, чтобы принять вызов. </missiondescription.tsmmission26>
+  <missionsuccess.tsmmission26>"Новый мир рождается из наших костей и крови"</missionsuccess.tsmmission26>
+  <missionfailure.tsmmission26>Вы наконец... не смогли завершить эксперимент... </missionfailure.tsmmission26>
+  <missionheader0.tsmmission26>Тьма бездны</missionheader0.tsmmission26>
+  <missionmessage0.tsmmission26>Ио, молнии и громы, грохот гигантских орудий, оборона все еще на месте. </missionmessage0.tsmmission26>
+  <missionsonarlabel.tsmmission26>Бронтозавр</missionsonarlabel.tsmmission26>
+  <!--新生-->
+  <!-- tsmmission31 -->
+  <missionname.tsmmission31>Цена надежды</missionname.tsmmission31>
+  <missiondescription.tsmmission31>Мы получили заказ на сайт с девушкой, которая умеет петь и танцевать и имеет доброе сердце, которая приносит проблеск надежды отчаявшимся людям этого сайта, но все не так хороши, как кажется. Девушка всегда нравилась одному парню, но когда он признался в любви, его отвергли, и он покинул сайт. Но через шесть лет он вернулся, его почти безумное чувство собственничества мучило его все это время и заставило сделать неверный шаг - убить девушку, думая, что тогда он сможет обладать им вечно. \nКогда мы узнали, кости девушки были спрятаны в пещере, а сам он был растерзан хищниками в пещере, так что, надеюсь, капитан сможет истребить хищников в пещере, чтобы жители станции смогли забрать останки девушки. </missiondescription.tsmmission31>
+  <missionsuccess.tsmmission31>Старые мечты</missionsuccess.tsmmission31>
+  <missionheader0.tsmmission31>Недостижимые вещи молодости в конечном итоге станут ловушкой на всю жизнь</missionheader0.tsmmission31>
+  <missionmessage0.tsmmission31>Прощание с танцем абсурда, смех над неспособностью мира отнять ее свободную душу</missionmessage0.tsmmission31>
+  <missionsonarlabel.tsmmission31>Кошмарные хищники</missionsonarlabel.tsmmission31>
+  <!-- tsmmission32 -->
+  <missionname.tsmmission32>Да здравствует нерушимое прошлое</missionname.tsmmission32>
+  <missiondescription.tsmmission32>Мы нашли фрактальных стражей, оставленных чужой планетой в пещере, похоже, они выполняют свою последнюю миссию - очищают пещеру, но минералы в этой пещере - именно то, что нужно этому месту, Море Чудес собиралось оставить это в покое, но они дали слишком много, так что ваш выбор? </missiondescription.tsmmission32>
+  <missionsuccess.tsmmission32>Это история об изгое, уничтожающем другого изгоя. </missionsuccess.tsmmission32>
+  <missionheader0.tsmmission32>Когда эта война закончится</missionheader0.tsmmission32>
+  <missionmessage0.tsmmission32>Я хотел бы увидеть закат и почувствовать времена года, если у меня когда-нибудь появится шанс покинуть Ио, как и создатели этих машин, и, наверное, этого хочет она. </missionmessage0.tsmmission32>
+  <missionsonarlabel.tsmmission32>Фрактальный очиститель</missionsonarlabel.tsmmission32>
+  <!-- tsmmission33 -->
+  <missionname.tsmmission33>Волны и волны</missionname.tsmmission33>
+  <missiondescription.tsmmission33>Некоторое время назад мы прогнали молотоголовых акул, но эта местность недолго оставалась спокойной, и вскоре прибыла новая группа туземцев, чтобы продолжать доминировать в канале, поэтому на этот раз мы не можем просто прогнать их, мы должны сделать из них пример. Сделайте из них пример! Мы щедро вознаградим вас. </missiondescription.tsmmission33>
+  <missionsuccess.tsmmission33>Кровь на острие алебарды еще не остыла</missionsuccess.tsmmission33>
+  <missionheader0.tsmmission33>Добавьте еще одну душу к лошади</missionheader0.tsmmission33>
+  <missionmessage0.tsmmission33>Этот канал наконец-то на некоторое время обретет покой</missionmessage0.tsmmission33>
+  <missionsonarlabel.tsmmission33>Мечеголовая акула</missionsonarlabel.tsmmission33>
+  <!-- tsmmission34 -->
+  <missionname.tsmmission34>Микроскопическая война</missionname.tsmmission34>
+  <missiondescription.tsmmission34> Эй, угадайте что. Мы уменьшили несколько блокираторов с помощью микрооружия, и так как они стали слишком маленькими, все они сбежали, поэтому капитан позаботился о них, пока они не устроили большой переполох! </missiondescription.tsmmission34>
+  <missionsuccess.tsmmission34>Интересный эксперимент</missionsuccess.tsmmission34>
+  <missionheader0.tsmmission34>Нет пути назад</missionheader0.tsmmission34>
+  <missionmessage0.tsmmission34>Если однажды человек исполнит свое давнее желание и разорвет все цепи кармы. </missionmessage0.tsmmission34>
+  <missionsonarlabel.tsmmission34>Мини-блокиратор</missionsonarlabel.tsmmission34>
+  <!-- tsmmission35 -->
+  <missionname.tsmmission35>Моррокко Френзи</missionname.tsmmission35>
+  <missiondescription.tsmmission35>Мы обнаружили рой нетрадиционных ирокезов, атакующих корабль, движущийся между [location1] и [location2]. Обратите внимание, что на этот раз это может быть не обычный морлок, эти морлоки исключительно жестоки, пожалуйста, будьте осторожны! </missiondescription.tsmmission35>
+  <missionsuccess.tsmmission35>Рой морлоков был уничтожен. </missionsuccess.tsmmission35>
+  <missionheader0.tsmmission35>Великая чистка завершена</missionheader0.tsmmission35>
+  <missionmessage0.tsmmission35>Все уничтожение подтверждено, пожалуйста, возвращайтесь! </missionmessage0.tsmmission35>
+  <missionsonarlabel.tsmmission35>Морроккон</missionsonarlabel.tsmmission35>
+  <!-- tsmmission36 -->
+  <missionname.tsmmission36> Их земля, их кровь</missionname.tsmmission36>
+  <missiondescription.tsmmission36>Участок становился переполненным, так как людей становилось все больше и больше, поэтому мы решили открыть новый участок и просканировали руины в канале. Мы просканировали участок и нашли отличное место в канале, но в нем осталось много стражников, поэтому мы хотели бы, чтобы капитан помог нам избавиться от них, но стоимость не проблема. </missiondescription.tsmmission36>
+  <missionsuccess.tsmmission36>"Здесь переплетены вечность и разрушение"</missionsuccess.tsmmission36>
+  <missionheader0.tsmmission36>Хищник</missionheader0.tsmmission36>
+  <missionmessage0.tsmmission36>Мы рождаемся хищниками</missionmessage0.tsmmission36>
+  <missionsonarlabel.tsmmission36>Фрактальные стражи</missionsonarlabel.tsmmission36>
+  <!-- tsmmission37 -->
+  <missionname.tsmmission37>Охота на ведьм</missionname.tsmmission37>
+  <missiondescription.tsmmission37>Мы обнаружили корабль атакующего хора, и, судя по дальнему наблюдению, он подвергся вторичной мутации. На основании информации, переданной Верой, мутировавший червь, похоже, является носителем ранее пропавшего капитана Беренхилла, мы не уверены, что именно произошло в период исчезновения, и Вера не передала больше никакой информации на данный момент. Но кем бы ни был этот червь, он может нанести еще больший ущерб, если оставить его без внимания. </missiondescription.tsmmission37>
+  <missionsuccess.tsmmission37>Пасть ведьмы</missionsuccess.tsmmission37>
+  <missionheader0.tsmmission37>Гробница вечности</missionheader0.tsmmission37>
+  <missionmessage0.tsmmission37>Согласно отчету Веры о миссии, Соградиус, наставник Берентиэля, был казнен во имя праведности после того, как Альянс прорвал Море Чудес. После этого Берентиэль была потеряна, поскольку фракция Адвента уговорила ее стать ключом к слиянию Ведьмы, а тот гигантский червь-мутант был носителем Ведьмы Адвента. Я помню, как мы вместе учились в Академии, она так любила петь, и мне до сих пор очень нравится, когда она таскает нас с собой, чтобы рассказать, какими замечательными были идеи ее наставника, жаль только, что я никогда больше не смогу их услышать. </missionmessage0.tsmmission37>
+  <missionsonarlabel.tsmmission37>Ведьма</missionsonarlabel.tsmmission37>
+  <!-- tsmmission38 -->
+  <missionname.tsmmission38>Механическое расстройство</missionname.tsmmission38>
+  <missiondescription.tsmmission38>В G11.K38 была обнаружена та же форма импульсной волны из инцидента "Ласточка бури". Хотя предыдущий механический сеанс был уничтожен, некоторые из воинов после завершения операции казались психически больными, и после лечения они получили от них сообщение, что порядок луны часто меняется, но порядок солнца остается неизменным. Луна - хозяин, но не может долго продержаться, солнце всегда второе по силе, но может продержаться</missiondescription.tsmmission38>
+  <missionsuccess.tsmmission38>Механические сеансы</missionsuccess.tsmmission38>
+  <missionfailure.tsmmission38>Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! Пип! </missionfailure.tsmmission38>
+  <missionheader0.tsmmission38>Коррупционные машины</missionheader0.tsmmission38>
+  <missionmessage0.tsmmission38>Происхождение этих механических богов всегда было загадкой, никто не знает, откуда они взялись и как, червеподобные сеансы продолжали распадаться, когда их побеждали, и в конце концов ничего не оставалось, как будто это был сон, вместо этого духи воинов были более или менее отклонены, как будто в их разум внезапно имплантировали Какое-то воспоминание? Или, может быть, взгляд в неизвестность? Итак, у нас есть подсказка, что события в зоне сильного импульса были вызваны не только машинами-червями, но и растущим числом машин, которые изначально наблюдались, чтобы уравновесить друг друга, и два механических тела, которые были замечены, были названы Лунный Порядок и Солнечный Порядок. После того как Лунный порядок был разрешен, вырос Дневной порядок, но этот рост был неконтролируемым, и постепенно механические носители не выдержали этого неограниченного доступа к энергии и начали гнить. У меня всегда было чувство, что это еще не конец". </missionmessage0.tsmmission38>
+  <missionsonarlabel.tsmmission38>Механический порядок дня</missionsonarlabel.tsmmission38>
+  <!--port-->
+  <!-- tsmmission41 -->
+  <missionname.tsmmission41>Землетрясение</missionname.tsmmission41>
+  <missiondescription.tsmmission41>Мегаимпульсные возмущения были обнаружены в этом районе и ощущаются в канале, сильно сотрясаясь, просим капитанов держаться подальше от этого канала и дождаться разрешения Моря Чудес, прежде чем проходить через него. </missiondescription.tsmmission41>
+  <missionsuccess.tsmmission41>Перемены, связанные с переворотом мира, близки. </missionsuccess.tsmmission41>
+  <missionheader0.tsmmission41>Суд</missionheader0.tsmmission41>
+  <missionmessage0.tsmmission41>Я отдаю годы бездне, и пусть она поднимается и опускается под моей горой, пока я рою могилу в своих глазах. </missionmessage0.tsmmission41>
+  <missionsonarlabel.tsmmission41>Эпицентр</missionsonarlabel.tsmmission41>
+  <!-- tsmmission42 -->
+  <missionname.tsmmission42>Приливная волна гигантских китов</missionname.tsmmission42>
+  <missiondescription.tsmmission42>Знаете ли вы, что на Земле есть профессия под названием китобой, и на Европе тоже есть такая профессия, но этот кит не тот кит, ну что ж моряки, отправляйтесь в целевую зону и удалите всех китообразных существ. </missiondescription.tsmmission42>
+  <missionsuccess.tsmmission42>Конец гигантского кита</missionsuccess.tsmmission42>
+  <missionheader0.tsmmission42>Китобой</missionheader0.tsmmission42>
+  <missionmessage0.tsmmission42>Поздравляем, вы стали сертифицированным китобоем. </missionmessage0.tsmmission42>
+  <missionsonarlabel.tsmmission42>Гигантский кит</missionsonarlabel.tsmmission42>
+  <!-- tsmmission43 -->
+  <missionname.tsmmission43>Бесстрашный флот</missionname.tsmmission43>
+  <missiondescription.tsmmission43>Дредноутный флот Альянса упал в этом районе на днях, но, судя по собранной информации, они "живы", теперь задача состоит в том, чтобы убедиться, что они действительно мертвы, но учтите, что на этот раз лучше всего сражаться с гипермобильными. </missiondescription.tsmmission43>
+  <missionsuccess.tsmmission43>Ультрамобильный бой</missionsuccess.tsmmission43>
+  <missionheader0.tsmmission43>RIP! Бесстрашный! </missionheader0.tsmmission43>
+  <missionmessage0.tsmmission43>Истинный флот Бесстрашных должен утонуть в гигантском кладбище кораблей. </missionmessage0.tsmmission43>
+  <missionsonarlabel.tsmmission43>Флот дредноутов</missionsonarlabel.tsmmission43>
+  <!-- tsmmission44 -->
+  <missionname.tsmmission44>Притворщик</missionname.tsmmission44>
+  <missiondescription.tsmmission44>Капитан, на этот раз это комиссия с добывающей станции, я слышал, что именно их добывающий корабль был атакован миной, я не уверен, в каком состоянии были произнесены такие возмутительные слова, но я бы тоже попросил капитана разобраться в этом. </missiondescription.tsmmission44>
+  <missionsuccess.tsmmission44>Отличная встреча с добывающим видом</missionsuccess.tsmmission44>
+  <missionheader0.tsmmission44>Рождение еретика</missionheader0.tsmmission44>
+  <missionmessage0.tsmmission44>Я чувствую, что однажды наши злые дела приведут нас к долгому сну в этой странной земле. </missionmessage0.tsmmission44>
+  <missionsonarlabel.tsmmission44>Водные штаммы</missionsonarlabel.tsmmission44>
+  <!-- tsmmission45 -->
+  <missionname.tsmmission45>Дивергент-близнец</missionname.tsmmission45>
+  <missiondescription.tsmmission45>Мы нашли два инопланетных творения в этих водах, и согласно информации, это мозг близнеца, управляющий двумя механическими телами, я не знаю, как это - прямой метод лишения мозга, но эта практика мне кажется очень жестокой, но мы не в том положении, чтобы жалеть этого близнеца, мы можем только отправить их в путь, надеясь, что в следующей жизни они не родятся на Ио. </missiondescription.tsmmission45>
+  <missionsuccess.tsmmission45>Операторы Бунтовщики Инициаторы</missionsuccess.tsmmission45>
+  <missionheader0.tsmmission45>Это на самом деле грустная история</missionheader0.tsmmission45>
+  <missionmessage0.tsmmission45>Цивилизация и история делают ее тяжелой</missionmessage0.tsmmission45>
+  <missionsonarlabel.tsmmission45>Близнецы</missionsonarlabel.tsmmission45>
+  <!--站点-->
+  <!-- tsmmission51 -->
+  <missionname.tsmmission51>Живое затонувшее судно</missionname.tsmmission51>
+  <missiondescription.tsmmission51>Некоторое время назад с объектом внезапно пропала связь. До этого на этот объект был доставлен специальный груз, который при расследовании оказался особыми яйцами, которые, как мы подозреваем, были специально подброшены на объект. Поэтому ваша миссия - очистить это место от всех живых животных и убрать все яйца. </missiondescription.tsmmission51>
+  <missionsuccess.tsmmission51>Сайт очищен, остальное предоставьте нам</missionsuccess.tsmmission51>
+  <missionheader0.tsmmission51>Тартар</missionheader0.tsmmission51>
+  <missionmessage0.tsmmission51>Море Чудес нашло информацию об этом грузе, но, пожалуйста, дайте нам немного времени на расшифровку информации, со временем мы найдем тех, кто за этим стоит, и заставим их заплатить. </missionmessage0.tsmmission51>
+  <missionsonarlabel.tsmmission51>Неизвестная форма жизни</missionsonarlabel.tsmmission51>
+  <!-- tsmmission52 -->
+  <missionname.tsmmission52>Кризис! Потопление хора</missionname.tsmmission52>
+  <missiondescription.tsmmission52>Капитан, море чудес, доставляющий гены .... Нет, нет, нет, корабль, перевозящий хор, внезапно был потоплен атакой неизвестной формы жизни, пожалуйста, переходите к аварийному курсу, нам нужно восстановить данные потопленного корабля первыми, и быстро! </missiondescription.tsmmission52>
+  <missionsuccess.tsmmission52>Восстановление успешно</missionsuccess.tsmmission52>
+  <missionheader0.tsmmission52>Каждый будет тонуть, пока не сможет больше тонуть</missionheader0.tsmmission52>
+  <missionmessage0.tsmmission52>"Море чудес" получило данные о затонувшем корабле, мы разберем их, как только сможем, а когда разберем, сразу же отдадим следующую команду, так что, пожалуйста, наберитесь терпения, капитан. Жаль только, что все эти дети из хора, эти дети, которые любили петь, будут похоронены в грязи под цветами, а следующей весной расцветут новорожденные цветы с их улыбающимися лицами. </missionmessage0.tsmmission52>
+  <missionsonarlabel.tsmmission52>Кораблекрушение</missionsonarlabel.tsmmission52>
+  <!-- tsmmission53 -->
+  <missionname.tsmmission53>Рейв клоунов</missionname.tsmmission53>
+  <missiondescription.tsmmission53>Призыв Богоматери эхом отдавался в их ушах, души из бездны поднимались на станцию, мутные глаза ничего не видели, мне казалось, что я спал целую вечность, но теперь я наконец проснулся. </missiondescription.tsmmission53>
+  <missionsuccess.tsmmission53>Оболочка</missionsuccess.tsmmission53>
+  <missionheader0.tsmmission53>неизвестный под страхом</missionheader0.tsmmission53>
+  <missionmessage0.tsmmission53>Под оболочкой нет души, но Богоматерь все еще там, и она продолжает напевать ...... </missionmessage0.tsmmission53>
+  <missionsonarlabel.tsmmission53>Оболочка клоуна</missionsonarlabel.tsmmission53>
+  <!--name-->
+  <character.Experiment_T044Y>Крик земного призрака</character.Experiment_T044Y>
+  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
+  <character.FractalTwin_Destruction>Фрактальные близнецы - Разрушители</character.FractalTwin_Destruction>
+  <character.FractalTwin_Sabotage>Фрактальные близнецы - Разрушители</character.FractalTwin_Sabotage>
+  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
+  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
+  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
+  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
+  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
+  <character.corruptionMachinery>Разлагающийся механизм</character.corruptionMachinery>
+  <tsm.a1>Здравствуйте, я лидер отряда "Сокол Чудо Морской Волк". У нас столько всего происходит, что мы просто не можем позволить себе позаботиться обо всем этом, поэтому мы надеялись, что кто-нибудь сможет прийти и помочь, и, конечно же, мы заплатим за это! </tsm.a1>
+  <tsm.a2>Это Отряд Чернильного Крашения, дела в Море Чудес сейчас идут не очень хорошо, и мы на пути к Арсеналу Кюсю, но здесь появилось еще одно поручение, поэтому у нас нет другого выбора, кроме как заплатить за него в данный момент. </tsm.a2>
+  <tsm.a3>Здравствуйте, я офицер связи EMBI, наша компания выпустила несколько комиссионных, не хотели бы вы взглянуть на них? </tsm.a3>
+  <tsm.a4>Европа огромна, и мы любим ее за малость; время длинно, и мы любим его за краткость; наша жизнь стремительна и стремительна, достойна медленной жизни и внезапной смерти. Это мир, где уходить популярно, но, к сожалению, никто из нас не умеет хорошо прощаться. Поэтому самое главное перед тем, как покинуть портвейн, - быть, во-первых, смелыми, во-вторых, честными и, наконец, верить в чудеса! И никогда не забывать друг друга...</tsm.a4>
+  <!--test:charactor-->
+  <charactername.TSMnpc_1>Призрачный Низ Ланг</charactername.TSMnpc_1>
+  <charactername.TSMnpc_2>Демон Дрим</charactername.TSMnpc_2>
+  <charactername.TSMnpc_3>Офицер по связям с ЭМБИ</charactername.TSMnpc_3>
+  <charactername.TSMnpc_4>Инструктор по спецвойскам - Сугер А Сугер</charactername.TSMnpc_4>
+  <!-- Награды босса -->
+  <entityname.mvdxe>Пасть ведьмы</entityname.mvdxe>
+  <entitydescription.mvdxe>Челюсть, брошенная ведьмой Лапласа в доказательство вашего поражения, чрезвычайно прочный материал, отлично подходит для изготовления оружия</entitydescription.mvdxe>
+  <entityname.lldyj>Глаза громового дракона</entityname.lldyj>
+  <entitydescription.lldyj>Глаз громового дракона, как доказательство того, что вы победили ее, сияющий глаз, при прикосновении к которому вы все еще можете почувствовать легкий ток</entitydescription.lldyj>
+  <entityname.hyddx>Ядовитая железа чумы</entityname.hyddx>
+  <entitydescription.hyddx>Ядовитая железа чумы, как доказательство того, что вы победили ее, смертельный яд, который также является противоядием</entitydescription.hyddx>
+  <entityname.ddbm>Плач Земли</entityname.ddbm>
+  <entitydescription.ddbm>Внутри Плач Земного Призрака, как доказательство вашего поражения, обжигающее тепло распространяется по вашим рукам. </entitydescription.ddbm>
+  <entityname.tsm_soundplayer>Приходи и не броди</entityname.tsm_soundplayer>
+  <entitydescription.tsm_soundplayer>Аудиоплеер, воспроизводящий аудиокассеты, полученные от BOSS или купленные на сайте. </entitydescription.tsm_soundplayer>
+  <entityname.suger_boardingaxe>‖color:159,207,217,255‖'Томагавк Cугера斧'‖color:end‖</entityname.suger_boardingaxe>
+  <entitydescription.suger_boardingaxe>‖color:159,207,217,255‖挥Замахиваясь на врага и на свое прошлое.己‖color:end‖</entitydescription.suger_boardingaxe>
+  <!-- Подкатегории -->
+  <subcategory.tsmmissions>T.S.M MISSIONS - спрашивает, как долго вас не было</subcategory.tsmmissions>
+  <!-- 未使用 -->
+  <!--missionname.tsmmission17>机械降神</missionname.tsmmission17>
+  <missiondescription.tsmmission17>根据奇迹之海观测站发来报告，这个地区出现了‘暴风雨燕’事件中的那种机械蠕虫，当地的人们称他们为机械降神，去调查一下！</missiondescription.tsmmission17>
+  <missionsuccess.tsmmission17>陨落的神明……</missionsuccess.tsmmission17>
+  <<missionfailure.tsmmission17></missionfailure.tsmmission17>>
+  <missionheader0.tsmmission17>将众神击落</missionheader0.tsmmission17>
+  <missionmessage0.tsmmission17>穿过血肉交织的混沌！</missionmessage0.tsmmission17>
+  <missionsonarlabel.tsmmission17>机械降神</missionsonarlabel.tsmmission17-->
+  <!--Affliction(s)-->
+  <!-- <afflictionname.genericaffliction1>内脏损伤</afflictionname.genericaffliction1>
+  <afflictiondescription.genericaffliction1>有血管破裂和器官损伤的迹象。</afflictiondescription.genericaffliction1>
+  <afflictioncauseofdeath.genericaffliction1>死于内脏损伤</afflictioncauseofdeath.genericaffliction1>
+  <afflictioncauseofdeathself.genericaffliction1>你因内脏损伤而死。</afflictioncauseofdeathself.genericaffliction1> -->
+  <!--OutpostEvents-->
+</infotexts>

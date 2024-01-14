@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- English.xml -->
+  <!-- Location Defs -->
+  <ilo_PirateOutpost>Аванпост пиратов</ilo_PirateOutpost>
+  <mlc_BeaconConstruction>Строительство маяка</mlc_BeaconConstruction>
+  <!-- Map UI -->
+  <mlc.beaconconsttooltip>Строительство ‖color:gui.orange‖маяка‖end‖ приостановлено на этом пути из-за недостатка [requestedsupplies]. После окончания строительства он облегчит строительство новых аванпостов в близлежащих районах.</mlc.beaconconsttooltip>
+  <mlc.distresstooltip>Кто-то активировал сигнал бедствия в этом проходе. Потерявшийся экипаж, "бесплатные" вещи или что-то еще?</mlc.distresstooltip>
+  <mlc.distresstooltipfaint>Сигнал от сигнала бедствия в этом проходе становится всё слабее. Что бы здесь ни находилось, скоро это обнаружить будет невозможно.</mlc.distresstooltipfaint>
+  <mlc.pirateactivitytooltip>Поступали сообщения об активности пиратов в этом районе. Экипажам следует соблюдать осторожность.</mlc.pirateactivitytooltip>
+  <mlc.navigationannouce>Обновление сигнала</mlc.navigationannouce>
+  <mlc.distress.new>Между [location1] и [location2] был принят новый сигнал бедствия.</mlc.distress.new>
+  <mlc.distress.faint>Сигнал бедствия между [location1] и [location2] становится всё слабее.</mlc.distress.faint>
+  <mlc.distress.lost>Сигнал бедствия между [location1] и [location2] больше не может быть обнаружен из-за фонового шума.</mlc.distress.lost>
+  <mlc.beaconconstone>[supply1]</mlc.beaconconstone>
+  <mlc.beaconconsttwo>[supply1] и [supply2]</mlc.beaconconsttwo>
+  <mlc.beaconconstthree>[supply1], [supply2] и [supply3]</mlc.beaconconstthree>
+  <mlc.beaconconstutility>‖color:gui.Green‖[count] Расходные материалы для маяка‖end‖</mlc.beaconconstutility>
+  <mlc.beaconconststructural>‖color:gui.Orange‖[count] Строительные материалы для маяка‖end‖</mlc.beaconconststructural>
+  <mlc.beaconconstelectrical>‖color:gui.Yellow‖[count] Электрические материалы для маяка‖end‖</mlc.beaconconstelectrical>
+  <!-- Level Stuff -->
+  <mlc.distresscall>Маяк бедствия</mlc.distresscall>
+  <!-- Mission Items -->
+  <entityname.distressbeacon>Маяк бедствия</entityname.distressbeacon>
+  <entitydescription.distressbeacon>Излучает сигнал большой дальности, который может быть обнаружен ручным сонаром или навигационным терминалом.</entitydescription.distressbeacon>
+  <entityname.jumpstarter>Пусковой стартер</entityname.jumpstarter>
+  <entitydescription.jumpstarter>Электрическое устройство с питанием от аккумулятора, используемое для запуска неработающих систем.</entitydescription.jumpstarter>
+  <itemmsgdetachcrowbar>[[use]] Отсоединить (Лом)</itemmsgdetachcrowbar>
+  <!-- Beacon Construction -->
+  <entityname.mlc_beaconutilitysupplies>Расходные материалы для маяка</entityname.mlc_beaconutilitysupplies>
+  <entitydescription.mlc_beaconutilitysupplies>Ящик с различными расходными материалами для строительства маяков. Разрушается при попадании в воду. Рекомендуется хранить в защищённом месте.</entitydescription.mlc_beaconutilitysupplies>
+  <entityname.mlc_beaconstructuralsupplies>Строительные материалы для маяка</entityname.mlc_beaconstructuralsupplies>
+  <entitydescription.mlc_beaconstructuralsupplies>Ящик с различными строительными материалами для строительства маяков. Разрушается при попадании в воду. Рекомендуется хранить в защищённом месте.</entitydescription.mlc_beaconstructuralsupplies>
+  <entityname.mlc_beaconelectrialsupplies>Электрические материалы для маяка</entityname.mlc_beaconelectrialsupplies>
+  <entitydescription.mlc_beaconelectrialsupplies>Ящик с различными электронными материалами для строительства маяков. Разрушается при попадании в воду. Рекомендуется хранить в защищённом месте.</entitydescription.mlc_beaconelectrialsupplies>
+  <!-- Structural Crafting Items -->
+  <entityname.mlc_beaconsmat1>Наружное покрытие маяка</entityname.mlc_beaconsmat1>
+  <entitydescription.mlc_beaconsmat1>Прочное покрытие, используемое для внешней отделки маяков. Создано для того, чтобы противостоять сокрушительному давлению, а также различным тварям.</entitydescription.mlc_beaconsmat1>
+  <entityname.mlc_beaconsmat2>Внутреннее покрытие маяка</entityname.mlc_beaconsmat2>
+  <entitydescription.mlc_beaconsmat2>Лёгкие металлические листы, используемые для внутренней облицовки маяков.</entitydescription.mlc_beaconsmat2>
+  <entityname.mlc_beaconsmat3>Комплект опор для маяка</entityname.mlc_beaconsmat3>
+  <entitydescription.mlc_beaconsmat3>Сверхпрочные фермы и якоря, используемые для крепления маяка к стенам пещер.</entitydescription.mlc_beaconsmat3>
+  <!-- Electrical Crafting Items -->
+  <entityname.mlc_beaconemat1>Логические компоненты для маяка</entityname.mlc_beaconemat1>
+  <entitydescription.mlc_beaconemat1>Различные схемы, используемые при создании радиолокационных систем маяков. Разрушаются при попадании в воду.</entitydescription.mlc_beaconemat1>
+  <entityname.mlc_beaconemat2>Проводка для маяка</entityname.mlc_beaconemat2>
+  <entitydescription.mlc_beaconemat2>Большие и малые кабели, используемые для подачи питания и подключения схем на маяках. Разрушаются при попадании в воду.</entitydescription.mlc_beaconemat2>
+  <entityname.mlc_beaconemat3>Электрические компоненты для маяка</entityname.mlc_beaconemat3>
+  <entitydescription.mlc_beaconemat3>Различные предохранители, выключатели и рубильники, используемые в электрической системе маяков. Разрушаются при попадании в воду.</entitydescription.mlc_beaconemat3>
+  <!-- Utility Crafting Items -->
+  <entityname.mlc_beaconumat1>Водопроводные компоненты для маяка</entityname.mlc_beaconumat1>
+  <entitydescription.mlc_beaconumat1>Трубы, клапаны и другие системы контроля потока, используемые для того, чтобы вода не попадала внутрь, а воздух не выходил с маяка.</entitydescription.mlc_beaconumat1>
+  <entityname.mlc_beaconumat2>Реакторные компоненты для маяка</entityname.mlc_beaconumat2>
+  <entitydescription.mlc_beaconumat2>Экранирование, регулирующие стержни и системы парообмена, используемые при строительстве реактора маячных станций. Разрушаются при попадании в воду.</entitydescription.mlc_beaconumat2>
+  <entityname.mlc_beaconumat3>Компоненты для герметизации маяка</entityname.mlc_beaconumat3>
+  <entitydescription.mlc_beaconumat3>Сварочный флюс, резиновые заплатки и другие изделия, используемые для заделки щелей и отверстий в маяках.</entitydescription.mlc_beaconumat3>
+  <!-- Blackmarket -->
+  <npctitle.blackmarketmerchant>Торговец чёрного рынка</npctitle.blackmarketmerchant>
+  <!-- Outpost Name -->
+  <mlc.pirateoutpost>База пиратов</mlc.pirateoutpost>
+  <!-- Pirate Titles -->
+  <npctitle.piratemedicrecruit>Пират-начинающий медик</npctitle.piratemedicrecruit>
+  <npctitle.piratemedic>Пират-медик</npctitle.piratemedic>
+  <npctitle.pirateflamer>Пират-огнемётчик</npctitle.pirateflamer>
+  <npctitle.piratedeadeye>Пират-снайпер</npctitle.piratedeadeye>
+  <npctitle.pirateberserker>Пират-берсерк</npctitle.pirateberserker>
+  <npctitle.piratefanatic>Пират-фанатик</npctitle.piratefanatic>
+  <npctitle.piratetank>Пират-джаггернаут</npctitle.piratetank>
+  <npctitle.piratevolitile>Бешеный пират</npctitle.piratevolitile>
+  <!-- Server Messages -->
+  <mlc.server.wrongversionclient>Ваш клиент использует неверную версию!\nКлиент: v[clientversion]  Сервер: v[serverversion]</mlc.server.wrongversionclient>
+  <mlc.server.wrongversion>Клиент [client] использует неверную версию!\nКлиент: v[clientversion]  Сервер: v[serverversion]</mlc.server.wrongversion>
+  <mlc.server.installed>Клиент [client] установил More Level Content успешно!</mlc.server.installed>
+  <!-- Patch Notes -->
+  <mlc.patchnote>More Level Content Patch Notes v[version]</mlc.patchnote>
+  <!-- Config -->
+  <mlc.config>Настройки More Level Content</mlc.config>
+  <mlc.configshort>Настройки MLC</mlc.configshort>
+  <!-- General Config -->
+  <SettingsTab.General>Общие</SettingsTab.General>
+  <mlc.settings.moveruins>Руины в бездне</mlc.settings.moveruins>
+  <mlc.settings.moveruinstooltip>Шанс появления инопланетных руин в бездне</mlc.settings.moveruinstooltip>
+  <mlc.settings.maxdistresscount>Макс. Сигналов бедствия Активно</mlc.settings.maxdistresscount>
+  <mlc.settings.maxdistresscounttooltip>Сколько сигналов бедствия может быть активно в одно и то же время</mlc.settings.maxdistresscounttooltip>
+  <mlc.settings.spawndistresschance>Шанс Сигнала бедствия</mlc.settings.spawndistresschance>
+  <mlc.settings.spawndistresschancetooltip>Процентный шанс появления нового сигнала бедствия</mlc.settings.spawndistresschancetooltip>
+  <mlc.settings.spawnchance>[chance]% шанс</mlc.settings.spawnchance>
+  <mlc.settings.maxactive>[max] макс</mlc.settings.maxactive>
+  <!-- Pirate Config -->
+  <SettingsTab.PirateOutpost>Аванпост Пиратов</SettingsTab.PirateOutpost>
+  <mlc.config.piratespawnchance>Бонусный Шанс Появления</mlc.config.piratespawnchance>
+  <mlc.config.piratespawnchancetooltip>Увеличение этого значения выше 0 приведет к появлению ГОРАЗДО большего количества пиратских аванпостов, что может нарушить игровой баланс.</mlc.config.piratespawnchancetooltip>
+  <mlc.config.piratehuskchance>Шанс Хасков</mlc.config.piratehuskchance>
+  <mlc.config.piratehuskchancetooltip>Вероятность того, что на пиратском аванпосте все будут заражены Хасками. По умолчанию - 1.</mlc.config.piratehuskchancetooltip>
+  <mlc.config.piratespawnnoise>Доп. Сложность</mlc.config.piratespawnnoise>
+  <mlc.config.piratediffnoise>Это значение влияет на то, сколько бонусных очков добавляется к сложности. Например, значение 25 может привести к появлению пиратов, которые на 25% сложнее от текущей сложности.</mlc.config.piratediffnoise>
+  <mlc.config.piratedisplaysonar>Отображать на Сонаре</mlc.config.piratedisplaysonar>
+  <mlc.config.piratedisplaysonartooltip>Должен ли маркер пиратской базы должен появляться на сонаре.</mlc.config.piratedisplaysonartooltip>
+  <mlc.config.piratescalediff>Масштабирование Сложности</mlc.config.piratescalediff>
+  <mlc.config.piratescaledifftooltip>Должна ли сложность пиратов зависеть от количества людей на сервере.</mlc.config.piratescaledifftooltip>
+  <!-- Debug Config -->
+  <SettingsTab.Debug>Отладка</SettingsTab.Debug>
+  <mlc.config.debugverbose>Подробный Журнал</mlc.config.debugverbose>
+  <mlc.config.debugverbosetooltip>Включить ведение подробного журнала (логов).</mlc.config.debugverbosetooltip>
+  <mlc.config.debuginternal>Внутренний Журнал</mlc.config.debuginternal>
+  <mlc.config.debuginternaltooltip>Включить внутренний журнал, который регистрирует внутренние отладочные сообщения в консоле.</mlc.config.debuginternaltooltip>
+  <!-- Talents -->
+  <!-- MissionText.xml -->
+  <!-- Missions -->
+  <missionname.beaconconstruction>Строительство маяка</missionname.beaconconstruction>
+  <missiondescription.beaconconstruction>Маяк между [location1] и [location1] нуждается в поставке [requestedsupplies] для продолжения строительства. Любому экипажу, который доставит груз, предлагается вознаграждение в размере [reward] кредитов.</missiondescription.beaconconstruction>
+  <beaconconsonarlabel>Строительная площадка</beaconconsonarlabel>
+  <missionheader0.beaconconstruction>Припасы доставлены</missionheader0.beaconconstruction>
+  <missionmessage0.beaconconstruction>Припасы доставлены. Отправляйтесь в [location2], чтобы получить вознаграждение.</missionmessage0.beaconconstruction>
+  <missionsuccess.beaconconstruction>Строительство маяка продолжается.</missionsuccess.beaconconstruction>
+  <missionfailure.beaconconstruction>Строительство маяка по-прежнему приостановлено.</missionfailure.beaconconstruction>
+  <!-- Distress Missions -->
+  <!-- Generic -->
+  <missionname.distressmission>Сигнал бедствия</missionname.distressmission>
+  <missiondescription.distressmission>Радиостанции дальнего действия обнаружили активный маяк бедствия в этом проходе. Последнее известное местоположение было отмечено на сонаре.</missiondescription.distressmission>
+  <missionfailure.distressmission>Призыв о помощи остаётся без ответа.</missionfailure.distressmission>
+  <!-- Distess Escort -->
+  <distress.lostdiversuccess>Подводник душевно благодарит вас за спасение. В качестве благодарности он вручают вам награду.</distress.lostdiversuccess>
+  <distress.pirateambushsuccess>Пираты пытались заманить беспомощные экипажи маяками бедствия. Миру будет лучше без них.</distress.pirateambushsuccess>
+  <!-- Distress Submarine -->
+  <distress.submarinesuccess.crew>Экипаж и шаттл были благополучно выведены из пещеры, они дают вам [reward] кредитов за хлопоты.</distress.submarinesuccess.crew>
+  <distress.submarinesuccess.sub>Вы закладываете шаттл за [reward] кредитов.</distress.submarinesuccess.sub>
+  <distress.submarinefail>Шаттл присоединяется к экипажу на морском дне.</distress.submarinefail>
+  <missionheader0.distress_shiprescue>Потерянный щатл</missionheader0.distress_shiprescue>
+  <missionmessage0.distress_shiprescue>Сигнал бедствия приводит вас к потерявшемуся шаттлу. Судя по радиопереговорам, его экипаж переживает не лучшие времена. Выведите экипаж и шаттл из пещеры.</missionmessage0.distress_shiprescue>
+  <missionheader1.distress_shiprescue>Потерянный щатл</missionheader1.distress_shiprescue>
+  <missionmessage1.distress_shiprescue>Экипаж шаттла погиб - слишком частая участь. Он не заплатит за своё спасение, но сам шаттл всё ещё может быть продан.</missionmessage1.distress_shiprescue>
+  <distress.lostshuttle.atend>Потерянный шаттл находится в пределах досягаемости для разбора.</distress.lostshuttle.atend>
+  <!-- Distress Ghostship -->
+  <missionheader0.distress_ghostship>Дрейфующая подлодка</missionheader0.distress_ghostship>
+  <missionheader1.distress_ghostship>Дрейфующая подлодка</missionheader1.distress_ghostship>
+  <missionmessage0.distress_ghostship>Источником сигнала бедствия, по-видимому, является дрейфующая подводная лодка. Стандартный протокол Коалиции требует высадку на борт подлодки для проведения расследования.</missionmessage0.distress_ghostship>
+  <distress.ghostship.damagenotification>Нанесение урона судну может привести к потере репутации!</distress.ghostship.damagenotification>
+  <!-- Mission Specific -->
+  <missionmessage1.distress_ghostship_bandit1>Когда вы проникаете на дрейфующую подлодку, вы слышите шаги. Жив ли ещё экипаж?</missionmessage1.distress_ghostship_bandit1>
+  <distress.success.distress_ghostship_bandit1>Подводная лодка была захвачена бандитами, экипаж вырезан под корень.</distress.success.distress_ghostship_bandit1>
+  <missionmessage1.distress_ghostship_husks>Когда вы проникаете на дрейфующую подлодку, вы слышите шаги. Жив ли ещё экипаж?</missionmessage1.distress_ghostship_husks>
+  <distress.success.distress_ghostship_husks>Вы напоминаете себе, что было бы неплохо запастись Каликсанидом на следующем аванпосте.</distress.success.distress_ghostship_husks>
+  <distress.success.distress_ghostship_prisonbreak>Поучительная история о том, что нужно всегда следить за своими заключенными.</distress.success.distress_ghostship_prisonbreak>
+  <missionmessage1.distress_ghostship_crawlers>Поднявшись на борт дрейфующей подлодки, вы сразу же ощущаете зловоние смерти, которым пропитан воздух. Если экипаж и был когда-то жив, то он давно умер.</missionmessage1.distress_ghostship_crawlers>
+  <distress.success.distress_ghostship_crawlers>Странное зрелище - дрейфующая подводная лодка сейчас используется как место для размножения. Возможно, у одного из членов экипажа было домашнее животное, которое слишком проголодалось.</distress.success.distress_ghostship_crawlers>
+  <distress.success.distress_ghostship_alienship>Вид модифицированной подводной лодки заседает в вашем мозгу, царапая стенки черепа. Что за хрень такая - "Яхвей"?</distress.success.distress_ghostship_alienship>
+  <!-- Fluff -->
+  <label.insanerant1>КАК ГЛУБОКО ПОДО ЛЬДОМ ВИДИТ бОГ?</label.insanerant1>
+  <label.insanerant2>ТЫ</label.insanerant2>
+  <label.insanerant3>МОЖЕШЬ</label.insanerant3>
+  <label.insanerant4>СЛЫШАТЬ</label.insanerant4>
+  <label.insanerant5>ЕГО</label.insanerant5>
+  <label.insanerant6>ЗОВ?</label.insanerant6>
+  <charactername.clowncorpse>Труп Клоуна</charactername.clowncorpse>
+</infotext>
+<!-- Discord переводчика: enigmans -->

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--Helmets-->
+  <entityname.thghelmet5>Твёрдый Шлем</entityname.thghelmet5>
+  <entitydescription.thghelmet5>Относительно современный, ярко окрашенный легкий алюминиевый шлем с системой крепления к голове, разработанный для значительного снижения воздействия тупых травм на череп. Однако он мало что делает против таких угроз, как пасть хищника, и абсолютно ничего против пули.</entitydescription.thghelmet5>
+  <entityname.thghelmet4>Шлем Разрушителя</entityname.thghelmet4>
+  <entitydescription.thghelmet4>Сверхтяжелый, усиленный баллистический шлем с большим количеством набивки и специальной броневой подкладкой с толстым баллистическим козырьком, предназначенный для того, чтобы осколки и фрагменты не выбивали мозги.</entitydescription.thghelmet4>
+  <entityname.thghelmet3>Шлем Ветерана</entityname.thghelmet3>
+  <entitydescription.thghelmet3>Очень-очень старый металлический шлем с шипами с Терры, украшенный хорошо сохранившимися орнаментами и выкованный в архаичном стиле из твердого железа. Кажется, что такому шлему место скорее в музее, чем на вашей голове.</entitydescription.thghelmet3>
+  <entityname.thghelmet1>Шлем Скид</entityname.thghelmet1>
+  <entitydescription.thghelmet1>Дешёвый стальной шлем старой школы, предназначенный для защиты в основном от осколков и тупых травм больше, чем от прямых пуль и челюстей инопланетного хищника.</entitydescription.thghelmet1>
+  <entityname.thghelmet2>Штурмовой шлем "Носорог"</entityname.thghelmet2>
+  <entitydescription.thghelmet2>Сверхпрочный шлем на всю голову со встроенной автоматической системой ребризера, а также множеством защитных элементов, предназначенных для обеспечения максимальной защиты в самых тяжелых обстоятельствах.</entitydescription.thghelmet2>
+  <entityname.thghelmet7>Винтажный шлем "Они"</entityname.thghelmet7>
+  <entitydescription.thghelmet7>Грозный, древний шлем в безупречном состоянии, сделанный давно ушедшим мастером. Не такой защитный, как любой современный доспех, но он внушает владельцу огромную отвагу.</entitydescription.thghelmet7>
+  <entityname.thghelmet8>Шлем из Грязевого Раптора</entityname.thghelmet8>
+  <entitydescription.thghelmet8>Грозный шлем, созданный из панциря грязевого раптора и напоминающий звериные мандибулы.</entitydescription.thghelmet8>
+  <entityname.thghelmet9>Шлем из Латуни с Визором</entityname.thghelmet9>
+  <entitydescription.thghelmet9>Древний стиль латунного шлема с Терры, с коротким козырьком для защиты глаз и лица. Странная вещь для ношения в наши дни, но, тем не менее, защищает.</entitydescription.thghelmet9>
+  <entityname.thghelmet10>Рогатый Латунный Шлем</entityname.thghelmet10>
+  <entitydescription.thghelmet10>Большой древний рогатый латунный шлем с Терры. Довольно странная вещь для ношения в подводной лодке, но тем не менее защищает.</entitydescription.thghelmet10>
+  <entityname.thghelmet11>Нарядный Латунный Шлем</entityname.thghelmet11>
+  <entitydescription.thghelmet11>Чрезвычайно богато украшенный древний шлем из стальной латуни, с Терры. Очень впечатляющий, но странный для ношения.</entitydescription.thghelmet11>
+  <entityname.thghelmet12>Шлем Наблюдателя</entityname.thghelmet12>
+  <entitydescription.thghelmet12>Толстый, шипастый шлем, созданный из шипастых кусков панциря Наблюдателя. Очень защитный и чрезвычайно огнестойкий.</entitydescription.thghelmet12>
+  <entityname.thghelmet13>Шлем Молоха</entityname.thghelmet13>
+  <entitydescription.thghelmet13>Защитный шлем с маской, изготовленный из гладких кусков прочного панциря молоха. Трофей великого охотника.</entitydescription.thghelmet13>
+  <entityname.thghelmet14>Шлем из Червя Конца</entityname.thghelmet14>
+  <entitydescription.thghelmet14>Грозный, невероятно прочный шлем, вырезанный из железного панциря могущественного Червя конца. Настоящий трофей и зрелище, достойное внимания.</entitydescription.thghelmet14>
+  <entityname.thghelmet8alt>Ветеранский Щлем из Грязевого Раптора</entityname.thghelmet8alt>
+  <entitydescription.thghelmet8alt>Страшный шлем, созданный из панциря мудраптора и напоминающий звериные мандибулы. Затемненный измельченным гидроксиапатитом, чтобы напоминать более грозного хищника.</entitydescription.thghelmet8alt>
+  <entityname.thghelmet13alt>Шлем из Чёрного Молоха</entityname.thghelmet13alt>
+  <entitydescription.thghelmet13alt>Защитный шлем с маской, изготовленный из гладких кусков прочного панциря молоха. Трофей великого охотника. Затемненный измельченным гидроксиапатитом, чтобы напоминать более грозного хищника.</entitydescription.thghelmet13alt>
+  <!--Shields-->
+  <entityname.assaultshield>Штурмовой Щит</entityname.assaultshield>
+  <entitydescription.assaultshield>Относительно компактный усиленный тактический щит, который гораздо легче держать и маневрировать одной рукой по сравнению с полноценными щитами бунта. Однако он не имеет такого охвата, как его более крупные собратья.</entitydescription.assaultshield>
+  <!--Suits-->
+  <entityname.rhinoassaultsuit>Штурмовой Костюм "Носорог"</entityname.rhinoassaultsuit>
+  <entitydescription.rhinoassaultsuit>Сверхпрочный, полностью бронированный боевой костюм, предназначенный для войны, а не для глубоководного погружения. Тем не менее, он обеспечивает небольшую устойчивость к давлению при неглубоком погружении, но сильно замедляет вас в воде. Включает большое количество тактических подсумков и мест для снаряжения, и делает вас практически пуленепробиваемым.</entitydescription.rhinoassaultsuit>
+  <entityname.lynxexoskeletonsuitsuit>Экзокостюм "Рысь"</entityname.lynxexoskeletonsuitsuit>
+  <entitydescription.lynxexoskeletonsuitsuit>Относительно тонкий, легкий экзоскелет с минимальным энергопотреблением, значительно увеличивающий скорость, силу и устойчивость владельца. Хотя он не может обеспечить защиту, как полнотелые водолазные костюмы или бронежилеты, он делает владельца гораздо более проворным, хотя абсолютно ничего не делает в воде.</entitydescription.lynxexoskeletonsuitsuit>
+  <entityname.jeansmotherfuckerisaidjeans>Джинсы</entityname.jeansmotherfuckerisaidjeans>
+  <entitydescription.jeansmotherfuckerisaidjeans>100% джинсы из Денима. Слегка пахнет дешёвым пивом и демократией.</entitydescription.jeansmotherfuckerisaidjeans>
+  <entityname.thglightbodyarmor>Лёгкая Баллистическая Броня</entityname.thglightbodyarmor>
+  <entitydescription.thglightbodyarmor>Минимально защищающий легкий баллистический жилет. Включает в себя небольшие тактические петли для хранения снаряжения или некоторых свободных патронов.</entitydescription.thglightbodyarmor>
+  <entityname.thgbustersuit>Экзокостюм "Бустер"</entityname.thgbustersuit>
+  <entitydescription.thgbustersuit>Сверхтяжелый гидравлический боевой экзокостюм с ядерным двигателем, разработанный для военных операций против легких транспортных средств и пехоты, в идеале на суше. Он не обладает чрезвычайной устойчивостью к глубине, как традиционные водолазные экзокостюмы, но обеспечивает владельцу невероятную прочность и непревзойденную защиту. Он также обладает отличными характеристиками защиты от вредного воздействия окружающей среды.</entitydescription.thgbustersuit>
+  <entityname.thghaulersuit>Экзокостюм Перевозчика</entityname.thghaulersuit>
+  <entitydescription.thghaulersuit>Сверхтяжелый гидравлический экзокостюм с ядерным двигателем, предназначенный для промышленного применения во всевозможных опасных условиях. Он не обладает чрезвычайной устойчивостью к глубине, как традиционные водолазные экзокостюмы, но обеспечивает владельцу невероятную прочность и дает возможность переносить большое количество чрезвычайно громоздких предметов. Он также обладает отличными характеристиками защиты от вредного воздействия окружающей среды.</entitydescription.thghaulersuit>
+  <entityname.thgdemosuit>Костюм разрушителя</entityname.thgdemosuit>
+  <entitydescription.thgdemosuit>Сверхпрочный, огнестойкий и ударопрочный костюм, усиленный сталью и преломляющим баллистическим покрытием, разработанный, чтобы остановить осколки и удары тупым предметом, чтобы не разнести человека в клочья от всех, кроме самых сильных взрывов. Немного громоздкий для передвижения, но хорошо защищает от взрывных угроз и не так сильно от других. В ногах имеются удобные подсумки для хранения снаряжения под рукой.</entitydescription.thgdemosuit>
+  <entityname.thgriotsuit>Комплект "Riot"</entityname.thgriotsuit>
+  <entitydescription.thgriotsuit>Комплект легкой баллистической брони, усиленной амортизирующими материалами и набивкой, предназначен для защиты большей части тела от ударов тупым предметом и травм. В комплект также входит несколько удобных подсумков для хранения жизненно важного оборудования под рукой.</entitydescription.thgriotsuit>
+  <entityname.thgvintageoniassaultsuit>Винтажный Костюм "Они"</entityname.thgvintageoniassaultsuit>
+  <entitydescription.thgvintageoniassaultsuit>Старинный, но почти нетронутый костюм тщательно изготовленных доспехов, сделанный древним мастером. Он не так хорошо защищает, как современные доспехи, но сильно усиливает волю владельца, заставляя его двигаться с - по слухам - демонической яростью.</entitydescription.thgvintageoniassaultsuit>
+  <entityname.thgmudraptorfullplate>Полная Броня из Грязевого Раптора</entityname.thgmudraptorfullplate>
+  <entitydescription.thgmudraptorfullplate>Невероятно тяжелый набор почти полноразмерных панцирей мудраптора, соединенных между собой по типу древних пластинчатых доспехов. Чрезвычайно защищает, но громоздок.</entitydescription.thgmudraptorfullplate>
+  <entityname.thglightbrassarmor>Латунные Доспехи</entityname.thglightbrassarmor>
+  <entitydescription.thglightbrassarmor>Древний нагрудник из устойчивой к ржавчине латуни, все еще защищающий жизненно важные органы от морских зверей, но в повседневной одежде представляющий собой странное зрелище.</entitydescription.thglightbrassarmor>
+  <entityname.thgornatebrassarmor>Нарядные Латунные Доспехи</entityname.thgornatebrassarmor>
+  <entitydescription.thgornatebrassarmor>Чрезвычайно богато украшенный старинный комплект украшенных латунно-стальных доспехов. До сих пор довольно хорошо защищает, но чаще встречается в театре, чем в практическом использовании.</entitydescription.thgornatebrassarmor>
+  <entityname.thgchitinarmor>Хитиновая Броня</entityname.thgchitinarmor>
+  <entitydescription.thgchitinarmor>Прочная броня для верхней части тела, сделанная из обманчиво легкого хитина.</entitydescription.thgchitinarmor>
+  <entityname.thgwatcherarmor>Доспехи Наблюдателя</entityname.thgwatcherarmor>
+  <entitydescription.thgwatcherarmor>Толстый, шипастый доспех, сделанный из толстых кусков панциря Наблюдателя. Очень защитный и чрезвычайно огнестойкий, но громоздкий.</entitydescription.thgwatcherarmor>
+  <entityname.thgmolocharmor>Доспехи Молоха</entityname.thgmolocharmor>
+  <entitydescription.thgmolocharmor>Толстая броня, изготовленная из гладких кусков раковины молоха, обманчиво легкая и манёвренная, но при этом хорошо защищающая.</entitydescription.thgmolocharmor>
+  <entityname.thgendwormfullplate>Полный Костюм из Червя Конца</entityname.thgendwormfullplate>
+  <entitydescription.thgendwormfullplate>Чрезвычайно прочный костюм из ониксово-черной тяжелой брони, созданной из панциря могучего Червя конца. Обеспечивает почти беспрецедентную защиту, но очень, очень тяжелый.</entitydescription.thgendwormfullplate>
+  <entityname.thgmolocharmoralt>Доспехи из Черного Молоха</entityname.thgmolocharmoralt>
+  <entitydescription.thgmolocharmoralt>Толстая броня, изготовленная из гладких кусков панциря молоха, обманчиво легкая и маневренная, но при этом очень надежная. Потемневший от времени гидроксиапитит, чтобы походить на более грозного хищника.</entitydescription.thgmolocharmoralt>
+  <!--Bags-->
+  <entityname.thgbackpack>Сумка Алисы</entityname.thgbackpack>
+  <entitydescription.thgbackpack>Легкая тактическая сумка, предназначенная для хранения множества мелких вещей, со специальной петлей для хранения одного оружия практически любого размера. Немного обременительна, особенно для плавания.</entitydescription.thgbackpack>
+</infotext>

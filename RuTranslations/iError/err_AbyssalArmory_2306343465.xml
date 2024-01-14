@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <displayname.uesmcalternate>[itemname] (Alternate recipe)</displayname.uesmcalternate>
+  <!--
+	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
+	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
+	
+	-->
+  <!-- Pistol and it's mags-->
+  <entityname.ahc>A.H.C. Пистолет</entityname.ahc>
+  <entitydescription.ahc>A.H.C. - это новейшая технология в области автоматических пистолетов. Как и винтовочная версия линейки оружия U.E.S.M.C., он вмещает два типа боеприпасов, а сам пистолет может справиться с нарушителем общественного порядка в рамках предусмотренного боекомплекта.</entitydescription.ahc>
+  <entityname.ahcmag>A.H.C. Магазин</entityname.ahcmag>
+  <entitydescription.ahcmag>Стандартный магазин боеприпасов для A.H.C. Наносит хороший удар, но имеет проблемы при стрельбе по бронированным целям.</entitydescription.ahcmag>
+  <entityname.ahcapmag>A.H.C. БП Магазин</entityname.ahcapmag>
+  <entitydescription.ahcapmag>Магазин бронебойных патронов для A.H.C. Наносит меньшее повреждений, но может пробивать несколько целей или игнорировать броню.</entitydescription.ahcapmag>
+  <!-- Rifle and it's mags-->
+  <entityname.arc>А.В.К. Штурмовая винтовка</entityname.arc>
+  <entitydescription.arc>Автоматический вращающийся карабин, или сокращенно А.В.К., - это культовая винтовка стражей. Благодаря внутренней двуствольной системе, он может достигать высокой скорости стрельбы; удобная рукоятка повышает точность стрельбы, а магазин повышенной емкости рассчитан на два вида боеприпасов. Настоящая штурмовая винтовка, которой стоит опасаться на поле боя.</entitydescription.arc>
+  <entityname.arcmag>А.В.К. Магазин</entityname.arcmag>
+  <entitydescription.arcmag>Стандартный магазин А.В.К. Магазин высокая мощность позволяет использовать его для поражения нескольких целей без необходимости перезарядки, однако он неэффективен против бронированных целей.</entitydescription.arcmag>
+  <entityname.arcapmag>А.В.К. БП Магазин</entityname.arcapmag>
+  <entitydescription.arcapmag>Магазин бронебойных патронов для А.В.К. Наносит меньшее повреждений, но игнорирует броню.</entitydescription.arcapmag>
+  <!-- LMG and it's mag-->
+  <entityname.splmg>СП-Р4ИР Ручной пулемет</entityname.splmg>
+  <entitydescription.splmg>СП-Р4ИР, или по-нашему, "брызговик" - это определение ручного пулемета. Имеет 3 ствола, которые стреляют одновременно. Настоящая ценность этого оружия заключается в его сильном поражающем действии, которое настолько эффективно, что ослабляет любого, в кого попадет пуля, и делая более уязвимым.</entitydescription.splmg>
+  <entityname.splmgmag>СП-Р4ИР Ящик патронов</entityname.splmgmag>
+  <entitydescription.splmgmag>В этом ящике содержится более 150 патронов, хотя на первый взгляд так не кажется, поскольку патроны расходуются по 3 штуки за раз. У него интересный механизм, который подает пули с обеих сторон и снизу пистолета. Где выбрасываются гильзы? Уж лучше бы не назад.</entitydescription.splmgmag>
+  <!-- Specials-->
+  <entityname.sixnadelauncher>6-Н4Д3 Гранатомёт</entityname.sixnadelauncher>
+  <entitydescription.sixnadelauncher>После появления 6-Н4Д3 командование отказалось от полных названий, но это не должно вас смущать. Если вы думали, что одна граната была эффективна, то этот гранатомет позволяет выстрелить 6 гранат короткой очередью. В остальном он ничем не отличается от обычного гранатомета.</entitydescription.sixnadelauncher>
+  <entityname.firepowerautoshotgun>Дробовик</entityname.firepowerautoshotgun>
+  <entitydescription.firepowerautoshotgun>Это ружье вмещает больше патронов, чем обычное, и стреляет немного быстрее. Кроме того, он имеет 4 отдельных патронника, что позволяет одновременно заряжать патроны разных типов.</entitydescription.firepowerautoshotgun>
+  <!-- Parts-->
+  <entityname.ahcempt>A.H.C. пустой магазин</entityname.ahcempt>
+  <entitydescription.ahcempt>Пустой магазин с гильзами для A.H.C. Скомбинируйте его с типом боеприпаса на фабрикаторе, чтобы получить заполненный магазин. Обычно хранится отдельно, чтобы облегчить хранение.</entitydescription.ahcempt>
+  <entityname.arcempt>А.В.К. пустой магазин</entityname.arcempt>
+  <entitydescription.arcempt>Пустой магазин с гильзами для А.В.К. Скомбинируйте его с типом боеприпаса на фабрикаторе, чтобы получить заполненный магазин. Обычно хранится отдельно, чтобы облегчить хранение.</entitydescription.arcempt>
+  <entityname.splmgempt>СП-Р4ИР пустой магазин</entityname.splmgempt>
+  <entitydescription.splmgempt>Пустой язик с гильзами для СП-Р4ИР Скомбинируйте его с типом боеприпаса на фабрикаторе, чтобы получить заполненный магазин. Обычно хранится отдельно, чтобы облегчить хранение.</entitydescription.splmgempt>
+  <entityname.mcstdb>Стандартные патроны морпехов</entityname.mcstdb>
+  <entitydescription.mcstdb>Стандартные пули морпехов могут быть вставлены в соответствующие магазины, такие как магазины A.В.К. и A.H.C. Обычно они хранятся отдельно для облегчения хранения.</entitydescription.mcstdb>
+  <entityname.mcapb>БП пули морпехов</entityname.mcapb>
+  <entitydescription.mcapb>Бронебойные пули морпехов могут вставляться в соответствующие магазины M.C., такие как магазины A.R.C. и A.H.C. Бронебойные с острым наконечником, легко пробивают броню. Обычно хранятся отдельно для облегчения хранения.</entitydescription.mcapb>
+  <entityname.splmgstdb>Пули для СП-Р4ИР </entityname.splmgstdb>
+  <entitydescription.splmgstdb>В отличие от других типов патронов морпехов, СП-Р4ИР уникальна, поскольку ей требуется особый размер для уникальной оболочки магазина. Пуля слегка тупая, но острая по бокам, эта тяжелая пуля хорошо делает свою работу. Обычно хранятся отдельно для облегчения хранения.</entitydescription.splmgstdb>
+  <!-- Containers-->
+  <entityname.amuncab>Шкаф для боеприпасов</entityname.amuncab>
+  <entitydescription.amuncab>Специализированное хранилище для патронов. Карманы, изготовленные по индивидуальному заказу, обеспечивают удобную организацию. Большая вместимость, но хранить можно только боеприпасы.</entitydescription.amuncab>
+  <entityname.mcabm>Ящик с патронами (Магазины)</entityname.mcabm>
+  <entitydescription.mcabm>Небольшой ящик, используемый для быстрого пополнения боеприпасов на поле боя. Может использоваться как пояс. Может вмещать только магазины.</entitydescription.mcabm>
+  <entityname.mcabb>Ящик с патронами (Пули/гильзы)</entityname.mcabb>
+  <entitydescription.mcabb>Небольшой ящик, используемый для быстрого пополнения боеприпасов на поле боя. Может использоваться как пояс. Может вмещать только небольшие боеприпасы, такие как пули и гильзы.</entitydescription.mcabb>
+  <entityname.mcabe>Ящик с патронами (взрывчатка)</entityname.mcabe>
+  <entitydescription.mcabe>Небольшой ящик, используемый для быстрого пополнения боеприпасов на поле боя. Может использоваться как пояс. Может вмещать только взрывчатые вещества, такие как гранаты и патроны для гранатомета.</entitydescription.mcabe>
+</infotexts>
+<!-- Переводчик err0r32 (Илья)#7943 -->
