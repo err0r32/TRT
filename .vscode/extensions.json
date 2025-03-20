@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-ceintl.vscode-language-pack-ru",
+        "sumneko.lua",
+        "dotjoshjohnson.xml",
+        "piotrpalarz.vscode-gitignore-generator",
+        "editorconfig.editorconfig",
+        "hashhar.gitattributes",
+        "codezombiech.gitignore",
+        "andreabbondanza.ignoregit",
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-preview-github-styles",
+        "ibm.output-colorizer",
+    ]
+}
