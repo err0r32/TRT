@@ -17,18 +17,31 @@
 ## Переведённые моды:
 
 - [[CF] Armaments](https://steamcommunity.com/sharedfiles/filedetails/?id=2975110317)
+  от [Leo39994]
 - [Abyssal armory - Reinforcements](https://steamcommunity.com/sharedfiles/filedetails/?id=2306343465)
+  от [Yak'All]
 - [Abyssal Warsuit](https://steamcommunity.com/sharedfiles/filedetails/?id=2480342460)
+  от [Yak'All]
 - [Admiral Job (指挥官)](https://steamcommunity.com/sharedfiles/filedetails/?id=2955612327)
+  от [DoodleGarbage]
 - [BaroCraftables+](https://steamcommunity.com/sharedfiles/filedetails/?id=2764140582)
+  от [Ricky]
 - [BaroDrama V5](https://steamcommunity.com/sharedfiles/filedetails/?id=2719602039&searchtext=BaroDrama+V5)
+  от [Jsoull]
 - [BaroPlus (Open)](https://steamcommunity.com/sharedfiles/filedetails/?id=2645362256&searchtext=BaroPlus+%28Open%29)
+  от [Nick]
 - [Barotraumatic Creature Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2831987252&searchtext=Barotraumatic+Creature+Pack)
+  от [mikehagen22]
 - [Better Exosuit with Platform 外骨骼优化和置物架](https://steamcommunity.com/sharedfiles/filedetails/?id=2920285952&searchtext=Better+Exosuit+with+Platform+%E5%A4%96%E9%AA%A8%E9%AA%BC%E4%BC%98%E5%8C%96%E5%92%8C%E7%BD%AE%E7%89%A9%E6%9E%B6)
+  от [MKSERY]
 - [Botanophobia](https://steamcommunity.com/sharedfiles/filedetails/?id=2972500944&searchtext=Botanophobia)
+  от [Iron_Phildo69]
 - [Chemical Agents](https://steamcommunity.com/sharedfiles/filedetails/?id=2974772300&searchtext=Chemical+Agents)
+  от [Feniter]
 - [Clowns Expanded Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=2958262925&searchtext=Clowns+Expanded+Redux)
+  от [Munkert]
 - [Demonic Creatures](https://steamcommunity.com/sharedfiles/filedetails/?id=2782243462&searchtext=Demonic+Creatures)
+  от [myru]
 - [Diving masks with Hats](https://steamcommunity.com/sharedfiles/filedetails/?id=2948012577&searchtext=Diving+masks+with+Hats)
   от [swatblack]
 - [Doctor Javier's Medical Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=2983722514&searchtext=Doctor+Javier%27s+Medical+Arsenal)
@@ -51,8 +64,9 @@
   от [McNoob]
 - [Hellfire SMG](https://steamcommunity.com/sharedfiles/filedetails/?id=2984842114&searchtext=Hellfire+SMG)
   от [For Whom The Cock Balls]
-- [Husk Mod Missions](https://steamcommunity.com/sharedfiles/filedetails/?id=2902332109) (deleted)
-- [MannaBuildables](https://steamcommunity.com/workshop/filedetails/?id=2809102161) (deleted, see [code](https://repos.ecosyste.ms/hosts/GitHub/repositories/Mannatwo%2FMannaBuildables))
+- [Husk Mod Missions](https://steamcommunity.com/sharedfiles/filedetails/?id=2902332109) (удалён)
+  от N\A
+- [MannaBuildables](https://steamcommunity.com/workshop/filedetails/?id=2809102161) (удалён, [код](https://repos.ecosyste.ms/hosts/GitHub/repositories/Mannatwo%2FMannaBuildables))
   от [Mannatwo]
 - [Meaningful Upgrades (Fork)](https://steamcommunity.com/sharedfiles/filedetails/?id=2945425748)
   от [lopezlopezlopez]
@@ -132,6 +146,18 @@
 
 ---
 
+[Leo39994]: https://steamcommunity.com/profiles/76561198189728271/myworkshopfiles/?appid=602960
+[Yak'All]: https://steamcommunity.com/id/YakAll/myworkshopfiles/?appid=602960
+[DoodleGarbage]: https://steamcommunity.com/id/doodlegarbage/myworkshopfiles/?appid=602960
+[Ricky]: https://steamcommunity.com/id/ricky122122/myworkshopfiles/?appid=602960
+[Jsoull]: https://steamcommunity.com/id/Jsoull/myworkshopfiles/?appid=602960
+[Nick]: https://steamcommunity.com/id/Patigel/myworkshopfiles/?appid=602960
+[mikehagen22]: https://steamcommunity.com/profiles/76561198856548225/myworkshopfiles/?appid=602960
+[MKSERY]: https://steamcommunity.com/profiles/76561198316859075/myworkshopfiles/?appid=602960
+[Iron_Phildo69]: https://steamcommunity.com/profiles/76561198035244730/myworkshopfiles/?appid=602960
+[Feniter]: https://steamcommunity.com/profiles/76561199105095974/myworkshopfiles/?appid=602960
+[Munkert]: https://steamcommunity.com/id/munkert/myworkshopfiles/?appid=602960
+[myru]: https://steamcommunity.com/id/justmyru/myworkshopfiles/?appid=602960
 [swatblack]: https://steamcommunity.com/id/sovietswat/myworkshopfiles/?appid=602960
 [Television]: https://steamcommunity.com/id/CoolestGuyEverSeen/myworkshopfiles/?appid=602960
 [MasonMachineGuns]: https://steamcommunity.com/profiles/76561198865679732/myworkshopfiles/?appid=602960
