@@ -147,7 +147,6 @@
 ---
 
 [Leo39994]: https://steamcommunity.com/profiles/76561198189728271/myworkshopfiles/?appid=602960
-[Yak'All]: https://steamcommunity.com/id/YakAll/myworkshopfiles/?appid=602960
 [DoodleGarbage]: https://steamcommunity.com/id/doodlegarbage/myworkshopfiles/?appid=602960
 [Ricky]: https://steamcommunity.com/id/ricky122122/myworkshopfiles/?appid=602960
 [Jsoull]: https://steamcommunity.com/id/Jsoull/myworkshopfiles/?appid=602960
