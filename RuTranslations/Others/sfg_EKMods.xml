@@ -388,23 +388,23 @@
   <entitydescription.ek_revolver_flare>Водонепроницаемый револьверный сигнальный патрон, освещающий небольшую площадь.</entitydescription.ek_revolver_flare>
   <entityname.ek_handgun>Пистолет 9мм</entityname.ek_handgun>
   <entitydescription.ek_handgun>Компактный 9-миллиметровый пистолет, выдаваемый частным аванпостам и силам безопасности судов, хотя и предназначен для использования против враждебных членов экипажа, это, по крайней мере, некоторая форма защиты от ужасов, поджидающих в глубинах.</entitydescription.ek_handgun>
-  <entityname.ek_handgun_mag>магазин 9мм</entityname.ek_handgun_mag>
+  <entityname.ek_handgun_mag>Магазин 9мм</entityname.ek_handgun_mag>
   <entitydescription.ek_handgun_mag></entitydescription.ek_handgun_mag>
-  <entityname.ek_handgun_magextended>магазин 9мм (увеличенный)</entityname.ek_handgun_magextended>
+  <entityname.ek_handgun_magextended>Магазин 9мм (увеличенный)</entityname.ek_handgun_magextended>
   <entitydescription.ek_handgun_magextended></entitydescription.ek_handgun_magextended>
-  <entityname.ek_handgun_round>патрон 9мм</entityname.ek_handgun_round>
+  <entityname.ek_handgun_round>Патрон 9мм</entityname.ek_handgun_round>
   <entitydescription.ek_handgun_round></entitydescription.ek_handgun_round>
-  <entityname.ek_handgun_alienmag>Магазин 9мм физикоревых патрон</entityname.ek_handgun_alienmag>
+  <entityname.ek_handgun_alienmag>Магазин 9мм (физикоревые)</entityname.ek_handgun_alienmag>
   <entitydescription.ek_handgun_alienmag></entitydescription.ek_handgun_alienmag>
-  <entityname.ek_handgun_alienround>Физкориевый патрон 9мм</entityname.ek_handgun_alienround>
+  <entityname.ek_handgun_alienround>Патрон 9мм (физикоревый)</entityname.ek_handgun_alienround>
   <entitydescription.ek_handgun_alienround></entitydescription.ek_handgun_alienround>
-  <entityname.ek_handgun_riot_mag>магазин 9мм (резиновые)</entityname.ek_handgun_riot_mag>
+  <entityname.ek_handgun_riot_mag>Магазин 9мм (резиновые)</entityname.ek_handgun_riot_mag>
   <entitydescription.ek_handgun_riot_mag></entitydescription.ek_handgun_riot_mag>
-  <entityname.ek_handgun_riot_round>резиный патрон 9мм</entityname.ek_handgun_riot_round>
+  <entityname.ek_handgun_riot_round>Патрон 9мм (резиновый)</entityname.ek_handgun_riot_round>
   <entitydescription.ek_handgun_riot_round></entitydescription.ek_handgun_riot_round>
   <entityname.ek_smg>ПП морпехов</entityname.ek_smg>
   <entitydescription.ek_smg>Усовершенствованный военный ПП, разработанный Коалицией Европы для защиты кораблей и аванпостов. Стреляет 5.7x28 мм самоходными суперкавитирующими снарядами, весьма эффективными при уничтожении небронированных существ.</entitydescription.ek_smg>
-  <entityname.ek_smg_mag>магазин 5.7x28мм</entityname.ek_smg_mag>
+  <entityname.ek_smg_mag>Магазин 5.7x28мм</entityname.ek_smg_mag>
   <entitydescription.ek_smg_mag>Стандартный магазин 5.7x28мм Коалиции.</entitydescription.ek_smg_mag>
   <entityname.ek_smg_round>Патрон 5.7x28мм</entityname.ek_smg_round>
   <entitydescription.ek_smg_round></entitydescription.ek_smg_round>
@@ -412,9 +412,9 @@
   <entitydescription.ek_smg_alienmag>Стандартный магазин 5.7x28мм Коалиции, с патронами из физикория.</entitydescription.ek_smg_alienmag>
   <entityname.ek_smg_alienround>Физикоревый патрон 5.7x28mm</entityname.ek_smg_alienround>
   <entitydescription.ek_smg_alienround></entitydescription.ek_smg_alienround>
-  <entityname.ek_smg_riot_mag>Магазин 5.7x28мм (резиновые)</entityname.ek_smg_riot_mag>
+  <entityname.ek_smg_riot_mag>Магазин 5.7x28мм (резиновый)</entityname.ek_smg_riot_mag>
   <entitydescription.ek_smg_riot_mag>Стандартный магазин 5.7x28мм Коалиции, с резиновыми патронами.</entitydescription.ek_smg_riot_mag>
-  <entityname.ek_smg_riot_round>Резиновый патрон 5.7x28мм</entityname.ek_smg_riot_round>
+  <entityname.ek_smg_riot_round>Патрон 5.7x28мм (резиновый)</entityname.ek_smg_riot_round>
   <entitydescription.ek_smg_riot_round></entitydescription.ek_smg_riot_round>
   <entityname.ek_riotshield>Лёгкий полицейский щит</entityname.ek_riotshield>
   <entitydescription.ek_riotshield>Легкий щит для сдерживания бунта, изготовленный из прозрачной баллистической резины.</entitydescription.ek_riotshield>
@@ -530,17 +530,17 @@
   <entitydescription.ek_dart_explosive>Ужасное устройство, которое вводит миниатюрный взрывной зонд, который детонирует после умеренной задержки.</entitydescription.ek_dart_explosive>
   <entityname.ek_mini_smg>Укороченный ПП</entityname.ek_mini_smg>
   <entitydescription.ek_mini_smg>Простой 10-миллиметровый пистолет-пулемет для защиты кораблей и аванпостов, неточный и жрёт боеприпасы, но выполняет свою работу.</entitydescription.ek_mini_smg>
-  <entityname.ek_mini_smg_mag>магазин 10мм</entityname.ek_mini_smg_mag>
+  <entityname.ek_mini_smg_mag>Магазин 10мм</entityname.ek_mini_smg_mag>
   <entitydescription.ek_mini_smg_mag></entitydescription.ek_mini_smg_mag>
-  <entityname.ek_mini_smg_round>патрон 10мм</entityname.ek_mini_smg_round>
+  <entityname.ek_mini_smg_round>Патрон 10мм</entityname.ek_mini_smg_round>
   <entitydescription.ek_mini_smg_round></entitydescription.ek_mini_smg_round>
-  <entityname.ek_mini_smg_alienmag>Магазин физикоревых патрон 10мм</entityname.ek_mini_smg_alienmag>
+  <entityname.ek_mini_smg_alienmag>Магазин 10мм (физикоревые)</entityname.ek_mini_smg_alienmag>
   <entitydescription.ek_mini_smg_alienmag></entitydescription.ek_mini_smg_alienmag>
-  <entityname.ek_mini_smg_alienround>физикоревый патрон 10мм</entityname.ek_mini_smg_alienround>
+  <entityname.ek_mini_smg_alienround>Патрон 10мм (физикоревый)</entityname.ek_mini_smg_alienround>
   <entitydescription.ek_mini_smg_alienround></entitydescription.ek_mini_smg_alienround>
-  <entityname.ek_mini_smg_riot_mag>магазин 10мм (резиновые)</entityname.ek_mini_smg_riot_mag>
+  <entityname.ek_mini_smg_riot_mag>Магазин 10мм (резиновые)</entityname.ek_mini_smg_riot_mag>
   <entitydescription.ek_mini_smg_riot_mag></entitydescription.ek_mini_smg_riot_mag>
-  <entityname.ek_mini_smg_riot_round>резиновый патрон 10мм</entityname.ek_mini_smg_riot_round>
+  <entityname.ek_mini_smg_riot_round>Патрон 10мм (резиновый)</entityname.ek_mini_smg_riot_round>
   <entitydescription.ek_mini_smg_riot_round></entitydescription.ek_mini_smg_riot_round>
   <entityname.ek_rocketlauncher>РПУ морпехов</entityname.ek_rocketlauncher>
   <entitydescription.ek_rocketlauncher>Тяжелая наплечная ракетная пусковая установка морской пехоты, разработанная для специальных операций Коалиции, громоздкая и дорогая, но мощная.</entitydescription.ek_rocketlauncher>
@@ -570,9 +570,9 @@
   <entitydescription.ek_drumlmg_mag>Барабан с патронами 5.56x45mm для пулемёта с огромным боезапасом.</entitydescription.ek_drumlmg_mag>
   <entityname.ek_drumlmg_round>Патрон 5.56x45мм</entityname.ek_drumlmg_round>
   <entitydescription.ek_drumlmg_round></entitydescription.ek_drumlmg_round>
-  <entityname.ek_drumlmg_alienmag>Барабан физикоревых 5.56x45мм</entityname.ek_drumlmg_alienmag>
+  <entityname.ek_drumlmg_alienmag>Барабан 5.56x45мм (физикоревые)</entityname.ek_drumlmg_alienmag>
   <entitydescription.ek_drumlmg_alienmag></entitydescription.ek_drumlmg_alienmag>
-  <entityname.ek_drumlmg_alienround>Физикоревый патрон 5.56x45мм</entityname.ek_drumlmg_alienround>
+  <entityname.ek_drumlmg_alienround>Патрон 5.56x45мм (физикоревый)</entityname.ek_drumlmg_alienround>
   <entitydescription.ek_drumlmg_alienround></entitydescription.ek_drumlmg_alienround>
   <entityname.ek_smokegrenade>Дымовая граната</entityname.ek_smokegrenade>
   <entitydescription.ek_smokegrenade>Граната для постановки дымовой завесы в течении нескольких секунд.</entitydescription.ek_smokegrenade>
@@ -580,15 +580,15 @@
   <entitydescription.ek_battlerifle>Стандартное длинноствольное ружье Коалиции Европы калибра 5,56x45 мм, точное и надежное. Пользующиеся благосклонностью европейских ЧВК повсюду.</entitydescription.ek_battlerifle>
   <entityname.ek_battlerifle_mag>Магазин 5.56x45мм</entityname.ek_battlerifle_mag>
   <entitydescription.ek_battlerifle_mag>Стандартный магазин 5.56x45мм Коалиции.</entitydescription.ek_battlerifle_mag>
-  <entityname.ek_battlerifle_alien_mag>Магазин физикоревых 5.56x45мм</entityname.ek_battlerifle_alien_mag>
+  <entityname.ek_battlerifle_alien_mag>Магазин 5.56x45мм (физикоревые)</entityname.ek_battlerifle_alien_mag>
   <entitydescription.ek_battlerifle_alien_mag>Стандартный магазин 5.56x45мм Коалиции, с патронами из физикория.</entitydescription.ek_battlerifle_alien_mag>
-  <entityname.ek_battlerifle_riot_mag>Магазин резиновых 5.56x45мм</entityname.ek_battlerifle_riot_mag>
+  <entityname.ek_battlerifle_riot_mag>Магазин 5.56x45мм (резиновые)</entityname.ek_battlerifle_riot_mag>
   <entitydescription.ek_battlerifle_riot_mag>Стандартный магазин 5.7x28мм Коалиции, с резиновыми патронами.</entitydescription.ek_battlerifle_riot_mag>
   <entityname.ek_beast_ssl>'Зверь' SSL</entityname.ek_beast_ssl>
   <entitydescription.ek_beast_ssl>Экспериментальная 30-мм автоматическая пушка FC для мощной переносной огневой мощи.</entitydescription.ek_beast_ssl>
-  <entityname.ek_ssl_magazine>обойма 30мм-FC</entityname.ek_ssl_magazine>
+  <entityname.ek_ssl_magazine>Обойма 30мм-FC (SSL)</entityname.ek_ssl_magazine>
   <entitydescription.ek_ssl_magazine>30мм композитный картридж для SSL. Используется для эксперементального, таскаемого человеком, 'Зверя' SSL.</entitydescription.ek_ssl_magazine>
-  <entityname.ek_ssl_round>патрон 30мм-FC</entityname.ek_ssl_round>
+  <entityname.ek_ssl_round>Патрон 30мм-FC (SSL)</entityname.ek_ssl_round>
   <entitydescription.ek_ssl_round></entitydescription.ek_ssl_round>
   <entityname.ek_ied>Импровизированная взрывчатка</entityname.ek_ied>
   <entitydescription.ek_ied>Самодельная осколочная бомба, изготовленная из незакрепленной электроники и топливного бака.</entitydescription.ek_ied>
@@ -634,13 +634,13 @@
   <entitydescription.ek_revolver>Однозарядный револьвер винтажного образца, любимый среди капитанов, склонных к драматизму.</entitydescription.ek_revolver>
   <entityname.ek_revolverammo>Патрон калибра .357</entityname.ek_revolverammo>
   <entitydescription.ek_revolverammo></entitydescription.ek_revolverammo>
-  <entityname.ek_revolverspeedloader>Быстрый загрузчик.357</entityname.ek_revolverspeedloader>
+  <entityname.ek_revolverspeedloader>Быстрый загрузчик .357</entityname.ek_revolverspeedloader>
   <entitydescription.ek_revolverspeedloader></entitydescription.ek_revolverspeedloader>
   <entityname.ek_revolverammo_physicorium>Физикоревый патрон калибра .357</entityname.ek_revolverammo_physicorium>
   <entitydescription.ek_revolverammo_physicorium></entitydescription.ek_revolverammo_physicorium>
   <entityname.ek_revolverspeedloader_physicorium>Быстрый загрузчик физикоревых .357</entityname.ek_revolverspeedloader_physicorium>
   <entitydescription.ek_revolverspeedloader_physicorium></entitydescription.ek_revolverspeedloader_physicorium>
-  <entityname.ek_revolverammo_riot>Резиновые патрон калибра .357 Round </entityname.ek_revolverammo_riot>
+  <entityname.ek_revolverammo_riot>Резиновые патрон калибра .357 Round</entityname.ek_revolverammo_riot>
   <entitydescription.ek_revolverammo_riot></entitydescription.ek_revolverammo_riot>
   <entityname.ek_revolverspeedloader_riot>Быстрый загрузчик резиновых .357</entityname.ek_revolverspeedloader_riot>
   <entitydescription.ek_revolverspeedloader_riot></entitydescription.ek_revolverspeedloader_riot>
