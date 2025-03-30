@@ -1,62 +1,123 @@
-# Details per file setting:
-#   text    These files should be normalized (i.e. convert CRLF to LF).
-#   binary  These files are binary and should be left untouched.
+# ======================================================================
+# Git Attributes Configuration Reference
+# ======================================================================
+# This file defines how Git should handle different file types.
+# Key directives include:
 #
-# Note that binary is a macro for -text -diff.
-######################################################################
-
-# Auto detect
-##   Handle line endings automatically for files detected as
-##   text and leave all files detected as binary untouched.
-##   This will handle all files NOT defined below.
-*                 text=auto
-
-# Scripts
-*.bash     text eol=lf
-*.fish     text eol=lf
-*.ksh      text eol=lf
-*.sh       text eol=lf
-*.zsh      text eol=lf
-# These are explicitly windows files and should use crlf
-*.bat      text eol=crlf
-*.cmd      text eol=crlf
-*.ps1      text eol=crlf
-
-# Serialisation
-*.json     text
-*.toml     text
-*.xml      text
-*.yaml     text
-*.yml      text
-
-# Text files where line endings should be preserved
-*.patch    -text
-
+#   text     - Enable line ending normalization (converts to LF in repo)
+#   binary   - Treat files as binary (disables diff and line ending conversion)
+#   eol      - Enforce specific line endings (lf/unix or crlf/windows)
+#   diff     - Specify custom diff algorithms (e.g., diff=markdown)
+#   export-ignore - Exclude files from archive exports
 #
-# Exclude files from exporting
+# Technical notes:
+# - 'binary' is equivalent to '-text -diff' (disables both features)
+# - Line ending conversion only occurs for files marked as 'text'
+# - Settings cascade (last matching pattern takes precedence)
 #
+# For complete documentation:
+# https://git-scm.com/docs/gitattributes
+#######################################################################
 
-#.gitattributes export-ignore
-.gitignore     export-ignore
-.gitkeep       export-ignore
+# ======================================================================
+# Конфигурация атрибутов Git (справочник)
+# ======================================================================
+# Этот файл определяет обработку различных типов файлов в Git.
+# Основные директивы:
+#
+#   text     - Нормализация окончаний строк (конвертация в LF в репозитории)
+#   binary   - Обрабатывать файлы как бинарные (без сравнения и конвертации)
+#   eol      - Принудительные окончания строк (lf/unix или crlf/windows)
+#   diff     - Специальные алгоритмы сравнения (напр., diff=markdown)
+#   export-ignore - Исключить файлы из архивов (git archive)
+#
+# Технические заметки:
+# - 'binary' эквивалентно '-text -diff' (отключает оба механизма)
+# - Конвертация окончаний работает только для файлов с 'text'
+# - Настройки применяются каскадно (последнее совпадение имеет приоритет)
+#
+# Полная документация:
+# https://git-scm.com/docs/gitattributes (англ.)
+#######################################################################
 
-# Documentation
-*.md              text diff=markdown
-*.csv             text eol=crlf
-*.txt             text
 
-# Configs
-.editorconfig     text
-.gitattributes    text
-.gitconfig        text
 
-# Basic .gitattributes for a Lua repo.
+# ======================================================================
+# Core Text Handling / Основные настройки текстовых файлов
+# ======================================================================
 
-# Source files
-# ============
-*.lua       text
+# Auto-detect text files and normalize line endings (LF in repo)
+# Автоматическое определение текстовых файлов с нормализацией окончаний строк
+*               text=auto
 
-# Luadoc output
-# =============
-*.html      text diff=html
-*.css       text diff=css
+# ======================================================================
+# Lua Source Code & Documentation / Исходный код и документация Lua
+# ======================================================================
+
+# Lua source files (LF for cross-platform compatibility)
+# Исходные файлы Lua (LF для кросс-платформенной совместимости)
+*.lua           text eol=lf
+
+# LuaDoc documentation (custom HTML/CSS diff)
+# Документация LuaDoc (специальная обработка HTML/CSS)
+*.html          text diff=html
+*.css           text diff=css
+
+# ======================================================================
+# Data Files & Documentation / Файлы данных и документация
+# ======================================================================
+
+# XML files (treated as text with enforced CRLF)
+# XML-файлы (текстовые со строгим CRLF)
+# См. https://github.com/FakeFishGames/Barotrauma/blob/cf9ecd3/.gitattributes#L4
+*.xml           text eol=crlf
+
+# JSON files (treated as text with auto LF)
+# JSON-файлы (текстовые с автоопределением LF)
+*.json          text
+
+# Markdown files (with enhanced diff processing)
+# Markdown-файлы (с улучшенной обработкой diff)
+*.md            text diff=markdown
+
+# ======================================================================
+# Configuration Files / Конфигурационные файлы
+# ======================================================================
+
+# Git configuration files (enforce LF)
+# Конфигурационные файлы Git (строго LF)
+.gitattributes  text eol=lf
+.gitignore      text eol=lf
+.gitconfig      text eol=lf
+
+# EditorConfig file (enforce LF)
+# Файл EditorConfig (строго LF)
+.editorconfig   text eol=lf
+
+# ======================================================================
+# Binary Files / Бинарные файлы
+# ======================================================================
+
+# Image files / Графические файлы
+# Растровые — бинарные
+*.png           binary
+*.jpg           binary
+*.gif           binary
+*.webp          binary
+# Векторные — текстовые (XML)
+*.svg           text diff=xml
+
+# Archives (treated as binary)
+# Архивы (обрабатываются как бинарные)
+*.zip           binary
+*.rar           binary
+
+# ======================================================================
+# Export Control / Управление экспортом
+# ======================================================================
+
+# Exclude from git archive exports
+# Исключить из архивов git archive
+.gitignore      export-ignore
+.gitattributes  export-ignore
+.gitkeep        export-ignore
