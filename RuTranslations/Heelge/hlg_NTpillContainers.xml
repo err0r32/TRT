@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
+  <entityname.pilltoolbox>Контейнер для хранения пилюль</entityname.pilltoolbox>
+  <entitydescription.pilltoolbox>Коробка для пилюль с множеством маленьких отделений для хранения пачек пилюль.</entitydescription.pilltoolbox>
+  <entityname.pilltoolbox>Бутылка для хранения отдельных пилюль</entityname.pilltoolbox>
+  <entitydescription.pilltoolbox>Бутылочка вмещающая несколько отдельных пилюль.</entitydescription.pilltoolbox>
+  <entityname.pilltoolbox>Бутылочка для хранения пилюль</entityname.pilltoolbox>
+  <entitydescription.pilltoolbox>Бутылочка вмещающая несколько пачек пилюль.</entitydescription.pilltoolbox>
+</infotexts>

@@ -17,7 +17,6 @@
   <entitydescription.clowntainmask>Имя его - Боль... Адмирал Боль...</entitydescription.clowntainmask>
   <entityname.clowntainmask3>Шапка бунтуещего клоунтана</entityname.clowntainmask3>
   <entitydescription.clowntainmask3>Сгудите силу!</entitydescription.clowntainmask3>
-
   <entityname.bruiserclown>Костюм клоуна-громилы</entityname.bruiserclown>
   <entitydescription.bruiserclown>Теперь уже не так смешно.</entitydescription.bruiserclown>
   <entityname.bruiserclown2>Униформа клоунмандира</entityname.bruiserclown2>
@@ -42,25 +41,20 @@
   <entitydescription.clowndoctorfatigues>Целитель? Нет. Гудитель.</entitydescription.clowndoctorfatigues>
   <entityname.clowndoctorfatigues2>Экипировка Экипировка врача-клоуна</entityname.clowndoctorfatigues2>
   <entitydescription.clowndoctorfatigues2>У этих таблеток смешной вкус, док....</entitydescription.clowndoctorfatigues2>
-
   <entityname.firemask>Маска сепаратора</entityname.firemask>
   <entitydescription.firemask></entitydescription.firemask>
   <entityname.fireclown>Костюм сепаратора</entityname.fireclown>
   <entitydescription.fireclown></entitydescription.fireclown>
-
   <entityname.clowncostumefemale>Клусси</entityname.clowncostumefemale>
   <entitydescription.clowncostumefemale>Это мы гудим.</entitydescription.clowncostumefemale>
-
   <entityname.mimemask1>Маска мима</entityname.mimemask1>
   <entitydescription.mimemask1>...</entitydescription.mimemask1>
   <entityname.mimecostume1>Костюм мима</entityname.mimecostume1>
   <entitydescription.mimecostume1>...</entitydescription.mimecostume1>
-
   <entityname.ancientmask>Маска древнего клоуна</entityname.ancientmask>
   <entitydescription.ancientmask>Вы чувствуете зловещее присутствие, исходящее от этой маски.</entitydescription.ancientmask>
   <entityname.ancientclowncostume>Костюм древнего клоуна</entityname.ancientclowncostume>
   <entitydescription.ancientclowncostume>Вы чувствуете зловещее присутствие, исходящее от этого костюма.</entitydescription.ancientclowncostume>
-
   <entityname.redpaintbomb>Бомба с красной краской</entityname.redpaintbomb>
   <entitydescription.redpaintbomb>Красочная.</entitydescription.redpaintbomb>
   <entityname.bluepaintbomb>Бомба с синей краской</entityname.bluepaintbomb>
@@ -71,10 +65,8 @@
   <entitydescription.blackpaintbomb>Красочная.</entitydescription.blackpaintbomb>
   <entityname.whitepaintbomb>Бомба с белой краской</entityname.whitepaintbomb>
   <entitydescription.whitepaintbomb>Красочная.</entitydescription.whitepaintbomb>
-
   <entityname.wirecuffs>Стяжки</entityname.wirecuffs>
   <entitydescription.wirecuffs>Не очень надёжные.</entitydescription.wirecuffs>
-
   <!-- medical.xml -->
   <entityname.clownenergy>Энергия клоуна</entityname.clownenergy>
   <entitydescription.clownenergy>БЫЫЫЫЫЫЫСТРО</entitydescription.clownenergy>
@@ -86,7 +78,6 @@
   <entitydescription.spinach>Съешьте, чтобы стать большим и сильным человеком.</entitydescription.spinach>
   <entityname.c8>С8</entityname.c8>
   <entitydescription.c8>Самый полезный напиток на всей Европе!</entitydescription.c8>
-
   <!-- tools.xml -->
   <entityname.gagweldingtool>Сварочный аппарат</entityname.gagweldingtool>
   <entitydescription.gagweldingtool>Не совсем обычный сварочный аппарат.</entitydescription.gagweldingtool>
@@ -106,7 +97,6 @@
   <entitydescription.gagplasmacutter>Не совсем обычный плазменный резак.</entitydescription.gagplasmacutter>
   <entityname.rgbflashlight>RGB фонарик</entityname.rgbflashlight>
   <entitydescription.rgbflashlight>Геймерский.</entitydescription.rgbflashlight>
-
   <!-- weapons.xml -->
   <entityname.ak47>АК-47</entityname.ak47>
   <entitydescription.ak47>ПРЕДУПРЕЖДЕНИЕ: НЕ ПРЕДНАЗНАЧЕН ДЛЯ СТРЕЛЬБЫ ПОД ВОДОЙ. Древняя штурмовая винтовка земного происхождения, модифицированная для стрельбы экспериментальными банановыми патронами.</entitydescription.ak47>
@@ -148,7 +138,6 @@
   <entitydescription.baseballbat>ВРЕМЯ СДЕЛАТЬ БОНК!!!</entitydescription.baseballbat>
   <entityname.skillbookjokebook>Книга шуток</entityname.skillbookjokebook>
   <entitydescription.skillbookjokebook></entitydescription.skillbookjokebook>
-
   <!-- plants.xml -->
   <entityname.tomatoseed>Семя томата</entityname.tomatoseed>
   <entitydescription.tomatoseed></entitydescription.tomatoseed>
@@ -156,17 +145,14 @@
   <entitydescription.tomato></entitydescription.tomato>
   <entityname.tomatoseed>Источник огня</entityname.tomatoseed>
   <entitydescription.tomatoseed></entitydescription.tomatoseed>
-
   <!-- afflictions.xml -->
   <afflictionname.mimeoath>Клятва мима</afflictionname.mimeoath>
   <afflictiondescription.mimeoath>...</afflictiondescription.mimeoath>
   <afflictionname.ancientpower>Древняя сила</afflictionname.ancientpower>
   <afflictiondescription.ancientpower>Вы чувствуете прилив сил.</afflictiondescription.ancientpower>
-
   <!-- divinggear.xml -->
   <entityname.clowndivingsuit>Клоунский водолазный скафандр</entityname.clowndivingsuit>
   <entitydescription.clowndivingsuit></entitydescription.clowndivingsuit>
   <entityname.clownscooter>УКП</entityname.clownscooter>
   <entitydescription.clownscooter>УКП расшифровывается как Устройство Клоунского Пропульсированияe. Это сильно модифицированный скутер, способный развивать огромную скорость за счёт меньшего времени работы аккумулятора.</entitydescription.clownscooter>
-
 </infotext>

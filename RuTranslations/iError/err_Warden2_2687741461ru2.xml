@@ -5,130 +5,87 @@
   <!-- Generic conversation -->
   <Conversation line="Пистолет заперт, порох сухой;" speaker="0" flags="Initial" speakertags="professional" allowedjobs="wardenabyssmod">
     <Conversation line="Униформа проверена, гарнитура заряжена." speaker="0" speakertags="professional">
-      <Conversation line="Готов принять заказы." speaker="0" speakertags="professional">
-      </Conversation>
-      <Conversation line="Знаете, вам действительно не обязательно говорить это каждые тридцать секунд." speaker="1" speakertags="joker">
-      </Conversation>
-      <Conversation line="Держите глаза открытыми и будьте наготове." speaker="1" speakertags="professional">
-      </Conversation>
-      <Conversation line="Вероятно, вы говорите это себе уже двадцать второй раз.  Заткнись." speaker="1" speakertags="rude">
-      </Conversation>
+      <Conversation line="Готов принять заказы." speaker="0" speakertags="professional"></Conversation>
+      <Conversation line="Знаете, вам действительно не обязательно говорить это каждые тридцать секунд." speaker="1" speakertags="joker"></Conversation>
+      <Conversation line="Держите глаза открытыми и будьте наготове." speaker="1" speakertags="professional"></Conversation>
+      <Conversation line="Вероятно, вы говорите это себе уже двадцать второй раз.  Заткнись." speaker="1" speakertags="rude"></Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Пусть они приходят.  Мне не терпится подраться." speaker="0" flags="Initial" speakertags="tough" allowedjobs="wardenabyssmod">
-    <Conversation line="" speaker="0" speakertags="tough">
-    </Conversation>
-    <Conversation line="Клянусь богом, если ты нас убьешь..." speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="Мне нравится этот парень." speaker="1" speakertags="tough">
-    </Conversation>
+    <Conversation line="" speaker="0" speakertags="tough"></Conversation>
+    <Conversation line="Клянусь богом, если ты нас убьешь..." speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Мне нравится этот парень." speaker="1" speakertags="tough"></Conversation>
   </Conversation>
   <Conversation line="Отойдите в сторону.  НАСТОЯЩИЙ боец здесь." speaker="0" flags="Initial" speakertags="rude" allowedjobs="wardenabyssmod">
-    <Conversation line="Придурок." speaker="1" speakertags="tough,professional">
-    </Conversation>
-    <Conversation line="Клянусь богом, если ты нас убьешь..." speaker="1" speakertags="rude">
-    </Conversation>
+    <Conversation line="Придурок." speaker="1" speakertags="tough,professional"></Conversation>
+    <Conversation line="Клянусь богом, если ты нас убьешь..." speaker="1" speakertags="rude"></Conversation>
   </Conversation>
   <Conversation line="Я дал клятву и поэтому гарантирую, что ты выживешь." speaker="0" flags="Initial" allowedjobs="wardenabyssmod">
-    <Conversation line="А если я этого не сделаю, НЕ трогайте мои вещи." speaker="1" speakertags="joker">
-    </Conversation>
-    <Conversation line="Ой, прекрати это." speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="П-обещаю?" speaker="1" speakertags="fearful">
-    </Conversation>
-    <Conversation line="Наконец-то тот, кто заботится о безопасности." speaker="1">
-    </Conversation>
-    <Conversation line="Лучше мне не умирать сейчас." speaker="1">
-    </Conversation>
-    <Conversation line="Получите кучу причудливых слов этого парня.  'Клятва'." speaker="1">
-    </Conversation>
+    <Conversation line="А если я этого не сделаю, НЕ трогайте мои вещи." speaker="1" speakertags="joker"></Conversation>
+    <Conversation line="Ой, прекрати это." speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="П-обещаю?" speaker="1" speakertags="fearful"></Conversation>
+    <Conversation line="Наконец-то тот, кто заботится о безопасности." speaker="1"></Conversation>
+    <Conversation line="Лучше мне не умирать сейчас." speaker="1"></Conversation>
+    <Conversation line="Получите кучу причудливых слов этого парня.  'Клятва'." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="Все готово к отъезду, ваш выход." speaker="0" flags="Initial" allowedjobs="wardenabyssmod">
-    <Conversation line="На ваши станции, ребята.  Нам предстоит долгий путь." speaker="1" allowedjobs="captain">
-    </Conversation>
+    <Conversation line="На ваши станции, ребята.  Нам предстоит долгий путь." speaker="1" allowedjobs="captain"></Conversation>
   </Conversation>
   <Conversation line="Боже, это дерьмо отстой!  В моем обучении об этом ничего не говорилось!" speaker="0" flags="Initial" speakertags="fearful" allowedjobs="wardenabyssmod">
-    <Conversation line="Выйдите из этого." speaker="1" allowedjobs="captain,security">
-    </Conversation>
-    <Conversation line="Никто не готов сразиться с Европой, но Европа точно готова сразиться с нами." speaker="1" allowedjobs="joker">
-    </Conversation>
+    <Conversation line="Выйдите из этого." speaker="1" allowedjobs="captain,security"></Conversation>
+    <Conversation line="Никто не готов сразиться с Европой, но Европа точно готова сразиться с нами." speaker="1" allowedjobs="joker"></Conversation>
   </Conversation>
   <Conversation line="Мой.  Жопа.  Является.  Тяжелый." speaker="0" flags="Initial" speakertags="joker,laid-back" allowedjobs="wardenabyssmod,securityofficer">
     <Conversation line="Что?" speaker="1">
       <Conversation line="МОЙ!  ЖОПА!  ЯВЛЯЕТСЯ!  ТЯЖЕЛЫЙ!" speaker="0">
-        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1">
-        </Conversation>
-        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1">
-        </Conversation>
-        <Conversation line="Хм..?" speaker="1">
-        </Conversation>
-        <Conversation line="Оооокей тогда..." speaker="1">
-        </Conversation>
+        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1"></Conversation>
+        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1"></Conversation>
+        <Conversation line="Хм..?" speaker="1"></Conversation>
+        <Conversation line="Оооокей тогда..." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
     <Conversation line="Х-а?" speaker="1" speakertags="fearful">
       <Conversation line="МОЙ!  ЖОПА!  ЯВЛЯЕТСЯ!  ТЯЖЕЛЫЙ!" speaker="0">
-        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1">
-        </Conversation>
-        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1">
-        </Conversation>
-        <Conversation line="Хм..?" speaker="1">
-        </Conversation>
-        <Conversation line="Оооокей тогда..." speaker="1">
-        </Conversation>
+        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1"></Conversation>
+        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1"></Conversation>
+        <Conversation line="Хм..?" speaker="1"></Conversation>
+        <Conversation line="Оооокей тогда..." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
     <Conversation line="Хм?" speaker="1">
       <Conversation line="МОЙ!  ЖОПА!  ЯВЛЯЕТСЯ!  ТЯЖЕЛЫЙ!" speaker="0">
-        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1">
-        </Conversation>
-        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1">
-        </Conversation>
-        <Conversation line="Хм..?" speaker="1">
-        </Conversation>
-        <Conversation line="Оооокей тогда..." speaker="1">
-        </Conversation>
+        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1"></Conversation>
+        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1"></Conversation>
+        <Conversation line="Хм..?" speaker="1"></Conversation>
+        <Conversation line="Оооокей тогда..." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
     <Conversation line="О чем ты говоришь?" speaker="1">
       <Conversation line="МОЙ!  ЖОПА!  ЯВЛЯЕТСЯ!  ТЯЖЕЛЫЙ!" speaker="0">
-        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1">
-        </Conversation>
-        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1">
-        </Conversation>
-        <Conversation line="Хм..?" speaker="1">
-        </Conversation>
-        <Conversation line="Оооокей тогда..." speaker="1">
-        </Conversation>
+        <Conversation line="Оу, блин!  Почему твой голос звучит как будто сшитый?  Что вы говорите?  Господи, у меня болят уши..." speaker="1"></Conversation>
+        <Conversation line="Ах!  Почему твой голос звучит все... сшитым воедино?  О чем ты говоришь?  Блин, в ушах звенит.." speaker="1"></Conversation>
+        <Conversation line="Хм..?" speaker="1"></Conversation>
+        <Conversation line="Оооокей тогда..." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="" speaker="0" maxintensity="0.2" allowedjobs="wardenabyssmod">
     <Conversation line="Так чем же конкретно занимаются надзиратели?" speaker="1" maxintensity="0.4">
       <Conversation line="Мы защитники, бойцы, которые обеспечивают безопасность как гражданских лиц, так и экипажей.  Неважно миссия, неважно монстр." speaker="0" speakertags="protective">
-        <Conversation line="Это обнадеживает." speaker="1">
-        </Conversation>
+        <Conversation line="Это обнадеживает." speaker="1"></Conversation>
       </Conversation>
       <Conversation line="Я умею стрелять и ношу крутые доспехи.  Это все, что мне нужно было знать." speaker="0" speakertags="laid-back">
-        <Conversation line="" speaker="0">
-        </Conversation>
-        <Conversation line="Я так понимаю, вы не обратили внимания на своего инструктора." speaker="1">
-        </Conversation>
+        <Conversation line="" speaker="0"></Conversation>
+        <Conversation line="Я так понимаю, вы не обратили внимания на своего инструктора." speaker="1"></Conversation>
       </Conversation>
-      <Conversation line="Мы помогаем сделать работу правильно.  Не то чтобы экипажи не могли сделать это без нас." speaker="0" speakertags="professional">
-      </Conversation>
+      <Conversation line="Мы помогаем сделать работу правильно.  Не то чтобы экипажи не могли сделать это без нас." speaker="0" speakertags="professional"></Conversation>
       <Conversation line="Следите, чтобы такие дураки, как вы, не умирали во время смены." speaker="0" speakertags="rude">
-        <Conversation line="Могу поспорить, с тобой очень весело на вечеринках..." speaker="1">
-        </Conversation>
-        <Conversation line="Я покажу вам, кого нужно спасти." speaker="1" speakertags="rude,tough">
-        </Conversation>
-        <Conversation line="Ничего не начинайте." speaker="1" allowedjobs="captain,security">
-        </Conversation>
+        <Conversation line="Могу поспорить, с тобой очень весело на вечеринках..." speaker="1"></Conversation>
+        <Conversation line="Я покажу вам, кого нужно спасти." speaker="1" speakertags="rude,tough"></Conversation>
+        <Conversation line="Ничего не начинайте." speaker="1" allowedjobs="captain,security"></Conversation>
       </Conversation>
-      <Conversation line="Мы помогаем нуждающимся.  С силой и предубеждением." speaker="0">
-      </Conversation>
-      <Conversation line="Мы помогаем созданиям бездны встретить вечный сон." speaker="0" speakertags="joker">
-      </Conversation>
+      <Conversation line="Мы помогаем нуждающимся.  С силой и предубеждением." speaker="0"></Conversation>
+      <Conversation line="Мы помогаем созданиям бездны встретить вечный сон." speaker="0" speakertags="joker"></Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="" speaker="0" maxintensity="0.2" flags="SubmarineDeep" allowedjobs="wardenabyssmod">
@@ -136,16 +93,12 @@
       <Conversation line="Что это такое?" speaker="0">
         <Conversation line="Ты в порядке?  Типа, в голове?" speaker="1">
           <Conversation line="Вы слышите все эти сообщения о том, что надзиратели уходят в бездну, и я просто обеспокоен." speaker="1">
-            <Conversation line="Это было немного грубо, но я в порядке." speaker="0">
-            </Conversation>
-            <Conversation line="Кажется, я... теряю контроль над реальностью, но обещаю... Я не причиню вреда никому из вас.  Это нарушило бы все, за что я выступаю." flags="PsychosisSelf" speakertags="professional,tough" speaker="0">
-            </Conversation>
+            <Conversation line="Это было немного грубо, но я в порядке." speaker="0"></Conversation>
+            <Conversation line="Кажется, я... теряю контроль над реальностью, но обещаю... Я не причиню вреда никому из вас.  Это нарушило бы все, за что я выступаю." flags="PsychosisSelf" speakertags="professional,tough" speaker="0"></Conversation>
             <Conversation line="Я в порядке.  Я кажусь тебе сумасшедшим?  Хм?  Ты думаешь, я чертов псих?  Думаешь, я вырву тебе глаза?  Хм?" flags="PsychosisSelf" speakertags="joker" speaker="0">
               <Conversation line="О, черт возьми.  Есть ли у нас врачи, которые смогут провести психологическую экспертизу этого парня?" speaker="1">
-                <Conversation line="Подарок.  Я принесу им антипсихотики." speaker="2" allowedjobs="medicaldoctor">
-                </Conversation>
-                <Conversation line="...Врач?" speaker="1">
-                </Conversation>
+                <Conversation line="Подарок.  Я принесу им антипсихотики." speaker="2" allowedjobs="medicaldoctor"></Conversation>
+                <Conversation line="...Врач?" speaker="1"></Conversation>
               </Conversation>
             </Conversation>
           </Conversation>
@@ -154,71 +107,47 @@
     </Conversation>
   </Conversation>
   <Conversation line="Пистолет остывает." speaker="0" maxintensity="0.4" flags="SubmarineDeep" allowedjobs="wardenabyssmod">
-    <Conversation line="Ребята, вы правда психи, да?" speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="Как и все те тела, которые ты оставил после себя?" speaker="1" speakertags="joker">
-    </Conversation>
-    <Conversation line="Дааааа.." speaker="1">
-    </Conversation>
-    <Conversation line="" speaker="1">
-    </Conversation>
+    <Conversation line="Ребята, вы правда психи, да?" speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Как и все те тела, которые ты оставил после себя?" speaker="1" speakertags="joker"></Conversation>
+    <Conversation line="Дааааа.." speaker="1"></Conversation>
+    <Conversation line="" speaker="1"></Conversation>
   </Conversation>
-  <Conversation line="Оружие остывает." speaker="0" maxintensity="0.4" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Мы сделаем это." speaker="0" minintensity="0.3" maxintensity="0.5">
-  </Conversation>
-  <Conversation line="Это то, ради чего я тренировался. Мы это переживем!" speaker="0" minintensity="0.6" allowedjobs="wardenabyssmod">
-  </Conversation>
+  <Conversation line="Оружие остывает." speaker="0" maxintensity="0.4" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Мы сделаем это." speaker="0" minintensity="0.3" maxintensity="0.5"></Conversation>
+  <Conversation line="Это то, ради чего я тренировался. Мы это переживем!" speaker="0" minintensity="0.6" allowedjobs="wardenabyssmod"></Conversation>
   <Conversation line="Глубины зовут меня..." speaker="0" flags="SubmarineDeep" allowedjobs="wardenabyssmod">
-    <Conversation line="Ты в порядке?" speaker="1">
-    </Conversation>
-    <Conversation line="Отлично. Ты психопат." speaker="1" speakertags="rude">
-    </Conversation>
+    <Conversation line="Ты в порядке?" speaker="1"></Conversation>
+    <Conversation line="Отлично. Ты психопат." speaker="1" speakertags="rude"></Conversation>
     <Conversation line="Я буду держать галоперидол под рукой.." speaker="1" allowedjobs="medicaldoctor">
       <Conversation line="Это не психоз, это мое обучение." speaker="0">
-        <Conversation line="Есть разница?" speaker="2" speakertags="joker">
-        </Conversation>
+        <Conversation line="Есть разница?" speaker="2" speakertags="joker"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Вы их слышите?  Мы сейчас на их территории." speaker="0" flags="SubmarineDeep" allowedjobs="wardenabyssmod">
-    <Conversation line="Сейчас не время для этого, вы, так называемый «хранитель команды»." speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="Мы справимся." speaker="1" speakertags="professional,tough">
-    </Conversation>
+    <Conversation line="Сейчас не время для этого, вы, так называемый «хранитель команды»." speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Мы справимся." speaker="1" speakertags="professional,tough"></Conversation>
     <Conversation line="Кто они?" speaker="1">
       <Conversation line="Те, кто никогда не видит света.  Левиафаны глубин." speaker="0">
-        <Conversation line="Мы облажались." speaker="1">
-        </Conversation>
-        <Conversation line="Что ж, было приятно познакомиться со всеми вами." speaker="2" speakertags="joker">
-        </Conversation>
-        <Conversation line="5 баллов тому, кто наживку!" speaker="2" speakertags="joker">
-        </Conversation>
-        <Conversation line="О боже, пожалуйста, нет.  Не так!" speaker="2" speakertags="fearful">
-        </Conversation>
+        <Conversation line="Мы облажались." speaker="1"></Conversation>
+        <Conversation line="Что ж, было приятно познакомиться со всеми вами." speaker="2" speakertags="joker"></Conversation>
+        <Conversation line="5 баллов тому, кто наживку!" speaker="2" speakertags="joker"></Conversation>
+        <Conversation line="О боже, пожалуйста, нет.  Не так!" speaker="2" speakertags="fearful"></Conversation>
         <Conversation line="У меня такое ощущение, что мы в полном дерьме." speaker="2">
           <Conversation line="Ох, мы в полном дерьме." speaker="3">
             <Conversation line="Возьмите себя в руки!  Такой образ мышления ни к чему нас не приведет!" speaker="0">
-              <Conversation line="Хорошо, хорошо." speaker="2">
-              </Conversation>
-              <Conversation line="Отлично." speaker="3">
-              </Conversation>
-              <Conversation line="Если ты так говоришь." speaker="2">
-              </Conversation>
-              <Conversation line="Понятно, сэр." speaker="3" speakertags="professional">
-              </Conversation>
+              <Conversation line="Хорошо, хорошо." speaker="2"></Conversation>
+              <Conversation line="Отлично." speaker="3"></Conversation>
+              <Conversation line="Если ты так говоришь." speaker="2"></Conversation>
+              <Conversation line="Понятно, сэр." speaker="3" speakertags="professional"></Conversation>
             </Conversation>
           </Conversation>
           <Conversation line="Наверное, да." speaker="3" speakertags="professional">
             <Conversation line="Возьмите себя в руки!  Такой образ мышления ни к чему нас не приведет!" speaker="0">
-              <Conversation line="Хорошо, хорошо." speaker="2">
-              </Conversation>
-              <Conversation line="Отлично." speaker="3">
-              </Conversation>
-              <Conversation line="Если ты так говоришь." speaker="2">
-              </Conversation>
-              <Conversation line="Понятно, сэр." speaker="3" speakertags="professional">
-              </Conversation>
+              <Conversation line="Хорошо, хорошо." speaker="2"></Conversation>
+              <Conversation line="Отлично." speaker="3"></Conversation>
+              <Conversation line="Если ты так говоришь." speaker="2"></Conversation>
+              <Conversation line="Понятно, сэр." speaker="3" speakertags="professional"></Conversation>
             </Conversation>
           </Conversation>
         </Conversation>
@@ -226,186 +155,132 @@
     </Conversation>
   </Conversation>
   <!-- Afflictions -->
-  <Conversation line="Ааа, я истекаю кровью." speaker="0" flags="Bloodloss" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Мне нужна... кровь..." speaker="0" flags="Bloodloss" allowedjobs="wardenabyssmod">
-  </Conversation>
+  <Conversation line="Ааа, я истекаю кровью." speaker="0" flags="Bloodloss" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Мне нужна... кровь..." speaker="0" flags="Bloodloss" allowedjobs="wardenabyssmod"></Conversation>
   <Conversation line="Кровотечение внутреннее, но все в порядке!  Вот где должна быть моя кровь!" speaker="0" flags="Bloodloss" allowedjobs="wardenabyssmod" speakertags="joker">
-    <Conversation line="Это... Не... Как это работает?  Какого черта?" speaker="1" allowedjobs="medicaldoctor">
-    </Conversation>
-    <Conversation line="Хм?" speaker="1">
-    </Conversation>
+    <Conversation line="Это... Не... Как это работает?  Какого черта?" speaker="1" allowedjobs="medicaldoctor"></Conversation>
+    <Conversation line="Хм?" speaker="1"></Conversation>
   </Conversation>
   <Conversation line="Не буду врать, это здорово." speaker="0" flags="DrunkMedium" allowedjobs="wardenabyssmod">
     <Conversation line="Ты пил?" speaker="1">
       <Conversation line="Маааайби..?" speaker="0">
-        <Conversation line="Соберите это вместе.  Алкоголь не решение." speaker="1">
-        </Conversation>
+        <Conversation line="Соберите это вместе.  Алкоголь не решение." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Это хорошо.  Почему нам не дают выпить в академии??" speaker="0" flags="DrunkMedium" allowedjobs="wardenabyssmod">
-    <Conversation line="Слушай себя, чувак.  Поэтому." speaker="1">
-    </Conversation>
+    <Conversation line="Слушай себя, чувак.  Поэтому." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="ПОДАВАЙТЕ *ОТРЫВКА* ВНИЗ В БЕЗДНУ..." speaker="0" flags="DrunkHigh">
-    <Conversation line="Ты пьян?  Ох вонь, неважно." speaker="1">
-    </Conversation>
+    <Conversation line="Ты пьян?  Ох вонь, неважно." speaker="1"></Conversation>
     <Conversation line="Соберитесь, иначе вы встретите пропасть своими глазами." speaker="1" speakertags="professional,tough,rude">
-      <Conversation line="Обещать?" speaker="0">
-      </Conversation>
+      <Conversation line="Обещать?" speaker="0"></Conversation>
     </Conversation>
     <Conversation line="Нет, черт возьми!  Трезвейте." speaker="1">
-      <Conversation line="" speaker="0">
-      </Conversation>
-      <Conversation line="Вечеринка." speaker="0">
-      </Conversation>
+      <Conversation line="" speaker="0"></Conversation>
+      <Conversation line="Вечеринка." speaker="0"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Уф, я перебрал опиума.." speaker="0" flags="OpiateWithdrawalLow" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Мне бы не помешало еще немного опиума, док. Клянусь, моя нога меня убивает.!" speaker="0" flags="OpiateWithdrawalLow" allowedjobs="wardenabyssmod" speakertags="joker">
-  </Conversation>
-  <Conversation line="Это жжет.." speaker="0" flags="OpiateWithdrawalLow" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Мне нужен налоксон." speaker="0" flags="OpiateWithdrawalMedium">
-  </Conversation>
+  <Conversation line="Уф, я перебрал опиума.." speaker="0" flags="OpiateWithdrawalLow" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Мне бы не помешало еще немного опиума, док. Клянусь, моя нога меня убивает.!" speaker="0" flags="OpiateWithdrawalLow" allowedjobs="wardenabyssmod" speakertags="joker"></Conversation>
+  <Conversation line="Это жжет.." speaker="0" flags="OpiateWithdrawalLow" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Мне нужен налоксон." speaker="0" flags="OpiateWithdrawalMedium"></Conversation>
   <Conversation line="Точно так же... На тренировке... Должен... Сопротивляться... Упсаааааааааааа..." speaker="0" flags="OpiateWithdrawalMedium" allowedjobs="wardenabyssmod">
     <Conversation line="Но они.. такие вкусные.." speaker="0">
       <Conversation line="Ебать!  Я не могу поддаться опиумным богам.." speaker="0">
-        <Conversation line="Просто вкус.." speaker="0">
-        </Conversation>
+        <Conversation line="Просто вкус.." speaker="0"></Conversation>
       </Conversation>
     </Conversation>
     <Conversation line="Попробовать не помешало бы, правда?" speaker="0">
       <Conversation line="Ебать!  Это испортит мне голову.." speaker="0">
-        <Conversation line="Даже небольшой вкус не может причинить никакого вреда.." speaker="0">
-        </Conversation>
+        <Conversation line="Даже небольшой вкус не может причинить никакого вреда.." speaker="0"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Кажется, меня сейчас вырвет." speaker="0" flags="OpiateWithdrawalMedium" allowedjobs="wardenabyssmod">
-  </Conversation>
+  <Conversation line="Кажется, меня сейчас вырвет." speaker="0" flags="OpiateWithdrawalMedium" allowedjobs="wardenabyssmod"></Conversation>
   <Conversation line="Ох, это плохо, это очень плохо.  Я не могу продолжать, не так." speaker="0" flags="OpiateWithdrawalHigh" allowedjobs="wardenabyssmod">
-    <Conversation line="Расслабься, мы сделаем тебе укол налоксона, когда сможем." speaker="1" allowedjobs="medicaldoctor">
-    </Conversation>
-    <Conversation line="Вырежьте это." speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="" speaker="0">
-    </Conversation>
+    <Conversation line="Расслабься, мы сделаем тебе укол налоксона, когда сможем." speaker="1" allowedjobs="medicaldoctor"></Conversation>
+    <Conversation line="Вырежьте это." speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="" speaker="0"></Conversation>
   </Conversation>
   <Conversation line="Это... О, нет, нет, еще нет, я не готов, я не могу... Я не могу остановить их, я не могу защитить их всех.!" speaker="0" flags="PsychosisSelf" speakertags="fearful" allowedjobs="wardenabyssmod">
-    <Conversation line="" speaker="0">
-    </Conversation>
+    <Conversation line="" speaker="0"></Conversation>
     <Conversation line="Эй, эй, соберись, о чем ты, черт возьми?" speaker="1" speakertags="tough">
       <Conversation line="Эндворм у нашей входной двери, и я не готов встретиться с ним лицом к лицу.." speaker="0">
-        <Conversation line="Расслабься, просто полежи немного." speaker="1">
-        </Conversation>
-        <Conversation line="Ты идешь… Ты ведешь себя как сумасшедший, чувак." speaker="1" speakertags="joker">
-        </Conversation>
-        <Conversation line="Тебе нужен галоперидол." speaker="1" allowedjobs="medicaldoctor">
-        </Conversation>
-        <Conversation line="Вам нужны антипсихотики." speaker="2" allowedjobs="medicaldoctor">
-        </Conversation>
+        <Conversation line="Расслабься, просто полежи немного." speaker="1"></Conversation>
+        <Conversation line="Ты идешь… Ты ведешь себя как сумасшедший, чувак." speaker="1" speakertags="joker"></Conversation>
+        <Conversation line="Тебе нужен галоперидол." speaker="1" allowedjobs="medicaldoctor"></Conversation>
+        <Conversation line="Вам нужны антипсихотики." speaker="2" allowedjobs="medicaldoctor"></Conversation>
       </Conversation>
       <Conversation line="Харибда здесь... Я не готов." speaker="0">
-        <Conversation line="Ты говоришь безумно, чувак." speaker="1" speakertags="joker">
-        </Conversation>
-        <Conversation line="Расслабься, просто полежи немного.  Все будет хорошо." speaker="1">
-        </Conversation>
-        <Conversation line="Я думаю, тебе нужен галоперидол." speaker="1" allowedjobs="medicaldoctor">
-        </Conversation>
-        <Conversation line="Вам нужны антипсихотики." speaker="2" allowedjobs="medicaldoctor">
-        </Conversation>
+        <Conversation line="Ты говоришь безумно, чувак." speaker="1" speakertags="joker"></Conversation>
+        <Conversation line="Расслабься, просто полежи немного.  Все будет хорошо." speaker="1"></Conversation>
+        <Conversation line="Я думаю, тебе нужен галоперидол." speaker="1" allowedjobs="medicaldoctor"></Conversation>
+        <Conversation line="Вам нужны антипсихотики." speaker="2" allowedjobs="medicaldoctor"></Conversation>
       </Conversation>
     </Conversation>
     <Conversation line="Оно здесь, оно рядом, и я ничего не могу сделать." speaker="0">
       <Conversation line="Мы умрем.  Они умрут.  Это все будет моя вина" speaker="0">
         <Conversation line="Если только... Я убью его первым." speaker="0">
-          <Conversation line="Но эти твари такие сильные... Достаточно ли меня, чтобы победить их?" speaker="0">
-          </Conversation>
+          <Conversation line="Но эти твари такие сильные... Достаточно ли меня, чтобы победить их?" speaker="0"></Conversation>
         </Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Это не реально... Это не реально... Это не реально... Это не реально.." speaker="0" flags="PsychosisSelf" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Все в порядке... Просто держите себя в руках... Просто нужно добраться до следующей заставы..." speaker="0" flags="PsychosisSelf" allowedjobs="wardenabyssmod">
-  </Conversation>
+  <Conversation line="Это не реально... Это не реально... Это не реально... Это не реально.." speaker="0" flags="PsychosisSelf" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Все в порядке... Просто держите себя в руках... Просто нужно добраться до следующей заставы..." speaker="0" flags="PsychosisSelf" allowedjobs="wardenabyssmod"></Conversation>
   <Conversation line="Моя власть над реальностью ослабевает.. Есть ли у кого-нибудь антипсихотики?" speaker="0" speakertags="professional,tough" flags="PsychosisSelf" allowedjobs="wardenabyssmod">
-    <Conversation line="Я посмотрю." speaker="1" allowedjobs="medicaldoctor">
-    </Conversation>
+    <Conversation line="Я посмотрю." speaker="1" allowedjobs="medicaldoctor"></Conversation>
   </Conversation>
   <Conversation line="Черт, черт, черт, я их слышу.. В нашем корпусе есть кормушки.. Нам придется разрезать его, чтобы вытащить их наружу.." speaker="0" speakertags="fearful" flags="PsychosisSelf" allowedjobs="wardenabyssmod">
     <Conversation line="О чем ты, черт возьми?" speaker="1">
       <Conversation line="Ты тоже это слышишь, да?  Это царапание внутри нашего корпуса?  Там кормушки для роев!" speaker="0" speakertags="fearful" flags="PsychosisSelf">
-        <Conversation line="Черт возьми, этот парень сумасшедший.." speaker="1">
-        </Conversation>
+        <Conversation line="Черт возьми, этот парень сумасшедший.." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Я слышу их в вентиляционных отверстиях.. Там краулеры.. Нам нужно перекрыть кислород, чтобы они выбрались наружу.." speaker="0" speakertags="fearful" flags="PsychosisSelf" allowedjobs="wardenabyssmod">
     <Conversation line="Что на тебя нашло, о чём ты говоришь?  Ты звучишь безумно!" speaker="1">
       <Conversation line="Вы можете слышать этот звон в вентиляционных отверстиях, верно?" speaker="0" speakertags="fearful" flags="PsychosisSelf">
-        <Conversation line="Нет?  Пожалуйста, не отключайте кислород." speaker="1">
-        </Conversation>
+        <Conversation line="Нет?  Пожалуйста, не отключайте кислород." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Я слышу их.. Создания бездны.. Они прямо снаружи.. Мне нужно выйти и сразиться с ними.." speaker="0" speakertags="fearful" flags="PsychosisSelf" allowedjobs="wardenabyssmod">
     <Conversation line="Сэр, при всем уважении, вы сумасшедший." speaker="1">
       <Conversation line="Разве ты этого не слышишь?  Зов бездны... Я должен прислушаться к нему и сражаться... Это то, чему меня учили." speaker="0" speakertags="fearful" flags="PsychosisSelf">
-        <Conversation line="Э-э, нет?  Пожалуйста, не выбрасывайтесь из шлюза, вы нам все еще нужны." speaker="1">
-        </Conversation>
+        <Conversation line="Э-э, нет?  Пожалуйста, не выбрасывайтесь из шлюза, вы нам все еще нужны." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Док.  Что бы я ни говорил, не дай мне прикоснуться к морфию." speaker="0" flags="OpiateWithdrawalHigh" allowedjobs="wardenabyssmod">
-    <Conversation line="ДАЙ МНЕ МОРФИН!" speaker="0">
-    </Conversation>
-    <Conversation line="Ооооооооооооооооооооооо.." speaker="0">
-    </Conversation>
-    <Conversation line="Чертов наркоман." speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="Бабки!" speaker="1" speakertags="joker">
-    </Conversation>
+    <Conversation line="ДАЙ МНЕ МОРФИН!" speaker="0"></Conversation>
+    <Conversation line="Ооооооооооооооооооооооо.." speaker="0"></Conversation>
+    <Conversation line="Чертов наркоман." speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Бабки!" speaker="1" speakertags="joker"></Conversation>
     <Conversation line="Вы ранены?" speaker="1" allowedjobs="medicaldoctor">
       <Conversation line="Горит.. Везде.  Но я не могу.. Тратить морфин.." speaker="0">
-        <Conversation line="Вам нужен налоксон.  Быстрый." speaker="1">
-        </Conversation>
+        <Conversation line="Вам нужен налоксон.  Быстрый." speaker="1"></Conversation>
       </Conversation>
-      <Conversation line="Хех... Это мягко сказано, док." speaker="0">
-      </Conversation>
+      <Conversation line="Хех... Это мягко сказано, док." speaker="0"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Приближается! Готовьте опиаты!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Я принимаю огонь! Берегите головы!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="У нас враги, в меня стреляют!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Черт, меня только что подстрелили! В укрытие!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Пригнитесь, открываем огонь!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Черт! Ложись, кто-то поливает свинцом!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod">
-  </Conversation>
-  <Conversation line="Уходите в безопасное место, у нас есть вооруженные бойцы!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod">
-  </Conversation>
+  <Conversation line="Приближается! Готовьте опиаты!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Я принимаю огонь! Берегите головы!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="У нас враги, в меня стреляют!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Черт, меня только что подстрелили! В укрытие!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Пригнитесь, открываем огонь!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Черт! Ложись, кто-то поливает свинцом!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod"></Conversation>
+  <Conversation line="Уходите в безопасное место, у нас есть вооруженные бойцы!" speaker="0" flags="GunshotWound" allowedjobs="wardenabyssmod"></Conversation>
   <!-- Radiation conversations-->
-  <Conversation line="В процессе обучения мы проходим через множество болезненных испытаний. Радиация - это совсем другое чудовище.." speaker="0" flags="InRadiation" allowedjobs="wardenabyssmod">
-  </Conversation>
+  <Conversation line="В процессе обучения мы проходим через множество болезненных испытаний. Радиация - это совсем другое чудовище.." speaker="0" flags="InRadiation" allowedjobs="wardenabyssmod"></Conversation>
   <Conversation line="Ух, тренировки не подготовили нас к радиации." speaker="0" flags="InRadiation" allowedjobs="wardenabyssmod">
-    <Conversation line="Даже несмотря на это, я сомневаюсь, что это сделало бы ситуацию лучше." speaker="0">
-    </Conversation>
+    <Conversation line="Даже несмотря на это, я сомневаюсь, что это сделало бы ситуацию лучше." speaker="0"></Conversation>
   </Conversation>
   <Conversation line="Интересно, получим ли мы суперсилы?" speaker="0" flags="InRadiation" speakertags="joker">
-    <Conversation line="Ты чертов дурак, ты знаешь это?" speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="Даже на пороге смерти этот ублюдок отпускает шутку." speaker="1" speakertags="rude,tough">
-    </Conversation>
-    <Conversation line="Это... не так работает генетика...?" speaker="1" allowedjobs="medicaldoctor">
-    </Conversation>
+    <Conversation line="Ты чертов дурак, ты знаешь это?" speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Даже на пороге смерти этот ублюдок отпускает шутку." speaker="1" speakertags="rude,tough"></Conversation>
+    <Conversation line="Это... не так работает генетика...?" speaker="1" allowedjobs="medicaldoctor"></Conversation>
   </Conversation>
 </Conversations>
 <!-- Переводчик err0r32 (Илья)#7943 -->

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.Upgrade1toolbelt>Усиленный пояс для инструментов</entityname.Upgrade1toolbelt>
+  <entitydescription.Upgrade1toolbelt>Этот пояс для инструментов максимально укреплён и расширен до предела человеческих технологий. Замедляет кровотечение.</entitydescription.Upgrade1toolbelt>
+  <entityname.Upgrade2toolbelt>Инопланетный пояс</entityname.Upgrade2toolbelt>
+  <entitydescription.Upgrade2toolbelt>Пояс для инструментов, улучшенный до степени, недоступной человеческому пониманию. Его инопланетное устройство не понятно никому в здравом уме.</entitydescription.Upgrade2toolbelt>
+  <entityname.Helldivingsuit>Скафандр Ахава</entityname.Helldivingsuit>
+  <entitydescription.Helldivingsuit>Скафандр древнего легендарного капитана. В таком можно сплавать в ад и обратно. Даёт примерно такую же защиту, как у Экзокостюма, но предоставляет доступ к нереальной скорости. От скафадра исходит ненависть к китам.</entitydescription.Helldivingsuit>
+  <entityname.Ogeneplicer>Генетический ультиматум</entityname.Ogeneplicer>
+  <entitydescription.Ogeneplicer>Высококлассный спайщик генов, предоставляющий доступ к ещё более продвинутым способам манипуляцией генами. Хоть он и не является нелегальным, он всё же запрещён во всех цивилизованных уголках Европы. Изредка выпускается орбитальной станцией О Прайм.</entitydescription.Ogeneplicer>
+  <entityname.divingknifejupiter>Юпитерианское приветствие</entityname.divingknifejupiter>
+  <entitydescription.divingknifejupiter>Ни один здравомыслящий человек не назовёт это оружие, рубящее как топор, ножом. Сохраняет все эффекты своих компонентов.</entitydescription.divingknifejupiter>
+  <entityname.Twilight>Сумерки</entityname.Twilight>
+  <entitydescription.Twilight>Этот проклятый меч проявление всего самого худшего, что есть на Европе. Каждый его удар пробивается сквозь броню, обшивку и душу.</entitydescription.Twilight>
+  <entityname.Justitia>Юстиция</entityname.Justitia>
+  <entitydescription.Justitia>Орудие возмездия, но не справедливости. Запомните разницу. Наносит хороший урон и работает как лом. Будьте предельно внимательны, чтобы не нанести урон своей команде.</entitydescription.Justitia>
+  <entityname.Birdround>Шёпот Клюва</entityname.Birdround>
+  <entitydescription.Birdround>Шёпот из Клюва. Накладывает ужасное кровотечение, которое не каждый выдержит, а если и выдержит, то недолго.</entitydescription.Birdround>
+  <entityname.EnchantGrenade>Зачарованная граната</entityname.EnchantGrenade>
+  <entitydescription.EnchantGrenade>Оглушающая граната смешанная с силой мифического защитника Леса. Взрыв существенно замедлит и ослабит цель. Никто не знает, как фабрикатор производит подобную вещь.</entitydescription.EnchantGrenade>
+  <entityname.BirdGun>Клюв</entityname.BirdGun>
+  <entitydescription.BirdGun>Небольшой пистолет, сделанный нелепым образом. Пули не имеют особого останавливающего действия, но внутренности жертвы будут разорваны после попадания.</entitydescription.BirdGun>
+  <entityname.BigBirdHammer>Лампа</entityname.BigBirdHammer>
+  <entitydescription.BigBirdHammer>Массивный молот, чья головка оканчивается лампой. Имеет медленную скорость атаки и малый урон, но накладывает сильное оглушение. Использование аккумулятора улучшает характеристики молота. Очаровывающее оружие.</entitydescription.BigBirdHammer>
+  <entityname.Birdbattery>Свет Лампы</entityname.Birdbattery>
+  <entitydescription.Birdbattery>Мифический свет, использующийся в качестве невероятно ёмкой батареи. Рекомендуется не смотреть на него слишком долго.</entitydescription.Birdbattery>
+  <afflictionname.Enchanted>Очарованный</afflictionname.Enchanted>
+  <afflictiondescription.Enchanted>Вы сбиты с толку потусторонним светом</afflictiondescription.Enchanted>
+  <afflictionname.Oblivion>Забвение</afflictionname.Oblivion>
+  <afflictiondescription.Oblivion>Пациент ощущает, как его душа отщепляется от его тела и разума. Ищите лекарство, пока он не погиб.</afflictiondescription.Oblivion>
+  <entityname.Oalloy>Ковкий сплав</entityname.Oalloy>
+  <entitydescription.Oalloy>Гиперпродвинутый сплав, меняющий все мыслимые законы физики. Является основой для всех творений "Обливион индастриз".</entitydescription.Oalloy>
+  <entityname.Panacea>Панацея</entityname.Panacea>
+  <entitydescription.Panacea>Невероятно сильное лекарство от всего. Несмотря на то, что эффект немнгновенный, оно в секунды излечит все раны, а будущие едва подействуют на пациента. Оно наполнит лёгкие кислородом, но от давления защитить уже не сможет, как и от паразитов.</entitydescription.Panacea>
+  <entityname.Oblivioncure>Наполнитель</entityname.Oblivioncure>
+  <entitydescription.Oblivioncure>Восстанавливает вашу связь с реальностью. Сильно уменьшает забвение и психоз.</entitydescription.Oblivioncure>
+  <jobname.Employee>Агент "Обливион индастриз"</jobname.Employee>
+  <jobdescription.Employee>Малооплачиваемая работа, заключающаяся в помощи экапажу подлодки. Большинство представителей этой профессии находят свой конец на дне морском. Но при удачном стечении обстоятельств вы можете получить повышение в "Обливион индастриз", а это стоит намного больше человеческой жизни. </jobdescription.Employee>
+  <afflictiondescription.Oblivion1>Вы чувствуете себя неправильно, как лишний орган или обречённая душа. Следует посетить врача или произвести наполнитель. </afflictiondescription.Oblivion1>
+  <afflictiondescription.Oblivion2>Вы чувствуете, как реальность ускользает от вас. Требуется восстановление.</afflictiondescription.Oblivion2>
+  <afflictiondescription.Oblivion3>Тело отвергает вас, скоро к нему присоединится и разум. В таком состоянии нужно срочно принять лекарство. </afflictiondescription.Oblivion3>
+  <afflictiondescription.Oblivion4>Стоимость твоей жизни разрывает тебя изнутри. Сдавайся.</afflictiondescription.Oblivion4>
+  <afflictiondescription.Oblivion5>Прощай.</afflictiondescription.Oblivion5>
+  <!-- Talent descriptions -->
+  <talentname.Siphonexperience>Опыт с сифоном</talentname.Siphonexperience>
+  <talentdescription.Siphonexperience>На данный момент умение бесполезно. Простите за неудобства.</talentdescription.Siphonexperience>
+  <!--Gain 100% bonus XP when completing a mission, if a crewmember died. The deaths of assistants do not count.!-->
+  <talentname.MedicalAdaptation>Медицинская приспосабливаемость</talentname.MedicalAdaptation>
+  <talentdescription.MedicalAdaptation>Медицинские препараты на [amount]% эффективнее. Даёт [amount] медицины.</talentdescription.MedicalAdaptation>
+  <talentname.MeintenanceAdaptation>Правила эксплуатации</talentname.MeintenanceAdaptation>
+  <talentdescription.MeintenanceAdaptation>Учеличивает на [amount1]% скорость починки и увеличивает механику и электронику на [amount].</talentdescription.MeintenanceAdaptation>
+  <talentname.SecurityAdaptation>Адаптация системы безопасности</talentname.SecurityAdaptation>
+  <talentdescription.SecurityAdaptation>Вы наносите на [amount]% больше урона врагам в подлодке. Даёт [amount1] оружия.</talentdescription.SecurityAdaptation>
+  <talentname.SplendidMarketing>Великолепный маркетинг</talentname.SplendidMarketing>
+  <talentdescription.SplendidMarketing>Завершив раунд хотя бы с одной миссией, вы получите одну единицу титана и свинца.</talentdescription.SplendidMarketing>
+  <talentname.Foundation>Переделанный фонд</talentname.Foundation>
+  <talentdescription.Foundation>Вы получаете на [amount]% меньше урона. Увеличивает максимальное здоровье на [amount]%.</talentdescription.Foundation>
+  <talentdescription.Bestdeals>Теперь создание ковкого сплава требует меньше ресурсов.</talentdescription.Bestdeals>
+  <talentname.Bestdeals>Лучшие сделки</talentname.Bestdeals>
+  <talentname.Head>Увеличенный мозг</talentname.Head>
+  <talentdescription.Head>Вы становитесь на [amount]% устойчивее к психозу и тошноте. Даёт [amount1]% сопротивления оглушению.</talentdescription.Head>
+  <talentname.Inpatient>Беспокойной пациент</talentname.Inpatient>
+  <talentdescription.Inpatient>Ожидая реанимации, вы получаете на [amount]% меньше урона и медленно исцеляете свои раны.</talentdescription.Inpatient>
+  <talentname.Inferno>Инфернальный кровоток</talentname.Inferno>
+  <talentdescription.Inferno>Увеличивает сопротивление на [amount]% к ожогам, на [amount1]% к лучевой болезни и ожогам кислотой, и на [amount2]% к взрывам. Вы наносите на [amount2]% больше урона огнём.</talentdescription.Inferno>
+  <talentname.Scales>Инопланетная чешуя</talentname.Scales>
+  <talentdescription.Scales>Вы получаете на [amount1]% меньше урона от укусов, огнестрельных и рванных ран. Вы наносите на [amount2]% больше больше урона и накладываете на [amount2]% больше кровотечения.</talentdescription.Scales>
+  <talentname.Surgeries>Первоклассные операции</talentname.Surgeries>
+  <talentdescription.Surgeries>Даёт [amount]% к скорости бега, урону в рукопашной, сопротивению урону и скорости освоения навыков. Вы медленно излечиваете все ваши раны.</talentdescription.Surgeries>
+  <talentname.Peak>Пик таланта</talentname.Peak>
+  <talentdescription.Peak>Все создаваемые вами предметы на [qualitybonus] выше качеством</talentdescription.Peak>
+  <talenttree.Body>Аугментации</talenttree.Body>
+  <talenttree.artisan>Умелец</talenttree.artisan>
+</infotexts>
+<!-- Перевёл kjgl_mnh -->

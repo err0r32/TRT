@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--  Creatures  -->
+  <character.Abyssalcrawler>Ползун бездны</character.Abyssalcrawler>
+  <character.Abyssalcrawler2>Кошмарный ползун бездны</character.Abyssalcrawler2>
+  <character.Abyssalhammerhead>Молотоглав бездны</character.Abyssalhammerhead>
+  <character.Abyssalmoloch>Молох бездны</character.Abyssalmoloch>
+  <character.Abyssalmantis>Богомол бездны</character.Abyssalmantis>
+  <character.Abyssalthresher>Акулий тигр бездны</character.Abyssalthresher>
+  <character.Abyssmonster>Тварь из бездны</character.Abyssmonster>
+  <character.Abysswatcher>Наблюдатель бездны</character.Abysswatcher>
+  <character.Alphacharybdis>Альфа-харибда</character.Alphacharybdis>
+  <character.Alphaendworm>Альфа-червь</character.Alphaendworm>
+  <character.Alphaendworm_m>Альфа-червь</character.Alphaendworm_m>
+  <character.Angel>Ангел</character.Angel>
+  <character.Angelinvisible>???</character.Angelinvisible>
+  <character.ancientmudraptor>Древний грязевой раптор</character.ancientmudraptor>
+  <character.Babymoloch>Детёныш молоха</character.Babymoloch>
+  <character.Bombshark>Грязевой раптор-бомбардир</character.Bombshark>
+  <character.Bossmoloch>Гигантский гидротермальный молох</character.Bossmoloch>
+  <character.Brainmoss1>Мозговик</character.Brainmoss1>
+  <character.Brainmoss2>Радиоактивный мозговик</character.Brainmoss2>
+  <character.Brainmoss3>Альфа-мозговик</character.Brainmoss3>
+  <character.Bruteflora>Замшелый робот</character.Bruteflora>
+  <character.Carrier>Носитель</character.Carrier>
+  <character.Carrierflakdirectional>Ожившее корабельное орудие</character.Carrierflakdirectional>
+  <character.Carrierflakexploding>Ожившее корабельное орудие</character.Carrierflakexploding>
+  <character.Carrierflaknormal>Ожившее корабельное орудие</character.Carrierflaknormal>
+  <character.Carrierflakphysicorium>Ожившее корабельное орудие</character.Carrierflakphysicorium>
+  <character.Carrierflakrandom>Ожившее корабельное орудие</character.Carrierflakrandom>
+  <character.Carrierleviathan>Носитель-левиафан</character.Carrierleviathan>
+  <character.carriernew>Отшельник</character.carriernew>
+  <character.carriernewdugong>Отшельник</character.carriernewdugong>
+  <character.Caver>Пещерник</character.Caver>
+  <character.Cetus>Джулия</character.Cetus>
+  <character.Charybdisadol>Молодая харибда</character.Charybdisadol>
+  <character.Charybdisold>Старая харибда</character.Charybdisold>
+  <character.Charybdisre>Детёныш харибды</character.Charybdisre>
+  <character.Charybdissavage>Свирепая харибда</character.Charybdissavage>
+  <character.Charybdis_hunting>Харибда</character.Charybdis_hunting>
+  <character.CharybdisRex>Зрелая харибда</character.CharybdisRex>
+  <character.CharybdisUgly>Коралловая харибда</character.CharybdisUgly>
+  <character.chelicerate>Хелицерат</character.chelicerate>
+  <character.Clownbox>Металлический ящик</character.Clownbox>
+  <character.Clowndeathmask>Клоун</character.Clowndeathmask>
+  <character.Clownhomie>Клоун</character.Clownhomie>
+  <character.Clownsawcrazy>Клоун</character.Clownsawcrazy>
+  <character.Clownsuicide>Клоун</character.Clownsuicide>
+  <character.Clownsuicidedriver>Клоун</character.Clownsuicidedriver>
+  <character.Clownwanderer>Клоун</character.Clownwanderer>
+  <character.Clownwandererelite>Клоун</character.Clownwandererelite>
+  <character.Coelanthprime>Большой стрекальщик</character.Coelanthprime>
+  <character.CoelanthRe>Стрекальщик</character.CoelanthRe>
+  <character.Crawleralphamale>Альфа-ползун</character.Crawleralphamale>
+  <character.Crawlerbroodmotherold>Матка роя ползунов</character.Crawlerbroodmotherold>
+  <character.Crawlerhusk>Хаск-ползун</character.Crawlerhusk>
+  <character.Crawlernaught>Падальщик</character.Crawlernaught>
+  <character.Crawlerold>Ползун</character.Crawlerold>
+  <character.Crawlersmart>Ползун</character.Crawlersmart>
+  <character.Crawlerrandom>Ползун</character.Crawlerrandom>
+  <character.Crawler_capture>Ползун-хватальщик</character.Crawler_capture>
+  <character.Crawler_hatchling>Детёныш ползуна</character.Crawler_hatchling>
+  <character.Crawler_large>Ползун</character.Crawler_large>
+  <character.Crawler_large2>Ползун</character.Crawler_large2>
+  <character.Crawler_nightmare>Ползун</character.Crawler_nightmare>
+  <character.Crawler_faraday>Ползун</character.Crawler_faraday>
+  <character.Crawler_nasonov>Ползун</character.Crawler_nasonov>
+  <character.Crawler_sky>Ползун</character.Crawler_sky>
+  <character.Crawler_psychosis>Ползун</character.Crawler_psychosis>
+  <character.Crawler_thermal>Ползун</character.Crawler_thermal>
+  <character.Crawler_spineling>Ползун</character.Crawler_spineling>
+  <character.Crawler_watcher>Ползун</character.Crawler_watcher>
+  <character.Cyclops>Циклоп</character.Cyclops>
+  <character.Cyclops_bossmusic>Циклоп</character.Cyclops_bossmusic>
+  <character.Deadnought>Дэдноут</character.Deadnought>
+  <character.Defensebothostile>Враждебный охранный бот</character.Defensebothostile>
+  <character.Defensebothostilelaser>Враждебный охранный бот</character.Defensebothostilelaser>
+  <character.Devilfish>Рыба-дьявол</character.Devilfish>
+  <character.De-crawlerhusk>Хаск-ползун</character.De-crawlerhusk>
+  <character.De-lairbonethresher>Костяной акулий тигр</character.De-lairbonethresher>
+  <character.De-lairbroodmother>Матка ползунов</character.De-lairbroodmother>
+  <character.De-laircrawler>Ползун</character.De-laircrawler>
+  <character.De-laircrawler_hatchling>Детёныш ползуна</character.De-laircrawler_hatchling>
+  <character.De-laircrawler_large>Ползун</character.De-laircrawler_large>
+  <character.De-lairmudraptor>Грязевой раптор</character.De-lairmudraptor>
+  <character.De-lairmudraptor_hatchling>Детёныш грязевого раптора</character.De-lairmudraptor_hatchling>
+  <character.De-lairmudraptor_unarmored>Неокрепший грязевой раптор</character.De-lairmudraptor_unarmored>
+  <character.De-lairmudraptor_veteran>Грязевой раптор-ветеран</character.De-lairmudraptor_veteran>
+  <character.De-lairtigerthresher>Акулий тигр</character.De-lairtigerthresher>
+  <character.De-lairtigerthresher_hatchling>Выводок акульего тигра</character.De-lairtigerthresher_hatchling>
+  <character.De-wastecrawler>Грязный ползун</character.De-wastecrawler>
+  <character.De-wastehammerhead>Грязный молотоглав</character.De-wastehammerhead>
+  <character.deadnoughthomingshell>Cамонаводящийся снаряд</character.deadnoughthomingshell>
+  <character.Deepseaclown>Утонувший клоун</character.Deepseaclown>
+  <character.deepseaclownnew>Утонувший клоун</character.deepseaclownnew>
+  <character.deepseaclownnewsaw>Утонувший клоун</character.deepseaclownnewsaw>
+  <character.endurance>Фрактальный часовой</character.endurance>
+  <character.endwhale>Ужас Данвича</character.endwhale>
+  <character.endwormcoral>Гигантский коралловый изопод</character.endwormcoral>
+  <character.endwormre>Ужасный червь Рока</character.endwormre>
+  <character.endworm_hunting>Червь Рока</character.endworm_hunting>
+  <character.endworm_young>Выводок червя Рока</character.endworm_young>
+  <character.Endwormnew>Гигантский кольчатый червь</character.Endwormnew>
+  <character.epicentrum>Ужас из глубин</character.epicentrum>
+  <character.Europa>Отражение Европы</character.Europa>
+  <character.europanboxcutter>Европейская волосистая цианея</character.europanboxcutter>
+  <character.europantrout>Европейская форель</character.europantrout>
+  <character.Exosuit>Сломанный экзокостюм</character.Exosuit>
+  <character.fault>Ужас из глубин</character.fault>
+  <character.fertileblackmoloch>Чёрный молох</character.fertileblackmoloch>
+  <character.fertilemoloch>Красный молох</character.fertilemoloch>
+  <character.fractalbreacher>Фрактальный истязатель</character.fractalbreacher>
+  <character.fractaldestroyer>Фрактальный разрушитель</character.fractaldestroyer>
+  <character.fractalenforcer>Фрактальный исполнитель</character.fractalenforcer>
+  <character.fractalenforcer2>Фрактальный исполнитель</character.fractalenforcer2>
+  <character.Fractalguardianwanderer>Фрактальный странник</character.Fractalguardianwanderer>
+  <character.Fractalgolem>Фрактальный голем</character.Fractalgolem>
+  <character.Fractalmermaid>Русалка</character.Fractalmermaid>
+  <character.Fractalmermaidinvisattack>???</character.Fractalmermaidinvisattack>
+  <character.Fractalpenance>Прокажённый</character.Fractalpenance>
+  <character.Fractalsiren>Сирена</character.Fractalsiren>
+  <character.Fractalwalker>Ходок</character.Fractalwalker>
+  <character.geosphere>Геосфера</character.geosphere>
+  <character.ghostshrimp>Призрачная креветка</character.ghostshrimp>
+  <character.giantcrab>Гигантский краб</character.giantcrab>
+  <character.giantcrabice>Гигантский ледяной краб</character.giantcrabice>
+  <character.gianttrapper>Гигантский паук-ловчий</character.gianttrapper>
+  <character.glowfish>Удильщик</character.glowfish>
+  <character.Glowfishhusk>Удильщик-хаск</character.Glowfishhusk>
+  <character.goofyfish>Иглобрюх</character.goofyfish>
+  <character.grayeel>Серый угорь</character.grayeel>
+  <character.guardianattackbot>Наступательный бот-хранитель</character.guardianattackbot>
+  <character.guardianrepairbot>Ремонтный бот-хранитель</character.guardianrepairbot>
+  <character.guppy>Детёныш молоха</character.guppy>
+  <character.Juggernaut>Джаггернаут</character.Juggernaut>
+  <character.joviandiver>Пират</character.joviandiver>
+  <character.joviansuicide>Пират</character.joviansuicide>
+  <character.hallucination1>???</character.hallucination1>
+  <character.hallucination2>???</character.hallucination2>
+  <character.hammerheadmatriarchconcept>Альфа-молотоглав</character.hammerheadmatriarchconcept>
+  <character.hammerheadmauler>Молотоглав-разрушитель</character.hammerheadmauler>
+  <character.hammerheadspawn>Малёк молотоглава</character.hammerheadspawn>
+  <character.hammerhead_breacher>Молотоглав-людоед</character.hammerhead_breacher>
+  <character.hammerhead_hard>Голубой молотоглав</character.hammerhead_hard>
+  <character.hammerhead_maneater>Молотоглав-людоед</character.hammerhead_maneater>
+  <character.hammerhead_mnamed>Голубой молотоглав</character.hammerhead_mnamed>
+  <character.hammerhead_probe>Молотоглав</character.hammerhead_probe>
+  <character.hammerhead_swordfish>Меч-рыба</character.hammerhead_swordfish>
+  <character.hammerhead_swordfishexplode>Биолюминисцентная меч-рыба</character.hammerhead_swordfishexplode>
+  <character.hammerhead_young>Неокрепший молотоглав</character.hammerhead_young>
+  <character.harpoonwhale>Гарпунный кит</character.harpoonwhale>
+  <character.HER>???</character.HER>
+  <character.helmetcrablet>Лицехват</character.helmetcrablet>
+  <character.helmetjumplet>Лицехват</character.helmetjumplet>
+  <character.honkfather>Хонк-Папа</character.honkfather>
+  <character.hornshrimp>Креветка-рогач</character.hornshrimp>
+  <character.hullfish>Лопаточник</character.hullfish>
+  <character.Huskinfector>Инфектор</character.Huskinfector>
+  <character.Huskbroodemperor>Праматерь хасков</character.Huskbroodemperor>
+  <character.husker>Огромный удильщик</character.husker>
+  <character.Husksprintercombat>Хаск</character.Husksprintercombat>
+  <character.Husksprinterhumanold>Хаск</character.Husksprinterhumanold>
+  <character.Husksprinterold>Хаск</character.Husksprinterold>
+  <character.Hydrathresher>Гидра-потрошитель</character.Hydrathresher>
+  <character.Immortal>Хаск-левиафан</character.Immortal>
+  <character.Impfish>Имп</character.Impfish>
+  <character.icecrab>Ледяной краб</character.icecrab>
+  <character.Icedleatherback>Ледяная кожистая черепаха</character.Icedleatherback>
+  <character.icehshark>Ледяная акула</character.icehshark>
+  <character.icewhale>Ледяной кит</character.icewhale>
+  <character.Irma>Ирма</character.Irma>
+  <character.Irmahusk>Ирма-хаск</character.Irmahusk>
+  <character.latcherabyss>Блокиратор бездны</character.latcherabyss>
+  <character.latcher_hatchling>Выводок блокиратора</character.latcher_hatchling>
+  <character.latcher_hunting>Блокиратор</character.latcher_hunting>
+  <character.lavathresher>Гидротермальный акулий тигр</character.lavathresher>
+  <character.legacycharybdis>Древняя харибда</character.legacycharybdis>
+  <character.legacycrawler>Креветка</character.legacycrawler>
+  <character.legacyendworm>Гигантский изопод</character.legacyendworm>
+  <character.legacyfractalguardian>Фрактальный страж</character.legacyfractalguardian>
+  <character.legacyfractalguardian2>Фрактальный страж</character.legacyfractalguardian2>
+  <Character.lionthresher>Морской лев</Character.lionthresher>
+  <character.lurker>Скрытень</character.lurker>
+  <character.magmalarva>Магмовая личинка</character.magmalarva>
+  <character.magmaworm>Магмачервь</character.magmaworm>
+  <character.mantisnew>Богомол</character.mantisnew>
+  <character.Mantisbig>Большой богомол</character.Mantisbig>
+  <character.mechflora>Механоид</character.mechflora>
+  <character.mechflorathalamus>Механоид-таламус</character.mechflorathalamus>
+  <character.mine>Мина</character.mine>
+  <character.minedetached>Мина</character.minedetached>
+  <character.minedetachedmission>Мина</character.minedetachedmission>
+  <character.minemission>Мина</character.minemission>
+  <character.minesmall>Мина</character.minesmall>
+  <character.minesmallmission>Мина</character.minesmallmission>
+  <character.minoga>Минога</character.minoga>
+  <character.molochmagma>Магмовый молох</character.molochmagma>
+  <character.molochold>Старый молох</character.molochold>
+  <character.moloch_nuclear>Радиоактивный молох</character.moloch_nuclear>
+  <character.Mudbouncer>Грязевик</character.Mudbouncer>
+  <character.muddragon>Грязевой дракон</character.muddragon>
+  <character.mudraptorgray>Серый грязевой раптор</character.mudraptorgray>
+  <character.Mudraptorrandom>Грязевой раптор</character.Mudraptorrandom>
+  <character.mudraptor_hatchling>Детёныш грязевого раптора</character.mudraptor_hatchling>
+  <character.mudraptor_unarmored>Неокрепший грязевой раптор</character.mudraptor_unarmored>
+  <character.mudraptor_veteran>Грязевой раптор-ветеран</character.mudraptor_veteran>
+  <character.mudraptor_veteran2>Грязевой раптор-ветеран</character.mudraptor_veteran2>
+  <character.mudraptor_veteranold>Грязевой раптор</character.mudraptor_veteranold>
+  <character.Mudraptor_faraday>Грязевой раптор</character.Mudraptor_faraday>
+  <character.Mudraptor_nasonov>Грязевой раптор</character.Mudraptor_nasonov>
+  <character.Mudraptor_sky>Грязевой раптор</character.Mudraptor_sky>
+  <character.Mudraptor_psychosis>Грязевой раптор</character.Mudraptor_psychosis>
+  <character.Mudraptor_thermal>Грязевой раптор</character.Mudraptor_thermal>
+  <character.Mudraptor_watcher>Грязевой раптор</character.Mudraptor_watcher>
+  <character.Mudraptor_spineling>Грязевой раптор</character.Mudraptor_spineling>
+  <character.nightraptor>Ночной раптор</character.nightraptor>
+  <character.nuclearmine>Ядерная мина</character.nuclearmine>
+  <character.observer>Диббук</character.observer>
+  <character.paralyticshark>Парализатор</character.paralyticshark>
+  <character.Pirafish>Пиранья</character.Pirafish>
+  <character.plantskeleton>Скелет</character.plantskeleton>
+  <character.plantworm>Аскарида</character.plantworm>
+  <character.praywhale>Поющий кит</character.praywhale>
+  <character.praywhalebaby>Детёныш поющего кита</character.praywhalebaby>
+  <character.praywhalemineral>Поющий кит</character.praywhalemineral>
+  <character.psilotoadmonster>Мутировавшая псиложаба</character.psilotoadmonster>
+  <character.pylon>Опора</character.pylon>
+  <character.Punkfish>Иглобрюх</character.Punkfish>
+  <character.Punkfishhusk>Иглобрюх-хаск</character.Punkfishhusk>
+  <character.railgunshell>Cамонаводящийся снаряд</character.railgunshell>
+  <character.razzershrimp_kse>Королевская креветка</character.razzershrimp_kse>
+  <character.Ravager>Опустошитель</character.Ravager>
+  <character.Redfish>Красная рыба</character.Redfish>
+  <character.rockworm>Каменный червь</character.rockworm>
+  <character.scorpion>Скорпион</character.scorpion>
+  <character.seasnek>Хрящевик</character.seasnek>
+  <character.seasnekbiter>Кровопускатель</character.seasnekbiter>
+  <character.seaurchin>Морской ёж</character.seaurchin>
+  <character.seaurchinqueen>Матка морского ёжа</character.seaurchinqueen>
+  <character.Sentinel>Страж</character.Sentinel>
+  <character.shadowleech>Тёмный кровосос</character.shadowleech>
+  <character.shadowwhale>Чёрный скат</character.shadowwhale>
+  <character.shrimpbrut_kse>Чудовищная креветка</character.shrimpbrut_kse>
+  <character.Shroomjelly>Студень</character.Shroomjelly>
+  <character.silverhammerhead>Серебристый молотоглав</character.silverhammerhead>
+  <character.skrimsl>Глубоководный</character.skrimsl>
+  <character.Skeletonfish>Костистая рыба</character.Skeletonfish>
+  <character.spineling_electric>Гигантский электрический шипостай</character.spineling_electric>
+  <character.spineling_hard>Шипостай</character.spineling_hard>
+  <character.SpinelingEMP>Шипостай</character.SpinelingEMP>
+  <character.SpinelingFire>Шипостай</character.SpinelingFire>
+  <character.Spinelingrandom>Шипостай</character.Spinelingrandom>
+  <character.stalker>Полтергейст</character.stalker>
+  <character.stonewanderercrystal>Кристаллизировавшаяся каракатица</character.stonewanderercrystal>
+  <character.stonewanderercrystallarge>Огромная кристаллизировавшаяся каракатица</character.stonewanderercrystallarge>
+  <character.stonewandererice>Ледяная каракатица</character.stonewandererice>
+  <character.stonewanderericelarge>Огромная ледяная каракатица</character.stonewanderericelarge>
+  <character.stonewandererlava>Вулканическая каракатица</character.stonewandererlava>
+  <character.stonewandererlavalarge>Огромная вулканическая каракатица</character.stonewandererlavalarge>
+  <character.Suffering>Истязаемый</character.Suffering>
+  <character.thalamid>Таламид</character.thalamid>
+  <character.thalamuscarrier>Странствующий таламус</character.thalamuscarrier>
+  <character.thalamusk>Зомби</character.thalamusk>
+  <character.thalamusksuitbomber>Зомби</character.thalamusksuitbomber>
+  <character.thermaleel>Огромный хребеточник</character.thermaleel>
+  <character.thrasher>Зубастик</character.thrasher>
+  <character.Thrasherhusk>Зубастик-хаск</character.Thrasherhusk>
+  <character.tigersharkthresher>Барракуда</character.tigersharkthresher>
+  <character.Teleglitch>Электрическая аномалия</character.Teleglitch>
+  <character.Teleglitch_paranormal>???</character.Teleglitch_paranormal>
+  <character.trichordate>Тринога</character.trichordate>
+  <character.trichordatebloodsucker>Тринога-кровосос</character.trichordatebloodsucker>
+  <character.trichordatemetalvore>Тринога-металлогрыз</character.trichordatemetalvore>
+  <character.trichordatevitriolic>Токсичная тринога</character.trichordatevitriolic>
+  <character.tuluwild>Мутировавший Ктулу</character.tuluwild>
+  <character.turretcarrier>Ожившее корабельное орудие</character.turretcarrier>
+  <character.turretcarrierchaingun>Ожившее корабельное орудие</character.turretcarrierchaingun>
+  <character.turretcarriercoil>Ожившее корабельное орудие</character.turretcarriercoil>
+  <character.turretcarrierdoublecoil>Ожившее корабельное орудие</character.turretcarrierdoublecoil>
+  <character.turretcarrierflak>Ожившее корабельное орудие</character.turretcarrierflak>
+  <character.turretcarrierpulselaser>Ожившее корабельное орудие</character.turretcarrierpulselaser>
+  <character.turretcarrierrail>Ожившее корабельное орудие</character.turretcarrierrail>
+  <character.Toothfish>Зубастик</character.Toothfish>
+  <character.twin>Фрактальный уничтожитель</character.twin>
+  <character.undying>Бессмертный</character.undying>
+  <character.undyingfaraday>Бессмертный</character.undyingfaraday>
+  <character.undyingthermal>Бессмертный</character.undyingthermal>
+  <character.Voidfish>Рыба бездны</character.Voidfish>
+  <character.Hullfishhusk>Рыба-хаск бездны</character.Hullfishhusk>
+  <character.voidleviathan>Левиафан бездны</character.voidleviathan>
+  <character.voidstalker>Охотник бездны</character.voidstalker>
+  <character.Voidleech>Кровосос бездны</character.Voidleech>
+  <character.Watcheralpha>Шипастый наблюдатель</character.Watcheralpha>
+  <character.watcherold>Наблюдатель</character.watcherold>
+  <character.watcherwanderer>Тёмный наблюдатель</character.watcherwanderer>
+  <character.wastecrawler>Грязный ползун</character.wastecrawler>
+  <character.wastetigerthresher>Грязный акулий тигр</character.wastetigerthresher>
+  <character.wastebonethresher>Грязный костяной акулий тигр</character.wastebonethresher>
+  <character.wastemantis>Грязный богомол</character.wastemantis>
+  <character.Wasteskeleton>Окровавленный скелет</character.Wasteskeleton>
+  <character.whitefish>Рыба-альбинос</character.whitefish>
+  <character.wolfeel>Морской волк</character.wolfeel>
+  <character.Wreckdemon>Шагающая груда металла</character.Wreckdemon>
+  <character.xan_scavenger>Мусорщик</character.xan_scavenger>
+  <character.Xanothresher>Сбежавший ксенообразец</character.Xanothresher>
+  <!--     Перевод от Router    -->
+</infotext>

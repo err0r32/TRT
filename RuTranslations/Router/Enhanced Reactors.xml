@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Display Names -->
+  <displayname.uraniumbased>[itemname] (Уран)</displayname.uraniumbased>
+  <displayname.thoriumbased>[itemname] (Торий)</displayname.thoriumbased>
+  <displayname.fulguriumbased>[itemname] (Кусок грозовия)</displayname.fulguriumbased>
+  <displayname.volatilefulguriumbased>[itemname] (Нестабильный кусок грозовия)</displayname.volatilefulguriumbased>
+  <!-- Items -->
+  <entityname.deconshower>Фильтрационный душ</entityname.deconshower>
+  <entitydescription.deconshower>Обеззараживает пользователя и автоматически отключается по окончанию очистки. Для работы требуется деконсол.</entitydescription.deconshower>
+  <entityname.hazmatsuit1>Костюм химзащиты</entityname.hazmatsuit1>
+  <entitydescription.hazmatsuit1>Оборудование, необходимое при работе с топливными стержнями, реакторами и радиоактивными материалами.\nТребуется кислородный баллон.\nНе защищает от давления!</entitydescription.hazmatsuit1>
+  <entityname.hazmatsuit2>Костюм химзащиты (Устойчивый к давлению)</entityname.hazmatsuit2>
+  <entitydescription.hazmatsuit2>Улучшенный костюм химзащиты.\nАдаптирован для защиты от давления воды на глубине до 6600 м за счёт некоторой потери радиационной защиты.</entitydescription.hazmatsuit2>
+  <entityname.fuelrodtongs>Щипцы для топливных стержней</entityname.fuelrodtongs>
+  <entitydescription.fuelrodtongs>Оборудование, необходимое для перемещения использованных топливных стержней, не обжигая рук. Может храниться на поясе.</entitydescription.fuelrodtongs>
+  <entityname.geigercounter>Счётчик Гейгера</entityname.geigercounter>
+  <entitydescription.geigercounter>Оборудование для обнаружения радиоактивного излучения. Может использоваться в меню здоровья.</entitydescription.geigercounter>
+  <entityname.fuelrodcrate>Ящик для топливных стержней</entityname.fuelrodcrate>
+  <entitydescription.fuelrodcrate>Безопасно хранит до 8-ми топливных стержней и предотвращает облучение ими окружающей среды.</entitydescription.fuelrodcrate>
+  <entityname.fuelrodcrateshelf>Полка для ящиков с топливными стержнями</entityname.fuelrodcrateshelf>
+  <entitydescription.fuelrodcrateshelf>Вмещает в себя до 2-х ящиков с топливными стержнями.</entitydescription.fuelrodcrateshelf>
+  <entityname.potassiumiodidetablets>Таблетки йодида калия</entityname.potassiumiodidetablets>
+  <entitydescription.potassiumiodidetablets>Лёгкая защита вашего тела от радиации, полезная в качестве меры предосторожности от кратковременного неминуемого облучения. Помогает при лечении небольших доз радиации.</entitydescription.potassiumiodidetablets>
+  <entityname.activatedcarbontablets>Таблетки активированного угля</entityname.activatedcarbontablets>
+  <entitydescription.activatedcarbontablets>Используется для лечения небольших доз отравления и радиации, бесполезно при сильном облучении. Чрезмерное употребление может быть вредным!</entitydescription.activatedcarbontablets>
+  <entityname.radioactivematcrate>Ящик для радиоактивных материалов</entityname.radioactivematcrate>
+  <entitydescription.radioactivematcrate>Может безопасно хранить до 9 стаков радиоактивных минералов.</entitydescription.radioactivematcrate>
+  <entityname.radioactivematcontainer>Контейнер для радиоактивных материалов</entityname.radioactivematcontainer>
+  <entitydescription.radioactivematcontainer>Может безопасно хранить до 6 стаков радиоактивных минералов.</entitydescription.radioactivematcontainer>
+  <entityname.nuclearcartridge>Ядерный картридж</entityname.nuclearcartridge>
+  <entitydescription.nuclearcartridge>Магазин для ядерного оружия.</entitydescription.nuclearcartridge>
+  <entityname.deconsoltank>Деконсол</entityname.deconsoltank>
+  <entitydescription.deconsoltank>Дезактивирующий раствор. Необходимо распылить на заражённого человека с помощью распылителя.</entitydescription.deconsoltank>
+  <entityname.emptyfuelrod>Пустой топливный стержень</entityname.emptyfuelrod>
+  <entitydescription.emptyfuelrod>Израсходованный топливный стержень. Он все ещё излучает изрядное количество тепла и радиации.</entitydescription.emptyfuelrod>
+  <!-- Afflictions -->
+  <afflictionname.radiationresistance>Стойкость к радиации</afflictionname.radiationresistance>
+  <afflictiondescription.radiationresistance>Вы более устойчивы к радиации, однако у вас нет к ней иммунитета!</afflictiondescription.radiationresistance>
+  <afflictiondescription.radiationresistance.others>У пациента выработалась достаточная устойчивость к радиации.</afflictiondescription.radiationresistance.others>
+  <afflictionname.contaminated>Облучен</afflictionname.contaminated>
+  <afflictiondescription.contaminated>Пациент медленно облучает окружающую его область. Лучше заняться лечением пораньше, иначе проблем потом будет больше.</afflictiondescription.contaminated>
+  <afflictiondescription.contaminated.high>Пациент сильно облучен и представляет огромную опасность для здоровья окружающих. Рекомендуется соблюдать осторожность при лечении!</afflictiondescription.contaminated.high>
+  <afflictioncauseofdeath.contaminated>Смерть от лучевой болезни</afflictioncauseofdeath.contaminated>
+  <afflictioncauseofdeathself.contaminated>Вы умерли от лучевой болезни</afflictioncauseofdeathself.contaminated>
+  <afflictionname.overheating>Риск теплового удара</afflictionname.overheating>
+  <afflictiondescription.overheating.self>Вы сильно вспотели. Окружающий воздух слишком горячий. Лучше не задерживаться здесь надолго!</afflictiondescription.overheating.self>
+  <afflictiondescription.overheating>Пациент сильно потеет! Ему следует покинуть помещение и остыть.</afflictiondescription.overheating>
+  <afflictioncauseofdeath.overheating>Смерть от теплового удара</afflictioncauseofdeath.overheating>
+  <afflictioncauseofdeathself.overheating>Вы умерли от теплового удара</afflictioncauseofdeathself.overheating>
+  <!--   Перевод от Router  -->
+</infotexts>

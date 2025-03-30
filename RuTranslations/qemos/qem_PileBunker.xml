@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" translatedname="Русский" nowhitespace="false">
+  <entityname.pilebunker>Свайный бункер</entityname.pilebunker>
+  <entitydescription.pilebunker>Промышленная крупнокалиберная клепальная пушка, модифицированная громоздкое оружие ближнего боя. Вбивает в цель стальную сваю с помощью заряда взрывчатки, смертельна для большинства существ.</entitydescription.pilebunker>
+  <entityname.pilecharge>Снаряд свайного бункера</entityname.pilecharge>
+  <entitydescription.pilecharge>Взрывчатка, заключенная в тяжелую стальную капсулу. Используется в качестве взрывчатого вещества для бункера.</entitydescription.pilecharge>
+</infotexts>

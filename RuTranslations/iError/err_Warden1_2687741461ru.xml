@@ -1,218 +1,218 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
- <jobname.wardenabyssmod>Страж</jobname.wardenabyssmod>
- <jobdescription.wardenabyssmod>Жизнь в Европе смертельна, надзиратели принимают это и тренируются в боевых машинах. Сосредоточено на использовании Б.Е.З.Д.Н.А. вооружение, предназначенное для уничтожения монстров, и харизма, вдохновляющая войска, страж никогда не отступит от боя. Независимо от опасности или размера.</jobdescription.wardenabyssmod>
- <entityname.warsuitrlegendaryfull>Элитный боевой костюм Б.Е.З.Д.Н.А.</entityname.warsuitrlegendaryfull>
- <entitydescription.warsuitrlegendaryfull>Рецепт, известный немногим, с использованием экспериментальных отходов, затерянных по всей Европе, и предназначенный для личной охраны основателя. Эта версия позволяет пользователю использовать дополнительный B-стержень для получения дополнительных преимуществ и устанавливать морфин в костюм для автоинъекций. Обратите внимание, что бонусы от стержней одного типа не суммируются.</entitydescription.warsuitrlegendaryfull>
- <entityname.titansuitlegendary>Элитный боевой костюм Т.И.Т.А.Н.</entityname.titansuitlegendary>
- <entitydescription.titansuitlegendary>Костюм, способный бросить вызов любой глубине и танго с чем угодно. Использует экспериментальные схемы, найденные вокруг множества затонувших кораблей в Европе. Говорят, что только определенная группа людей способна их идентифицировать. Эта версия увеличивает сопротивление физическому урону и кровотечению, добавляет сканер здоровья и имеет более высокую скорость на суше.</entitydescription.titansuitlegendary>
- <entityname.warsuitrlegendary>Часть элитного боевого костюма (Тело) Б.Е.З.Д.Н.А</entityname.warsuitrlegendary>
- <entitydescription.warsuitrlegendary>Рецепт, известный немногим, с использованием экспериментальных отходов, затерянных по всей Европе, и предназначенный для личной охраны основателя. Эта версия позволяет пользователю использовать дополнительный B-стержень для получения дополнительных преимуществ и устанавливать морфин в костюм для автоинъекций. Обратите внимание, что бонусы от стержней одного типа не суммируются.</entitydescription.warsuitrlegendary>
- <entityname.warsuithrlegendary>Часть элитного боевого костюма (Шлем) Б.Е.З.Д.Н.А</entityname.warsuithrlegendary>
- <entitydescription.warsuithrlegendary>Рецепт, известный немногим, с использованием экспериментальных отходов, затерянных по всей Европе, и предназначенный для личной охраны основателя. Эта версия позволяет пользователю использовать дополнительный B-стержень для получения дополнительных преимуществ и устанавливать морфин в костюм для автоинъекций. Обратите внимание, что бонусы от стержней одного типа не суммируются.</entitydescription.warsuithrlegendary>
- <entityname.pride_crawler>Зуб ползуна (Трофей)</entityname.pride_crawler>
- <entitydescription.pride_crawler>Удивительно поверить, что эта маленькая штука может прогрызть корпус.</entitydescription.pride_crawler>
- <entityname.pride_crawler_decoration>Миниатюрный Ползун</entityname.pride_crawler_decoration>
- <entitydescription.pride_crawler_decoration>Миниатюра в масштабе, с настоящими зубами ползуна!</entitydescription.pride_crawler_decoration>
- <entityname.pride_mudraptor>Голова Мудраптора (Трофей)</entityname.pride_mudraptor>
- <entitydescription.pride_mudraptor>Без покрытия выглядит довольно некрасиво, не так ли?</entitydescription.pride_mudraptor>
- <entityname.pride_mudraptor_decoration>Миниатюрный Мудраптор</entityname.pride_mudraptor_decoration>
- <entitydescription.pride_mudraptor_decoration>Миниатюра в масштабе, с настоящей кожей и глазами!</entitydescription.pride_mudraptor_decoration>
- <entityname.pride_guardian>Ядро стражника-надзирателя (Трофей)</entityname.pride_guardian>
- <entitydescription.pride_guardian>Используется для усиления стража... Я думаю.</entitydescription.pride_guardian>
- <entityname.pride_guardian_decoration>Миниатюрный страж</entityname.pride_guardian_decoration>
- <entitydescription.pride_guardian_decoration>Миниатюра в масштабе, с настоящими инопланетными металлами от настоящего Хранителя!</entitydescription.pride_guardian_decoration>
- <entityname.pride_tiger>Челюсть тигровой акулы (Трофей)</entityname.pride_tiger>
- <entitydescription.pride_tiger>Полная челюсть тигровой акулы. Несмотря на то, что он побит, его зубы все еще очень острые.</entitydescription.pride_tiger>
- <entityname.pride_tiger_decoration>Миниатюрный Тигровоя акула</entityname.pride_tiger_decoration>
- <entitydescription.pride_tiger_decoration>Миниатюра в масштабе, с настоящими острыми зубами!</entitydescription.pride_tiger_decoration>
- <entityname.pride_bonet>Череп костолома (Трофей)</entityname.pride_bonet>
- <entitydescription.pride_bonet>Так... они все еще молотилки с экзоскелетом? Как происходит эта эволюция...</entitydescription.pride_bonet>
- <entityname.pride_bonet_decoration>Миниатюрный Костолом</entityname.pride_bonet_decoration>
- <entitydescription.pride_bonet_decoration>Миниатюра в масштабе, из настоящей кости!</entitydescription.pride_bonet_decoration>
- <entityname.pride_hammer1>Голова Молотоголава (Трофей)</entityname.pride_hammer1>
- <entitydescription.pride_hammer1>Если принять "биться головой о стену" в буквальном значении, то теперь все ясно</entitydescription.pride_hammer1>
- <entityname.pride_hammer1_decoration>Миниатюрный Молотоглав</entityname.pride_hammer1_decoration>
- <entitydescription.pride_hammer1_decoration>Миниатюра в масштабе, с настоящей отделкой панциря!</entitydescription.pride_hammer1_decoration>
- <entityname.pride_hammer2>Голова Золотого Молотоголава (Трофей)</entityname.pride_hammer2>
- <entitydescription.pride_hammer2>После дальнейшей проверки это на самом деле не золото. Моё разочарование безмерно...</entitydescription.pride_hammer2>
- <entityname.pride_hammer2_decoration>Миниатюрный Золотой Молотглав</entityname.pride_hammer2_decoration>
- <entitydescription.pride_hammer2_decoration>Миниатюра в масштабе, с настоящей отделкой панциря!</entitydescription.pride_hammer2_decoration>
- <entityname.pride_hammerm>Плавники Матриарха-Молотглава (Трофей)</entityname.pride_hammerm>
- <entitydescription.pride_hammerm>Небольшая часть головы уцелела после взрыва, но эти плавники уникальны и очень мягки на ощупь.</entitydescription.pride_hammerm>
- <entityname.pride_hammerm_decoration>Миниатюрный Матриарх</entityname.pride_hammerm_decoration>
- <entitydescription.pride_hammerm_decoration>Миниатюра в масштабе, с настоящими плавниками!</entitydescription.pride_hammerm_decoration>
- <entityname.pride_moloch>Боковая лопасть Молоха (Трофей)</entityname.pride_moloch>
- <entitydescription.pride_moloch>Несколько трудно ее извлечь. Он мягкий, но сильно растягивается.</entitydescription.pride_moloch>
- <entityname.pride_moloch_decoration>Миниатюрный Молох</entityname.pride_moloch_decoration>
- <entitydescription.pride_moloch_decoration>Миниатюра в масштабе, если это назвать миниатюрой, то есть. С настоящими частями мозга!</entitydescription.pride_moloch_decoration>
- <entityname.pride_watcher>Сетчатка наблюдателя (Трофей)</entityname.pride_watcher>
- <entitydescription.pride_watcher>Не смотри... Не смотри... Не смотри... Может, просто глянь.</entitydescription.pride_watcher>
- <entityname.pride_watcher_decoration>Миниатюрный наблюдатель</entityname.pride_watcher_decoration>
- <entitydescription.pride_watcher_decoration>Миниатюра в масштабе, с искренним глазом!</entitydescription.pride_watcher_decoration>
- <entityname.pride_charyb>Линия зубов Харибды (Трофей)</entityname.pride_charyb>
- <entitydescription.pride_charyb>Итак... Это кровь других существ или... Мне нужно сдать анализы.</entitydescription.pride_charyb>
- <entityname.pride_charyb_decoration>Миниатюрная Харибда</entityname.pride_charyb_decoration>
- <entitydescription.pride_charyb_decoration>Миниатюра в масштабе (50%), с настоящими зубами. Настоящий трофей, достойный внимания! (Если у вас есть комната для этого)</entitydescription.pride_charyb_decoration>
- <entityname.pride_end>Клык Червя рока (Трофей)</entityname.pride_end>
- <entitydescription.pride_end>Ха! Кто сейчас крупнее рыбы!... Энгельсты - рыбы? Является ли ядерное оружие и химическая война обманом? Мы никогда не узнаем.</entitydescription.pride_end>
- <entityname.pride_end_decoration>Миниатюрный Червь Рока</entityname.pride_end_decoration>
- <entitydescription.pride_end_decoration>Миниатюра в масштабе (50%), с настоящими клыками. Настоящий трофей, достойный внимания! (Если у вас есть комната)</entitydescription.pride_end_decoration>
- <entityname.legendaryscrap>Экспериментальный лом</entityname.legendaryscrap>
- <entityname.legendarycircuit>Экспериментальная схема</entityname.legendarycircuit>
- <entitydescription.legendaryscrap>Назвать это "ломом" - значит преуменьшить. Он очень прочный и не выглядит окисленным. Возможно, он для чего-то пригодится или будет ценен для скупщика.</entitydescription.legendaryscrap>
- <entitydescription.legendarycircuit>Эта схема, похоже, была сильно повреждена. Возможно, она где-то пригодится или её можно будет продать с прибылью.</entitydescription.legendarycircuit>
- <entityname.conscriptionpapers>Документы о призыве на военную службу</entityname.conscriptionpapers>
- <entitydescription.conscriptionpapers>Пропаганда, вдохновляющие цитаты и немного мелочей. Эти документы должны придать кому-то уверенность в возможности раскрыть свой скрытый потенциал. Менее эффективен при использовании на себе.</entitydescription.conscriptionpapers>
- <entityname.talentfixbook>Книга талантов: подводная война</entityname.talentfixbook>
- <entitydescription.talentfixbook>Прочтите книгу и узнайте лишь небольшую часть потенциала стража.</entitydescription.talentfixbook>
- <entityname.supplybox>Коробка поставки</entityname.supplybox>
- <entitydescription.supplybox>За ваши усилия анонимные люди собрали кое-какие припасы и сунули их вам в карман. Содержит некоторые медицинские предметы и боеприпасы.</entitydescription.supplybox>
- <entityname.pride_generic1>Коготь монстра</entityname.pride_generic1>
- <entitydescription.pride_generic1>Маленький острый коготь. Можно продать или использовать для изготовления трофея.</entitydescription.pride_generic1>
- <entityname.pride_generic2>Оболочка монстра</entityname.pride_generic2>
- <entitydescription.pride_generic2>Мощный экзоскелет. Можно продать или использовать для изготовления трофея.</entitydescription.pride_generic2>
- <entityname.pride_generic3>Кожа монстра</entityname.pride_generic3>
- <entitydescription.pride_generic3>Мягкая, но прочная кожа. Можно продать или использовать для изготовления трофея.</entitydescription.pride_generic3>
- <entityname.sealedsupplybox>Герметичный ящик с поставками</entityname.sealedsupplybox>
- <entitydescription.sealedsupplybox>На крышке имеется большая надпись: «Герметично запечатано, для открытия используйте пилу на деконструкторе. Не используйте содержимое, если пломба была нарушена до приобретения».</entitydescription.sealedsupplybox>
- <entityname.wardenmodlight>Наряд Стража</entityname.wardenmodlight>
- <entitydescription.wardenmodlight>Легкая баллистическая броня. Имеет подсумки для хранения боеприпасов, а также надежную защиту.</entitydescription.wardenmodlight>
- <entityname.wardenmodarmor>Бронированный костюм стража</entityname.wardenmodarmor>
- <entitydescription.wardenmodarmor>Бронированная версия костюма стража, в которой мешочки принесены в жертву дополнительным пластинам.</entitydescription.wardenmodarmor>
- <entityname.wardenbelt>Ремень стража</entityname.wardenbelt>
- <entitydescription.wardenbelt>Ремень стража, который иногда упускают из виду, является очень важным инструментом в арсенале стража. Это позволяет им хранить множество мелких предметов и любые трофеи, которые они могут получить на поле битвы. Достаточно большой, чтобы его можно было использовать поверх гидрокостюмов.</entitydescription.wardenbelt>
- <entityname.wardenmaskab>Маска Стража</entityname.wardenmaskab>
- <entitydescription.wardenmaskab>Хотя в хорошем шлеме нет ничего плохого, дресс-код надзирателей предпочитает эстетику маски. Возможно, это глупая идея, когда в тебя стреляют.</entitydescription.wardenmaskab>
- <entityname.pride_chunkomeat>Кусок мяса монстра</entityname.pride_chunkomeat>
- <entitydescription.pride_chunkomeat>Кусок мяса монстра. Я не думаю, что это съедобно, но внутри может быть что-то полезное. Деконструктор может это раскрыть.</entitydescription.pride_chunkomeat>
- <afflictionname.wardenprotection>присутствие начальника</afflictionname.wardenprotection>
- <afflictiondescription.wardenprotection>Страж защищает своих союзников и убеждает их, что надежда еще не потеряна.</afflictiondescription.wardenprotection>
- <afflictionname.wardenreviveresis>Еще не умер</afflictionname.wardenreviveresis>
- <afflictiondescription.wardenreviveresis>Палата все еще нуждается в тебе...</afflictiondescription.wardenreviveresis>
- <afflictionname.wardenexausted>Измученный</afflictionname.wardenexausted>
- <afflictiondescription.wardenexausted>Твои травмы все еще остаются с тобой.</afflictiondescription.wardenexausted>
- <afflictionname.wardenspeedincrease>Жажда смерти</afflictionname.wardenspeedincrease>
- <afflictiondescription.wardenspeedincrease>А теперь, когда они бегут, преследуйте.</afflictiondescription.wardenspeedincrease>
- <afflictionname.wardenwingman>Вдохновленный долгом</afflictionname.wardenwingman>
- <afflictiondescription.wardenwingman>Боевой дух начальника заразителен. Двигайтесь и ремонтируйте быстрее.</afflictiondescription.wardenwingman>
- <afflictionname.inspiredtokill>В наступлении</afflictionname.inspiredtokill>
- <afflictiondescription.inspiredtokill>Надзиратель хочет, чтобы вы убили. Вы ответите на звонок?</afflictiondescription.inspiredtokill>
- <afflictionname.wardenprotection>Взгляд стража</afflictionname.wardenprotection>
- <afflictiondescription.wardenprotection>Одного присутствия стража достаточно, чтобы вселить страх в сердца монстров. И вы можете услышать, как они трепещут перед мощью стража.</afflictiondescription.wardenprotection>
- <afflictionname.vigorousassault>Линия огня</afflictionname.vigorousassault>
- <afflictiondescription.vigorousassault>Страж постоянно сообщает вам об уязвимостях противника, благодаря чему вам будет легче поразить критически важные области и нанести больше урона.</afflictiondescription.vigorousassault>
- <afflictionname.rodpsychosisbuff>Б-Стержень Устойчивость к психозу</afflictionname.rodpsychosisbuff>
- <afflictiondescription.rodpsychosisbuff>Костюм активировал систему распознавания. Позволяя вам осознать то, что реально.</afflictiondescription.rodpsychosisbuff>
- <afflictionname.rodspeedbuff>Увеличение скорости Б-Стрежней</afflictionname.rodspeedbuff>
- <afflictiondescription.rodspeedbuff>Через сервоприводы костюма проходит больше энергии, что снижает их крутящий момент без каких-либо последствий.</afflictiondescription.rodspeedbuff>
- <afflictionname.rodresistancebuff>Защита от Б-Стержня</afflictionname.rodresistancebuff>
- <afflictiondescription.rodresistancebuff>Костюм активировал контактные демпферы, снижающие эффективность любого поступающего удара.</afflictiondescription.rodresistancebuff>
- <afflictionname.rodparalisisbuff>Сопротивление параличу Б-Стержень</afflictionname.rodparalisisbuff>
- <afflictiondescription.rodparalisisbuff>Костюм постоянно стимулирует ваши мышцы, обеспечивая их постоянную реакцию.</afflictiondescription.rodparalisisbuff>
- <entityname.idcard_warden>Удостоверение личности</entityname.idcard_warden>
- <entitydescription.idcard_warden>Обеспечивает ограниченный доступ к областям сабвуфера.</entitydescription.idcard_warden>
- <talenttree.warden_paragon>Совершенство</talenttree.warden_paragon>
- <talenttree.warden_enforcer>Инфорсер</talenttree.warden_enforcer>
- <talenttree.warden_hunter>Охотник</talenttree.warden_hunter>
- <talentname.warden_core1>Тренировка на выносливость</talentname.warden_core1>
- <talentdescription.warden_core1>Увеличьте свое максимальное здоровье на [percentage].</talentdescription.warden_core1>
- <talentname.warden_core2>Программа Протекторада</talentname.warden_core2>
- <talentdescription.warden_core2>Выберите работу, чтобы зарегистрироваться в программе Протекторад. Это дает вам бонусы, специфичные для выбранного класса.</talentdescription.warden_core2>
- <talentname.warden_core2_Security>Процедуры безопасности</talentname.warden_core2_Security>
- <talentdescription.warden_core2_Security>Изучите путь стражей. Увеличьте скорострельность на [percentage] и оружие на [number].</talentdescription.warden_core2_Security>
- <talentname.warden_core2_Medic>Курсы первой помощи</talentname.warden_core2_Medic>
- <talentdescription.warden_core2_Medic>Запишитесь на курсы первой помощи. Повысьте свою медицинскую эффективность на других на [percentage] и медицинскую на [number]</talentdescription.warden_core2_Medic>
- <talentname.warden_core2_Engineer>Электрический класс</talentname.warden_core2_Engineer>
- <talentdescription.warden_core2_Engineer>Пройдите новейшие курсы по электрике. Увеличьте скорость ремонта на [percentage] и электрическую на [number]</talentdescription.warden_core2_Engineer>
- <talentname.warden_core2_Mechanic>Механический разум</talentname.warden_core2_Mechanic>
- <talentdescription.warden_core2_Mechanic>Всегда держите под рукой чертежи подводной лодки. Увеличьте скорость ремонта корпуса на [percentage] и механического ремонта на [number].</talentdescription.warden_core2_Mechanic>
- <talentname.warden_core2_Captain>Тень капитана</talentname.warden_core2_Captain>
- <talentdescription.warden_core2_Captain>Станьте заместителем капитана. Во время пилотирования увеличьте максимальную мощность двигателя на [percentage] и руль на [number].</talentdescription.warden_core2_Captain>
- <talentname.warden_core3>Ветеранство</talentname.warden_core3>
- <talentdescription.warden_core3>Увеличьте свой личный опыт, получаемый за выполнение миссий, на [percentage].</talentdescription.warden_core3>
- <talentdescription.warden_core3_2>Когда кто-либо из членов экипажа [kill] существо, Вы получаете [xp]. Чем крупнее добыча...</talentdescription.warden_core3_2>
- <talentname.warden_core4>Тир</talentname.warden_core4>
- <talentdescription.warden_core4>Оружие, которое вы создаете, имеет качество [number].</talentdescription.warden_core4>
- <talentdescription.warden_core4_2>Увеличьте минимальное количество [xp] опыта, получаемого за убийство любого существа, на [amount].</talentdescription.warden_core4_2>
- <talentname.warden_second1>Боевые шрамы</talentname.warden_second1>
- <talentdescription.warden_second1>Увеличивает сопротивление оглушению на [percentage]</talentdescription.warden_second1>
- <talentname.warden_second2>Расхититель гробниц</talentname.warden_second2>
- <talentdescription.warden_second2>При открытии контейнеров с пришельцами есть [chance1] шанс найти дополнительные предметы.</talentdescription.warden_second2>
- <talentdescription.warden_second2_1>Инкубаторы пришельцев имеют более высокий выход [chance2].</talentdescription.warden_second2_1>
- <talentname.warden_second3>Второй скин</talentname.warden_second3>
- <talentdescription.warden_second3>Двигайтесь на [percentage] быстрее, надевая любой водолазный костюм.</talentdescription.warden_second3>
- <talentname.warden_second4>амфибия</talentname.warden_second4>
- <talentdescription.warden_second4>Задержите дыхание на [percentage] дольше, чем другие</talentdescription.warden_second4>
- <talentname.warden_second5>Подводная война</talentname.warden_second5>
- <talentdescription.warden_second5>Во время плавания продвигайтесь вперед, нажимая клавишу рэгдолла.</talentdescription.warden_second5>
- <talentname.warden_second6>Скрепленный</talentname.warden_second6>
- <talentdescription.warden_second6>Получите [percentage] сопротивления потоку воды.</talentdescription.warden_second6>
- <talentname.warden_second7>Диплом стрелкового тира</talentname.warden_second7>
- <talentdescription.warden_second7>Увеличивает точность использования всего оружия на [percentage] при приседании.</talentdescription.warden_second7>
- <talentname.warden_bp1>Чертежи: арсенал коалиции</talentname.warden_bp1>
- <talentdescription.warden_bp1>Разблокируйте возможность создавать стандартное вооружение коалиции.</talentdescription.warden_bp1>
- <talentname.warden_bp2>Чертежи: Оружейная Бездны</talentname.warden_bp2>
- <talentdescription.warden_bp2>Разблокируйте возможность создавать стандартное оружие стража.</talentdescription.warden_bp2>
- <talentname.warden_bp3>Чертежи: Б.Е.З.Д.Н.А. Боевой костюм</talentname.warden_bp3>
- <talentdescription.warden_bp3>Разблокируйте возможность создать фирменный водолазный костюм подопечного и его стандартный аккумулятор.</talentdescription.warden_bp3>
- <talentname.warden_bp4>Чертежи: Т.И.Т.А.Н. Боевой костюм</talentname.warden_bp4>
- <talentdescription.warden_bp4>Разблокируйте возможность построить мощный набор ТИТАН и оболочку нейротоксина.</talentdescription.warden_bp4>
- <talentname.warden_bp5>Чертежи: специализированные аккумуляторные стержни</talentname.warden_bp5>
- <talentdescription.warden_bp5>Разблокируйте возможность создавать разнообразные B-стержни.</talentdescription.warden_bp5>
- <talentname.warden_bp6>Чертежи: снаряжение Стража</talentname.warden_bp6>
- <talentdescription.warden_bp6>Разблокируйте возможность создавать новейшие модные модели для стражей.</talentdescription.warden_bp6>
- <talentdescription.findlegscrap>Найдите [item] среди затонувших кораблей ([chance] шанс).</talentdescription.findlegscrap>
- <talentdescription.findlegcirc>Найти [item] среди затонувших кораблей ([chance] шанс)</talentdescription.findlegcirc>
- <talentname.REPLACE>ЗАМЕНИТЬ</talentname.REPLACE>
- <talentdescription.REPLACE>ЗАМЕНИТЬ</talentdescription.REPLACE>
- <talentdescription.2bonustalents>[greendesc]</talentdescription.2bonustalents>
- <talentname.warden_para1>Падение поставок</talentname.warden_para1>
- <talentdescription.warden_para1>Получите один [item] за каждую пройденную веху:</talentdescription.warden_para1>
- <talentdescription.warden_para1_1>-Завершите хотя бы [1mis].</talentdescription.warden_para1_1>
- <talentdescription.warden_para1_2>- Завершите [amis] без кого-либо из вашей команды [ded].</talentdescription.warden_para1_2>
- <talentdescription.warden_para1_3>-Ваша команда убила всего [num] существ.</talentdescription.warden_para1_3>
- <talentdescription.warden_para1_4>[condition]</talentdescription.warden_para1_4>
- <talentname.warden_para2>оплот</talentname.warden_para2>
- <talentdescription.warden_para2>Члены вашего экипажа получают сопротивление урону на [percentage1]. Вместо этого ваши подопечные получают [percentage2].</talentdescription.warden_para2>
- <talentname.warden_para3>Специалист по костюмам</talentname.warden_para3>
- <talentdescription.warden_para3>Ношение любого водолазного костюма увеличивает вашу физическую защиту на [percentage]</talentdescription.warden_para3>
- <talentname.warden_para4>Сильная воля</talentname.warden_para4>
- <talentdescription.warden_para4>Ношение любого водолазного костюма увеличивает вашу устойчивость к психозу на [percentage]</talentdescription.warden_para4>
- <talentname.warden_para5>Ортопедические инструменты</talentname.warden_para5>
- <talentdescription.warden_para5>Находясь в воде, двигайтесь на [percentage1] быстрее. Находясь на суше, ваш урон в ближнем и дальнем бою увеличивается на [percentage2].</talentdescription.warden_para5>
- <talentname.warden_para6>Стальное сердце</talentname.warden_para6>
- <talentdescription.warden_para6>Вы и ваши протеже получаете [percentage] сопротивления налогу жнецов. Когда вы впервые потеряете сознание, вы восстановите полное здоровье, но получите налог жнеца. Может произойти только один раз за раунд.</talentdescription.warden_para6>
- <talentname.warden_enf1>Учения по защите</talentname.warden_enf1>
- <talentdescription.warden_enf1>Ваши подопечные получают [percentage] сопротивления физическому урону.</talentdescription.warden_enf1>
- <talentname.warden_enf2>Расстрельная команда</talentname.warden_enf2>
- <talentdescription.warden_enf2>Ваша команда получает [percentage1] скорости стрельбы и ближнего боя. Вместо этого ваши подопечные получают [percentage2].</talentdescription.warden_enf2>
- <talentname.warden_enf3>Ударная сила</talentname.warden_enf3>
- <talentdescription.warden_enf3>При ношении любого водолазного костюма ваша сила атаки в ближнем бою увеличивается на [percentage].</talentdescription.warden_enf3>
- <talentname.warden_enf4>Стрельба</talentname.warden_enf4>
- <talentdescription.warden_enf4>Наносимые вами рваные раны увеличиваются на [percentage1], а огнестрельные ранения [percentage2], но весь ваш урон от кровотечения уменьшается на [percentage3]</talentdescription.warden_enf4>
- <talentname.warden_enf5>Концентрированные взрывы</talentname.warden_enf5>
- <talentdescription.warden_enf5>Увеличьте урон от взрывов на [percentage1], но уменьшите их радиус на [percentage2].</talentdescription.warden_enf5>
- <talentname.warden_enf6>Х отмечает сердце</talentname.warden_enf6>
- <talentdescription.warden_enf6>Ваши атаки, не связанные с турелями, имеют [random] шанс нанести [crit] дополнительный урон. Против [levis] урон вашей турели увеличивается на [dmglevtur], а урон от другого оружия увеличивается на [ballsofsteel].</talentdescription.warden_enf6>
- <talentdescription.wardenlevi>[levis] — существа, обитающие в бездне. Затронутые существа: [wormboi], [charybpal], [cyka].</talentdescription.wardenlevi>
- <talentname.warden_end1>Медленный поток</talentname.warden_end1>
- <talentdescription.warden_end1>Получите [percentage] сопротивления кровотечению. Находясь в [drinkit], увеличьте это значение еще на [percentage]</talentdescription.warden_end1>
- <talentname.warden_end2>Полевое исправление</talentname.warden_end2>
- <talentdescription.warden_end2>Приседая, медленно залечиваете физические травмы ([rate])</talentdescription.warden_end2>
- <talentname.warden_end3>Контроль дыхания</talentname.warden_end3>
- <talentdescription.warden_end3>Приседая, восстанавливайте кровь быстрее ([rate])</talentdescription.warden_end3>
- <talentname.warden_end4>Лечебный</talentname.warden_end4>
- <talentdescription.warden_end4>Получите [percentage] устойчивости к радиации, токсинам и передозировке.</talentdescription.warden_end4>
- <talentname.warden_end5>Привитый</talentname.warden_end5>
- <talentdescription.warden_end5>Получите [percentage] сопротивления шелухе и параличу.</talentdescription.warden_end5>
- <talentname.warden_end6>Морской охотник</talentname.warden_end6>
- <talentdescription.warden_end6>Пока здоровье ниже [percentage1], убийства существ исцеляют вас на [number] за каждую полученную вами уникальную физическую травму. Здоровье ближайших левиафанов уменьшено на [percentage2]</talentdescription.warden_end6>
- <locationname.wardencity>Сторожить</locationname.wardencity>
- <locationnameformat.wardencity>[name]</locationnameformat.wardencity>
- <locationnameformat.wardencity>Подопечный [name]</locationnameformat.wardencity>
- <locationnameformat.wardencity>[name] Уорд</locationnameformat.wardencity>
- <locationnameformat.wardencity>[name] Охранная станция</locationnameformat.wardencity>
- <locationname.outpost>Жилая застава</locationname.outpost>
+  <jobname.wardenabyssmod>Страж</jobname.wardenabyssmod>
+  <jobdescription.wardenabyssmod>Жизнь в Европе смертельна, надзиратели принимают это и тренируются в боевых машинах. Сосредоточено на использовании Б.Е.З.Д.Н.А. вооружение, предназначенное для уничтожения монстров, и харизма, вдохновляющая войска, страж никогда не отступит от боя. Независимо от опасности или размера.</jobdescription.wardenabyssmod>
+  <entityname.warsuitrlegendaryfull>Элитный боевой костюм Б.Е.З.Д.Н.А.</entityname.warsuitrlegendaryfull>
+  <entitydescription.warsuitrlegendaryfull>Рецепт, известный немногим, с использованием экспериментальных отходов, затерянных по всей Европе, и предназначенный для личной охраны основателя. Эта версия позволяет пользователю использовать дополнительный B-стержень для получения дополнительных преимуществ и устанавливать морфин в костюм для автоинъекций. Обратите внимание, что бонусы от стержней одного типа не суммируются.</entitydescription.warsuitrlegendaryfull>
+  <entityname.titansuitlegendary>Элитный боевой костюм Т.И.Т.А.Н.</entityname.titansuitlegendary>
+  <entitydescription.titansuitlegendary>Костюм, способный бросить вызов любой глубине и танго с чем угодно. Использует экспериментальные схемы, найденные вокруг множества затонувших кораблей в Европе. Говорят, что только определенная группа людей способна их идентифицировать. Эта версия увеличивает сопротивление физическому урону и кровотечению, добавляет сканер здоровья и имеет более высокую скорость на суше.</entitydescription.titansuitlegendary>
+  <entityname.warsuitrlegendary>Часть элитного боевого костюма (Тело) Б.Е.З.Д.Н.А</entityname.warsuitrlegendary>
+  <entitydescription.warsuitrlegendary>Рецепт, известный немногим, с использованием экспериментальных отходов, затерянных по всей Европе, и предназначенный для личной охраны основателя. Эта версия позволяет пользователю использовать дополнительный B-стержень для получения дополнительных преимуществ и устанавливать морфин в костюм для автоинъекций. Обратите внимание, что бонусы от стержней одного типа не суммируются.</entitydescription.warsuitrlegendary>
+  <entityname.warsuithrlegendary>Часть элитного боевого костюма (Шлем) Б.Е.З.Д.Н.А</entityname.warsuithrlegendary>
+  <entitydescription.warsuithrlegendary>Рецепт, известный немногим, с использованием экспериментальных отходов, затерянных по всей Европе, и предназначенный для личной охраны основателя. Эта версия позволяет пользователю использовать дополнительный B-стержень для получения дополнительных преимуществ и устанавливать морфин в костюм для автоинъекций. Обратите внимание, что бонусы от стержней одного типа не суммируются.</entitydescription.warsuithrlegendary>
+  <entityname.pride_crawler>Зуб ползуна (Трофей)</entityname.pride_crawler>
+  <entitydescription.pride_crawler>Удивительно поверить, что эта маленькая штука может прогрызть корпус.</entitydescription.pride_crawler>
+  <entityname.pride_crawler_decoration>Миниатюрный Ползун</entityname.pride_crawler_decoration>
+  <entitydescription.pride_crawler_decoration>Миниатюра в масштабе, с настоящими зубами ползуна!</entitydescription.pride_crawler_decoration>
+  <entityname.pride_mudraptor>Голова Мудраптора (Трофей)</entityname.pride_mudraptor>
+  <entitydescription.pride_mudraptor>Без покрытия выглядит довольно некрасиво, не так ли?</entitydescription.pride_mudraptor>
+  <entityname.pride_mudraptor_decoration>Миниатюрный Мудраптор</entityname.pride_mudraptor_decoration>
+  <entitydescription.pride_mudraptor_decoration>Миниатюра в масштабе, с настоящей кожей и глазами!</entitydescription.pride_mudraptor_decoration>
+  <entityname.pride_guardian>Ядро стражника-надзирателя (Трофей)</entityname.pride_guardian>
+  <entitydescription.pride_guardian>Используется для усиления стража... Я думаю.</entitydescription.pride_guardian>
+  <entityname.pride_guardian_decoration>Миниатюрный страж</entityname.pride_guardian_decoration>
+  <entitydescription.pride_guardian_decoration>Миниатюра в масштабе, с настоящими инопланетными металлами от настоящего Хранителя!</entitydescription.pride_guardian_decoration>
+  <entityname.pride_tiger>Челюсть тигровой акулы (Трофей)</entityname.pride_tiger>
+  <entitydescription.pride_tiger>Полная челюсть тигровой акулы. Несмотря на то, что он побит, его зубы все еще очень острые.</entitydescription.pride_tiger>
+  <entityname.pride_tiger_decoration>Миниатюрный Тигровоя акула</entityname.pride_tiger_decoration>
+  <entitydescription.pride_tiger_decoration>Миниатюра в масштабе, с настоящими острыми зубами!</entitydescription.pride_tiger_decoration>
+  <entityname.pride_bonet>Череп костолома (Трофей)</entityname.pride_bonet>
+  <entitydescription.pride_bonet>Так... они все еще молотилки с экзоскелетом? Как происходит эта эволюция...</entitydescription.pride_bonet>
+  <entityname.pride_bonet_decoration>Миниатюрный Костолом</entityname.pride_bonet_decoration>
+  <entitydescription.pride_bonet_decoration>Миниатюра в масштабе, из настоящей кости!</entitydescription.pride_bonet_decoration>
+  <entityname.pride_hammer1>Голова Молотоголава (Трофей)</entityname.pride_hammer1>
+  <entitydescription.pride_hammer1>Если принять "биться головой о стену" в буквальном значении, то теперь все ясно</entitydescription.pride_hammer1>
+  <entityname.pride_hammer1_decoration>Миниатюрный Молотоглав</entityname.pride_hammer1_decoration>
+  <entitydescription.pride_hammer1_decoration>Миниатюра в масштабе, с настоящей отделкой панциря!</entitydescription.pride_hammer1_decoration>
+  <entityname.pride_hammer2>Голова Золотого Молотоголава (Трофей)</entityname.pride_hammer2>
+  <entitydescription.pride_hammer2>После дальнейшей проверки это на самом деле не золото. Моё разочарование безмерно...</entitydescription.pride_hammer2>
+  <entityname.pride_hammer2_decoration>Миниатюрный Золотой Молотглав</entityname.pride_hammer2_decoration>
+  <entitydescription.pride_hammer2_decoration>Миниатюра в масштабе, с настоящей отделкой панциря!</entitydescription.pride_hammer2_decoration>
+  <entityname.pride_hammerm>Плавники Матриарха-Молотглава (Трофей)</entityname.pride_hammerm>
+  <entitydescription.pride_hammerm>Небольшая часть головы уцелела после взрыва, но эти плавники уникальны и очень мягки на ощупь.</entitydescription.pride_hammerm>
+  <entityname.pride_hammerm_decoration>Миниатюрный Матриарх</entityname.pride_hammerm_decoration>
+  <entitydescription.pride_hammerm_decoration>Миниатюра в масштабе, с настоящими плавниками!</entitydescription.pride_hammerm_decoration>
+  <entityname.pride_moloch>Боковая лопасть Молоха (Трофей)</entityname.pride_moloch>
+  <entitydescription.pride_moloch>Несколько трудно ее извлечь. Он мягкий, но сильно растягивается.</entitydescription.pride_moloch>
+  <entityname.pride_moloch_decoration>Миниатюрный Молох</entityname.pride_moloch_decoration>
+  <entitydescription.pride_moloch_decoration>Миниатюра в масштабе, если это назвать миниатюрой, то есть. С настоящими частями мозга!</entitydescription.pride_moloch_decoration>
+  <entityname.pride_watcher>Сетчатка наблюдателя (Трофей)</entityname.pride_watcher>
+  <entitydescription.pride_watcher>Не смотри... Не смотри... Не смотри... Может, просто глянь.</entitydescription.pride_watcher>
+  <entityname.pride_watcher_decoration>Миниатюрный наблюдатель</entityname.pride_watcher_decoration>
+  <entitydescription.pride_watcher_decoration>Миниатюра в масштабе, с искренним глазом!</entitydescription.pride_watcher_decoration>
+  <entityname.pride_charyb>Линия зубов Харибды (Трофей)</entityname.pride_charyb>
+  <entitydescription.pride_charyb>Итак... Это кровь других существ или... Мне нужно сдать анализы.</entitydescription.pride_charyb>
+  <entityname.pride_charyb_decoration>Миниатюрная Харибда</entityname.pride_charyb_decoration>
+  <entitydescription.pride_charyb_decoration>Миниатюра в масштабе (50%), с настоящими зубами. Настоящий трофей, достойный внимания! (Если у вас есть комната для этого)</entitydescription.pride_charyb_decoration>
+  <entityname.pride_end>Клык Червя рока (Трофей)</entityname.pride_end>
+  <entitydescription.pride_end>Ха! Кто сейчас крупнее рыбы!... Энгельсты - рыбы? Является ли ядерное оружие и химическая война обманом? Мы никогда не узнаем.</entitydescription.pride_end>
+  <entityname.pride_end_decoration>Миниатюрный Червь Рока</entityname.pride_end_decoration>
+  <entitydescription.pride_end_decoration>Миниатюра в масштабе (50%), с настоящими клыками. Настоящий трофей, достойный внимания! (Если у вас есть комната)</entitydescription.pride_end_decoration>
+  <entityname.legendaryscrap>Экспериментальный лом</entityname.legendaryscrap>
+  <entityname.legendarycircuit>Экспериментальная схема</entityname.legendarycircuit>
+  <entitydescription.legendaryscrap>Назвать это "ломом" - значит преуменьшить. Он очень прочный и не выглядит окисленным. Возможно, он для чего-то пригодится или будет ценен для скупщика.</entitydescription.legendaryscrap>
+  <entitydescription.legendarycircuit>Эта схема, похоже, была сильно повреждена. Возможно, она где-то пригодится или её можно будет продать с прибылью.</entitydescription.legendarycircuit>
+  <entityname.conscriptionpapers>Документы о призыве на военную службу</entityname.conscriptionpapers>
+  <entitydescription.conscriptionpapers>Пропаганда, вдохновляющие цитаты и немного мелочей. Эти документы должны придать кому-то уверенность в возможности раскрыть свой скрытый потенциал. Менее эффективен при использовании на себе.</entitydescription.conscriptionpapers>
+  <entityname.talentfixbook>Книга талантов: подводная война</entityname.talentfixbook>
+  <entitydescription.talentfixbook>Прочтите книгу и узнайте лишь небольшую часть потенциала стража.</entitydescription.talentfixbook>
+  <entityname.supplybox>Коробка поставки</entityname.supplybox>
+  <entitydescription.supplybox>За ваши усилия анонимные люди собрали кое-какие припасы и сунули их вам в карман. Содержит некоторые медицинские предметы и боеприпасы.</entitydescription.supplybox>
+  <entityname.pride_generic1>Коготь монстра</entityname.pride_generic1>
+  <entitydescription.pride_generic1>Маленький острый коготь. Можно продать или использовать для изготовления трофея.</entitydescription.pride_generic1>
+  <entityname.pride_generic2>Оболочка монстра</entityname.pride_generic2>
+  <entitydescription.pride_generic2>Мощный экзоскелет. Можно продать или использовать для изготовления трофея.</entitydescription.pride_generic2>
+  <entityname.pride_generic3>Кожа монстра</entityname.pride_generic3>
+  <entitydescription.pride_generic3>Мягкая, но прочная кожа. Можно продать или использовать для изготовления трофея.</entitydescription.pride_generic3>
+  <entityname.sealedsupplybox>Герметичный ящик с поставками</entityname.sealedsupplybox>
+  <entitydescription.sealedsupplybox>На крышке имеется большая надпись: «Герметично запечатано, для открытия используйте пилу на деконструкторе. Не используйте содержимое, если пломба была нарушена до приобретения».</entitydescription.sealedsupplybox>
+  <entityname.wardenmodlight>Наряд Стража</entityname.wardenmodlight>
+  <entitydescription.wardenmodlight>Легкая баллистическая броня. Имеет подсумки для хранения боеприпасов, а также надежную защиту.</entitydescription.wardenmodlight>
+  <entityname.wardenmodarmor>Бронированный костюм стража</entityname.wardenmodarmor>
+  <entitydescription.wardenmodarmor>Бронированная версия костюма стража, в которой мешочки принесены в жертву дополнительным пластинам.</entitydescription.wardenmodarmor>
+  <entityname.wardenbelt>Ремень стража</entityname.wardenbelt>
+  <entitydescription.wardenbelt>Ремень стража, который иногда упускают из виду, является очень важным инструментом в арсенале стража. Это позволяет им хранить множество мелких предметов и любые трофеи, которые они могут получить на поле битвы. Достаточно большой, чтобы его можно было использовать поверх гидрокостюмов.</entitydescription.wardenbelt>
+  <entityname.wardenmaskab>Маска Стража</entityname.wardenmaskab>
+  <entitydescription.wardenmaskab>Хотя в хорошем шлеме нет ничего плохого, дресс-код надзирателей предпочитает эстетику маски. Возможно, это глупая идея, когда в тебя стреляют.</entitydescription.wardenmaskab>
+  <entityname.pride_chunkomeat>Кусок мяса монстра</entityname.pride_chunkomeat>
+  <entitydescription.pride_chunkomeat>Кусок мяса монстра. Я не думаю, что это съедобно, но внутри может быть что-то полезное. Деконструктор может это раскрыть.</entitydescription.pride_chunkomeat>
+  <afflictionname.wardenprotection>присутствие начальника</afflictionname.wardenprotection>
+  <afflictiondescription.wardenprotection>Страж защищает своих союзников и убеждает их, что надежда еще не потеряна.</afflictiondescription.wardenprotection>
+  <afflictionname.wardenreviveresis>Еще не умер</afflictionname.wardenreviveresis>
+  <afflictiondescription.wardenreviveresis>Палата все еще нуждается в тебе...</afflictiondescription.wardenreviveresis>
+  <afflictionname.wardenexausted>Измученный</afflictionname.wardenexausted>
+  <afflictiondescription.wardenexausted>Твои травмы все еще остаются с тобой.</afflictiondescription.wardenexausted>
+  <afflictionname.wardenspeedincrease>Жажда смерти</afflictionname.wardenspeedincrease>
+  <afflictiondescription.wardenspeedincrease>А теперь, когда они бегут, преследуйте.</afflictiondescription.wardenspeedincrease>
+  <afflictionname.wardenwingman>Вдохновленный долгом</afflictionname.wardenwingman>
+  <afflictiondescription.wardenwingman>Боевой дух начальника заразителен. Двигайтесь и ремонтируйте быстрее.</afflictiondescription.wardenwingman>
+  <afflictionname.inspiredtokill>В наступлении</afflictionname.inspiredtokill>
+  <afflictiondescription.inspiredtokill>Надзиратель хочет, чтобы вы убили. Вы ответите на звонок?</afflictiondescription.inspiredtokill>
+  <afflictionname.wardenprotection>Взгляд стража</afflictionname.wardenprotection>
+  <afflictiondescription.wardenprotection>Одного присутствия стража достаточно, чтобы вселить страх в сердца монстров. И вы можете услышать, как они трепещут перед мощью стража.</afflictiondescription.wardenprotection>
+  <afflictionname.vigorousassault>Линия огня</afflictionname.vigorousassault>
+  <afflictiondescription.vigorousassault>Страж постоянно сообщает вам об уязвимостях противника, благодаря чему вам будет легче поразить критически важные области и нанести больше урона.</afflictiondescription.vigorousassault>
+  <afflictionname.rodpsychosisbuff>Б-Стержень Устойчивость к психозу</afflictionname.rodpsychosisbuff>
+  <afflictiondescription.rodpsychosisbuff>Костюм активировал систему распознавания. Позволяя вам осознать то, что реально.</afflictiondescription.rodpsychosisbuff>
+  <afflictionname.rodspeedbuff>Увеличение скорости Б-Стрежней</afflictionname.rodspeedbuff>
+  <afflictiondescription.rodspeedbuff>Через сервоприводы костюма проходит больше энергии, что снижает их крутящий момент без каких-либо последствий.</afflictiondescription.rodspeedbuff>
+  <afflictionname.rodresistancebuff>Защита от Б-Стержня</afflictionname.rodresistancebuff>
+  <afflictiondescription.rodresistancebuff>Костюм активировал контактные демпферы, снижающие эффективность любого поступающего удара.</afflictiondescription.rodresistancebuff>
+  <afflictionname.rodparalisisbuff>Сопротивление параличу Б-Стержень</afflictionname.rodparalisisbuff>
+  <afflictiondescription.rodparalisisbuff>Костюм постоянно стимулирует ваши мышцы, обеспечивая их постоянную реакцию.</afflictiondescription.rodparalisisbuff>
+  <entityname.idcard_warden>Удостоверение личности</entityname.idcard_warden>
+  <entitydescription.idcard_warden>Обеспечивает ограниченный доступ к областям сабвуфера.</entitydescription.idcard_warden>
+  <talenttree.warden_paragon>Совершенство</talenttree.warden_paragon>
+  <talenttree.warden_enforcer>Инфорсер</talenttree.warden_enforcer>
+  <talenttree.warden_hunter>Охотник</talenttree.warden_hunter>
+  <talentname.warden_core1>Тренировка на выносливость</talentname.warden_core1>
+  <talentdescription.warden_core1>Увеличьте свое максимальное здоровье на [percentage].</talentdescription.warden_core1>
+  <talentname.warden_core2>Программа Протекторада</talentname.warden_core2>
+  <talentdescription.warden_core2>Выберите работу, чтобы зарегистрироваться в программе Протекторад. Это дает вам бонусы, специфичные для выбранного класса.</talentdescription.warden_core2>
+  <talentname.warden_core2_Security>Процедуры безопасности</talentname.warden_core2_Security>
+  <talentdescription.warden_core2_Security>Изучите путь стражей. Увеличьте скорострельность на [percentage] и оружие на [number].</talentdescription.warden_core2_Security>
+  <talentname.warden_core2_Medic>Курсы первой помощи</talentname.warden_core2_Medic>
+  <talentdescription.warden_core2_Medic>Запишитесь на курсы первой помощи. Повысьте свою медицинскую эффективность на других на [percentage] и медицинскую на [number]</talentdescription.warden_core2_Medic>
+  <talentname.warden_core2_Engineer>Электрический класс</talentname.warden_core2_Engineer>
+  <talentdescription.warden_core2_Engineer>Пройдите новейшие курсы по электрике. Увеличьте скорость ремонта на [percentage] и электрическую на [number]</talentdescription.warden_core2_Engineer>
+  <talentname.warden_core2_Mechanic>Механический разум</talentname.warden_core2_Mechanic>
+  <talentdescription.warden_core2_Mechanic>Всегда держите под рукой чертежи подводной лодки. Увеличьте скорость ремонта корпуса на [percentage] и механического ремонта на [number].</talentdescription.warden_core2_Mechanic>
+  <talentname.warden_core2_Captain>Тень капитана</talentname.warden_core2_Captain>
+  <talentdescription.warden_core2_Captain>Станьте заместителем капитана. Во время пилотирования увеличьте максимальную мощность двигателя на [percentage] и руль на [number].</talentdescription.warden_core2_Captain>
+  <talentname.warden_core3>Ветеранство</talentname.warden_core3>
+  <talentdescription.warden_core3>Увеличьте свой личный опыт, получаемый за выполнение миссий, на [percentage].</talentdescription.warden_core3>
+  <talentdescription.warden_core3_2>Когда кто-либо из членов экипажа [kill] существо, Вы получаете [xp]. Чем крупнее добыча...</talentdescription.warden_core3_2>
+  <talentname.warden_core4>Тир</talentname.warden_core4>
+  <talentdescription.warden_core4>Оружие, которое вы создаете, имеет качество [number].</talentdescription.warden_core4>
+  <talentdescription.warden_core4_2>Увеличьте минимальное количество [xp] опыта, получаемого за убийство любого существа, на [amount].</talentdescription.warden_core4_2>
+  <talentname.warden_second1>Боевые шрамы</talentname.warden_second1>
+  <talentdescription.warden_second1>Увеличивает сопротивление оглушению на [percentage]</talentdescription.warden_second1>
+  <talentname.warden_second2>Расхититель гробниц</talentname.warden_second2>
+  <talentdescription.warden_second2>При открытии контейнеров с пришельцами есть [chance1] шанс найти дополнительные предметы.</talentdescription.warden_second2>
+  <talentdescription.warden_second2_1>Инкубаторы пришельцев имеют более высокий выход [chance2].</talentdescription.warden_second2_1>
+  <talentname.warden_second3>Второй скин</talentname.warden_second3>
+  <talentdescription.warden_second3>Двигайтесь на [percentage] быстрее, надевая любой водолазный костюм.</talentdescription.warden_second3>
+  <talentname.warden_second4>амфибия</talentname.warden_second4>
+  <talentdescription.warden_second4>Задержите дыхание на [percentage] дольше, чем другие</talentdescription.warden_second4>
+  <talentname.warden_second5>Подводная война</talentname.warden_second5>
+  <talentdescription.warden_second5>Во время плавания продвигайтесь вперед, нажимая клавишу рэгдолла.</talentdescription.warden_second5>
+  <talentname.warden_second6>Скрепленный</talentname.warden_second6>
+  <talentdescription.warden_second6>Получите [percentage] сопротивления потоку воды.</talentdescription.warden_second6>
+  <talentname.warden_second7>Диплом стрелкового тира</talentname.warden_second7>
+  <talentdescription.warden_second7>Увеличивает точность использования всего оружия на [percentage] при приседании.</talentdescription.warden_second7>
+  <talentname.warden_bp1>Чертежи: арсенал коалиции</talentname.warden_bp1>
+  <talentdescription.warden_bp1>Разблокируйте возможность создавать стандартное вооружение коалиции.</talentdescription.warden_bp1>
+  <talentname.warden_bp2>Чертежи: Оружейная Бездны</talentname.warden_bp2>
+  <talentdescription.warden_bp2>Разблокируйте возможность создавать стандартное оружие стража.</talentdescription.warden_bp2>
+  <talentname.warden_bp3>Чертежи: Б.Е.З.Д.Н.А. Боевой костюм</talentname.warden_bp3>
+  <talentdescription.warden_bp3>Разблокируйте возможность создать фирменный водолазный костюм подопечного и его стандартный аккумулятор.</talentdescription.warden_bp3>
+  <talentname.warden_bp4>Чертежи: Т.И.Т.А.Н. Боевой костюм</talentname.warden_bp4>
+  <talentdescription.warden_bp4>Разблокируйте возможность построить мощный набор ТИТАН и оболочку нейротоксина.</talentdescription.warden_bp4>
+  <talentname.warden_bp5>Чертежи: специализированные аккумуляторные стержни</talentname.warden_bp5>
+  <talentdescription.warden_bp5>Разблокируйте возможность создавать разнообразные B-стержни.</talentdescription.warden_bp5>
+  <talentname.warden_bp6>Чертежи: снаряжение Стража</talentname.warden_bp6>
+  <talentdescription.warden_bp6>Разблокируйте возможность создавать новейшие модные модели для стражей.</talentdescription.warden_bp6>
+  <talentdescription.findlegscrap>Найдите [item] среди затонувших кораблей ([chance] шанс).</talentdescription.findlegscrap>
+  <talentdescription.findlegcirc>Найти [item] среди затонувших кораблей ([chance] шанс)</talentdescription.findlegcirc>
+  <talentname.REPLACE>ЗАМЕНИТЬ</talentname.REPLACE>
+  <talentdescription.REPLACE>ЗАМЕНИТЬ</talentdescription.REPLACE>
+  <talentdescription.2bonustalents>[greendesc]</talentdescription.2bonustalents>
+  <talentname.warden_para1>Падение поставок</talentname.warden_para1>
+  <talentdescription.warden_para1>Получите один [item] за каждую пройденную веху:</talentdescription.warden_para1>
+  <talentdescription.warden_para1_1>-Завершите хотя бы [1mis].</talentdescription.warden_para1_1>
+  <talentdescription.warden_para1_2>- Завершите [amis] без кого-либо из вашей команды [ded].</talentdescription.warden_para1_2>
+  <talentdescription.warden_para1_3>-Ваша команда убила всего [num] существ.</talentdescription.warden_para1_3>
+  <talentdescription.warden_para1_4>[condition]</talentdescription.warden_para1_4>
+  <talentname.warden_para2>оплот</talentname.warden_para2>
+  <talentdescription.warden_para2>Члены вашего экипажа получают сопротивление урону на [percentage1]. Вместо этого ваши подопечные получают [percentage2].</talentdescription.warden_para2>
+  <talentname.warden_para3>Специалист по костюмам</talentname.warden_para3>
+  <talentdescription.warden_para3>Ношение любого водолазного костюма увеличивает вашу физическую защиту на [percentage]</talentdescription.warden_para3>
+  <talentname.warden_para4>Сильная воля</talentname.warden_para4>
+  <talentdescription.warden_para4>Ношение любого водолазного костюма увеличивает вашу устойчивость к психозу на [percentage]</talentdescription.warden_para4>
+  <talentname.warden_para5>Ортопедические инструменты</talentname.warden_para5>
+  <talentdescription.warden_para5>Находясь в воде, двигайтесь на [percentage1] быстрее. Находясь на суше, ваш урон в ближнем и дальнем бою увеличивается на [percentage2].</talentdescription.warden_para5>
+  <talentname.warden_para6>Стальное сердце</talentname.warden_para6>
+  <talentdescription.warden_para6>Вы и ваши протеже получаете [percentage] сопротивления налогу жнецов. Когда вы впервые потеряете сознание, вы восстановите полное здоровье, но получите налог жнеца. Может произойти только один раз за раунд.</talentdescription.warden_para6>
+  <talentname.warden_enf1>Учения по защите</talentname.warden_enf1>
+  <talentdescription.warden_enf1>Ваши подопечные получают [percentage] сопротивления физическому урону.</talentdescription.warden_enf1>
+  <talentname.warden_enf2>Расстрельная команда</talentname.warden_enf2>
+  <talentdescription.warden_enf2>Ваша команда получает [percentage1] скорости стрельбы и ближнего боя. Вместо этого ваши подопечные получают [percentage2].</talentdescription.warden_enf2>
+  <talentname.warden_enf3>Ударная сила</talentname.warden_enf3>
+  <talentdescription.warden_enf3>При ношении любого водолазного костюма ваша сила атаки в ближнем бою увеличивается на [percentage].</talentdescription.warden_enf3>
+  <talentname.warden_enf4>Стрельба</talentname.warden_enf4>
+  <talentdescription.warden_enf4>Наносимые вами рваные раны увеличиваются на [percentage1], а огнестрельные ранения [percentage2], но весь ваш урон от кровотечения уменьшается на [percentage3]</talentdescription.warden_enf4>
+  <talentname.warden_enf5>Концентрированные взрывы</talentname.warden_enf5>
+  <talentdescription.warden_enf5>Увеличьте урон от взрывов на [percentage1], но уменьшите их радиус на [percentage2].</talentdescription.warden_enf5>
+  <talentname.warden_enf6>Х отмечает сердце</talentname.warden_enf6>
+  <talentdescription.warden_enf6>Ваши атаки, не связанные с турелями, имеют [random] шанс нанести [crit] дополнительный урон. Против [levis] урон вашей турели увеличивается на [dmglevtur], а урон от другого оружия увеличивается на [ballsofsteel].</talentdescription.warden_enf6>
+  <talentdescription.wardenlevi>[levis] — существа, обитающие в бездне. Затронутые существа: [wormboi], [charybpal], [cyka].</talentdescription.wardenlevi>
+  <talentname.warden_end1>Медленный поток</talentname.warden_end1>
+  <talentdescription.warden_end1>Получите [percentage] сопротивления кровотечению. Находясь в [drinkit], увеличьте это значение еще на [percentage]</talentdescription.warden_end1>
+  <talentname.warden_end2>Полевое исправление</talentname.warden_end2>
+  <talentdescription.warden_end2>Приседая, медленно залечиваете физические травмы ([rate])</talentdescription.warden_end2>
+  <talentname.warden_end3>Контроль дыхания</talentname.warden_end3>
+  <talentdescription.warden_end3>Приседая, восстанавливайте кровь быстрее ([rate])</talentdescription.warden_end3>
+  <talentname.warden_end4>Лечебный</talentname.warden_end4>
+  <talentdescription.warden_end4>Получите [percentage] устойчивости к радиации, токсинам и передозировке.</talentdescription.warden_end4>
+  <talentname.warden_end5>Привитый</talentname.warden_end5>
+  <talentdescription.warden_end5>Получите [percentage] сопротивления шелухе и параличу.</talentdescription.warden_end5>
+  <talentname.warden_end6>Морской охотник</talentname.warden_end6>
+  <talentdescription.warden_end6>Пока здоровье ниже [percentage1], убийства существ исцеляют вас на [number] за каждую полученную вами уникальную физическую травму. Здоровье ближайших левиафанов уменьшено на [percentage2]</talentdescription.warden_end6>
+  <locationname.wardencity>Сторожить</locationname.wardencity>
+  <locationnameformat.wardencity>[name]</locationnameformat.wardencity>
+  <locationnameformat.wardencity>Подопечный [name]</locationnameformat.wardencity>
+  <locationnameformat.wardencity>[name] Уорд</locationnameformat.wardencity>
+  <locationnameformat.wardencity>[name] Охранная станция</locationnameformat.wardencity>
+  <locationname.outpost>Жилая застава</locationname.outpost>
 </infotexts>
 <!-- Переводчик err0r32 (Илья)#7943 -->

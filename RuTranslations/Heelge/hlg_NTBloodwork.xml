@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
+  <entityname.bloodcultureominus>Культура клеток крови O-</entityname.bloodcultureominus>
+  <entitydescription.bloodcultureominus>Объедините с любой плазмой крови, чтобы получить пакет крови O-</entitydescription.bloodcultureominus>
+  <entityname.bloodcultureoplus>Культура клеток крови O+</entityname.bloodcultureoplus>
+  <entitydescription.bloodcultureoplus>Объедините с любой плазмой крови, чтобы получить пакет крови O+</entitydescription.bloodcultureoplus>
+  <entityname.bloodcultureabminus>Культура клеток крови AB-</entityname.bloodcultureabminus>
+  <entitydescription.bloodcultureabminus>Соедините с плазмой крови AB, чтобы получить пакет крови AB-</entitydescription.bloodcultureabminus>
+  <entityname.bloodcultureabplus>Культура клеток крови AB+</entityname.bloodcultureabplus>
+  <entitydescription.bloodcultureabplus>Соедините с плазмой крови AB, чтобы получить пакет крови AB+ </entitydescription.bloodcultureabplus>
+  <entityname.bloodcultureaminus>Культура клеток крови A-</entityname.bloodcultureaminus>
+  <entitydescription.bloodcultureaminus>Соедините с плазмой крови AB или A, чтобы получить пакет крови A-</entitydescription.bloodcultureaminus>
+  <entityname.bloodcultureaplus>Культура клеток крови A+</entityname.bloodcultureaplus>
+  <entitydescription.bloodcultureaplus>Соедините с плазмой крови AB или A, чтобы получить пакет крови A+</entitydescription.bloodcultureaplus>
+  <entityname.bloodculturebminus>Культура клеток крови B-</entityname.bloodculturebminus>
+  <entitydescription.bloodculturebminus>Соедините с плазмой крови AB или B, чтобы получить пакет крови B-</entitydescription.bloodculturebminus>
+  <entityname.bloodculturebplus>Культура клеток крови B+</entityname.bloodculturebplus>
+  <entitydescription.bloodculturebplus>Соедините с плазмой крови AB или B, чтобы получить пакет крови B+</entitydescription.bloodculturebplus>
+  <entityname.bloodplasmao>Плазма крови O</entityname.bloodplasmao>
+  <entitydescription.bloodplasmao>Совместим с культурами клеток крови и кровью O- и O+.\nИнфузии плазмы могут использоваться для лечения ожогов первой и второй степени, стабилизации pH крови и повышения кровяного давления, подобно раствору Рингера.\nОн также может временно предотвратить прогрессирование сепсиса, а также предотвратить нейротравму, возникающую в результате отказа печени.</entitydescription.bloodplasmao>
+  <entityname.bloodplasmaab>Плазма крови AB</entityname.bloodplasmaab>
+  <entitydescription.bloodplasmaab>Совместим со всеми культурами крови и клеток крови\nИнфузии плазмы могут использоваться для лечения ожогов первой и второй степени, стабилизации pH крови и повышения кровяного давления, подобно раствору Рингера.\nОн также может временно предотвратить прогрессирование сепсиса, а также предотвратить нейротравму, возникающую в результате отказа печени.</entitydescription.bloodplasmaab>
+  <entityname.bloodplasmaa>Плазма крови A</entityname.bloodplasmaa>
+  <entitydescription.bloodplasmaa>Совместим с культурами клеток крови и крови A-, A+, O- и O+.\nИнфузии плазмы могут использоваться для лечения ожогов первой и второй степени, стабилизации pH крови и повышения кровяного давления, подобно раствору Рингера.\nОн также может временно предотвратить прогрессирование сепсиса, а также предотвратить нейротравму, возникающую в результате отказа печени.</entitydescription.bloodplasmaa>
+  <entityname.bloodplasmab>Плазма крови B</entityname.bloodplasmab>
+  <entitydescription.bloodplasmab>Совместим с культурами крови и клеток крови B-, B+, O- и O+\nИнфузии плазмы могут использоваться для лечения ожогов первой и второй степени, стабилизации pH крови и повышения кровяного давления, подобно раствору Рингера.\nОн также может временно предотвратить прогрессирование сепсиса, а также предотвратить нейротравму, возникающую в результате отказа печени.</entitydescription.bloodplasmab>
+  <!-- Affliction -->
+  <afflictionname.afbloodplasma>Инфузия плазмы крови</afflictionname.afbloodplasma>
+</infotexts>

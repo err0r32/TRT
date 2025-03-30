@@ -184,6 +184,20 @@
   <missionheader0.tsmmission45>Это на самом деле грустная история</missionheader0.tsmmission45>
   <missionmessage0.tsmmission45>Цивилизация и история делают ее тяжелой</missionmessage0.tsmmission45>
   <missionsonarlabel.tsmmission45>Близнецы</missionsonarlabel.tsmmission45>
+  <!-- tsmmission46 -->
+  <missionname.tsmmission46>Взгляд на эклиптику</missionname.tsmmission46>
+  <missiondescription.tsmmission46>Занавес агрессии падает, когда летающие крылья превращаются в плавающих рыб. Они обитают в глубоких пещерах, как драконы, охраняющие свои сокровища, и взрываются, как гром. Это их королевство, и, желая сразиться за своего наследника, они начинают войну.</missiondescription.tsmmission46>
+  <missionsuccess.tsmmission46>Очень мощная армия</missionsuccess.tsmmission46>
+  <missionheader0.tsmmission46>лит. Конец зеленого кургана</missionheader0.tsmmission46>
+  <missionmessage0.tsmmission46>Победителем не обязательно становится тот, кто уважает жизнь, а настоящее гармоничное сосуществование невозможно. С последним громовым ударом хранители глубин пещеры также превращаются в пропитание этого моря, в конечном итоге не оставляя после себя ничего.</missionmessage0.tsmmission46>
+  <missionsonarlabel.tsmmission46>Эскиз</missionsonarlabel.tsmmission46>
+  <!-- tsmmission47 -->
+  <missionname.tsmmission47>Облачный сёрфер</missionname.tsmmission47>
+  <missiondescription.tsmmission47>Люди открыли новый вид рыбы, из-за ее спокойствия и расслабленности, плавающей в море, поза похожа на полет птицы сквозь облака, поэтому ее называют пронзающим китом. Пронзающий кит живет в пещерах, обычно послушен и безобиден, а его мясо слегка прожаренное, свежее и жирное, незабываемо вкусное, и его можно назвать золотой и нефритовой рубкой. Но его грубую силу нельзя недооценивать, испугавшись, пчелы поднимаются в атаку на пугающие их вещи, пытаются поймать рыбаков, часто убивают или ранят, поэтому мясо пронзающего кита является редким деликатесом, а богатые и влиятельные люди уже открыли за него головокружительно высокую цену. Неподалеку есть пещера панголинов, и если мы устраним угрозу, исходящую от панголинов и их яиц, рыбаки смогут без страха заходить туда и добывать их.</missiondescription.tsmmission47>
+  <missionsuccess.tsmmission47>Деньги - это ваша ложь.</missionsuccess.tsmmission47>
+  <missionheader0.tsmmission47>Кровавая баня</missionheader0.tsmmission47>
+  <missionmessage0.tsmmission47>Экипаж сделал снимок самой отвратительной стороны человечества, на котором запечатлено убийство расы ее виновниками .....</missionmessage0.tsmmission47>
+  <missionsonarlabel.tsmmission47>Кашалот</missionsonarlabel.tsmmission47>
   <!--站点-->
   <!-- tsmmission51 -->
   <missionname.tsmmission51>Живое затонувшее судно</missionname.tsmmission51>
@@ -206,26 +220,208 @@
   <missionheader0.tsmmission53>неизвестный под страхом</missionheader0.tsmmission53>
   <missionmessage0.tsmmission53>Под оболочкой нет души, но Богоматерь все еще там, и она продолжает напевать ...... </missionmessage0.tsmmission53>
   <missionsonarlabel.tsmmission53>Оболочка клоуна</missionsonarlabel.tsmmission53>
-  <!--name-->
+  <!-- tsmmission60 -->
+  <missionname.tsmmission60>Во имя справедливости для всех.</missionname.tsmmission60>
+  <missiondescription.tsmmission60>Море Чудес заблокировало судоходные пути между [location1] и [location2]. И в этот момент вы уже готовы отправиться в путь.</missiondescription.tsmmission60>
+  <missionsuccess.tsmmission60>Жизнь исчезает, как вода исчезает в воде.</missionsuccess.tsmmission60>
+  <missionheader0.tsmmission60>Не уходи нежно в эту спокойную ночь</missionheader0.tsmmission60>
+  <missionmessage0.tsmmission60>"Я видел вещи, в которые вы, люди, никогда не поверите. Я видел, как линкоры снова загораются на сегментах Ориона, и наблюдал, как С-лучи сияют во тьме Врат Дона Уайта. И все эти моменты в конце концов исчезают, как исчезает время... Как слезы, исчезающие в море".</missionmessage0.tsmmission60>
+  <missionsonarlabel.tsmmission60>HTC24-бирюзовый</missionsonarlabel.tsmmission60>
+  <missionname.tsmattack>Убийство в темноте ночи</missionname.tsmattack>
+  <missionheader0.tsmattack>Поехали. Правила боя: стрелять на поражение.</missionheader0.tsmattack>
+  <missionmessage0.tsmattack>В этом мире нет недостатка в смерти.</missionmessage0.tsmattack>
+  <!-- origin -->
+  <missionname.tsmmission_origin1>Поиск добычи: охота на червей Судного дня</missionname.tsmmission_origin1>
+  <missiondescription.tsmmission_origin1>В судоходном канале между [location1] и [location2] появился червь Судьбы, который преследует наш транспорт, и на этот раз за задание по уничтожению червя назначена награда [REWARD]mk!</missiondescription.tsmmission_origin1>
+  <missionsuccess.tsmmission_origin1>Миссия выполнена</missionsuccess.tsmmission_origin1>
+  <missionheader0.tsmmission_origin1>Охота окончена.</missionheader0.tsmmission_origin1>
+  <missionmessage0.tsmmission_origin1>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции.</missionmessage0.tsmmission_origin1>
+  <missionsonarlabel.tsmmission_origin1>цель вознаграждения</missionsonarlabel.tsmmission_origin1>
+  <missionname.tsmmission_origin2>Поиск добычи: Охота на баньши</missionname.tsmmission_origin2>
+  <missiondescription.tsmmission_origin2>Баньши захватила канал между [location1] и [location2] и постоянно досаждает близлежащим станциям и кораблям, поэтому мы предлагаем [reward]mk за голову баньши.</missiondescription.tsmmission_origin2>
+  <missionsuccess.tsmmission_origin2>Миссия выполнена</missionsuccess.tsmmission_origin2>
+  <missionheader0.tsmmission_origin2>Охота окончена.</missionheader0.tsmmission_origin2>
+  <missionmessage0.tsmmission_origin2>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции.</missionmessage0.tsmmission_origin2>
+  <missionsonarlabel.tsmmission_origin2>цель вознаграждения</missionsonarlabel.tsmmission_origin2>
+  <missionname.tsmmission_origin3>Задание: Охота на блокиратора</missionname.tsmmission_origin3>
+  <missiondescription.tsmmission_origin3>В этом канале есть инопланетный блокиратор, который захватил бездну, затрудняя добычу полезных ископаемых в бездне, поэтому мы обещаем награду [reward] mk, если кто-нибудь убьет это чудовище!</missiondescription.tsmmission_origin3>
+  <missionsuccess.tsmmission_origin3>Миссия выполнена</missionsuccess.tsmmission_origin3>
+  <missionheader0.tsmmission_origin3>Охота окончена.</missionheader0.tsmmission_origin3>
+  <missionmessage0.tsmmission_origin3>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции.</missionmessage0.tsmmission_origin3>
+  <missionsonarlabel.tsmmission_origin3>цель вознаграждения</missionsonarlabel.tsmmission_origin3>
+  <missionname.tsmmission_origin4>Миссия "Удовольствие": Охота на киберчервей</missionname.tsmmission_origin4>
+  <missiondescription.tsmmission_origin4>Наша команда исследователей Абиссаля работала, когда обнаружила поблизости сонарный сигнал, похожий на кибер-червя, поэтому они объявили награду, предложив [reward] mk убить этого кибер-червя, чтобы обеспечить безопасность исследователей бездны.</missiondescription.tsmmission_origin4>
+  <missionsuccess.tsmmission_origin4>Миссия выполнена</missionsuccess.tsmmission_origin4>
+  <missionheader0.tsmmission_origin4>Охота окончена.</missionheader0.tsmmission_origin4>
+  <missionmessage0.tsmmission_origin4>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, и мы продолжим наши исследования в бездне.</missionmessage0.tsmmission_origin4>
+  <missionsonarlabel.tsmmission_origin4>цель вознаграждения</missionsonarlabel.tsmmission_origin4>
+  <missionname.tsmmission_origin5>Квест: Охота на гигантские стаи шипохвостов</missionname.tsmmission_origin5>
+  <missiondescription.tsmmission_origin5>Суда в судоходных путях часто пропадали, и после выяснения причины было обнаружено, что группа гигантских шипов прибыла из других морей, чтобы стать их домом. Это представляет серьезную угрозу для безопасности наших судоходных путей, поэтому на этот раз мы нацелились на шипы.</missiondescription.tsmmission_origin5>
+  <missionsuccess.tsmmission_origin5>Миссия выполнена</missionsuccess.tsmmission_origin5>
+  <missionheader0.tsmmission_origin5>Охота окончена.</missionheader0.tsmmission_origin5>
+  <missionmessage0.tsmmission_origin5>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, и в морских путях снова воцарится спокойствие.</missionmessage0.tsmmission_origin5>
+  <missionsonarlabel.tsmmission_origin5>цель вознаграждения</missionsonarlabel.tsmmission_origin5>
+  <missionname.tsmmission_origin6>Квест: Охота на стаю ядовитых питонов</missionname.tsmmission_origin6>
+  <missiondescription.tsmmission_origin6>В нашу больницу внезапно поступила партия пациентов с отравлением от удушья. По словам спасших их членов экипажа, во время плавания на них напали ядовитые питоны, и ради всеобщей безопасности эти ядовитые питоны должны быть убиты.</missiondescription.tsmmission_origin6>
+  <missionsuccess.tsmmission_origin6>Миссия выполнена</missionsuccess.tsmmission_origin6>
+  <missionheader0.tsmmission_origin6>Охота окончена.</missionheader0.tsmmission_origin6>
+  <missionmessage0.tsmmission_origin6>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, и мы больше не будем задыхаться.</missionmessage0.tsmmission_origin6>
+  <missionsonarlabel.tsmmission_origin6>цель вознаграждения</missionsonarlabel.tsmmission_origin6>
+  <missionname.tsmmission_origin7>Миссия "Охота": Блокада Велоцираптора</missionname.tsmmission_origin7>
+  <missiondescription.tsmmission_origin7>Большое количество хищников преодолело безопасный судоходный путь и угрожает безопасности близлежащих станций, поэтому мы предлагаем [reward]mk набрать флот кораблей, которые смогут остановить эту стаю хищников.</missiondescription.tsmmission_origin7>
+  <missionsuccess.tsmmission_origin7>Миссия выполнена</missionsuccess.tsmmission_origin7>
+  <missionheader0.tsmmission_origin7>Охота окончена.</missionheader0.tsmmission_origin7>
+  <missionmessage0.tsmmission_origin7>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, блокада выполнена идеально!</missionmessage0.tsmmission_origin7>
+  <missionsonarlabel.tsmmission_origin7>цель вознаграждения</missionsonarlabel.tsmmission_origin7>
+  <missionname.tsmmission_origin8>Миссия "Охота": Уничтожение черного молоха</missionname.tsmmission_origin8>
+  <missiondescription.tsmmission_origin8>Группа недобросовестных членов экипажа убила несколько детенышей молохов, проходя через судоходные пути [location1] и [location2]. Теперь канал захватила группа черных молохов, и воинам не остается ничего другого, как призвать нас на помощь!</missiondescription.tsmmission_origin8>
+  <missionsuccess.tsmmission_origin8>Миссия выполнена</missionsuccess.tsmmission_origin8>
+  <missionheader0.tsmmission_origin8>Охота окончена.</missionheader0.tsmmission_origin8>
+  <missionmessage0.tsmmission_origin8>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, черные молохи все стерты с лица земли!</missionmessage0.tsmmission_origin8>
+  <missionsonarlabel.tsmmission_origin8>цель вознаграждения</missionsonarlabel.tsmmission_origin8>
+  <missionname.tsmmission_origin9>Миссия "Охота": Уничтожение колонии акульих тигров</missionname.tsmmission_origin9>
+  <missiondescription.tsmmission_origin9>В судоходных путях поселилась группа акульих извергов, которые нападают на ближайшие станции и уничтожают корабли. Несколько воинов уже отправлялись на борьбу с ними, но ни один не вернулся. Поэтому награду получат те корабли, которые успешно справились с акульей фурией и благополучно вернулись на следующую станцию.</missiondescription.tsmmission_origin9>
+  <missionsuccess.tsmmission_origin9>Миссия выполнена</missionsuccess.tsmmission_origin9>
+  <missionheader0.tsmmission_origin9>Охота окончена.</missionheader0.tsmmission_origin9>
+  <missionmessage0.tsmmission_origin9>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, а колония акульих тигров не избежала уничтожения.</missionmessage0.tsmmission_origin9>
+  <missionsonarlabel.tsmmission_origin9>цель вознаграждения</missionsonarlabel.tsmmission_origin9>
+  <missionname.tsmmission_origin10>Миссия "Охота": Пир пришельцев</missionname.tsmmission_origin10>
+  <missiondescription.tsmmission_origin10>Команда исследователей реликвий исследовала реликвию, когда случайно выпустила нескольких стражей руин, что вызвало серьезный инцидент с безопасностью, поэтому нам нужен кто-то, кто сделает это хорошо</missiondescription.tsmmission_origin10>
+  <missionsuccess.tsmmission_origin10>Миссия выполнена</missionsuccess.tsmmission_origin10>
+  <missionheader0.tsmmission_origin10>Охота окончена.</missionheader0.tsmmission_origin10>
+  <missionmessage0.tsmmission_origin10>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, но технически мы - инопланетяне!</missionmessage0.tsmmission_origin10>
+  <missionsonarlabel.tsmmission_origin10>цель вознаграждения</missionsonarlabel.tsmmission_origin10>
+  <missionname.tsmmission_origin11>Миссия "Охота": Варвары в пещере</missionname.tsmmission_origin11>
+  <missiondescription.tsmmission_origin11>На этот раз за него охотилась секта Крашеной кожи, в которой было несколько радикальных членов, ограбивших сундук секты Крашеной кожи, забрав особые яйца Крашеной кожи, и скрывшихся в пещере. Поэтому секте нужен кто-то, кто поможет очистить дверь и уничтожить ящики с крашеной кожей.</missiondescription.tsmmission_origin11>
+  <missionsuccess.tsmmission_origin11>Миссия выполнена</missionsuccess.tsmmission_origin11>
+  <missionheader0.tsmmission_origin11>Охота окончена.</missionheader0.tsmmission_origin11>
+  <missionmessage0.tsmmission_origin11>Поздравляем с завершением миссии. Награда будет отправлена на ваш счет, когда вы достигнете следующей станции, это сильное тело, низкий интеллект, является ли вознесение успехом или неудачей.</missionmessage0.tsmmission_origin11>
+  <missionsonarlabel.tsmmission_origin11>цель вознаграждения</missionsonarlabel.tsmmission_origin11>
+  <missionname.tsmmission_origin13>Транспортировка разлагающегося материала</missionname.tsmmission_origin13>
+  <missiondescription.tsmmission_origin13>В разложении находятся несколько коробок, которые очень нуждаются в отправке в [location2], внимание! У вас есть десять минут.</missiondescription.tsmmission_origin13>
+  <missionsuccess.tsmmission_origin13>лит. Шуньфэн Экспресс</missionsuccess.tsmmission_origin13>
+  <missionheader0.tsmmission_origin13>лит. Шуньфэн Экспресс</missionheader0.tsmmission_origin13>
+  <missionmessage0.tsmmission_origin13>гонка со смертью</missionmessage0.tsmmission_origin13>
+  <missionname.tsmmission_origin14>Доставка кожаных материалов</missionname.tsmmission_origin14>
+  <missiondescription.tsmmission_origin14>Богатый человек в [location2] заказал высокую кожу, которая очень ценна и не должна соприкасаться с водой, так как она портится при соприкосновении с водой, поэтому ее нужно перевозить осторожно.</missiondescription.tsmmission_origin14>
+  <missionsuccess.tsmmission_origin14>Качество и количество</missionsuccess.tsmmission_origin14>
+  <missionheader0.tsmmission_origin14>Лучшая курьерская служба</missionheader0.tsmmission_origin14>
+  <missionmessage0.tsmmission_origin14>Качество и количество</missionmessage0.tsmmission_origin14>
+  <missionname.tsmmission_origin15>Транспортировка пленных адвентистов</missionname.tsmmission_origin15>
+  <missiondescription.tsmmission_origin15>Море Чудес арестовало несколько членов Адвентистов и теперь должно доставить их на следующую станцию для допроса.</missiondescription.tsmmission_origin15>
+  <missionsuccess.tsmmission_origin15>Никто не пропал.</missionsuccess.tsmmission_origin15>
+  <missionheader0.tsmmission_origin15>Миссия выполнена</missionheader0.tsmmission_origin15>
+  <missionmessage0.tsmmission_origin15>Никто не пропал.</missionmessage0.tsmmission_origin15>
+  <missionname.tsmmission_origin16>Сокровища Шилоха</missionname.tsmmission_origin16>
+  <missiondescription.tsmmission_origin16>Таинственный человек поручает нам доставить посылку другому таинственному человеку, а также сообщает, что эта посылка - сокровища Шейлока (сокровища Шейлока, по слухам, могут разбиться на что угодно, но все зависит от удачи).</missiondescription.tsmmission_origin16>
+  <missionsuccess.tsmmission_origin16>честность превыше всего</missionsuccess.tsmmission_origin16>
+  <missionheader0.tsmmission_origin16>Миссия выполнена</missionheader0.tsmmission_origin16>
+  <missionmessage0.tsmmission_origin16>честность превыше всего</missionmessage0.tsmmission_origin16>
+  <missionname.tsmmission_origin17>Доставка материалов</missionname.tsmmission_origin17>
+  <missiondescription.tsmmission_origin17>Море Чудес поручило нам перевезти партию сырой руды.</missiondescription.tsmmission_origin17>
+  <missionsuccess.tsmmission_origin17>честность превыше всего</missionsuccess.tsmmission_origin17>
+  <missionheader0.tsmmission_origin17>Миссия выполнена</missionheader0.tsmmission_origin17>
+  <missionmessage0.tsmmission_origin17>честность превыше всего</missionmessage0.tsmmission_origin17>
+  <missionname.tsmmission_origin18>Доставка медицинских препаратов</missionname.tsmmission_origin18>
+  <missiondescription.tsmmission_origin18>[location2] Медицинские препараты в дефиците, и они заказали партию из Моря Чудес, которую нужно срочно доставить.</missiondescription.tsmmission_origin18>
+  <missionsuccess.tsmmission_origin18>честность превыше всего</missionsuccess.tsmmission_origin18>
+  <missionheader0.tsmmission_origin18>Миссия выполнена</missionheader0.tsmmission_origin18>
+  <missionmessage0.tsmmission_origin18>честность превыше всего</missionmessage0.tsmmission_origin18>
+  <missionname.tsmmission_origin19>Перевозка солдат Моря Чудес</missionname.tsmmission_origin19>
+  <missiondescription.tsmmission_origin19>Есть небольшая группа людей из Моря Чудес, которые хотели бы отправиться на вашем корабле на следующую станцию.</missiondescription.tsmmission_origin19>
+  <missionsuccess.tsmmission_origin19>безопасность</missionsuccess.tsmmission_origin19>
+  <missionheader0.tsmmission_origin19>Миссия выполнена</missionheader0.tsmmission_origin19>
+  <missionmessage0.tsmmission_origin19>безопасность</missionmessage0.tsmmission_origin19>
+  <missionname.tsmmission_origin20>Миссия "Охота": Уничтожение ползучих гадов</missionname.tsmmission_origin20>
+  <missiondescription.tsmmission_origin20>В канале была большая группа ползучих гадов, которую мы несколько раз безуспешно отгоняли. Они не боятся даже службы безопасности сайта. Это уже не обычные ползуны. Мы должны нанести им мощный удар.</missiondescription.tsmmission_origin20>
+  <missionsuccess.tsmmission_origin20>Ползун руководил пилотированием субмарины и обучал экипаж меткой стрельбе. Это была большая работа.</missionsuccess.tsmmission_origin20>
+  <missionheader0.tsmmission_origin20>Миссия выполнена</missionheader0.tsmmission_origin20>
+  <missionmessage0.tsmmission_origin20>Ползун руководил пилотированием субмарины и обучал экипаж меткой стрельбе. Это была большая работа.</missionmessage0.tsmmission_origin20>
+  <missionsonarlabel.tsmmission_origin20>цель вознаграждения</missionsonarlabel.tsmmission_origin20>
+  <missionname.tsmmission_origin21>Миссия "Охота": Прощай, Червь Разрушения</missionname.tsmmission_origin21>
+  <missiondescription.tsmmission_origin21>Безмолвный в бездне уничтожения червей снова активен, вокруг сайта выпущены чрезвычайное положение уведомление, заставляя всех паниковать, так что некоторые люди из [reward] mk баунти уничтожения червей</missiondescription.tsmmission_origin21>
+  <missionsuccess.tsmmission_origin21>Надеюсь, я больше не проснусь.</missionsuccess.tsmmission_origin21>
+  <missionheader0.tsmmission_origin21>Миссия выполнена</missionheader0.tsmmission_origin21>
+  <missionmessage0.tsmmission_origin21>Снова спит.</missionmessage0.tsmmission_origin21>
+  <missionsonarlabel.tsmmission_origin21>цель вознаграждения</missionsonarlabel.tsmmission_origin21>
+  <!-- name -->
   <character.Experiment_T044Y>Крик земного призрака</character.Experiment_T044Y>
-  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
-  <character.FractalTwin_Destruction>Фрактальные близнецы - Разрушители</character.FractalTwin_Destruction>
-  <character.FractalTwin_Sabotage>Фрактальные близнецы - Разрушители</character.FractalTwin_Sabotage>
-  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
-  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
-  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
-  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
-  <character.NightmareMudraptor>Кошмарный грязераптор</character.NightmareMudraptor>
+  <character.embi_009>чума</character.embi_009>
+  <character.embi_t037a>бронтозавр</character.embi_t037a>
+  <character.T037α>T037α</character.T037α>
+  <character.T044Y>T044Y</character.T044Y>
+  <character.Experiment009>ЭМБИ 009</character.Experiment009>
+  <character.embi_001>ЭМБИ 001</character.embi_001>
+  <character.embi_003>ЭМБИ 003</character.embi_003>
+  <character.Experiment009_bug>Франциск Ксавье</character.Experiment009_bug>
+  <character.巨型女妖>Гигантский монстр</character.巨型女妖>
+  <character.微观捕勾兽>Микроскопический блокиратор</character.微观捕勾兽>
+  <character.微观捕勾兽模板>Микроскопический блокиратор</character.微观捕勾兽模板>
+  <character.FractalTwin_Destruction>Фрактальный близнец - Разрушение</character.FractalTwin_Destruction>
+  <character.FractalTwin_Sabotage>Фрактальный близнец - Саботаж</character.FractalTwin_Sabotage>
+  <character.Shadowreave>Хищник</character.Shadowreave>
+  <character.Eclipticshadow>Эклиптическая тень</character.Eclipticshadow>
+  <character.Skypiercingdolphin>Кашалот</character.Skypiercingdolphin>
+  <character.AlbinismSpineling_giant>Шипостай-гигант альбинос</character.AlbinismSpineling_giant>
+  <character.AlbinismSpineling>Шипостай альбинос</character.AlbinismSpineling>
   <character.corruptionMachinery>Разлагающийся механизм</character.corruptionMachinery>
-  <tsm.a1>Здравствуйте, я лидер отряда "Сокол Чудо Морской Волк". У нас столько всего происходит, что мы просто не можем позволить себе позаботиться обо всем этом, поэтому мы надеялись, что кто-нибудь сможет прийти и помочь, и, конечно же, мы заплатим за это! </tsm.a1>
-  <tsm.a2>Это Отряд Чернильного Крашения, дела в Море Чудес сейчас идут не очень хорошо, и мы на пути к Арсеналу Кюсю, но здесь появилось еще одно поручение, поэтому у нас нет другого выбора, кроме как заплатить за него в данный момент. </tsm.a2>
-  <tsm.a3>Здравствуйте, я офицер связи EMBI, наша компания выпустила несколько комиссионных, не хотели бы вы взглянуть на них? </tsm.a3>
-  <tsm.a4>Европа огромна, и мы любим ее за малость; время длинно, и мы любим его за краткость; наша жизнь стремительна и стремительна, достойна медленной жизни и внезапной смерти. Это мир, где уходить популярно, но, к сожалению, никто из нас не умеет хорошо прощаться. Поэтому самое главное перед тем, как покинуть портвейн, - быть, во-первых, смелыми, во-вторых, честными и, наконец, верить в чудеса! И никогда не забывать друг друга...</tsm.a4>
+  <character.tsm_husk_pucs>Хаск в УЗК</character.tsm_husk_pucs>
+  <character.tsm_husk_arm>Рука хаска</character.tsm_husk_arm>
+  <character.tsm_beast>Чудовище</character.tsm_beast>
+  <character.tsm_portalguardian_cave>Пещерный страж руин</character.tsm_portalguardian_cave>
+  <character.tsm_Guardianrepairbot>Ремонтный страж</character.tsm_Guardianrepairbot>
+  <character.tsm_portalguardian>Страж руин</character.tsm_portalguardian>
+  <!--эпидемия-->
+  <character.boneeater>Костяной акулий тигр</character.boneeater>
+  <character.humaneyi>Чумное тело</character.humaneyi>
+  <character.eyivariant>Морф</character.eyivariant>
+  <character.tsm_tyrant>Деспот</character.tsm_tyrant>
+  <character.skinbreaker>Ломатель кожи</character.skinbreaker>
+  <character.eyibug>Червь крови</character.eyibug>
+  <character.Eyi_hugger>Нудист</character.Eyi_hugger>
+  <!--Море чудес-->
+  <character.corrode>Коррозия</character.corrode>
+  <character.MobileTaskForce>Мобильная Оперативная Группа</character.MobileTaskForce>
+  <character.RiotSquad>Бунтарский отряд</character.RiotSquad>
+  <character.sundownm>Команда Хигураши-сан</character.sundownm>
+  <character.Ship>HTC24-бирюзовый</character.Ship>
+  <character.Ship1>HTC24-бирюзовый</character.Ship1>
+  <character.Ship2>HTC24-бирюзовый</character.Ship2>
+  <character.Ship3>HTC24-бирюзовый</character.Ship3>
+  <character.sight>Капсула (водолазная)</character.sight>
+  <character.sight1>Капсула (водолазная)</character.sight1>
+  <character.sight2>Капсула (водолазная)</character.sight2>
+  <character.sight3>Капсула (водолазная)</character.sight3>
+  <character.pgc>Море Чудес Усиленная охрана</character.pgc>
+  <!--профсоюз-->
+  <character.QuickReactionForce>Коалиционные силы быстрого реагирования</character.QuickReactionForce>
+  <character.QuickReactionForce1>Коалиционные силы быстрого реагирования</character.QuickReactionForce1>
+  <!--Адвентист-->
+  <character.adventists_heavy>Адвентистский лидер</character.adventists_heavy>
+  <character.adventists>Адвентистский солдат</character.adventists>
+  <!--scp-->
+  <character.Facility_security>Охранник</character.Facility_security>
+  <character.Facility_security_heavy>Тяжелый охранник</character.Facility_security_heavy>
+  <character.Facility_security_outside>Охранник периметра</character.Facility_security_outside>
+  <!--ai-->
+  <charactername.tsm_outpost_combat_npc_mission>Солдат Моря Чудес</charactername.tsm_outpost_combat_npc_mission>
+  <charactername.tsm_adventists_prisoner>Захваченные члены адвентизма</charactername.tsm_adventists_prisoner>
+  <!--товары-->
+  <entityname.tsm_mcrate_time1>Разлагающееся вещество</entityname.tsm_mcrate_time1>
+  <entitydescription.tsm_mcrate_time1>Ящик с разлагающимся материалом, срок годности которого составляет десять минут.</entitydescription.tsm_mcrate_time1>
+  <entityname.tsm_mcrate_water1>Кожа в коробке</entityname.tsm_mcrate_water1>
+  <entitydescription.tsm_mcrate_water1>Целый чемодан из высококачественной кожи может повредиться, если на него попадет влага, будьте осторожны, средний человек не может позволить себе платить за такие вещи.</entitydescription.tsm_mcrate_water1>
+  <entityname.tsm_mcrate_shillok>Сокровища Шилоха</entityname.tsm_mcrate_shillok>
+  <entitydescription.tsm_mcrate_shillok>Говорят, что в этом кармане может быть все, что угодно, так что разложите его и посмотрите, что получится.</entitydescription.tsm_mcrate_shillok>
   <!--test:charactor-->
   <charactername.TSMnpc_1>Призрачный Низ Ланг</charactername.TSMnpc_1>
   <charactername.TSMnpc_2>Демон Дрим</charactername.TSMnpc_2>
   <charactername.TSMnpc_3>Офицер по связям с ЭМБИ</charactername.TSMnpc_3>
   <charactername.TSMnpc_4>Инструктор по спецвойскам - Сугер А Сугер</charactername.TSMnpc_4>
+  <tsm.a1>Здравствуйте, я лидер отряда "Сокол Чудо Морской Волк". У нас столько всего происходит, что мы просто не можем позволить себе позаботиться обо всем этом, поэтому мы надеялись, что кто-нибудь сможет прийти и помочь, и, конечно же, мы заплатим за это! </tsm.a1>
+  <tsm.a2>Это Отряд Чернильного Крашения, дела в Море Чудес сейчас идут не очень хорошо, и мы на пути к Арсеналу Кюсю, но здесь появилось еще одно поручение, поэтому у нас нет другого выбора, кроме как заплатить за него в данный момент. </tsm.a2>
+  <tsm.a3>Здравствуйте, я офицер связи EMBI, наша компания выпустила несколько комиссионных, не хотели бы вы взглянуть на них? </tsm.a3>
+  <tsm.a4>Европа огромна, и мы любим ее за малость; время длинно, и мы любим его за краткость; наша жизнь стремительна и стремительна, достойна медленной жизни и внезапной смерти. Это мир, где уходить популярно, но, к сожалению, никто из нас не умеет хорошо прощаться. Поэтому самое главное перед тем, как покинуть портвейн, - быть, во-первых, смелыми, во-вторых, честными и, наконец, верить в чудеса! И никогда не забывать друг друга...</tsm.a4>
   <!-- Награды босса -->
   <entityname.mvdxe>Пасть ведьмы</entityname.mvdxe>
   <entitydescription.mvdxe>Челюсть, брошенная ведьмой Лапласа в доказательство вашего поражения, чрезвычайно прочный материал, отлично подходит для изготовления оружия</entitydescription.mvdxe>
@@ -241,7 +437,7 @@
   <entitydescription.suger_boardingaxe>‖color:159,207,217,255‖挥Замахиваясь на врага и на свое прошлое.己‖color:end‖</entitydescription.suger_boardingaxe>
   <!-- Подкатегории -->
   <subcategory.tsmmissions>T.S.M MISSIONS - спрашивает, как долго вас не было</subcategory.tsmmissions>
-  <!-- 未使用 -->
+  <!-- неиспользованный -->
   <!--missionname.tsmmission17>机械降神</missionname.tsmmission17>
   <missiondescription.tsmmission17>根据奇迹之海观测站发来报告，这个地区出现了‘暴风雨燕’事件中的那种机械蠕虫，当地的人们称他们为机械降神，去调查一下！</missiondescription.tsmmission17>
   <missionsuccess.tsmmission17>陨落的神明……</missionsuccess.tsmmission17>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.cap_idcard>Личная карта</entityname.cap_idcard>
+  <entitydescription.cap_idcard>Удостоверение личности капитана</entitydescription.cap_idcard>
+  <entityname.crew_idcard>Личная карта</entityname.crew_idcard>
+  <entitydescription.crew_idcard>Удостоверение личности члена экипажа</entitydescription.crew_idcard>
+  <entityname.mech_idcard>Личная карта</entityname.mech_idcard>
+  <entitydescription.mech_idcard>Удостоверение личности механика</entitydescription.mech_idcard>
+  <entityname.eng_idcard>Личная карта</entityname.eng_idcard>
+  <entitydescription.eng_idcard>Удостоверение личности инженера</entitydescription.eng_idcard>
+  <entityname.med_idcard>Личная карта</entityname.med_idcard>
+  <entitydescription.med_idcard>Удостоверение личности врача</entitydescription.med_idcard>
+  <entityname.sec_idcard>Личная карта</entityname.sec_idcard>
+  <entitydescription.sec_idcard>Удостоверение личности сотрудника безопасности</entitydescription.sec_idcard>
+  <entityname.che_idcard>Личная карта</entityname.che_idcard>
+  <entitydescription.che_idcard>Удостоверение личности повара</entitydescription.che_idcard>
+  <entityname.idprinter>Принтер удостоверений</entityname.idprinter>
+</infotexts>

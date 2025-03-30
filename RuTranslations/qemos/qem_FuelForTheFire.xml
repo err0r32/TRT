@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.sgt_locker>Оружейный шкаф</entityname.sgt_locker>
+  <entitydescription.sgt_locker>Защищенный удостоверением сейф, доступ к которому имеет только ваш экипаж. Полезен для оружия с открытым доступом, так как посторонний человек не сможет воспользоваться его содержимым.</entitydescription.sgt_locker>
+  <entityname.sgt_timedet>Детонатор с задержкой</entityname.sgt_timedet>
+  <entitydescription.sgt_timedet>Детонатор с таймером для взрывчатых брикетов. Изначально установлен на 60сек, но можно понизить до 10. Можно установить на стену. Самоуничтожается.</entitydescription.sgt_timedet>
+  <entityname.sgt_cowboy>Ковбойская шляпа</entityname.sgt_cowboy>
+  <entitydescription.sgt_cowboy>Шляпа из кожи ползуна, которую приятно носить и которая подтверждает ваш статус стрелка.</entitydescription.sgt_cowboy>
+  <entityname.sgt_trenchcoat>Плащ-пальто</entityname.sgt_trenchcoat>
+  <entitydescription.sgt_trenchcoat>Экзотический плащ из кожи тигровой акулы. Достаточно толстый, чтобы защищать от холода, но достаточно легкий, чтобы удобно носить его поверх униформы.</entitydescription.sgt_trenchcoat>
+  <entityname.sgt_longrangeradio>Комплект расширения радиодиапазона</entityname.sgt_longrangeradio>
+  <entitydescription.sgt_longrangeradio>Соединяется с гарнитурой пользователя, чтобы вещать на значительно большем расстоянии, чем обычно. По бокам есть несколько карманов для запасного оборудования.</entitydescription.sgt_longrangeradio>
+  <entityname.sgt_bobag>Кейс спец-агента Коалиции</entityname.sgt_bobag>
+  <entitydescription.sgt_bobag>Прочный кейс со встроенным расширителем радиосигнала. В нем есть несколько более глубоких, чем обычно, отсеков для запасных боеприпасов, а также стропа, чтобы убрать тяжелое оружие подальше и с глаз долой.</entitydescription.sgt_bobag>
+  <entityname.sgt_exogear>Экзоскелет Коалиции</entityname.sgt_exogear>
+  <entitydescription.sgt_exogear>Полуэкспериментальный костюм, используемый преимущественно шахтерами и командами логистов для легкой транспортировки материалов и тяжелого оборудования, обладающий приличной степенью баллистической защиты. Однако этот костюм затрудняет передвижение, учитывая его общий вес, а сервоприводы требуют значительного количества энергии для работы под нагрузкой. Давление рассчитано на 2000м.</entitydescription.sgt_exogear>
+  <entityname.sgt_zealotrobes>Боевая оккультная мантия</entityname.sgt_zealotrobes>
+  <entitydescription.sgt_zealotrobes>Защитная форма культиста, в которой метаматериалы переплетаются с кевларом, чтобы обеспечить современную защиту и умиротворить хаска внутри, позволяя ему залечивать раны на ваших глазах.</entitydescription.sgt_zealotrobes>
+  <entityname.sgt_fieldcap>Патрульная кепка Коалиции</entityname.sgt_fieldcap>
+  <entitydescription.sgt_fieldcap>Уставная форма, когда баллистический шлем мешает, но вы все равно хотите что нибудь натянуть.</entitydescription.sgt_fieldcap>
+  <entityname.sgt_combatmedicuniform>Униформа боевого врача (Стиль 2)</entityname.sgt_combatmedicuniform>
+  <entitydescription.sgt_combatmedicuniform>Форма с необычным городским камуфляжем, нанесенным на нее. Она имеет толстую арамидную подкладку и большие карманы для снаряжения. Пятна крови трудно отстирать с одежды.</entitydescription.sgt_combatmedicuniform>
+  <entityname.sgt_renegadecombatmedicuniform>Ренегатовская униформа боевого врача (Стиль 2)</entityname.sgt_renegadecombatmedicuniform>
+  <entitydescription.sgt_renegadecombatmedicuniform>Униформа, призванная отличать владельца от медиков Коалиции, однако изготовленная из меньшего количества материалов, в ущерб защите и возможностям для большей ловкости. Пятна крови трудно отстирать с одежды.</entitydescription.sgt_renegadecombatmedicuniform>
+  <entityname.sgt_lightuniform>Боевая форма Коалиции (Стиль 2)</entityname.sgt_lightuniform>
+  <entitydescription.sgt_lightuniform>Военная форма Коалиции из двух частей, обеспечивающая удобство идентификации. Похоже, что пора засучить рукава, да?</entitydescription.sgt_lightuniform>
+  <entityname.sgt_lightuniform2>Неопознанная боевая форма</entityname.sgt_lightuniform2>
+  <entitydescription.sgt_lightuniform2>Комплект БФО, который нельзя назвать ни коалиционным, ни сепаратистским, поскольку в нем присутствуют компоненты и того, и другого. Все, что можно сказать, - это то, что он принадлежал ветерану европейских войн.</entitydescription.sgt_lightuniform2>
+  <entityname.sgt_renegadeuniform>Ренегатовская боевая форма (Стиль 2)</entityname.sgt_renegadeuniform>
+  <entitydescription.sgt_renegadeuniform>Стандартная униформа Сепаратистов, обеспечивающая небольшую защиту, но позволяющая двигаться немного проворнее. Наверное, просто оторвать рукава - это слишком пафосно, да?</entitydescription.sgt_renegadeuniform>
+  <entityname.sgt_combatrig>Боевой комплект Коалиции</entityname.sgt_combatrig>
+  <entitydescription.sgt_combatrig>Крайне экспериментальный боевой костюм, разработанный для Коалиционных спецподразделений. Униформа с усовершенствованными сплавами и гибкими суставами обеспечивает надежную защиту от стрельбы, сохраняя при этом достаточную мобильность для уклонения и перестроения в случае превосходящей силы.</entitydescription.sgt_combatrig>
+  <entityname.sgt_boshotgun>Дробовик Коалиции с глушителем</entityname.sgt_boshotgun>
+  <entitydescription.sgt_boshotgun>Тактический дробовик с глушителем, предназначенный для тайных операций. Используя Ренегатовские магазины 12 калибра, он значительно повышает общую убойность оружия, а также снижает усилия пользователя при перезарядке, хотя есть вероятность заклинивания механизма при перегреве.</entitydescription.sgt_boshotgun>
+  <entityname.sgt_bopmr>Высокоточная винтовка Коалиции</entityname.sgt_bopmr>
+  <entitydescription.sgt_bopmr>Винтовка калибра 8,6x70мм с глушителем для тайных операций, выполненная по схеме буллпап, что позволяет разместить более длинный ствол за глушителем, хотя из-за своей неуклюжести она все равно должна быть закреплена на спине.</entitydescription.sgt_bopmr>
+  <entityname.sgt_boarmorhaz>Противохимические панели Коалиции</entityname.sgt_boarmorhaz>
+  <entitydescription.sgt_boarmorhaz>Набор пластин, которые крепятся к боевому комплекту. Модель для опасной среды была разработана для людей с повышенной химической чувствительностью, когда таковые используются в полевых условиях, и оснащены отсеками для лекарств и противоядий.  Рассчитан на давление 3000м.</entitydescription.sgt_boarmorhaz>
+  <entityname.sgt_boarmorleg>Маневренные панели Коалиции</entityname.sgt_boarmorleg>
+  <entitydescription.sgt_boarmorleg>Набор дополнительных пластин, которые крепятся к боевому комплекту. Облегченный вариант немного неудобен, так как ремни не позволяют носить другие доспехи, однако они пассивно повышают мобильность пользователя и помогают ему держаться на ногах.</entitydescription.sgt_boarmorleg>
+  <entityname.sgt_boarmorhvy>Боевые панели Коалиции</entityname.sgt_boarmorhvy>
+  <entitydescription.sgt_boarmorhvy>Набор дополнительных пластин, которые крепятся к боевому комплекту. Утяжеленный вариант призван обеспечить дополнительную лобовую броню и облегчить использование оружия за счет некоторой гибкости.</entitydescription.sgt_boarmorhvy>
+  <entityname.sgt_boarmorsap>Диффузные компоненты Коалиции</entityname.sgt_boarmorsap>
+  <entitydescription.sgt_boarmorsap>Набор дополнительных пластин, которые присоединяются к боевому комплекту. Взрывозащищенные варианты, также известные как "компоненты сапера", представляют собой датчики, подключенные по всему комплекту для обнаружения электромагнитных сигналов и просмотра электрических систем, а также кевларовые оболочки для защиты пользователя от взрывчатки, хотя они и закрывают некоторые цветовые индикаторы.</entitydescription.sgt_boarmorsap>
+  <entityname.sgt_blackopshelm>Специальный шлем Коалиции</entityname.sgt_blackopshelm>
+  <entitydescription.sgt_blackopshelm>Оптимизированный шлем с полным обзором боевого сектора, предназначенный для Коалиционных спецподразделений. Обеспечивая отличную защиту от стрельбы, он имеет легкую конструкцию, позволяющую с комфортом передвигаться и использовать оружие.</entitydescription.sgt_blackopshelm>
+  <entityname.sgt_blackopshelm2>Тяжелый специальный шлем Коалиции</entityname.sgt_blackopshelm2>
+  <entitydescription.sgt_blackopshelm2>Оптимизированный шлем с полным обзором боевого сектора, предназначенный для Коалиционных спецподразделений. Благодаря использованию более тяжелых пластин он позволяет выходить из напряженных ситуаций с меньшим количеством травм.</entitydescription.sgt_blackopshelm2>
+  <entityname.sgt_blackopshelm3>Противохимический специальный шлем Коалиции</entityname.sgt_blackopshelm3>
+  <entitydescription.sgt_blackopshelm3>Оптимизированный шлем с полным обзором боевого сектора, предназначенный для Коалиционных спецподразделений. Благодаря герметичным уплотнениям и подключения к кислородному баллону он защищает пользователя от большинства опасностей, не усложняя ситуацию, поскольку автоматически подключает кислород.</entitydescription.sgt_blackopshelm3>
+  <entityname.sgt_blackopshelm4>Саперный специальный шлем Коалиции</entityname.sgt_blackopshelm4>
+  <entitydescription.sgt_blackopshelm4>Оптимизированный шлем с полным обзором боевого сектора, предназначенный для Коалиционных спецподразделений. С встроенным тактическим интерфейсом для ввода информации об устройствах, он позволяет пользователю взаимодействовать с компонентами с повышенной точностью, хотя при этом жертвуя защитой.</entitydescription.sgt_blackopshelm4>
+  <entityname.sgt_tachelm>Тактический боевой шлем</entityname.sgt_tachelm>
+  <entitydescription.sgt_tachelm>Боевой шлем со встроенной тепловизионной оптикой, позволяющей владельцу значительно улучшить свои боевые возможности в условиях закрытого пространства. Однако из-за громоздкости оптики бронезащита была уменьшена, что делает его менее защищенным. Кроме того, линзы чувствительны к воде и автоматически отключаются при погружении в воду.</entitydescription.sgt_tachelm>
+  <entityname.sgt_medhelm>Боевой шлем врача</entityname.sgt_medhelm>
+  <entitydescription.sgt_medhelm>Боевой шлем со встроенным медицинским сканером, используемый для быстрой оценки состояния раненого члена экипажа и обеспечивающий значительную степень защиты от стрелкового оружия. Однако сканер потребляет гораздо больше энергии, чем его стандартный аналог, и поэтому для его работы требуются дополнительные батареи.</entitydescription.sgt_medhelm>
+  <entityname.sgt_boknife>Нож из воспламенитовой дюрастали</entityname.sgt_boknife>
+  <entitydescription.sgt_boknife>Тактический клинок из дюрастали с воспламенитовым лезвием вызывает резкое изменение температуры при контакте, пробивая материалы без особого сопротивления.</entitydescription.sgt_boknife>
+  <entityname.sgt_f2k>Штурмовая винтовка с глушителем Коалиции</entityname.sgt_f2k>
+  <entitydescription.sgt_f2k>Винтовка с глушителем под патрон 5,56x45мм, имеющая необычную систему выброса и несколько инопланетную форму, а также ствол полной винтовочной длины в более компактном корпусе. Выпускается для спецподразделений, которым требуется скрытное оружие, использующее большее количество доступных боеприпасов.</entitydescription.sgt_f2k>
+  <entityname.sgt_xms>Винтовка скрытого боя Коалиции</entityname.sgt_xms>
+  <entitydescription.sgt_xms>Необычная винтовка, использующая дозвуковой патрон 9x39, выжимает из него максимум энергии, обеспечивая большую мощность и бронепробиваемость. Скорость стрельбы несколько занижена, чтобы не превышать тихий щелчок, в угоду спецподразделениям.</entitydescription.sgt_xms>
+  <entityname.sgt_vhs>Боевая винтовка с глушителем Коалиции</entityname.sgt_vhs>
+  <entitydescription.sgt_vhs>Коалиционным группам Black-Ops требовалось оружие под патрон 7.62x51, обладающее большим "нокдаун-потенциалом" и более компактным корпусом. Для сохранения компактности и легкости оружия была использована конструкция буллпап, а также встроенный глушитель, позволяющий скрыть присутствие в глубине вражеской территории. Для повышения точности стрельбы и снижения расхода боеприпасов используется режим стрельбы очередями по 4 патрона.</entitydescription.sgt_vhs>
+  <entityname.sgt_m90t>Штурмовой дробовик Коалиции</entityname.sgt_m90t>
+  <entitydescription.sgt_m90t>Штурмовой дробовик, созданный для многоцелевого использования, имеет долгую и сложную историю службы. Снаряженный патронами 8-го калибра, он имеет неприятную привычку ломать ебальники, двери и иногда плечи, поскольку его отдача невероятна.</entitydescription.sgt_m90t>
+  <entityname.sgt_inertial>Поршник</entityname.sgt_inertial>
+  <entitydescription.sgt_inertial>Используя инерционную систему, основанную на отдаче при стрельбе патронами 8-го калибра, он обладает удивительной скорострельностью, хотя короткий ствол не способствует точности стрельбы.</entitydescription.sgt_inertial>
+  <entityname.sgt_dbs>Ренегатовский штурмовой дробовик</entityname.sgt_dbs>
+  <entitydescription.sgt_dbs>Модернизированный двуствольный дробовик, который предпочитают ветераны любой стороны за его надежность и властность. Благодаря возможности быстро снаряжать патроны 8-го калибра, он часто используется в оборонительных целях, поскольку замена патронов занимает слишком много времени для перестрелок.</entitydescription.sgt_dbs>
+  <entityname.sgt_gunslinger>Ренегатовская легкая бомбарда</entityname.sgt_gunslinger>
+  <entitydescription.sgt_gunslinger>Револьвер под патрон 10,9x33мм с одинарным действием, отличный выбор для самообороны благодаря легкому спуску курка, однако для каждого последующего выстрела требуется отвести курок назад. Хотя легкость позволяет использовать его одной рукой, более опытные люди могут быстрее восстановить равновесие в руках, что позволяет делать более быстрые выстрелы.</entitydescription.sgt_gunslinger>
+  <entityname.sgt_bastard>Сволочь</entityname.sgt_bastard>
+  <entitydescription.sgt_bastard>Оружие, собранное из металлолома и стреляющее патронами .38, имеет проблемы с точностью стрельбы, но при этом обладает немалой скорострельностью и мощностью, что удивительно для оружия, созданного на коленке.</entitydescription.sgt_bastard>
+  <entityname.sgt_levergun>Рычажная винтовка</entityname.sgt_levergun>
+  <entitydescription.sgt_levergun>Винтовка калибра 9x29мм, использующая очень старую рычажную систему, сильно устаревшую по сравнению с большинством огнестрельного оружия на Европе. Несмотря на свою древность, винтовка пользуется популярностью у капитанов и граждан Коалиции за то, что удлиненный ствол и трубка на 9 патронов делают довольно слабый патрон более жизнеспособным.</entitydescription.sgt_levergun>
+  <entityname.sgt_heavyblaster>Тяжелый бластер</entityname.sgt_heavyblaster>
+  <entitydescription.sgt_heavyblaster>Попытка переносного лазерного оружия, неуклюжая "винтовка" требует ячеек на один выстрел для стрельбы из-за нагрузки, необходимой для разряда.</entitydescription.sgt_heavyblaster>
+  <entityname.sgt_asmd>Бластерная винтовка</entityname.sgt_asmd>
+  <entitydescription.sgt_asmd>Более мобильный, но неумолимый вариант тяжелого бластера, позволяющий мгновенно произвести выстрел, но требующий своевременной перезарядки. Полезен для обстрела групп плотно прилегающих друг к другу целей.</entitydescription.sgt_asmd>
+  <entityname.sgt_bolter>Эксперементальный боевой карабин "Угнетатель"</entityname.sgt_bolter>
+  <entitydescription.sgt_bolter>Короткая винтовка, работающая под патрон 12,7х55 с помощью магазинов. Она адаптирована к излюбленной боевой винтовке Коалиции Угнетатель, уменьшена в размерах и увеличена эффективность использования газа, что позволяет ей вести огонь с более высокой скорострельностью. Это также приводит к резкой отдаче, часто травмирующим неподготовленных пользователей.</entitydescription.sgt_bolter>
+  <entityname.sgt_ppr>Эксперементальная высокоточная винтовка</entityname.sgt_ppr>
+  <entitydescription.sgt_ppr>Полуавтоматическая винтовка калибра 8,6х70мм идеально подходит для роли меткого стрелка. Она способна пробить большинство шлемов и бронежилетов и при этом достаточно быстра для последующих выстрелов, если одного окажется недостаточно.</entitydescription.sgt_ppr>
+  <entityname.sgt_chemthrower>Тяжелый огнемет</entityname.sgt_chemthrower>
+  <entitydescription.sgt_chemthrower>Большой, громоздкий огнемёт, разработанный Коалицией для испепеления самых выносливых представителей флоры и фауны. Специальное химическое топливо достигает температуры более 900 градусов и имеет значительно большую дальность действия. Однако из-за своей громоздкости он крайне сложен в обращении для плохо обученного пользователя.</entitydescription.sgt_chemthrower>
+  <entityname.sgt_chemthrowerspitter>Ренегатовский огнемёт</entityname.sgt_chemthrowerspitter>
+  <entitydescription.sgt_chemthrowerspitter>Лёгкий огнемет на химическом топливе, стреляет сразу очень плотной струей топлива, чтобы оно сгорело, действуя как сдерживающий фактор. Без разбразгивания топлива перед воспламенением, оно не становится достаточно интенсивным, чтобы сжечь растительность, вместо этого замедляя цели, так как топливо очень вязкое при горении.</entitydescription.sgt_chemthrowerspitter>
+  <entityname.heavyshotshell>Патрон для дробовика 8-го калибра</entityname.heavyshotshell>
+  <entitydescription.heavyshotshell>Снаряд, начиненный 12 стальными дробинками, имеет свойство отрывать как двери, так и конечности. Он лучше пробивает броню, чем его менее мощный аналог, но все же может нанести урон и более тяжелым пластинам.</entitydescription.heavyshotshell>
+  <entityname.heavyhotshell>Зажигательный патрон для дробовика 8-го калибра</entityname.heavyhotshell>
+  <entitydescription.heavyhotshell>Начиненный магниевыми осколками, он яростно разбрасывает горячие искры, обычно оставляя цели сильно обугленными.</entitydescription.heavyhotshell>
+  <entityname.heavystunshell>Резиновый патрон для дробовика 8-го калибра</entityname.heavystunshell>
+  <entitydescription.heavystunshell>В комплекте 4 резиновых шарика, для неопытных пользователей предлагаются другие нелетальные варианты, но при этом сохраняется сильная отдача.</entitydescription.heavystunshell>
+  <entityname.heavysliceshell>Пуля для дробовика 8-го калибра</entityname.heavysliceshell>
+  <entitydescription.heavysliceshell>Содержит титановую пулю, которая вызывает сильное кровотечение у цели, пробивая даже тяжелую броню.</entitydescription.heavysliceshell>
+  <entityname.glshotshell>40-мм картечь</entityname.glshotshell>
+  <entitydescription.glshotshell>Используя 24 стальных дробины, снаряд является ближним вариантом для штурмовиков, позволяющим расчистить путь перед собой, не причиняя себе вреда в процессе.</entitydescription.glshotshell>
+  <entityname.sgt_bosmg>Тяжелый ПП с глушителем Коалиции</entityname.sgt_bosmg>
+  <entitydescription.sgt_bosmg>ПП с калибром 11.43x23, имеющий экстремальную скорострельность и встроенный подавитель, предпочитаемый скаутами спецподразделений за быстроту сбивания с ног и доступность патронов, хотя у него есть неприятная привычка быстро расходовать патроны, что заставляет пользователей стрелять короткими, контролируемыми очередями.</entitydescription.sgt_bosmg>
+  <entityname.sgt_arpistol>Эксперементальная короткоствольная винтовка</entityname.sgt_arpistol>
+  <entitydescription.sgt_arpistol>Винтовка выполнена под промежуточный патрон 5.56x45Ы и имеет большую бронепробиваемость и мощность, чем любой другой пистолет, но за счет более крупного профиля.</entitydescription.sgt_arpistol>
+  <entityname.sgt_usp>Штурмовой пистолет Коалиции</entityname.sgt_usp>
+  <entitydescription.sgt_usp>Коробчатый пистолет калибра 10х25мм, предпочитаемый большинством Коалиционных операторов за его значительно большую мощность и пробивную способность по сравнению с пистолетами 9х19 и 11,43х23. Однако за такую мощь приходится расплачиваться тяжелым весом и значительными импульсами отдачи, с которыми большинство стрелков не могут справиться.</entitydescription.sgt_usp>
+  <entityname.sgt_mk23>Скрытый штурмовой пистолет</entityname.sgt_mk23>
+  <entitydescription.sgt_mk23>Боевой пистолет калибра 10х25мм со встроенным фонарем и подавителем для использования в спецподразделениях. Для маневренного, но выносливого пистолета, используемого в качестве запасного, были применены более дорогие сплавы, что позволило облегчить оружие без ущерба для надежности.</entitydescription.sgt_mk23>
+  <entityname.sgt_n99>Скиталец</entityname.sgt_n99>
+  <entitydescription.sgt_n99>Этот пистолет калибра 10х25мм пережил не лучшие времена, на нем есть вмятины и царапины от всех возможных источников, но он так же надежен, как и прежде. Отдача контроллируемая, так что не бойтесь удара по голове.</entitydescription.sgt_n99>
+  <entityname.sgt_auto10>Эксперементальный штурмовой пистолет</entityname.sgt_auto10>
+  <entitydescription.sgt_auto10>Нестандартная конструкция 10x25мм с распределением веса для удобства обращения во время стрельбы. Стрельба ведется очередями по 2 патрона для максимального попадания в цель, при этом во время стрельбы не происходит ничего, кроме легкого подпрыгивания.</entitydescription.sgt_auto10>
+  <entityname.sgt_apc>Штурмовой ПП Коалиции</entityname.sgt_apc>
+  <entitydescription.sgt_apc>Оружие под патрон 10x25мм часто используется абордажными группами и командами по обороне кораблей для быстрого нанесения урона, а мощная конструкция и ложа значительно снижают отдачу. В патронник помещается как удлиненный, так и стандартный магазин.</entitydescription.sgt_apc>
+  <entityname.sgt_hpp>Ренегатовский штурмовой пистолет</entityname.sgt_hpp>
+  <entitydescription.sgt_hpp>Рассчитанный на стрельбу патронами 10х25мм, он прост в обслуживании и эксплуатации, хотя и кажется громоздким. Странные конструктивные принципы позволяют использовать удлиненные магазины.</entitydescription.sgt_hpp>
+  <entityname.sgt_hpc>Ренегатовский штурмовой ПП</entityname.sgt_hpc>
+  <entitydescription.sgt_hpc>Благодаря длинному стволу, позволяющему вести более точную стрельбу менее опытным стрелкам, оружие имеет легкий вес и состоит в основном из полимера.</entitydescription.sgt_hpc>
+  <entityname.sgt_pasmg>Эксперементальный штурмовой ПП</entityname.sgt_pasmg>
+  <entitydescription.sgt_pasmg>Бодрый пистолет-пулемет калибра 10х25мм с необычной конструкцией, жертвующий скоростью ради точности, оставляет пользователя открытым для ближнего боя во время операций. Однако, похоже, что 8-калиберный подствольный гранатомет стал решением для спасения этого чужого оружия.</entitydescription.sgt_pasmg>
+  <entityname.sgt_m79>Ренегатовский компактный гранатомет</entityname.sgt_m79>
+  <entitydescription.sgt_m79>Короткий и простой 40-мм гранатомет, используемый абордажными командами для разгона толпы и опустошения помещений до того, как начнет лететь свинец. Сделан для использования одной рукой.</entitydescription.sgt_m79>
+  <entityname.sgt_napalm>Канистра с хим. топливом</entityname.sgt_napalm>
+  <entitydescription.sgt_napalm>Горючая смесь высокой плотности, разработанная специально для тяжелого огнемета, чтобы вызвать адское пламя.</entitydescription.sgt_napalm>
+  <entityname.sgt_hbcell>Ячейка тяжелого бластера</entityname.sgt_hbcell>
+  <entitydescription.sgt_hbcell>Одноразовый высокоамперный суперконденсатор, предназначенный для тяжелого бластера. Более качественные элементы могут сделать больше выстрелов, прежде чем энтропия разрушит их.</entitydescription.sgt_hbcell>
+  <entityname.sgt_hbcell2>Усиленная ячейка тяжелого бластера</entityname.sgt_hbcell2>
+  <entitydescription.sgt_hbcell2>Одноразовый высокоамперный суперконденсатор, предназначенный для тяжелого бластера. Последовательное, а не параллельное расположение диодов позволяет разделить импульс, а также увеличить общий урон за счет меньшей нагрузки на линзу.</entitydescription.sgt_hbcell2>
+  <entityname.sgt_10mmmag>Магазин штурмового пистолета</entityname.sgt_10mmmag>
+  <entitydescription.sgt_10mmmag>Вмещает 10 патронов калибра 10x25мм и имеет бронебойное свойство благодаря своим возможностям по стрельбе, но отдача, ломающая кисть, отпугнет некоторых пользователей.</entitydescription.sgt_10mmmag>
+  <entityname.sgt_10mmmagacid>Кислотный магазин штурмового пистолета</entityname.sgt_10mmmagacid>
+  <entitydescription.sgt_10mmmagacid>Используя патроны 10x25мм «Фиал», он наносит прямой урон, прожигая броню цели кислотой. Сами по себе они не очень мощные, но если цель слаба к кислоте...</entitydescription.sgt_10mmmagacid>
+  <entityname.sgt_10mmmagext>Расширенный магазин штурмового пистолета</entityname.sgt_10mmmagext>
+  <entitydescription.sgt_10mmmagext>Он вмещает 20 патронов калибра 10x25мм. Некоторые виды оружия не могут использовать этот магазин из-за его громоздкости, однако сепаратисты учли это в своих разработках.</entitydescription.sgt_10mmmagext>
+  <entityname.sgt_s63>Ренегатовский легкий пулемет</entityname.sgt_s63>
+  <entitydescription.sgt_s63>Этот пулемет под патрон 5.56x45 может использовать как стандартные винтовочные магазины Коалиции, так и коробочные магазины. Его сборка в лучшем случае груба, так что не ждите от него многого.</entitydescription.sgt_s63>
+  <entityname.sgt_medgas>Усыпляющая газовая граната</entityname.sgt_medgas>
+  <entitydescription.sgt_medgas>Канистра с хлоралгидратом, используемая для того, чтобы нейтрализовать цели без травм и облегчить задержание. Рассеивание происходит быстро, но неэффективно.</entitydescription.sgt_medgas>
+  <entityname.sgt_ext>Карманный огнетушитель</entityname.sgt_ext>
+  <entitydescription.sgt_ext>Одноразовый мини-огнетушитель, предназначенный для тушения пожара до того, как он успеет разгореться.</entitydescription.sgt_ext>
+  <entityname.sgt_toolbox>Набор инструментов</entityname.sgt_toolbox>
+  <entitydescription.sgt_toolbox>Ящик для инструментов, содержащий все необходимое для ремонта и работы в полевых условиях, с несколькими открытыми отсеками для хранения дополнительных принадлежностей. Изготовлен из железа. Очень прочный.</entitydescription.sgt_toolbox>
+  <entityname.sgt_wrench>Дюрасталевый гаечный ключ</entityname.sgt_wrench>
+  <entitydescription.sgt_wrench>Более прочный и сбалансированный гаечный ключ из дюрастали.</entitydescription.sgt_wrench>
+  <entityname.sgt_henrytac>Портативная рычажная винтовка</entityname.sgt_henrytac>
+  <entitydescription.sgt_henrytac>Сильно модернизированная многокалиберная винтовка, способная работать под патрон 9x29, 9x33 и 10.9x33, что делает еее значительно более универсальнрй за счет сложной системы рычага и затвора, для правильного срабатывания которых требуется определенный навык.</entitydescription.sgt_henrytac>
+  <entityname.sgt_crowbar>Дюрасталевый лом</entityname.sgt_crowbar>
+  <entitydescription.sgt_crowbar>Увесистая и прочная фомка из дюрастали. Самое то чтобы ломать дверь или черепа клоунам.</entitydescription.sgt_crowbar>
+  <entityname.sgt_syringeshotgun>Шприцевой дробовик</entityname.sgt_syringeshotgun>
+  <entitydescription.sgt_syringeshotgun>Конструкция, вызывающая сомнения у многих, разряжает все имеющиеся в ней шприцы в мгновение ока. Хорошо подходит для инъекций или усиления одного токсина. Камеры под давлением требуют, чтобы все остальные разрядились, прежде чем они автоматически наполнятся.</entitydescription.sgt_syringeshotgun>
+  <entityname.sgt_rifle>Ренегатовский полу-автоматическая винтовка</entityname.sgt_rifle>
+  <entitydescription.sgt_rifle>В отличие от более надежного болтового аналога Коалиции, он имеет более глубокий встроенный магазин и самовзводный затвор. Газовая система невероятно примитивна и достаточно сильно оттягивает патрон от ствола, что снижает эффективность стрельбы.</entitydescription.sgt_rifle>
+  <entityname.sgt_rifleprototype>Эксперементальный автомат</entityname.sgt_rifleprototype>
+  <entitydescription.sgt_rifleprototype>Устаревшая конструкция с некоторыми странными штрихами использует откидной магазин, предназначенный для индивидуальной подачи патронов 30-го калибра. Нарезка ствола так и не была доведена до конца, из-за чего некоторые патроны рыскают в воздухе, теряя при этом пробивную способность.</entitydescription.sgt_rifleprototype>
+  <!--Surplus-->
+  <entityname.scp_heavymechanicsuit1>Инженерная спецодежда</entityname.scp_heavymechanicsuit1>
+  <entitydescription.scp_heavymechanicsuit1>Комплект одежды механика со всеми удобствами, включая несколько отсеков для хранения инструментов и бутеров. Хотя вшитая подкладка обеспечивает комфорт и защиту владельца, она немного сковывает движения.</entitydescription.scp_heavymechanicsuit1>
+  <entityname.sgt_heavymechanicsuit>Инженерная спецодежда (Стиль 2)</entityname.sgt_heavymechanicsuit>
+  <entitydescription.sgt_heavymechanicsuit>Комплект одежды инженера со всеми удобствами, включая несколько отсеков для хранения инструментов и бутеров. Хотя вшитая подкладка обеспечивает комфорт и защиту владельца, она немного сковывает движения. Возможно, синий - не ваш цвет.</entitydescription.sgt_heavymechanicsuit>
+  <entityname.scp_t5000>Высокоточная винтовка Коалиции</entityname.scp_t5000>
+  <entitydescription.scp_t5000>Большая винтовка калибра 8,6x70мм, предназначенная для быстрой и точной ликвидации одной цели, редко встречается на Европе, поскольку ее дальнобойность зависит от конкретной ситуации.</entitydescription.scp_t5000>
+  <entityname.scp_t5000boxmag>Магазин высокоточной винтовки Коалиции</entityname.scp_t5000boxmag>
+  <entitydescription.scp_t5000boxmag>Небольшой коробчатый магазин на 5 бронебойных патронов калибра 8,6x70мм.</entitydescription.scp_t5000boxmag>
+  <entityname.scp_86projectile>Патрон 8,6x70мм</entityname.scp_86projectile>
+  <entityname.scp_m24>Ренегатовский высокоточная винтовка</entityname.scp_m24>
+  <entitydescription.scp_m24>Винтовка под патрон 8,6x70мм, созданная как альтернатива более совершенной винтовки Коалиции. Отдача крайне велика, поскольку он явно не предназначался для использования.</entitydescription.scp_m24>
+  <entitydescription.scp_86projectile></entitydescription.scp_86projectile>
+  <!--Missions-->
+  <missionname.abandonedoutpostassassinatebo>Сепаратисткий заказ</missionname.abandonedoutpostassassinatebo>
+  <missiondescription.abandonedoutpostassassinatebo>В локации [location1] есть небольшая группа "Сверх-опасных" целей, за головы которых назначена высокая цена, установленная Сепаратистами. Коалиция будет явно не в восторе.</missiondescription.abandonedoutpostassassinatebo>
+  <missionsuccess.abandonedoutpostassassinatebo>Оперативники были успешно нейтрализованы.</missionsuccess.abandonedoutpostassassinatebo>
+  <missionfailure.abandonedoutpostassassinatebo>Отряд остался в живых.</missionfailure.abandonedoutpostassassinatebo>
+  <missionheader0.abandonedoutpostassassinatebo>Отряд убийц уничтожен</missionheader0.abandonedoutpostassassinatebo>
+  <missionmessage0.abandonedoutpostassassinatebo>С находящимися внутри спец агентами разобрались, отстыкуйтесь, чтобы покинуть аванпост.</missionmessage0.abandonedoutpostassassinatebo>
+  <!--Admin-->
+  <entityname.sgt_adminskillbook>Руководство по подготовке оперативников</entityname.sgt_adminskillbook>
+  <entitydescription.sgt_adminskillbook>Буклет, содержащий нецензурные подробности о некоторых тайных операциях подо льдом и о том, как они проводились, с точностью до буквы. Читая ее, вы как будто прошли по их следам.
+    
+  Это админский предмет.</entitydescription.sgt_adminskillbook>
+  <entityname.sgt_adminmechbook>Руководство по обслуживанию экзоскелета</entityname.sgt_adminmechbook>
+  <entitydescription.sgt_adminmechbook>Скучный пошаговый процесс обслуживания экзоскелета, а также некоторые хитрости, чтобы использовать его лучше. По крайней мере, здесь много картинок.
+
+  Это админский предмет.</entitydescription.sgt_adminmechbook>
+  <entityname.sgt_admingenbook>Дополненное руководство для моряков</entityname.sgt_admingenbook>
+  <entitydescription.sgt_admingenbook>В ней рассказывается обо всем по порядку: о том, как заменить моторное мало, о том, как объезжать сосульки и как эффективно обращаться с огнестрельным оружием.
+
+
+  Это админский предмет.</entitydescription.sgt_admingenbook>
+  <entityname.adminxpbook>Тлеющий дневник</entityname.adminxpbook>
+  <entitydescription.adminxpbook>На лицевой стороне есть вполне различимое трехбуквенное название, но это не объясняет, почему оно содержит бессмысленные фразы и коорднаты. Что находится на северной широте 28 градусов, 24 минуты, западной долготе 80 градусов, 36 минут? Стоит ли это каких-то невероятных приключений?
+
+
+  Это админский предмет.</entitydescription.adminxpbook>
+</infotexts>

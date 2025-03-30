@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Missions -->
+  <missionsonarlabel.slimecollection>[resourcename1]</missionsonarlabel.slimecollection>
+  <missionname.gotoclownhuskoperative>Найдите клоуна-оперативника</missionname.gotoclownhuskoperative>
+  <missiondescription.gotoclownhuskoperative>Спасите клоуна с церковного форпоста.</missiondescription.gotoclownhuskoperative>
+  <missionsuccess.gotoclownhuskoperative>Наивный клоун покинул свою труппу и попытался проникнуть в [location1]. Расследуйте ситуацию.</missionsuccess.gotoclownhuskoperative>
+  <missionname.huskcultinterception>Перехватить судно культистов</missionname.huskcultinterception>
+  <missiondescription.huskcultinterception>Воспрепятствуйте доставке медикаментов на аванпост Коалиции. Перехватите транспортный корабль культистов.</missiondescription.huskcultinterception>
+  <missionheader0.huskcultinterception>Местоположение транспортного судна</missionheader0.huskcultinterception>
+  <missionmessage0.huskcultinterception>Нейтрализуйте команду или отправьте субмарину на дно моря!</missionmessage0.huskcultinterception>
+  <missionmessage1.huskcultinterception>Отправляйтесь к [location2], чтобы получить свою награду.</missionmessage1.huskcultinterception>
+  <missionsuccess.huskcultinterception>Груз был конфискован.</missionsuccess.huskcultinterception>
+  <missionfailure.huskcultinterception>Груз не был перехвачен.</missionfailure.huskcultinterception>
+  <missionheader0.huskcultinterception>Груз возвращён</missionheader0.huskcultinterception>
+  <missionmessage0.huskcultinterception>Учёный культа успешно ликвидирован. Покиньте аванпост, чтобы завершить миссию.</missionmessage0.huskcultinterception>
+  <missionname.huskcultattack1>Засада для сектантов</missionname.huskcultattack1>
+  <missionheader0.huskcultattack1>Входящее сообщение</missionheader0.huskcultattack1>
+  <missionmessage0.huskcultattack1>«Ваши преступления против нашей церкви больше не будут игнорировать. Да обретёте вы милость в тёмных глубинах!»</missionmessage0.huskcultattack1>
+  <missionname.assassinatehuskresearcher>Убийство на аванпосте</missionname.assassinatehuskresearcher>
+  <missiondescription.assassinatehuskresearcher>Информатор из [location1] сообщил нам, что ведущий ученый церкви разрабатывает разрушительный прототип биологического оружия. Ликвидируйте цель и положите конец их исследованиям.</missiondescription.assassinatehuskresearcher>
+  <missionsuccess.assassinatehuskresearcher>Ученый культа был успешно ликвидирован.</missionsuccess.assassinatehuskresearcher>
+  <missionfailure.assassinatehuskresearcher>Устранить учёного не удалось.</missionfailure.assassinatehuskresearcher>
+  <missionheader0.assassinatehuskresearcher>Учёный убит</missionheader0.assassinatehuskresearcher>
+  <missionmessage0.assassinatehuskresearcher>Учёный культа успешно уничтожен. Немедленно покиньте аванпост и завершите миссию.</missionmessage0.assassinatehuskresearcher>
+  <missionname.escorthuskterrorist>Перевозка пассажиров</missionname.escorthuskterrorist>
+  <missiondescription.escorthuskterrorist>Сопроводите нескольких сотрудников из [location1] в [location2], обеспечив их безопасность.</missiondescription.escorthuskterrorist>
+  <missionsuccess.escorthuskterrorist>Перевозка личного состава прошла успешно, и с экстремистами было покончено.</missionsuccess.escorthuskterrorist>
+  <missionfailure.escorthuskterrorist>Пассажиры не достигли места назначения, или экстремисты не были обнаружены и нейтрализованы.</missionfailure.escorthuskterrorist>
+  <missionheader0.escorthuskterrorist>Пассажиры мертвы</missionheader0.escorthuskterrorist>
+  <missionmessage0.escorthuskterrorist>Слишком много пассажиров погибло в море. Миссия провалена.</missionmessage0.escorthuskterrorist>
+  <missionheader1.escorthuskterrorist>Угроза устранена.</missionheader1.escorthuskterrorist>
+  <missionmessage1.escorthuskterrorist>Похоже, это был последний из экстремистов. Проверьте свою команду и доберитесь до [location2].</missionmessage1.escorthuskterrorist>
+  <missionname.jailbreak_husk>Побег из тюрьмы</missionname.jailbreak_husk>
+  <missiondescription.jailbreak_husk>Церковь Хаска поручила вам освободить нескольких своих прозелитов, которые находятся в плену.</missiondescription.jailbreak_husk>
+  <missionsuccess.jailbreak_husk>Прозелиты были спасены.</missionsuccess.jailbreak_husk>
+  <missionfailure.jailbreak_husk>Освободить прозелитов не удалось.</missionfailure.jailbreak_husk>
+  <missionsuccess.jailbreak_husk_singletarget>Прозелит был спасен.</missionsuccess.jailbreak_husk_singletarget>
+  <missionfailure.jailbreak_husk_singletarget>Освободить прозелита не удалось.</missionfailure.jailbreak_husk_singletarget>
+  <missionname.huskmedicalcargo>Доставка медикаментов</missionname.huskmedicalcargo>
+  <missiondescription.huskmedicalcargo>[location2] остро нуждается в медицинских препаратах, и церковь поручила вам их доставить.</missiondescription.huskmedicalcargo>
+  <missionsuccess.huskmedicalcargo>Медикаменты доставлены.</missionsuccess.huskmedicalcargo>
+  <missionfailure.huskmedicalcargo>Поставки не были осуществлены.</missionfailure.huskmedicalcargo>
+  <missionname.huskeggsmuggling>Контрабанда экстракта каликса</missionname.huskeggsmuggling>
+  <missiondescription.huskeggsmuggling>Церковь Хаска желает, чтобы вы тайно переправили яйца хасков, спрятанные среди других медикаментов, их агентам в [location2].</missiondescription.huskeggsmuggling>
+  <missionsuccess.huskeggsmuggling>Экстракт каликса доставлен.</missionsuccess.huskeggsmuggling>
+  <missionfailure.huskeggsmuggling>Поставки не были осуществлены.</missionfailure.huskeggsmuggling>
+  <missionname.escorthuskvip>Перевозка высокопоставленного священнослужителя</missionname.escorthuskvip>
+  <missiondescription.escorthuskvip>Учёный церкви должен быть переведён в [location2]. Обеспечьте его безопасность.</missiondescription.escorthuskvip>
+  <missionsuccess.escorthuskvip>VIP-перевозка прошла успешно.</missionsuccess.escorthuskvip>
+  <missionfailure.escorthuskvip>Пассажир не добрался до места назначения.</missionfailure.escorthuskvip>
+  <missionname.slimecollection>Сбор образцов слизи</missionname.slimecollection>
+  <missiondescription.slimecollection>Церковь Хаска заплатит [reward] за образцы слизистых бактерий. Соберите и доставьте их в [location2].</missiondescription.slimecollection>
+  <missionheader0.slimecollection>Образцы собраны</missionheader0.slimecollection>
+  <missionmessage0.slimecollection>Собрано достаточно образцов слизи. Отправляйтесь на аванпост за наградой.</missionmessage0.slimecollection>
+  <missionsuccess.slimecollection>Все образцы доставлены.</missionsuccess.slimecollection>
+  <missionfailure.slimecollection>Вы не доставили образцы.</missionfailure.slimecollection>
+  <missionname.destroylair>Уничтожение логова монстров</missionname.destroylair>
+  <missiondescription.destroylair>Монстры угнездились глубоко в [location1] и теперь быстро распространяются по окрестностям. Установите ядерное устройство внутри и взорвите это место раз и навсегда.</missiondescription.destroylair>
+  <missionsuccess.destroylair>Логово успешно уничтожено.</missionsuccess.destroylair>
+  <missionfailure.destroylair>Местность остаётся зараженной.</missionfailure.destroylair>
+  <missionheader0.destroylair>Логово уничтожено</missionheader0.destroylair>
+  <missionmessage0.destroylair>Логово уничтожено. Вознаграждение будет отправлено местными властями.</missionmessage0.destroylair>
+  <eventtext.destroylair.reachheart>Доберитесь до центра логова с бомбой.</eventtext.destroylair.reachheart>
+  <eventtext.destroylair.plantbomb>Заложить бомбу</eventtext.destroylair.plantbomb>
+  <missionheader0.pirate1>Пиратский аванпост</missionheader0.pirate1>
+  <missionname.destroypirateoutpost>Пиратский аванпост</missionname.destroypirateoutpost>
+  <missiondescription.destroypirateoutpost>Это место — пристанище воров. Вы можете свободно заниматься бизнесом... либо же избавить Европу от этой нечисти.</missiondescription.destroypirateoutpost>
+  <missionsuccess.destroypirateoutpost>Вы очистили аванпост от нежелательных обитателей. Европа стала немного безопаснее.</missionsuccess.destroypirateoutpost>
+  <missionfailure.destroypirateoutpost>Пираты по-прежнему контролируют аванпост.</missionfailure.destroypirateoutpost>
+  <missionheader0.destroypirateoutpost>Пираты уничтожены</missionheader0.destroypirateoutpost>
+  <missionmessage0.destroypirateoutpost>Вы очистили аванпост от нежелательных обитателей. Европа стала немного безопаснее.</missionmessage0.destroypirateoutpost>
+  <missionname.killelectricspineling1>Убийство гигантского электрического шипостая</missionname.killelectricspineling1>
+  <missiondescription.killelectricspineling1>Крайне опасный гигантский электрический шипостай терроризирует суда, плавающие между [location1] и [location2]. Награда в количестве [reward] кредитов была обещана тому, кто убьёт это существо.</missiondescription.killelectricspineling1>
+  <missionsonarlabel.killelectricspineling1>Гигантский электрический шипостай</missionsonarlabel.killelectricspineling1>
+  <missionsuccess.killelectricspineling1>Гигантский электрический шипостай был убит.</missionsuccess.killelectricspineling1>
+  <missionheader0.killelectricspineling1>Цель уничтожена</missionheader0.killelectricspineling1>
+  <missionmessage0.killelectricspineling1>Гигантский электрический шипостай мёртв. Выведите подводную лодку из пещеры, чтобы получить награду.</missionmessage0.killelectricspineling1>
+  <missionname.killelectricspineling2>Убийство двух гигантских электрических шипостаев</missionname.killelectricspineling2>
+  <missiondescription.killelectricspineling2>Особенно агрессивная пара гигантских электрических шипостаев терроризирует суда, плавающие между [location1] и [location2]. Награда в количестве [reward] кредитов была обещана тем, кто убьёт этих существ.</missiondescription.killelectricspineling2>
+  <missionsonarlabel.killelectricspineling2>Гигантский электрический шипостай</missionsonarlabel.killelectricspineling2>
+  <missionsuccess.killelectricspineling2>Гигантские электрические шипостаи были убиты.</missionsuccess.killelectricspineling2>
+  <missionheader0.killelectricspineling2>Цели уничтожены</missionheader0.killelectricspineling2>
+  <missionmessage0.killelectricspineling2>Гигантские электрические шипостаи мертвы. Выведите подводную лодку из пещеры, чтобы получить награду.</missionmessage0.killelectricspineling2>
+  <missionname.cotakeover_separatistoutpost>Захват аванпоста Коалиции</missionname.cotakeover_separatistoutpost>
+  <missionname.septakeover_coalitionoutpost>Захват аванпоста сепаратистов</missionname.septakeover_coalitionoutpost>
+  <missiondescription.cotakeover_separatistoutpost>Гарнизон сепаратистских повстанцев находится в [location1]. Уничтожьте их и захватите форпост для Коалиции.</missiondescription.cotakeover_separatistoutpost>
+  <missiondescription.septakeover_coalitionoutpost>Гарнизон солдат Коалиции находится в [location1]. Уничтожьте их и освободите форпост во имя сепаратистов.</missiondescription.septakeover_coalitionoutpost>
+  <missionheader0.coalitiontakeover>Аванпост захвачен</missionheader0.coalitiontakeover>
+  <missionmessage0.coalitiontakeover>Похоже, сепаратисты сдаются.</missionmessage0.coalitiontakeover>
+  <missionheader0.separatisttakeover>Аванпост освобождён</missionheader0.separatisttakeover>
+  <missionmessage0.separatisttakeover>Похоже, Коалиция отказывается от этой станции.</missionmessage0.separatisttakeover>
+  <missionname.coalition_cargotrap>Ограбление транспортного судна Коалиции</missionname.coalition_cargotrap>
+  <missiondescription.coalition_cargotrap>По этому маршруту проходит транспортное судно Коалиции. Уничтожьте их команду и разграбьте их корабль!</missiondescription.coalition_cargotrap>
+  <missionsuccess.coalition_cargotrap>Вы успешно уничтожили экипаж Коалиции!</missionsuccess.coalition_cargotrap>
+  <missionfailure.coalition_cargotrap>Вы не устранили экипаж Коалиции!</missionfailure.coalition_cargotrap>
+  <missionheader0.coalition_cargotrap>Обнаружено судно Коалиции</missionheader0.coalition_cargotrap>
+  <missionmessage0.coalition_cargotrap>О нет! Кажется, это была ловушка... Это военное судно!</missionmessage0.coalition_cargotrap>
+  <missionheader1.coalition_cargotrap>Экипаж судна ликвидирован</missionheader1.coalition_cargotrap>
+  <missionmessage1.coalition_cargotrap>Разграбьте их судно и продолжайте движение к [location2].</missionmessage1.coalition_cargotrap>
+  <missionname.stealingintel>Информационный шпионаж</missionname.stealingintel>
+  <missiondescription.stealingintel>Юпитерианские сепаратисты поручили вам украсть секретные документы Коалиции, чтобы получить больше информации об их операциях.</missiondescription.stealingintel>
+  <missionsuccess.stealingintel>Документы успешно получены.</missionsuccess.stealingintel>
+  <missionfailure.stealingintel>Не удалось заполучить документы.</missionfailure.stealingintel>
+  <missionmessage0.stealingintel>Вы нашли секретные документы. Лучше поскорее убраться отсюда, пока кто-нибудь не заметил.</missionmessage0.stealingintel>
+  <missionname.crawlerlair1>Логово ползунов</missionname.crawlerlair1>
+  <missiondescription.crawlerlair1>Ползуны гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.crawlerlair1>
+  <missionsuccess.crawlerlair1>Гнездо было успешно уничтожено.</missionsuccess.crawlerlair1>
+  <missionfailure.crawlerlair1>Местность остаётся заражённой.</missionfailure.crawlerlair1>
+  <missionheader0.crawlerlair1>Гнездо уничтожено</missionheader0.crawlerlair1>
+  <missionmessage0.crawlerlair1>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.crawlerlair1>
+  <missionname.crawlerlair2>Логово ползунов</missionname.crawlerlair2>
+  <missiondescription.crawlerlair2>Ползуны гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.crawlerlair2>
+  <missionsuccess.crawlerlair2>Гнездо было успешно уничтожено.</missionsuccess.crawlerlair2>
+  <missionfailure.crawlerlair2>Местность остаётся заражённой.</missionfailure.crawlerlair2>
+  <missionheader0.crawlerlair2>Гнездо уничтожено</missionheader0.crawlerlair2>
+  <missionmessage0.crawlerlair2>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.crawlerlair2>
+  <missionname.crawlerlair3>Логово ползунов</missionname.crawlerlair3>
+  <missiondescription.crawlerlair3>Ползуны гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.crawlerlair3>
+  <missionsuccess.crawlerlair3>Гнездо было успешно уничтожено.</missionsuccess.crawlerlair3>
+  <missionfailure.crawlerlair3>Местность остаётся заражённой.</missionfailure.crawlerlair3>
+  <missionheader0.crawlerlair3>Гнездо уничтожено</missionheader0.crawlerlair3>
+  <missionmessage0.crawlerlair3>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.crawlerlair3>
+  <missionname.mudraptorlair1>Логово грязевых рапторов</missionname.mudraptorlair1>
+  <missiondescription.mudraptorlair1>Грязевые рапторы гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.mudraptorlair1>
+  <missionsuccess.mudraptorlair1>Гнездо было успешно уничтожено.</missionsuccess.mudraptorlair1>
+  <missionfailure.mudraptorlair1>Местность остаётся заражённой.</missionfailure.mudraptorlair1>
+  <missionheader0.mudraptorlair1>Гнездо уничтожено</missionheader0.mudraptorlair1>
+  <missionmessage0.mudraptorlair1>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.mudraptorlair1>
+  <missionname.mudraptorlair2>Логово грязевых рапторов</missionname.mudraptorlair2>
+  <missiondescription.mudraptorlair2>Грязевые рапторы гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.mudraptorlair2>
+  <missionsuccess.mudraptorlair2>Гнездо было успешно уничтожено.</missionsuccess.mudraptorlair2>
+  <missionfailure.mudraptorlair2>Местность остаётся заражённой.</missionfailure.mudraptorlair2>
+  <missionheader0.mudraptorlair2>Гнездо уничтожено</missionheader0.mudraptorlair2>
+  <missionmessage0.mudraptorlair2>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.mudraptorlair2>
+  <missionname.mudraptorlair3>Логово грязевых рапторов</missionname.mudraptorlair3>
+  <missiondescription.mudraptorlair3>Грязевые рапторы гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.mudraptorlair3>
+  <missionsuccess.mudraptorlair3>Гнездо было успешно уничтожено.</missionsuccess.mudraptorlair3>
+  <missionfailure.mudraptorlair3>Местность остаётся заражённой.</missionfailure.mudraptorlair3>
+  <missionheader0.mudraptorlair3>Гнездо уничтожено</missionheader0.mudraptorlair3>
+  <missionmessage0.mudraptorlair3>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.mudraptorlair3>
+  <missionname.thresherlair1>Логово акульих тигров</missionname.thresherlair1>
+  <missiondescription.thresherlair1>Акульи тигры гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.thresherlair1>
+  <missionsuccess.thresherlair1>Гнездо было успешно уничтожено.</missionsuccess.thresherlair1>
+  <missionfailure.thresherlair1>Местность остаётся заражённой.</missionfailure.thresherlair1>
+  <missionheader0.thresherlair1>Гнездо уничтожено</missionheader0.thresherlair1>
+  <missionmessage0.thresherlair1>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.thresherlair1>
+  <missionname.thresherlair2>Логово акульих тигров</missionname.thresherlair2>
+  <missiondescription.thresherlair2>Акульи тигры гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.thresherlair2>
+  <missionsuccess.thresherlair2>Гнездо было успешно уничтожено.</missionsuccess.thresherlair2>
+  <missionfailure.thresherlair2>Местность остаётся заражённой.</missionfailure.thresherlair2>
+  <missionheader0.thresherlair2>Гнездо уничтожено</missionheader0.thresherlair2>
+  <missionmessage0.thresherlair2>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.thresherlair2>
+  <missionname.thresherlair3>Логово акульих тигров</missionname.thresherlair3>
+  <missiondescription.thresherlair3>Акульи тигры гнездятся в [location1]. Найдите центр их логова и уничтожьте его. Мы отметили все потенциальные цели на вашем сонаре. Нужно, чтобы вы нашли нужное место и установили там ядерную бомбу. У вас должна быть одна в наличии. Совет: активируйте бомбу только тогда, когда знаете кратчайший путь обратно к своей подлодке!</missiondescription.thresherlair3>
+  <missionsuccess.thresherlair3>Гнездо было успешно уничтожено.</missionsuccess.thresherlair3>
+  <missionfailure.thresherlair3>Местность остаётся заражённой.</missionfailure.thresherlair3>
+  <missionheader0.thresherlair3>Гнездо уничтожено</missionheader0.thresherlair3>
+  <missionmessage0.thresherlair3>«Отличная работа! Кажется, вы успешно уничтожили все гнёзда. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.thresherlair3>
+  <missionname.huskcrawlerlair>Инкубатор заражённых ползунов</missionname.huskcrawlerlair>
+  <missiondescription.huskcrawlerlair>Заражённые ползуны быстро размножаются в [location1]. Мы не можем допустить их дальнейшего распространения! Помогите нам избавиться от них, уничтожив всех, кого вы найдёте в этой пещере! Мы отправили вам кое-что, чтобы помочь с ними справиться, проверьте ваш груз. Перед детонацией держитесь как можно дальше!</missiondescription.huskcrawlerlair>
+  <missionsuccess.huskcrawlerlair>Заражённые ползуны были успешно уничтожены.</missionsuccess.huskcrawlerlair>
+  <missionfailure.huskcrawlerlair>Местность остается заражённой.</missionfailure.huskcrawlerlair>
+  <missionheader0.huskcrawlerlair>Ползуны мертвы</missionheader0.huskcrawlerlair>
+  <missionmessage0.huskcrawlerlair>«Воу, хорошая работа! Кажется, вы устранили там всех. Покиньте эту территорию, и мы вышлем вам вашу награду».</missionmessage0.huskcrawlerlair>
+  <missionname.wasteyard>Свалка</missionname.wasteyard>
+  <missiondescription.wasteyard>Слишком много судов тонуло в [location1], и все их токсичные отходы, вытекающие в океан, превратили местную фауну в крайне опасных существ. Мы не можем позволить распространяться этой заразе дальше! Помогите нам избавиться от них, расстреляв каждое из них и уничтожив каждое яйцо, которое вы сможете найти в этом месте.</missiondescription.wasteyard>
+  <missionsuccess.wasteyard>Свалка расчищена.</missionsuccess.wasteyard>
+  <missionfailure.wasteyard>Местность остаётся загрязнённой.</missionfailure.wasteyard>
+  <missionheader0.wasteyard>Цели уничтожены</missionheader0.wasteyard>
+  <missionmessage0.wasteyard>«Не думали, что вы выберетесь оттуда живыми! Кажется, всё сделано. Покиньте этот район, и мы вышлем тебе награду».</missionmessage0.wasteyard>
+  <missionname.coalition_cargo2>Ограбление транспортного судна Коалиции</missionname.coalition_cargo2>
+  <missiondescription.coalition_cargo2>По этому маршруту проходит транспортное судно Коалиции. Уничтожьте их команду и разграбьте их корабль!</missiondescription.coalition_cargo2>
+  <missionsuccess.coalition_cargo2>Вы успешно уничтожили экипаж Коалиции!</missionsuccess.coalition_cargo2>
+  <missionfailure.coalition_cargo2>Вы не устранили экипаж Коалиции!</missionfailure.coalition_cargo2>
+  <missionheader0.coalition_cargo2>Обнаружено судно Коалиции</missionheader0.coalition_cargo2>
+  <missionmessage0.coalition_cargo2>Пора разобраться с ними! У них есть добыча, которая вам нужна!</missionmessage0.coalition_cargo2>
+  <missionheader1.coalition_cargo2>Экипаж судна ликвидирован</missionheader1.coalition_cargo2>
+  <missionmessage1.coalition_cargo2>Разграбьте их судно и продолжайте движение к [location2].</missionmessage1.coalition_cargo2>
+  <missionname.gotorandomencounter>Случайная встреча</missionname.gotorandomencounter>
+  <missiondescription.gotorandomencounter>Вы улавливаете странный инопланетный сигнал...</missiondescription.gotorandomencounter>
+  <missionsuccess.gotorandomencounter>Вы решили исследовать странный инопланетный сигнал.</missionsuccess.gotorandomencounter>
+  <missionfailure.gotorandomencounter>Вы не стали исследовать сигнал.</missionfailure.gotorandomencounter>
+  <missionheader0.gotorandomencounter>Прибытие.</missionheader0.gotorandomencounter>
+  <missionmessage0.gotorandomencounter>Вы исследовали сигнал.</missionmessage0.gotorandomencounter>
+  <missionname.random_salvageskyholderartifactruins>Случайная встреча</missionname.random_salvageskyholderartifactruins>
+  <missiondescription.random_salvageskyholderartifactruins>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_salvageskyholderartifactruins>
+  <missionsonarlabel.random_salvageskyholderartifactruins>Неизвестный сигнал</missionsonarlabel.random_salvageskyholderartifactruins>
+  <missionsuccess.random_salvageskyholderartifactruins>Вы решили забрать артефакт с собой. Он может быть ценным.</missionsuccess.random_salvageskyholderartifactruins>
+  <missionfailure.random_salvageskyholderartifactruins>Вы не стали исследовать сигнал.</missionfailure.random_salvageskyholderartifactruins>
+  <missionheader0.random_salvageskyholderartifactruins>Артефакт собран</missionheader0.random_salvageskyholderartifactruins>
+  <missionmessage0.random_salvageskyholderartifactruins>Вы исследовали сигнал и обнаружили артефакт.</missionmessage0.random_salvageskyholderartifactruins>
+  <missionname.random_salvagethermalartifactruins>Случайная встреча</missionname.random_salvagethermalartifactruins>
+  <missiondescription.random_salvagethermalartifactruins>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_salvagethermalartifactruins>
+  <missionsonarlabel.random_salvagethermalartifactruins>Неизвестный сигнал</missionsonarlabel.random_salvagethermalartifactruins>
+  <missionsuccess.random_salvagethermalartifactruins>Вы решили забрать артефакт с собой. Он может быть ценным.</missionsuccess.random_salvagethermalartifactruins>
+  <missionfailure.random_salvagethermalartifactruins>Вы не стали исследовать сигнал.</missionfailure.random_salvagethermalartifactruins>
+  <missionheader0.random_salvagethermalartifactruins>Артефакт собран</missionheader0.random_salvagethermalartifactruins>
+  <missionmessage0.random_salvagethermalartifactruins>Вы исследовали сигнал и обнаружили артефакт.</missionmessage0.random_salvagethermalartifactruins>
+  <missionname.random_salvagethermalartifactcave>Случайная встреча</missionname.random_salvagethermalartifactcave>
+  <missiondescription.random_salvagethermalartifactcave>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_salvagethermalartifactcave>
+  <missionsonarlabel.random_salvagethermalartifactcave>Неизвестный сигнал</missionsonarlabel.random_salvagethermalartifactcave>
+  <missionsuccess.random_salvagethermalartifactcave>Вы решили забрать артефакт с собой. Он может быть ценным.</missionsuccess.random_salvagethermalartifactcave>
+  <missionfailure.random_salvagethermalartifactcave>Вы не стали исследовать сигнал.</missionfailure.random_salvagethermalartifactcave>
+  <missionheader0.random_salvagethermalartifactcave>Артефакт собран</missionheader0.random_salvagethermalartifactcave>
+  <missionmessage0.random_salvagethermalartifactcave>Вы исследовали сигнал и обнаружили артефакт.</missionmessage0.random_salvagethermalartifactcave>
+  <missionname.random_salvagenasonovartifactcave>Случайная встреча</missionname.random_salvagenasonovartifactcave>
+  <missiondescription.random_salvagenasonovartifactcave>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_salvagenasonovartifactcave>
+  <missionsonarlabel.random_salvagenasonovartifactcave>Неизвестный сигнал</missionsonarlabel.random_salvagenasonovartifactcave>
+  <missionsuccess.random_salvagenasonovartifactcave>Вы решили забрать артефакт с собой. Он может быть ценным.</missionsuccess.random_salvagenasonovartifactcave>
+  <missionfailure.random_salvagenasonovartifactcave>Вы не стали исследовать сигнал.</missionfailure.random_salvagenasonovartifactcave>
+  <missionheader0.random_salvagenasonovartifactcave>Артефакт собран</missionheader0.random_salvagenasonovartifactcave>
+  <missionmessage0.random_salvagenasonovartifactcave>Вы исследовали сигнал и обнаружили артефакт.</missionmessage0.random_salvagenasonovartifactcave>
+  <missionname.random_killmoloch>Случайная встреча</missionname.random_killmoloch>
+  <missiondescription.random_killmoloch>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killmoloch>
+  <missionsonarlabel.random_killmoloch>Неизвестный сигнал</missionsonarlabel.random_killmoloch>
+  <missionsuccess.random_killmoloch>Сигнал расследован, молох убит.</missionsuccess.random_killmoloch>
+  <missionheader0.random_killmoloch>Цель уничтожена</missionheader0.random_killmoloch>
+  <missionmessage0.random_killmoloch>Оказывается, сигнал исходил от этого молоха.</missionmessage0.random_killmoloch>
+  <missionname.random_killmolochblack>Случайная встреча</missionname.random_killmolochblack>
+  <missiondescription.random_killmolochblack>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killmolochblack>
+  <missionsonarlabel.random_killmolochblack>Неизвестный сигнал</missionsonarlabel.random_killmolochblack>
+  <missionsuccess.random_killmolochblack>Сигнал расследован, молох убит.</missionsuccess.random_killmolochblack>
+  <missionheader0.random_killmolochblack>Цель уничтожена</missionheader0.random_killmolochblack>
+  <missionmessage0.random_killmolochblack>Оказывается, сигнал исходил от этого молоха.</missionmessage0.random_killmolochblack>
+  <missionname.random_killlargecrawler>Случайная встреча</missionname.random_killlargecrawler>
+  <missiondescription.random_killlargecrawler>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killlargecrawler>
+  <missionsonarlabel.random_killlargecrawler>Неизвестный сигнал</missionsonarlabel.random_killlargecrawler>
+  <missionsuccess.random_killlargecrawler>Сигнал расследован, ползуны уничтожены.</missionsuccess.random_killlargecrawler>
+  <missionname.random_killtigerthresher>Случайная встреча</missionname.random_killtigerthresher>
+  <missiondescription.random_killtigerthresher>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killtigerthresher>
+  <missionsonarlabel.random_killtigerthresher>Неизвестный сигнал</missionsonarlabel.random_killtigerthresher>
+  <missionsuccess.random_killtigerthresher>Сигнал расследован, акульи тигры уничтожены.</missionsuccess.random_killtigerthresher>
+  <missionheader0.random_killtigerthresher>Цели уничтожены</missionheader0.random_killtigerthresher>
+  <missionmessage0.random_killtigerthresher>Оказывается, сигнал исходил от этих акульих тигров.</missionmessage0.random_killtigerthresher>
+  <missionname.random_killcrawlerbroodmother1>Случайная встреча</missionname.random_killcrawlerbroodmother1>
+  <missiondescription.random_killcrawlerbroodmother1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killcrawlerbroodmother1>
+  <missionsonarlabel.random_killcrawlerbroodmother1>Неизвестный сигнал</missionsonarlabel.random_killcrawlerbroodmother1>
+  <missionsuccess.random_killcrawlerbroodmother1>Сигнал расследован, матка роя ползунов мертва.</missionsuccess.random_killcrawlerbroodmother1>
+  <missionheader0.random_killcrawlerbroodmother1>Цель уничтожена</missionheader0.random_killcrawlerbroodmother1>
+  <missionmessage0.random_killcrawlerbroodmother1>Оказывается, сигнал исходил от этой матки роя ползунов.</missionmessage0.random_killcrawlerbroodmother1>
+  <missionname.random_killcrawlerbroodmother2>Случайная встреча</missionname.random_killcrawlerbroodmother2>
+  <missiondescription.random_killcrawlerbroodmother2>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killcrawlerbroodmother2>
+  <missionsonarlabel.random_killcrawlerbroodmother2>Неизвестный сигнал</missionsonarlabel.random_killcrawlerbroodmother2>
+  <missionsuccess.random_killcrawlerbroodmother2>Сигнал расследован, матка роя ползунов мертва.</missionsuccess.random_killcrawlerbroodmother2>
+  <missionname.random_killcrawlerbroodmother3>Случайная встреча</missionname.random_killcrawlerbroodmother3>
+  <missiondescription.random_killcrawlerbroodmother3>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killcrawlerbroodmother3>
+  <missionsonarlabel.random_killcrawlerbroodmother3>Неизвестный сигнал</missionsonarlabel.random_killcrawlerbroodmother3>
+  <missionsuccess.random_killcrawlerbroodmother3>Сигнал расследован, матка роя ползунов мертва.</missionsuccess.random_killcrawlerbroodmother3>
+  <missionname.random_killcrawlerswarm1>Случайная встреча</missionname.random_killcrawlerswarm1>
+  <missiondescription.random_killcrawlerswarm1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killcrawlerswarm1>
+  <missionsonarlabel.random_killcrawlerswarm1>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm1>
+  <missionsuccess.random_killcrawlerswarm1>Сигнал расследован, рой уничтожен.</missionsuccess.random_killcrawlerswarm1>
+  <missionheader0.random_killcrawlerswarm1>Цели уничтожены</missionheader0.random_killcrawlerswarm1>
+  <missionmessage0.random_killcrawlerswarm1>Оказалось, что сигнал исходил от этого роя.</missionmessage0.random_killcrawlerswarm1>
+  <missionname.random_killcrawlerswarm1large>Случайная встреча</missionname.random_killcrawlerswarm1large>
+  <missiondescription.random_killcrawlerswarm1large>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killcrawlerswarm1large>
+  <missionsonarlabel.random_killcrawlerswarm1large>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm1large>
+  <missionsuccess.random_killcrawlerswarm1large>Сигнал расследован, рой уничтожен.</missionsuccess.random_killcrawlerswarm1large>
+  <missionname.random_killcrawlerswarm1huge>Случайная встреча</missionname.random_killcrawlerswarm1huge>
+  <missiondescription.random_killcrawlerswarm1huge>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killcrawlerswarm1huge>
+  <missionsonarlabel.random_killcrawlerswarm1huge>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm1huge>
+  <missionsuccess.random_killcrawlerswarm1huge>Сигнал расследован, рой уничтожен.</missionsuccess.random_killcrawlerswarm1huge>
+  <missionname.random_killcrawlerswarm2>Случайная встреча</missionname.random_killcrawlerswarm2>
+  <missiondescription.random_killcrawlerswarm2>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killcrawlerswarm2>
+  <missionsonarlabel.random_killcrawlerswarm2>Неизвестный сигнал</missionsonarlabel.random_killcrawlerswarm2>
+  <missionsuccess.random_killcrawlerswarm2>Сигнал расследован, рой уничтожен.</missionsuccess.random_killcrawlerswarm2>
+  <missionheader0.random_killcrawlerswarm2>Цели уничтожены</missionheader0.random_killcrawlerswarm2>
+  <missionmessage0.random_killcrawlerswarm2>Оказалось, что сигнал исходил от этого роя.</missionmessage0.random_killcrawlerswarm2>
+  <missionname.random_killhammerhead_basic>Случайная встреча</missionname.random_killhammerhead_basic>
+  <missiondescription.random_killhammerhead_basic>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killhammerhead_basic>
+  <missionsonarlabel.random_killhammerhead_basic>Неизвестный сигнал</missionsonarlabel.random_killhammerhead_basic>
+  <missionsuccess.random_killhammerhead_basic>Сигнал расследован, молотоглав уничтожен.</missionsuccess.random_killhammerhead_basic>
+  <missionheader0.random_killhammerhead_basic>Цель уничтожена</missionheader0.random_killhammerhead_basic>
+  <missionmessage0.random_killhammerhead_basic>Оказалось, что сигнал исходил от молотоглава.</missionmessage0.random_killhammerhead_basic>
+  <missionname.random_killhammerhead>Случайная встреча</missionname.random_killhammerhead>
+  <missiondescription.random_killhammerhead>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killhammerhead>
+  <missionsonarlabel.random_killhammerhead>Неизвестный сигнал</missionsonarlabel.random_killhammerhead>
+  <missionsuccess.random_killhammerhead>Сигнал расследован, молотоглав уничтожен.</missionsuccess.random_killhammerhead>
+  <missionheader0.random_killhammerhead>Цель уничтожена</missionheader0.random_killhammerhead>
+  <missionmessage0.random_killhammerhead>Оказалось, что сигнал исходил от молотоглава.</missionmessage0.random_killhammerhead>
+  <missionname.random_killhammerhead2>Случайная встреча</missionname.random_killhammerhead2>
+  <missiondescription.random_killhammerhead2>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killhammerhead2>
+  <missionsonarlabel.random_killhammerhead2>Неизвестный сигнал</missionsonarlabel.random_killhammerhead2>
+  <missionsuccess.random_killhammerhead2>Сигнал расследован, молотоглавы уничтожены.</missionsuccess.random_killhammerhead2>
+  <missionheader0.random_killhammerhead2>Цели уничтожены</missionheader0.random_killhammerhead2>
+  <missionmessage0.random_killhammerhead2>Оказалось, что сигнал исходил от этих молотоглавов.</missionmessage0.random_killhammerhead2>
+  <missionname.random_killmatriarch1>Случайная встреча</missionname.random_killmatriarch1>
+  <missiondescription.random_killmatriarch1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killmatriarch1>
+  <missionsonarlabel.random_killmatriarch1>Неизвестный сигнал</missionsonarlabel.random_killmatriarch1>
+  <missionsuccess.random_killmatriarch1>Сигнал исследован, а молотоглавы нейтрализованы. Маршрут снова стал безопасным.</missionsuccess.random_killmatriarch1>
+  <missionheader0.random_killmatriarch1>Цели нейтрализованы</missionheader0.random_killmatriarch1>
+  <missionmessage0.random_killmatriarch1>Оказалось, что сигнал исходил от этих молотоглавов.</missionmessage0.random_killmatriarch1>
+  <missionname.random_killmatriarch2>Случайная встреча</missionname.random_killmatriarch2>
+  <missiondescription.random_killmatriarch2>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killmatriarch2>
+  <missionsonarlabel.random_killmatriarch2>Неизвестный сигнал</missionsonarlabel.random_killmatriarch2>
+  <missionsuccess.random_killmatriarch2>Сигнал исследован, а молотоглав-матриарх убит. Маршрут снова стал безопасным.</missionsuccess.random_killmatriarch2>
+  <missionheader0.random_killmatriarch2>Цель уничтожена</missionheader0.random_killmatriarch2>
+  <missionmessage0.random_killmatriarch2>Оказалось, что сигнал исходил от молотоглава-матриарха.</missionmessage0.random_killmatriarch2>
+  <missionname.random_killhammerheadgold>Случайная встреча</missionname.random_killhammerheadgold>
+  <missiondescription.random_killhammerheadgold>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killhammerheadgold>
+  <missionsonarlabel.random_killhammerheadgold>Неизвестный сигнал</missionsonarlabel.random_killhammerheadgold>
+  <missionsuccess.random_killhammerheadgold>Сигнал исследован, а золотой молотоглав убит.</missionsuccess.random_killhammerheadgold>
+  <missionheader0.random_killhammerheadgold>Цель уничтожена</missionheader0.random_killhammerheadgold>
+  <missionmessage0.random_killhammerheadgold>Оказалось, что сигнал исходил от золотого молотоглава.</missionmessage0.random_killhammerheadgold>
+  <missionname.random_killgiantspineling1>Случайная встреча</missionname.random_killgiantspineling1>
+  <missiondescription.random_killgiantspineling1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killgiantspineling1>
+  <missionsonarlabel.random_killgiantspineling1>Неизвестный сигнал</missionsonarlabel.random_killgiantspineling1>
+  <missionsuccess.random_killgiantspineling1>Сигнал исследован, а гигантский шипостай убит.</missionsuccess.random_killgiantspineling1>
+  <missionheader0.random_killgiantspineling1>Цель уничтожена</missionheader0.random_killgiantspineling1>
+  <missionmessage0.random_killgiantspineling1>Оказалось, что сигнал исходил от гигантского шипостая.</missionmessage0.random_killgiantspineling1>
+  <missionname.random_killgiantspineling2>Случайная встреча</missionname.random_killgiantspineling2>
+  <missiondescription.random_killgiantspineling2>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killgiantspineling2>
+  <missionsonarlabel.random_killgiantspineling2>Неизвестный сигнал</missionsonarlabel.random_killgiantspineling2>
+  <missionsuccess.random_killgiantspineling2>Сигнал исследован, а гигантский шипостай убит.</missionsuccess.random_killgiantspineling2>
+  <missionname.random_killspinelingswarm1>Случайная встреча</missionname.random_killspinelingswarm1>
+  <missiondescription.random_killspinelingswarm1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killspinelingswarm1>
+  <missionsonarlabel.random_killspinelingswarm1>Неизвестный сигнал</missionsonarlabel.random_killspinelingswarm1>
+  <missionsuccess.random_killspinelingswarm1>Сигнал расследован, рой уничтожен.</missionsuccess.random_killspinelingswarm1>
+  <missionname.random_killthresherswarm1>Случайная встреча</missionname.random_killthresherswarm1>
+  <missiondescription.random_killthresherswarm1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killthresherswarm1>
+  <missionsonarlabel.random_killthresherswarm1>Неизвестный сигнал</missionsonarlabel.random_killthresherswarm1>
+  <missionsuccess.random_killthresherswarm1>Сигнал расследован, рой уничтожен.</missionsuccess.random_killthresherswarm1>
+  <missionheader0.random_killthresherswarm1>Цели уничтожены</missionheader0.random_killthresherswarm1>
+  <missionmessage0.random_killthresherswarm1>Оказывается, сигнал исходил от этого роя.</missionmessage0.random_killthresherswarm1>
+  <missionname.random_killthresherswarm2>Случайная встреча</missionname.random_killthresherswarm2>
+  <missiondescription.random_killthresherswarm2>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killthresherswarm2>
+  <missionsonarlabel.random_killthresherswarm2>Неизвестный сигнал</missionsonarlabel.random_killthresherswarm2>
+  <missionsuccess.random_killthresherswarm2>Сигнал расследован, рой уничтожен.</missionsuccess.random_killthresherswarm2>
+  <missionname.random_killmudraptors_basic>Случайная встреча</missionname.random_killmudraptors_basic>
+  <missiondescription.random_killmudraptors_basic>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killmudraptors_basic>
+  <missionsonarlabel.random_killmudraptors_basic>Неизвестный сигнал</missionsonarlabel.random_killmudraptors_basic>
+  <missionsuccess.random_killmudraptors_basic>Сигнал расследован, грязевые рапторы уничтожены.</missionsuccess.random_killmudraptors_basic>
+  <missionname.random_killmudraptors1>Случайная встреча</missionname.random_killmudraptors1>
+  <missiondescription.random_killmudraptors1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killmudraptors1>
+  <missionsonarlabel.random_killmudraptors1>Неизвестный сигнал</missionsonarlabel.random_killmudraptors1>
+  <missionsuccess.random_killmudraptors1>Сигнал расследован, грязевые рапторы уничтожены.</missionsuccess.random_killmudraptors1>
+  <missionheader0.random_killmudraptors1>Цели уничтожены</missionheader0.random_killmudraptors1>
+  <missionmessage0.random_killmudraptors1>Оказывается, сигнал исходил от грязевых рапторов.</missionmessage0.random_killmudraptors1>
+  <missionname.random_killmudraptors2>Случайная встреча</missionname.random_killmudraptors2>
+  <missiondescription.random_killmudraptors2>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_killmudraptors2>
+  <missionsonarlabel.random_killmudraptors2>Неизвестный сигнал</missionsonarlabel.random_killmudraptors2>
+  <missionsuccess.random_killmudraptors2>Сигнал расследован, грязевые рапторы уничтожены.</missionsuccess.random_killmudraptors2>
+  <missionname.random_salvagewreck1>Случайная встреча</missionname.random_salvagewreck1>
+  <missiondescription.random_salvagewreck1>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_salvagewreck1>
+  <missionsonarlabel.random_salvagewreck1>Неизвестный сигнал</missionsonarlabel.random_salvagewreck1>
+  <missionsuccess.random_salvagewreck1>Сигнал изучен, а бортовой журнал успешно извлечён.</missionsuccess.random_salvagewreck1>
+  <missionfailure.random_salvagewreck1>Сигнал не был исследован.</missionfailure.random_salvagewreck1>
+  <missionheader0.random_salvagewreck1>Данные получены.</missionheader0.random_salvagewreck1>
+  <missionmessage0.random_salvagewreck1>Оказалось, что сигнал исходил из бортового журнала, содержащего какие-то зашифрованные данные.</missionmessage0.random_salvagewreck1>
+  <missionname.random_pirate_heavy>Случайная встреча</missionname.random_pirate_heavy>
+  <missiondescription.random_pirate_heavy>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_pirate_heavy>
+  <missionsuccess.random_pirate_heavy>Сигнал был расследован, а экипаж пиратского судна был успешно ликвидирован.</missionsuccess.random_pirate_heavy>
+  <missionfailure.random_pirate_heavy>Сигнал не был исследован.</missionfailure.random_pirate_heavy>
+  <missionsonarlabel.random_pirate_heavy>Неизвестный сигнал</missionsonarlabel.random_pirate_heavy>
+  <missionheader0.random_pirate_heavy>Столкновение с пиратами!</missionheader0.random_pirate_heavy>
+  <missionmessage0.random_pirate_heavy>Нейтрализуйте экипаж или потопите подводную лодку на дно моря!</missionmessage0.random_pirate_heavy>
+  <missionheader1.random_pirate_heavy>Пираты уничтожены</missionheader1.random_pirate_heavy>
+  <missionmessage1.random_pirate_heavy>Оказалось, сигнал исходил от этих пиратов. Возможно, у них есть добыча на борту? Направьте вашу подлодку к [location2], когда будете готовы уйти.</missionmessage1.random_pirate_heavy>
+  <missionname.random_pirate_party>Случайная встреча</missionname.random_pirate_party>
+  <missiondescription.random_pirate_party>Вы улавливаете странный инопланетный сигнал...</missiondescription.random_pirate_party>
+  <missionsuccess.random_pirate_party>Экипаж пиратского судна был успешно ликвидирован.</missionsuccess.random_pirate_party>
+  <missionfailure.random_pirate_party>Экипаж пиратского судна не был уничтожен.</missionfailure.random_pirate_party>
+  <missionsonarlabel.random_pirate_party>Неизвестный сигнал</missionsonarlabel.random_pirate_party>
+  <missionheader0.random_pirate_party>Столкновение с пиратами!</missionheader0.random_pirate_party>
+  <missionmessage0.random_pirate_party>Нейтрализуйте экипаж или потопите подводную лодку на дно моря!</missionmessage0.random_pirate_party>
+  <missionheader1.random_pirate_party>Пираты уничтожены</missionheader1.random_pirate_party>
+  <missionmessage1.random_pirate_party>Оказалось, сигнал исходил от этих пиратов. Возможно, у них есть добыча на борту? Направьте вашу подлодку к [location2], когда будете готовы уйти.</missionmessage1.random_pirate_party>
+  <missionname.pirate_heavy>Усиленное пиратское судно</missionname.pirate_heavy>
+  <missiondescription.pirate_heavy>Найдите пиратское судно, которое терроризирует этот район, и ликвидируйте его экипаж, но помните, что эти пираты укрепили свой корпус, так что вам либо нужно иметь тяжёлое вооружение, либо целиться в двери и люки! Отмеченные места показывают, где судно было замечено в последний раз.</missiondescription.pirate_heavy>
+  <missionsuccess.pirate_heavy>Экипаж пиратского судна был успешно ликвидирован.</missionsuccess.pirate_heavy>
+  <missionfailure.pirate_heavy>Экипаж пиратского судна не был уничтожен.</missionfailure.pirate_heavy>
+  <missionsonarlabel.pirate_heavy>Замечено пиратское судно</missionsonarlabel.pirate_heavy>
+  <missionheader0.pirate_heavy>Пираты обнаружены</missionheader0.pirate_heavy>
+  <missionmessage0.pirate_heavy>Нейтрализуйте экипаж или потопите подводную лодку на дно моря!</missionmessage0.pirate_heavy>
+  <missionheader1.pirate_heavy>Пираты уничтожены</missionheader1.pirate_heavy>
+  <missionmessage1.pirate_heavy>Направляйтесь к [location2], чтобы получить награду.</missionmessage1.pirate_heavy>
+  <missionname.pirate_party>Буйное судно</missionname.pirate_party>
+  <missiondescription.pirate_party>Сообщается о пиратском судне, нападающем на другие суда и крадущем весь их этанол и ром, при этом так громко играя музыку, что это привлекает всех монстров Европы. Избавьтесь от этих пьяных ублюдков, чтобы нам не пришлось иметь дело с чем-то намного хуже. Отмеченные места показывают, где предположительно находится судно.</missiondescription.pirate_party>
+  <missionsuccess.pirate_party>Экипаж пиратского судна успешно ликвидирован.</missionsuccess.pirate_party>
+  <missionfailure.pirate_party>Экипаж пиратского судна не был ликвидирован.</missionfailure.pirate_party>
+  <missionsonarlabel.pirate_party>Замечено пиратское судно</missionsonarlabel.pirate_party>
+  <missionheader0.pirate_party>Пираты обнаружены</missionheader0.pirate_party>
+  <missionmessage0.pirate_party>Нейтрализуйте экипаж или потопите подводную лодку на дно моря!</missionmessage0.pirate_party>
+  <missionheader1.pirate_party>Пираты уничтожены</missionheader1.pirate_party>
+  <missionmessage1.pirate_party>Направляйтесь к [location2], чтобы получить награду.</missionmessage1.pirate_party>
+  <missionname.pirate_piezo>Таинственное пиратское судно</missionname.pirate_piezo>
+  <missiondescription.pirate_piezo>Идут слухи о пиратском судне с необычными способностями в этом районе. Говорят, что оно создаёт некую аномалию для защиты, поэтому лучше держите свою подлодку на безопасном расстоянии! Отмеченные места показывают, где предположительно находится судно.</missiondescription.pirate_piezo>
+  <missionsuccess.pirate_piezo>Экипаж пиратского судна успешно ликвидирован.</missionsuccess.pirate_piezo>
+  <missionfailure.pirate_piezo>Экипаж пиратского судна не был ликвидирован.</missionfailure.pirate_piezo>
+  <missionsonarlabel.pirate_piezo>Замечено пиратское судно</missionsonarlabel.pirate_piezo>
+  <missionheader0.pirate_piezo>Пираты обнаружены</missionheader0.pirate_piezo>
+  <missionmessage0.pirate_piezo>Нейтрализуйте экипаж или потопите подводную лодку на дно моря!</missionmessage0.pirate_piezo>
+  <missionheader1.pirate_piezo>Пираты уничтожены</missionheader1.pirate_piezo>
+  <missionmessage1.pirate_piezo>Направляйтесь к [location2], чтобы получить награду.</missionmessage1.pirate_piezo>
+  <missionname.pirate_lord>Лорд пиратов</missionname.pirate_lord>
+  <missiondescription.pirate_lord>Сообщается о судне пиратского лорда, которое терроризирует этот район. Ликвидируйте его экипаж, и получите щедрую награду! Но помните, это судно пиратского лорда! У них очень прочные корпуса и тяжелое вооружение, так что будьте готовы! Отмеченные места показывают, где судно было замечено в последний раз.</missiondescription.pirate_lord>
+  <missionsuccess.pirate_lord>Экипаж пиратского судна успешно ликвидирован.</missionsuccess.pirate_lord>
+  <missionfailure.pirate_lord>Экипаж пиратского судна не был ликвидирован.</missionfailure.pirate_lord>
+  <missionsonarlabel.pirate_lord>Замечено пиратское судно</missionsonarlabel.pirate_lord>
+  <missionheader0.pirate_lord>Пираты обнаружены</missionheader0.pirate_lord>
+  <missionmessage0.pirate_lord>Нейтрализуйте экипаж или потопите подводную лодку на дно моря!</missionmessage0.pirate_lord>
+  <missionheader1.pirate_lord>Пираты уничтожены</missionheader1.pirate_lord>
+  <missionmessage1.pirate_lord>Направляйтесь к [location2], чтобы получить награду.</missionmessage1.pirate_lord>
+  <missionname.surveyedminerals>Месторождение минералов</missionname.surveyedminerals>
+  <missiondescription.surveyedminerals>Сканирование местности обнаружило [resourcename1] и [resourcename2] на пути к [location2].</missiondescription.surveyedminerals>
+  <missionmessage0.surveyedminerals>Похоже, это все разведанные минералы.</missionmessage0.surveyedminerals>
+  <missionsuccess.surveyedminerals>Вы добыли все залежи [resourcename1] и [resourcename2].</missionsuccess.surveyedminerals>
+  <missionheader0.surveyedminerals>Минералы извлечены</missionheader0.surveyedminerals>
+  <missionsonarlabel.surveyedminerals>Минерал</missionsonarlabel.surveyedminerals>
+  <missionname.vipnapping>Похищение VIP</missionname.vipnapping>
+  <missiondescription.vipnapping>Богатый предприниматель ведёт дела в [location1]. Перетащите его живым на свою подлодку и сбегите со станции.</missiondescription.vipnapping>
+  <missionsuccess.vipnapping>VIP был похищен.</missionsuccess.vipnapping>
+  <missionfailure.vipnapping>Вы не схватили VIP.</missionfailure.vipnapping>
+  <missionheader0.vipnapping>Похищение VIP</missionheader0.vipnapping>
+  <missionmessage0.vipnapping>VIP доставлен, пора уходить!</missionmessage0.vipnapping>
+  <vipkilled>VIP погиб.</vipkilled>
+  <eventtext.escortransom.findbeacon>Сдайте VIP на маяк-станции. Живым.</eventtext.escortransom.findbeacon>
+  <missionname.livecapture>Поймать мутировавшего ползуна</missionname.livecapture>
+  <missiondescription.livecapture>Множество подопытных образцов сбежало из [location2], и церковь поручила вам поймать один образец живым.</missiondescription.livecapture>
+  <missionheader0.livecapture>Цель захвачена</missionheader0.livecapture>
+  <missionmessage0.livecapture>Держите цель в живых до прибытия в [location2].</missionmessage0.livecapture>
+  <missionmessage1.livecapture>Направляйтесь к [location2] и держите цель в живых.</missionmessage1.livecapture>
+  <entityname.livecapture>Цель захвата</entityname.livecapture>
+  <missionsuccess.livecapture>Экземпляр успешно захвачен и доставлен к месту назначения.</missionsuccess.livecapture>
+  <missionfailure.livecapture>Не удалось сохранить экземпляр живым.</missionfailure.livecapture>
+  <missionname.escortmedivac>Сопровождение пациента в медицинское учреждение</missionname.escortmedivac>
+  <missiondescription.escortmedivac>Житель [location1] заразился неизвестной болезнью и должен быть доставлен в [location2] для немедленного лечения, прежде чем болезнь распространится.</missiondescription.escortmedivac>
+  <missionheader0.escortmedivac>Пациент умер</missionheader0.escortmedivac>
+  <missionmessage0.escortmedivac>Пациент не пережил транспортировку. Миссия провалена.</missionmessage0.escortmedivac>
+  <missionsuccess.escortmedivac>Пациент доставлен в медицинское учреждение и ему была оказана неотложная медицинская помощь.</missionsuccess.escortmedivac>
+  <missionfailure.escortmedivac>Пациент не смог добраться до места назначения.</missionfailure.escortmedivac>
+  <eventtext.missionevent_retrieveindustrialwaste>«Транспортное судно незаконно сбрасывало бочки с опасными промышленными отходами в водах поблизости. Если мы ничего не предпримем, они загрязнят воду и сделают проход небезопасным. Мы заплатим любому, кто очистит пещеру и правильно утилизирует отходы на близлежащем форпосте».</eventtext.missionevent_retrieveindustrialwaste>
+  <eventtext.missionevent_retrieveindustrialwaste.yuck>«Фуууу».</eventtext.missionevent_retrieveindustrialwaste.yuck>
+  <missionname.retrieveindustrialwaste>Очистка промышленных отходов</missionname.retrieveindustrialwaste>
+  <missiondescription.retrieveindustrialwaste>Недобросовестные капитаны сбросили радиоактивные промышленные отходы между [location1] и [location2], которые теперь загрязняют территорию. Заберите отходы и отвезите их на ближайший аванпост для безопасной утилизации.</missiondescription.retrieveindustrialwaste>
+  <missionsonarlabel.retrieveindustrialwaste>Промышленные отходы</missionsonarlabel.retrieveindustrialwaste>
+  <missionsuccess.retrieveindustrialwaste>Отходы были успешно извлечены.</missionsuccess.retrieveindustrialwaste>
+  <missionfailure.retrieveindustrialwaste>Не удалось извлечь отходы.</missionfailure.retrieveindustrialwaste>
+  <missionheader.retrieveindustrialwaste.allretrieved>Извлечённые отходы</missionheader.retrieveindustrialwaste.allretrieved>
+  <missionmessage.retrieveindustrialwaste.allretrieved>Бочки с отходами были извлечены. Доставьте их в [location2] для безопасной переработки.</missionmessage.retrieveindustrialwaste.allretrieved>
+  <missionmessage.retrieveindustrialwaste.partiallyretrieved>Часть бочек с отходами сейчас находится на борту подлодки, но ещё многое предстоит извлечь.</missionmessage.retrieveindustrialwaste.partiallyretrieved>
+  <missionmessage.retrieveindustrialwaste.targetfound>Доставьте отходы обратно на борт, но остерегайтесь их высокой опасности.</missionmessage.retrieveindustrialwaste.targetfound>
+  <eventtext.missionevent_industrialincident>Ваше внимание привлекает напряжённый рабочий. «Мы получили сообщение с ближайшего промышленного предприятия. По-видимому, у них не хватает рабочей силы, и они перегружают оборудование, чтобы выполнить производственные нормы. У нас здесь и так дел по горло, но если у вас есть лишние люди, попробуйте оказать им техническую помощь. Дополнительных рабочих рук не помешало бы...»</eventtext.missionevent_industrialincident>
+  <eventtext.missionevent_industrialincident.nopromises>«Мы могли бы заглянуть туда, но ничего не обещаю».</eventtext.missionevent_industrialincident.nopromises>
+  <missionname.industrialincident>Производственный стресс</missionname.industrialincident>
+  <missiondescription.industrialincident>[location1] испытывает трудности с выполнением производственной нормы, работники станции перегружены работой. Посмотрите, не можете ли вы помочь в этой ситуации.</missiondescription.industrialincident>
+  <missionsuccess.industrialincident>Станция была отремонтирована и снова функционирует.</missionsuccess.industrialincident>
+  <missionfailure.industrialincident>Вы не стали помогать ремонтировать станцию.</missionfailure.industrialincident>
+  <missionheader0.industrialincident>Промышленный инцидент</missionheader0.industrialincident>
+  <missionmessage0.industrialincident>Вы слышите крики по всей станции. Вспыхнул большой пожар, и на станции воцарился хаос. Потушите его и помогите починить станцию!</missionmessage0.industrialincident>
+  <eventtext.industrialincidentevent.success>Вам удалось починить сломанную технику. Аванпост снова функционирует, хотя и немного поджаренный.</eventtext.industrialincidentevent.success>
+  <eventtext.outpostdestruction.npcsflee>Вы слышите, как отключаются многочисленные стыковочные узлы, пока оставшиеся обитатели станции сбегают, оставив её заброшенной.</eventtext.outpostdestruction.npcsflee>
+  <eventtext.outpostdestruction.placeruined>Сейчас это место лежит в руинах...</eventtext.outpostdestruction.placeruined>
+  <eventtext.missionevent_escortorangeboys>«Ближайший жилой аванпост заказал специальную поставку свежего мяса. Нам нужен кто-то, кто безопасно доставит партию "оранжевых парней" к месту назначения».</eventtext.missionevent_escortorangeboys>
+  <eventtext.missionevent_escortorangeboys.sure>«Конечно. Они такие милые... и такие вкусные».</eventtext.missionevent_escortorangeboys.sure>
+  <eventtext.missionevent_escortorangeboys.refuse>«Извините, домашние животные — это друзья, а не еда».</eventtext.missionevent_escortorangeboys.refuse>
+  <missionname.escortorangeboys>Доставка оранжевых парней</missionname.escortorangeboys>
+  <missiondescription.escortorangeboys>[location2] запросил поставку свежего мяса оранжевых парней, и вам поручено доставить его к месту назначения.</missiondescription.escortorangeboys>
+  <missionheader0.escortorangeboys>Миссия провалена</missionheader0.escortorangeboys>
+  <missionmessage0.escortorangeboys>Погибло слишком много оранжевых парней.</missionmessage0.escortorangeboys>
+  <missionheader1.escortorangeboys>Миссия выполнена.</missionheader1.escortorangeboys>
+  <missionmessage1.escortorangeboys>Доставка успешно проведена.</missionmessage1.escortorangeboys>
+  <entityname.escortorangeboys>Цели сопровождения</entityname.escortorangeboys>
+  <missionsuccess.escortorangeboys>Большинство оранжевых парней были благополучно доставлены по назначению.</missionsuccess.escortorangeboys>
+  <missionfailure.escortorangeboys>Не удалось доставить партию оранжевых парней к месту назначения.</missionfailure.escortorangeboys>
+  <eventtext.missionevent_keepwetcargo>«Мы ищем подводную лодку для транспортировки биологических образцов, обладающих редкими медицинскими свойствами. Будьте очень осторожны, они хрупкие и требуют особого внимания».</eventtext.missionevent_keepwetcargo>
+  <eventtext.missionevent_keepwetcargo.accept>«Неизвестные биологические вещества на борту моего корабля? Конечно!»</eventtext.missionevent_keepwetcargo.accept>
+  <missionname.keepwetcargo>Перевозка биологического груза</missionname.keepwetcargo>
+  <missiondescription.keepwetcargo>Колония инопланетных организмов должна быть перевезена в [location2] с помощью специального контейнера. Убедитесь, что ящик запитан и все время находится под водой.</missiondescription.keepwetcargo>
+  <missionheader0.keepwetcargo>Груз погиб</missionheader0.keepwetcargo>
+  <missionmessage0.keepwetcargo>Организмы не пережили транспортировку.</missionmessage0.keepwetcargo>
+  <missionsuccess.keepwetcargo>Организмы были благополучно перевезены.</missionsuccess.keepwetcargo>
+  <missionfailure.keepwetcargo>Не удалось доставить груз по назначению.</missionfailure.keepwetcargo>
+  <entityname.biocrate>Биологический груз</entityname.biocrate>
+  <entitydescription.biocrate>Большая колония чужеродных организмов, для выживания которых необходима специальная система фильтрации. Необходимо постоянно поддерживать питание и влажность.</entitydescription.biocrate>
+  <missionname.silencewitness>Убийство ключевого свидетеля</missionname.silencewitness>
+  <missiondescription.silencewitness>Сбежавший член банды «Красный богомол» был взят под стражу на аванпосте Коалиции и угрожает раскрыть секреты организации. Заставьте свидетеля замолчать навсегда...</missiondescription.silencewitness>
+  <missionsuccess.silencewitness>Свидетель был устранен.</missionsuccess.silencewitness>
+  <missionfailure.silencewitness>Свидетель остался жив.</missionfailure.silencewitness>
+  <missionname.hostagesituation>Спасение заложников</missionname.hostagesituation>
+  <missiondescription.hostagesituation>Банда разбойников захватила в заложники аванпост Коалиции. Постарайтесь разрешить ситуацию, не причиняя вреда заложникам; некоторые потери допустимы.</missiondescription.hostagesituation>
+  <missionsuccess.hostagesituation>Заложники были успешно спасены.</missionsuccess.hostagesituation>
+  <missionfailure.hostagesituation>Заложники так и не были спасены.</missionfailure.hostagesituation>
+  <missionheader0.hostagesituation>Бандиты уничтожены</missionheader0.hostagesituation>
+  <missionmessage0.hostagesituation>Бандиты уничтожены. Убедитесь, что заложники в безопасности.</missionmessage0.hostagesituation>
+  <eventtext.missionevent_cargodefensebots>«У нас есть партия совершенно новых моделей защитных ботов, готовых к отправке на ближайший аванпост. Они довольно хрупкие, поэтому следите за их состоянием и не допускайте попадания влаги».</eventtext.missionevent_cargodefensebots>
+  <eventtext.missionevent_cargodefensebots.accept>«Бип-буп».</eventtext.missionevent_cargodefensebots.accept>
+  <missionname.cargodefensebots>Доставка защитных ботов</missionname.cargodefensebots>
+  <missiondescription.cargodefensebots>Груз неактивных защитных ботов должен быть доставлен в [location2]. Следите за их техническим состоянием.</missiondescription.cargodefensebots>
+  <missionheader0.cargodefensebots>Повреждение груза</missionheader0.cargodefensebots>
+  <missionmessage0.cargodefensebots>Защитные боты сломались во время транспортировки.</missionmessage0.cargodefensebots>
+  <missionsuccess.cargodefensebots>Защитные боты были доставлены в целости и сохранности.</missionsuccess.cargodefensebots>
+  <missionfailure.cargodefensebots>Не удалось доставить груз в пункт назначения.</missionfailure.cargodefensebots>
+  <missionheader0.cargodefensebots_defective>Повреждение груза</missionheader0.cargodefensebots_defective>
+  <missionmessage0.cargodefensebots_defective>Слишком много защитных ботов сломалось во время транспортировки.</missionmessage0.cargodefensebots_defective>
+  <missionsuccess.cargodefensebots_defective>Несмотря на незначительную неисправность, защитные боты были доставлены в целости и сохранности.</missionsuccess.cargodefensebots_defective>
+  <missionfailure.cargodefensebots_defective>Не удалось доставить груз в пункт назначения.</missionfailure.cargodefensebots_defective>
+  <entityname.cargodefensebot>Неактивный защитный бот</entityname.cargodefensebot>
+  <entitydescription.cargodefensebot>Неактивный защитный бот, который необходимо доставить в пункт назначения. Требуется регулярное обслуживание.</entitydescription.cargodefensebot>
+  <EventText.missionevent_chimerasamples.request>Вы слышали, что главный учёный этой станции ищет хорошо вооруженное судно. «Значит, ты пришёл помочь нам в наших исследованиях, путешественник. У меня есть задание, которое требует отваги».</EventText.missionevent_chimerasamples.request>
+  <EventText.missionevent_chimerasamples.whatisit>«Что же это?»</EventText.missionevent_chimerasamples.whatisit>
+  <EventText.missionevent_chimerasamples.newlifeform>«Всемогущая оболочка постоянно меняется, принимая новые формы и объединяя всё живое. Мы назвали такие организмы химерами. Для дальнейшего изучения этой новой биологической конструкции нам нужны образцы крови, взятые у субъекта».</EventText.missionevent_chimerasamples.newlifeform>
+  <EventText.missionevent_chimerasamples.interesting>«Любопытно...»</EventText.missionevent_chimerasamples.interesting>
+  <EventText.missionevent_chimerasamples.worse>«Вы хотите сказать, что бывают организмы ещё ХУЖЕ?»</EventText.missionevent_chimerasamples.worse>
+  <EventText.missionevent_chimerasamples.givevial>Ученый вручает вам пробирку с иглой. «Введи этот шприц в сердце химеры, пока сосуд не заполнится, а затем отнеси контейнер в безопасное место».</EventText.missionevent_chimerasamples.givevial>
+  <EventText.missionevent_chimerasamples.Iwilldoit>«Я сделаю это».</EventText.missionevent_chimerasamples.Iwilldoit>
+  <EventText.missionevent_chimerasamples.Noway>«Ни за что».</EventText.missionevent_chimerasamples.Noway>
+  <missionname.chimerasamples>Соберите образец крови химеры.</missionname.chimerasamples>
+  <missiondescription.chimerasamples>Церковь Хаска поручила вам собрать образец крови у хаска-химеры. Рекомендуется соблюдать крайнюю осторожность.</missiondescription.chimerasamples>
+  <missionheader0.chimerasamples>Образец крови взят</missionheader0.chimerasamples>
+  <missionmessage0.chimerasamples>Не теряйте образцы, пока не достигнете [location2].</missionmessage0.chimerasamples>
+  <missionmessage1.chimerasamples>Доберитесь до [location2] с образцами.</missionmessage1.chimerasamples>
+  <entityname.chimerasamples>Хаск-химера</entityname.chimerasamples>
+  <missionsuccess.chimerasamples>Образцы крови химеры были получены.</missionsuccess.chimerasamples>
+  <missionfailure.chimerasamples>Не удалось получить образцы крови.</missionfailure.chimerasamples>
+  <!--     Перевод от Router и Enigma    -->
+</infotext>

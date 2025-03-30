@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" translatedname="Русский" nowhitespace="false">
+  <!-- ITEMS -->
+  <entityname.nightgoggles>Очки ночного видения</entityname.nightgoggles>
+  <entitydescription.nightgoggles>Стандартные очки ночного видения. Требуются батарейки.</entitydescription.nightgoggles>
+  <entityname.organscalpel_eyes>Глазной скальпель</entityname.organscalpel_eyes>
+  <entitydescription.organscalpel_eyes>Специализированный скальпель для глазных операций</entitydescription.organscalpel_eyes>
+  <entityname.eyespoon>Усовершенствованное устройство для извлечения глазного яблока</entityname.eyespoon>
+  <entitydescription.eyespoon>Специализированный медицинский прибор для аккуратного извлечения донорских глаз. Не работает на людях.</entitydescription.eyespoon>
+  <entityname.eyeglasses>Корректирующие очки</entityname.eyeglasses>
+  <entitydescription.eyeglasses>Устаревшее устройство, используемое для временного устранения проблем со зрением.</entitydescription.eyeglasses>
+  <entityname.aviatorglasses>Очки-авиаторы</entityname.aviatorglasses>
+  <entitydescription.aviatorglasses>Древний аксессуар, которым, как говорят, пользовались только капитаны дирижаблей. Придает уверенности.</entitydescription.aviatorglasses>
+  <!-- SURGERY ITEMS -->
+  <entityname.eyedrops>Глазные капли</entityname.eyedrops>
+  <entitydescription.eyedrops>Ускоряет заживление глаз</entitydescription.eyedrops>
+  <entityname.muscleconnectors>Соединители мышц</entityname.muscleconnectors>
+  <entitydescription.muscleconnectors>Соединяет глазные мышцы, используется после геля для глаз и перед соединителем нервов.</entitydescription.muscleconnectors>
+  <entityname.eyegel>Глазной гель</entityname.eyegel>
+  <entitydescription.eyegel>Увлажняет глазные ямки, использовать перед мышечными соединителями.</entitydescription.eyegel>
+  <entityname.eyelens>Исскуственный хрусталик</entityname.eyelens>
+  <entitydescription.eyelens>Используется при операциях по удалению катаракты, вводится после эмульсификации.</entitydescription.eyelens>
+  <entityname.nerveconnectors>Соединитель нервов</entityname.nerveconnectors>
+  <entitydescription.nerveconnectors>Соединяет глазные нервы, используется после соединителей мышц и перед установкой глаз.</entitydescription.nerveconnectors>
+  <entityname.eye_laser_tool>Операционный лазер</entityname.eye_laser_tool>
+  <entitydescription.eye_laser_tool>Компактный хирургический инструмент для лечения дефектов роговицы. Требует высокого навыка медицины.</entitydescription.eye_laser_tool>
+  <!-- EYE ITEMS -->
+  <entityname.transplant_eyes>Человеческий глаза</entityname.transplant_eyes>
+  <entitydescription.transplant_eyes>Прямиком из человеческого черепа. Используется для трансплантации.</entitydescription.transplant_eyes>
+  <entityname.transplant_eyes_monster>Глаза чудовища</entityname.transplant_eyes_monster>
+  <entitydescription.transplant_eyes_monster>Прямиком из черепа европейской твари. Смотрится через них плохо, но стильно.</entitydescription.transplant_eyes_monster>
+  <entityname.transplant_eyes_terror>Жуткие глаза</entityname.transplant_eyes_terror>
+  <entitydescription.transplant_eyes_terror>Глазоподобный объект, о котором человечеству ничего не известно. Смотри в оба.</entitydescription.transplant_eyes_terror>
+  <entityname.transplant_eyes_husk>Глаза хаска</entityname.transplant_eyes_husk>
+  <entitydescription.transplant_eyes_husk>Прямо из черепа хаска. Не может быть поврежден водой и имеет шанс заразить пациента какой.</entitydescription.transplant_eyes_husk>
+  <entityname.transplant_eyes_bionic>Бионические глаза</entityname.transplant_eyes_bionic>
+  <entitydescription.transplant_eyes_bionic>Металлический, гораздо более прочный глаз. Не повреждается при кислородном голодании, немного повышает качество зрения.</entitydescription.transplant_eyes_bionic>
+  <entityname.transplant_eyes_night>Глаза ночного видения</entityname.transplant_eyes_night>
+  <entitydescription.transplant_eyes_night>Пара глаз с имплантами ночного видения. Не отключаются.</entitydescription.transplant_eyes_night>
+  <entityname.transplant_eyes_infrared>Инфракрасные глаза</entityname.transplant_eyes_infrared>
+  <entitydescription.transplant_eyes_infrared>Пара глаз с инфракрасными имплантами. Немного улучшает боевые навыки и зрение в темноте.</entitydescription.transplant_eyes_infrared>
+  <entityname.transplant_eyes_plastic>Пластиковые глаза</entityname.transplant_eyes_plastic>
+  <entitydescription.transplant_eyes_plastic>Пара «глаз», чуть лучше чем быть слепым. Говнище.</entitydescription.transplant_eyes_plastic>
+  <!-- AFFLICTIONS -->
+  <afflictionname.noeye>А где?</afflictionname.noeye>
+  <afflictiondescription.noeye>Глаза пациента были удалены хирургическим путем, а на их месте остались пустые красные дыры. Ужасно.</afflictiondescription.noeye>
+  <afflictionname.eyedamage>Повреждение глаз</afflictionname.eyedamage>
+  <afflictiondescription.eyedamage>Глаза пациента сдулись и ему трудно видеть.</afflictiondescription.eyedamage>
+  <afflictionname.eyeshock>Аутоиммунная ретинопатия</afflictionname.eyeshock>
+  <afflictiondescription.eyeshock>Иммунитет пациента отторгает глаза и атакует их. Чтобы остановить этот процесс, требуется удаление глаза или прием иммунодепрессантов.</afflictiondescription.eyeshock>
+  <afflictionname.eyedrop>Глазные капли</afflictionname.eyedrop>
+  <afflictiondescription.eyedrop>Скорость заживления глаз увеличена.</afflictiondescription.eyedrop>
+  <afflictionname.eyeone>Мертвый глаз</afflictionname.eyeone>
+  <afflictiondescription.eyeone>Пациент полностью потерял один глаз.</afflictiondescription.eyeone>
+  <afflictionname.eyesdead>Мертвые глаза</afflictionname.eyesdead>
+  <afflictiondescription.eyesdead>Пациент ослеп на оба глаза.</afflictiondescription.eyesdead>
+  <afflictionname.eyesickness>Плохое зрение</afflictionname.eyesickness>
+  <afflictiondescription.eyesickness>У пациента проблемы со зрением, вероятно, из-за недавней пересадки глаза. Со временем должно пройти.</afflictiondescription.eyesickness>
+  <afflictionname.eyecataract>Катаракта</afflictionname.eyecataract>
+  <afflictiondescription.eyecataract>Глаза пациента выглядят мутными, зрение затуманено. Рекомендуется хирургическое вмешательство.</afflictiondescription.eyecataract>
+  <afflictionname.eyemuscle>Соединители мышц</afflictionname.eyemuscle>
+  <afflictiondescription.eyemuscle>Мышечные соединители прикреплены...</afflictiondescription.eyemuscle>
+  <afflictionname.eyegell>Глазная мазь</afflictionname.eyegell>
+  <afflictiondescription.eyegell>Глазные отверстия смазаны...</afflictiondescription.eyegell>
+  <afflictionname.eyelid>Расширенные веки</afflictionname.eyelid>
+  <afflictiondescription.eyelid>Веки удерживаются открытыми...</afflictiondescription.eyelid>
+  <afflictionname.eyepopped>Чпок.</afflictionname.eyepopped>
+  <afflictiondescription.eyepopped>Глазные яблоки выскочили из черепа и висят.</afflictiondescription.eyepopped>
+  <afflictionname.corneaincision>Разрез роговицы</afflictionname.corneaincision>
+  <afflictiondescription.corneaincision>В роговице сделан надрез.</afflictiondescription.corneaincision>
+  <afflictionname.emulsification>Эмульсификация</afflictionname.emulsification>
+  <afflictiondescription.emulsification>Хрусталик удален...</afflictiondescription.emulsification>
+  <afflictionname.lasereyesurgery>Лазерная операция</afflictionname.lasereyesurgery>
+  <afflictiondescription.lasereyesurgery>Глаза пациента быстро заживают благодаря недавней лазерной операции.</afflictiondescription.lasereyesurgery>
+  <afflictionname.eyenerve>Соединитель нервов</afflictionname.eyenerve>
+  <afflictiondescription.eyenerve>Установлена нервная связь между глазом и мозгом...</afflictiondescription.eyenerve>
+  <!-- EYE AFFLICTIONS -->
+  <afflictionname.eyebionic>Бионические глаза</afflictionname.eyebionic>
+  <afflictiondescription.eyebionic>Пациент обзавелся бионическими глазами</afflictiondescription.eyebionic>
+  <afflictionname.eyenight>Глаза ночного видения</afflictionname.eyenight>
+  <afflictiondescription.eyenight>Пациент видит в темноте</afflictiondescription.eyenight>
+  <afflictionname.eyeinfrared>Инфракрасные глаза</afflictionname.eyeinfrared>
+  <afflictiondescription.eyeinfrared>Пациент имеет инфракрасные глаза</afflictiondescription.eyeinfrared>
+  <afflictionname.eyeplastic>Пластиковые глаза</afflictionname.eyeplastic>
+  <afflictiondescription.eyeplastic>У пациента пластиковые шарики вместо глаз</afflictiondescription.eyeplastic>
+  <afflictionname.eyemonster>Глаза монстра</afflictionname.eyemonster>
+  <afflictiondescription.eyemonster>У пациента глаза монстра</afflictiondescription.eyemonster>
+  <afflictionname.eyehusk>Глаза хаска</afflictionname.eyehusk>
+  <afflictiondescription.eyehusk>У пациента глаза хаска</afflictiondescription.eyehusk>
+  <afflictionname.eyeterror>Глаза зверя</afflictionname.eyeterror>
+  <afflictiondescription.eyeterror>Вы испытываете прилив силы. Вы более выносливы. Вы живы. Вы должны убивать.</afflictiondescription.eyeterror>
+</infotexts>

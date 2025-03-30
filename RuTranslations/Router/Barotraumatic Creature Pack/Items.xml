@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--  DROPS CREATURES  -->
+  <entityname.crawlerfin>Лапы ползуна</entityname.crawlerfin>
+  <entitydescription.crawlerfin>Лапы ещё недавно живого ползуна. Могут быть переработаны на углерод и кальций.</entitydescription.crawlerfin>
+  <entityname.crawlerbelly>Живот ползуна</entityname.crawlerbelly>
+  <entitydescription.crawlerbelly>Раздутый живот ползуна. Кажется, внутри что-то есть?</entitydescription.crawlerbelly>
+  <entityname.crawlerleg>Нога ползуна</entityname.crawlerleg>
+  <entitydescription.crawlerleg>Конечность ползуна, твёрдая и скользская на ощупь, пахнет морем. Кости и плоть можно переработать на кальций и магний, либо же продать в колониях как мясо.</entitydescription.crawlerleg>
+  <entityname.motherskin>Чешуя матки роя</entityname.motherskin>
+  <entitydescription.motherskin>Кусок толстой чешуи матки роя. Высокое содержание алюминия и углерода в этой оболочке делает её чрезвычайно прочной при воздействии тепла.</entitydescription.motherskin>
+  <entityname.motherbreast>Грудь матки роя</entityname.motherbreast>
+  <entitydescription.motherbreast>Грудь матки роя ползуна, без лишних углублений в детали. Может использоваться для лечения членов команды или быть переработана на физраствор.</entitydescription.motherbreast>
+  <entityname.decapitatedarm>Человеческая рука</entityname.decapitatedarm>
+  <entitydescription.decapitatedarm>Разжёванные останки человека. Может быть переработана на магний и кальций, либо предоставлена исследователям для анализа данных.</entitydescription.decapitatedarm>
+  <entityname.decapitatedleg>Человеческая нога</entityname.decapitatedleg>
+  <entitydescription.decapitatedleg>Разжёванные останки человека. Может быть переработана на магний и кальций, либо предоставлена исследователям для анализа данных.</entitydescription.decapitatedleg>
+  <entityname.quarteredman>Человеческий торс</entityname.quarteredman>
+  <entitydescription.quarteredman>Разжёванные останки человека. Может быть переработан на магний и кальций, либо предоставлен исследователям для анализа данных.</entitydescription.quarteredman>
+  <entityname.humanribs>Странный кусок мяса</entityname.humanribs>
+  <entitydescription.humanribs>Большие куски мяса неизвестного происхождения. Могут быть переработаны на магний, углерод и физраствор, либо быть предоставленными исследователям для анализа данных.</entitydescription.humanribs>
+  <entityname.mudhead>Голова грязевого раптора</entityname.mudhead>
+  <entitydescription.mudhead>Бронированный головной покров грязевого раптора. На ощупь тяжёлый и грубый. Может быть разобран на железо и кальций.</entitydescription.mudhead>
+  <entityname.mudclaw>Когти грязевого раптора</entityname.mudclaw>
+  <entitydescription.mudclaw>Короткая лапа грязевого раптора. Его когти очень острые и могут использоваться как импровизированное оружие. Можно переработать на титан и кальций.</entitydescription.mudclaw>
+  <entityname.mudhip>Брюшные пластины грязевого раптора</entityname.mudhip>
+  <entitydescription.mudhip>Защита брюшной полости грязевого раптора. Несмотря на свой большой размер, легче других бронированных частей. Можно переработать на железо.</entitydescription.mudhip>
+  <entityname.charybdistongue>Язык харибды</entityname.charybdistongue>
+  <entitydescription.charybdistongue>Взгляд на эту штуку заставляет вас чувствовать себя очень неспокойно, так как острый кровавый конец с лёгкостью порвал бы вас на части. Можно переработать на титан и магний, либо продать исследователям за приличные деньги.</entitydescription.charybdistongue>
+  <entityname.charybdisstomach>Желудок харибды</entityname.charybdisstomach>
+  <entitydescription.charybdisstomach>Гигантский желудок харибды. Может быть, внутри есть что-то ценное? Исследователи купят этот орган по приличной цене.</entitydescription.charybdisstomach>
+  <entityname.thresherclaw>Когти акульего тигра</entityname.thresherclaw>
+  <entitydescription.thresherclaw>Маленькие и тупые. Можно переработать на железо.</entitydescription.thresherclaw>
+  <entityname.threshertail>Хвост акульего тигра</entityname.threshertail>
+  <entitydescription.threshertail>Длинные и очень грубые минерализованные чешуйки напоминают боксит. Можно переработать на алюминий.</entitydescription.threshertail>
+  <entityname.bonethresherclaw>Когти костяного акульего тигра</entityname.bonethresherclaw>
+  <entitydescription.bonethresherclaw>Больше, чем у обычного акульего тигра, и гораздо острее. Могут использоваться как импровизированное оружие или быть переработанными на алюминий и железо.</entitydescription.bonethresherclaw>
+  <entityname.bonetail>Хвост костяного акульего тигра</entityname.bonetail>
+  <entitydescription.bonetail>Длинные и очень грубые чешуйки напоминают боксит с вкраплениями гематита. Можно переработать на железо и алюминий.</entitydescription.bonetail>
+  <entityname.bonethresherskin>Кожа костяного акульего тигра</entityname.bonethresherskin>
+  <entitydescription.bonethresherskin>На ощупь очень чешуйчатая и грубая из-за минерализованных участков. Может быть переработана на кальций и алюминий.</entitydescription.bonethresherskin>
+  <entityname.watcherspike>Шипы наблюдателя</entityname.watcherspike>
+  <entitydescription.watcherspike>Шипастые части оболочки наблюдателя. На ощупь они странно мягкие и немного раздуваются. Могут быть переработаны на серную кислоту, углерод и резину.</entitydescription.watcherspike>
+  <entityname.watchergel>Глазной гель наблюдателя</entityname.watchergel>
+  <entitydescription.watchergel>Стекловидный гель. Перерабатывается на серную кислоту и цинк. Пользуется большим спросом у исследователей или в колониях как универсальное средство.</entitydescription.watchergel>
+  <entityname.watchercornea>Лопнувшая роговица наблюдателя</entityname.watchercornea>
+  <entitydescription.watchercornea>Можно переработать на кремний и углерод.</entitydescription.watchercornea>
+  <entityname.molochpiece>Куски молоха</entityname.molochpiece>
+  <entitydescription.molochpiece>Большие куски слизистой плоти, представляют большую ценность для изучения или в производстве. Перерабатываются на множество материалов.</entitydescription.molochpiece>
+  <entityname.molochshellpiece>Кусок панциря молоха</entityname.molochshellpiece>
+  <entitydescription.molochshellpiece>Треснувшие куски панциря мёртвого молоха. Часто встраиваются в высококачественные товары или в качестве инкрустации, хотя их также можно переработать на составляющие минералы.</entitydescription.molochshellpiece>
+  <entityname.hammerarm>Плавник молотоглава</entityname.hammerarm>
+  <entitydescription.hammerarm>Кажется, что его скорее изготовили, чем вырастили, ибо он абсурдно острый. Может быть переработан на кальций и железо.</entitydescription.hammerarm>
+  <entityname.hammereye>Глаз молотоглава</entityname.hammereye>
+  <entitydescription.hammereye>Он всё ещё светится глубоким зелёным светом. Может быть переработан на цинк и магний.</entitydescription.hammereye>
+  <entityname.hammernose>Нос молотоглава</entityname.hammernose>
+  <entitydescription.hammernose>Крайне прочная часть тела молотоглава. Может быть переработана на кальций и титан.</entitydescription.hammernose>
+  <entityname.goldenhammerheadtail>Хвост золотого молотоглава</entityname.goldenhammerheadtail>
+  <entitydescription.goldenhammerheadtail>Твёрдый как камень и ярко светится. Почему он так сверкает? Может быть переработан на углерод, кальций и железо.</entitydescription.goldenhammerheadtail>
+  <entityname.goldenhammerheadarm>Плавник золотого молотоглава</entityname.goldenhammerheadarm>
+  <entitydescription.goldenhammerheadarm>Достаточно острый, чтобы с лёгкостью вскрывать обшивку подводных лодок, и ярко сияет. Он каким-то образом гнётся, как органический сплав металла и пластика. Может быть переработан на титан, кальций и железо.</entitydescription.goldenhammerheadarm>
+  <entityname.molochtentacles>Щупальце молоха</entityname.molochtentacles>
+  <entitydescription.molochtentacles>Можно использовать в качестве экстренной жгутовой повязки. Перерабатывается на животный аналог эластина.</entitydescription.molochtentacles>
+  <entityname.blackmolochshellpiece>Кусок панциря чёрного молоха</entityname.blackmolochshellpiece>
+  <entitydescription.blackmolochshellpiece>Треснувшие куски панциря, взятые с убитого чёрного молоха. Держа их, можно почувствовать лёгкое напряжение. Перерабатываются на множество ценных минералов.</entitydescription.blackmolochshellpiece>
+  <entityname.blackmolochtentacles>Чёрное щупальце молоха</entityname.blackmolochtentacles>
+  <entitydescription.blackmolochtentacles>Можно использовать в качестве экстренной жгутовой повязки. Перерабатывается на животный аналог эластина с примесью лития.</entitydescription.blackmolochtentacles>
+  <entityname.spinelingpod>Головка шипостая</entityname.spinelingpod>
+  <entitydescription.spinelingpod>Головной стручок шипостая. Изнутри доносится ужасный запах. Может быть переработан на цинк и углерод.</entitydescription.spinelingpod>
+  <entityname.spinelingtail>Хвост шипостая</entityname.spinelingtail>
+  <entitydescription.spinelingtail>Хвостовая часть шипостая демонстрирует его характерную частично металлическую физиологию. Перерабатывается на магний и углерод.</entitydescription.spinelingtail>
+  <entityname.giantspinespike>Шип огромного шипостая</entityname.giantspinespike>
+  <entitydescription.giantspinespike>Чрезвычайно плотный и острый как бритва шип гигантского шипостая. Может быть использован для изготовления снаряда рельсотрона в фабрикаторе, продан за его алмазоподобные свойства или же просто измельчён для получения углерода и титана.</entitydescription.giantspinespike>
+  <entityname.giantrailspinespike>Снаряд рельсотрона из шипа огромного шипостая</entityname.giantrailspinespike>
+  <entitydescription.giantrailspinespike>Гигантский шип, отфрезерованный для размещения внутри снаряда рельсотрона. Слова «вернуть отправителю» выгравированы сбоку.</entitydescription.giantrailspinespike>
+  <entityname.giantspinelingtail>Хвост огромного шипостая</entityname.giantspinelingtail>
+  <entitydescription.giantspinelingtail>Каменистая часть хвоста со множеством мелких игл, прикреплённых органической пластиковой пленкой. Перерабатывается на цинк, пластик, железо и углерод.</entitydescription.giantspinelingtail>
+  <entityname.giantspinelingpod>Головка огромного шипостая</entityname.giantspinelingpod>
+  <entitydescription.giantspinelingpod>Керамическая головная часть этого впечатляющего существа. Вы удивляетесь, что жижа внутри него функционирует как мозг. Перерабатывается на цинк, железо и углерод.</entitydescription.giantspinelingpod>
+  <entityname.leatherbackfin>Плавник кожистой твари</entityname.leatherbackfin>
+  <entitydescription.leatherbackfin>Твёрдый и грубый, его можно измельчить и сварить в съедобное желе. Перерабатывается на железо, углерод и титан.</entitydescription.leatherbackfin>
+  <entityname.leatherbackstomach>Желудок кожистой твари</entityname.leatherbackstomach>
+  <entitydescription.leatherbackstomach>Жёсткий желудок. Может быть, там есть что-то внутри?</entitydescription.leatherbackstomach>
+  <entityname.leatherbackskin>Шкура кожистой твари</entityname.leatherbackskin>
+  <entitydescription.leatherbackskin>Торговцы готовы платить огромные цены за почти пуленепробиваемую кожу. Пятнистые минерализованные участки можно обрабатывать как подводные минеральные образования.</entitydescription.leatherbackskin>
+  <entityname.coelanthfin>Плавник целанфа</entityname.coelanthfin>
+  <entitydescription.coelanthfin>Кальцинированный плавник ещё недавно живого целанфа. Покрыт довольно большими чешуйками с удивительной гибкостью. Может быть переработан на углерод, резину и кальций.</entitydescription.coelanthfin>
+  <entityname.coelantheye>Глаз целанфа</entityname.coelantheye>
+  <entitydescription.coelantheye>Выглядит помутневшим, хоть и светится очень ярко. Перерабатывается на цинк, литий, фосфор и углерод.</entitydescription.coelantheye>
+  <entityname.mantisclaw>Клешни богомола</entityname.mantisclaw>
+  <entitydescription.mantisclaw>Относительно острые и могут послужить хорошим оружием ближнего боя. Перерабатываются на титан, хитин и железо.</entitydescription.mantisclaw>
+  <entityname.mantisleg>Лапа богомола</entityname.mantisleg>
+  <entitydescription.mantisleg>Его конечности будто изготовлены из стали. Моет быть переработана на хитин, железо и углерод.</entitydescription.mantisleg>
+  <entityname.shrimpstomach>Желудок креветки</entityname.shrimpstomach>
+  <entitydescription.shrimpstomach>Маленький желудок. Может быть, что-то есть внутри?</entitydescription.shrimpstomach>
+  <entityname.shrimpantenna>Усики креветки</entityname.shrimpantenna>
+  <entitydescription.shrimpantenna>Специфичный орган для чувств, вкусов и ощущений. Могут быть переработаны на кальций.</entitydescription.shrimpantenna>
+  <entityname.shrimpclaw>Клешня креветки</entityname.shrimpclaw>
+  <entitydescription.shrimpclaw>Может быть переработана на углерод и железо.</entitydescription.shrimpclaw>
+  <entityname.legacysharkfin>Плавник барракуды</entityname.legacysharkfin>
+  <entitydescription.legacysharkfin>Плавник барракуды. Длинные и жёсткие костяные выступы опасны для прикосновений. Может быть переработан на углерод и кальций.</entitydescription.legacysharkfin>
+  <entityname.legacysharkjaw>Челюсть барракуды</entityname.legacysharkjaw>
+  <entitydescription.legacysharkjaw>Лучше не касаться этих зубов! Они всё ещё могут содержать яд. Перерабатывается на кальций, железо и парализатор.</entitydescription.legacysharkjaw>
+  <entityname.barracudaskin>Чешуя барракуды</entityname.barracudaskin>
+  <entitydescription.barracudaskin>Прекрасная бело-голубая чешуя барракуды. Эти минерализованные чешуйки пользуются довольно высоким спросом у капитанов и администраторов станций. К сожалению, скоро это приведёт к исчезновению этого вида.</entitydescription.barracudaskin>
+  <entityname.huskervenom>Токсин трупного паразита</entityname.huskervenom>
+  <entitydescription.huskervenom>Извлечённый токсин трупного паразита, уникальные соединения которого образуют сложный и плохо изученный коктейль из цианистых соединений и примесей углеводородов. Позволяет цианиду гипероксигенировать ткани, вызывая кратковременный выброс адреналина, который токсичен для организма хаска. Ценный и в высшей степени опасный, его также можно перегнать в несколько более обыденных химикатов.</entitydescription.huskervenom>
+  <entityname.guardianparts>Детали фрактальной машины</entityname.guardianparts>
+  <entitydescription.guardianparts>Загадочные детали фрактального стража. Исследователи платят приличную сумму за это.</entitydescription.guardianparts>
+  <entityname.guardianspeargun>Фрактальный толкатель</entityname.guardianspeargun>
+  <entitydescription.guardianspeargun>Фрактальные стражи любят притягивать вторженцев с помощью этого устройства. Исследователи платят приличную сумму за это.</entitydescription.guardianspeargun>
+  <entityname.guardianlifesupport>Фрактальный датчик здоровья</entityname.guardianlifesupport>
+  <entitydescription.guardianlifesupport>Похоже на систему жизнеобеспечения мёртвого стража. У этих машин можно многому научиться. Исследователи платят приличную сумму за это.</entitydescription.guardianlifesupport>
+  <entityname.guardianbrokensteamcannon>Фрактальное паровое орудие</entityname.guardianbrokensteamcannon>
+  <entitydescription.guardianbrokensteamcannon>Паровое орудие, которое фрактальные стражи используют против вторженцев. К сожалению, невозможно заставить его работать, так как непостижимый механизм полностью отключает оружие после смерти его роботизированного пользователя. Исследователи платят приличную сумму за это.</entitydescription.guardianbrokensteamcannon>
+  <entityname.guardiandome>Купол фрактального стража</entityname.guardiandome>
+  <entitydescription.guardiandome>Осколки стеклянного купола, в котором находился "мозг" фрактального стража. Исследователи платят приличную сумму за это.</entitydescription.guardiandome>
+  <entityname.endwormtooth>Зуб червя Рока</entityname.endwormtooth>
+  <entitydescription.endwormtooth>Один из множества острых как бритва зубов червя Рока. Держать в руках этот предмет может быть небезопасно. Перерабатывается на титан, сталь, натрий и магний.</entitydescription.endwormtooth>
+  <entityname.bigpileofshit>Экскрименты червя Рока</entityname.bigpileofshit>
+  <entitydescription.bigpileofshit>Богатый навоз, который можно использовать как удобрение. Может быть переработан на углерод, калий и уран.</entitydescription.bigpileofshit>
+  <entityname.matriarchheadarm>Плавник матриарха</entityname.matriarchheadarm>
+  <entitydescription.matriarchheadarm>Имеет более красный оттенок, и, в отличии от других видов молотоглавов, более эластичный с сильно выраженным резким запахом. Возможно, это альфа-особь? Может быть переработан на титан, кальций и железо.</entitydescription.matriarchheadarm>
+  <entityname.matriarchfin>Плавник матриарха</entityname.matriarchfin>
+  <entitydescription.matriarchfin>Имеет более красный оттенок, и, в отличии от других видов молотоглавов, имеет больше делений, чем у других. Может быть переработан на железо, резину и алюминий.</entitydescription.matriarchfin>
+  <entityname.matriarcheye>Глаз матриарха</entityname.matriarcheye>
+  <entitydescription.matriarcheye>Глаз матриарха, размером почти с обеденное блюдо. Может быть переработан на цинк, магний и физраствор.</entitydescription.matriarcheye>
+  <entityname.latchereye>Глаз блокиратора</entityname.latchereye>
+  <entitydescription.latchereye>Хладнокровный и бездушный, радужка кажется дрожащей. Может быть переработан на цинк, магний и физраствор.</entitydescription.latchereye>
+  <entityname.latcherfang>Клык блокиратора</entityname.latcherfang>
+  <entitydescription.latcherfang>Огромный клык блокиратора. Один из многих приспособлений поглощения и размалывания жертв. Можно переработать на титан, кальций, магний и цинк.</entitydescription.latcherfang>
+  <entityname.latcherhair>Шерсть блокиратора</entityname.latcherhair>
+  <entitydescription.latcherhair>Клочья шерсти, взятые у блокиратора. Кажется, она вся покрыта скоплениями минеральных отложений.</entitydescription.latcherhair>
+  <entityname.latchertooth>Шип блокиратора</entityname.latchertooth>
+  <entitydescription.latchertooth>Ужасающий шип блокиратора. Они имеют различные размеры, но этот кажется длиннее остальных шипов и может использоваться как импровизированное оружие.</entitydescription.latchertooth>
+  <entityname.smallmolochegg>Яйцо молоха</entityname.smallmolochegg>
+  <entitydescription.smallmolochegg>Тяжёлое, пульсирующее изнутри. Требуются годы, чтобы из одного яйца вылупились тысячи других особей, так что это яйцо сейчас бесполезно, но учёные готовы купить его по высокой цене.</entitydescription.smallmolochegg>
+  <entityname.smallblackmolochegg>Яйцо чёрного молоха</entityname.smallblackmolochegg>
+  <entitydescription.smallblackmolochegg>По какой-то причине, вы чувствуете большой страх, держа его. Требуются годы, чтобы из одного яйца вылупились тысячи других особей, так что это яйцо сейчас бесполезно, но учёные готовы купить его по высокой цене.</entitydescription.smallblackmolochegg>
+  <entityname.electropulse>Электрический импульс</entityname.electropulse>
+  <entityname.coelanthspike>Шип стрекальщика</entityname.coelanthspike>
+  <entitydescription.coelanthspike>Ядовитый шип, выстреливаемый стрекальщиком. Испускает токсичные пары, поэтому нужно срочно избавиться от него!</entitydescription.coelanthspike>
+  <entityname.k_em_coelanthfang>Зуб целанфа</entityname.k_em_coelanthfang>
+  <entityname.k_em_thalamusthorn>Щупальце мозговика</entityname.k_em_thalamusthorn>
+  <entityname.k_em_thalamusstump>Перемычка мозговика</entityname.k_em_thalamusstump>
+  <entityname.k_em_magmawomfin>Плавник магмочервя</entityname.k_em_magmawomfin>
+  <entitydescription.k_em_magmawomfin>Всё ещё тёплый. Может быть переработан на углерод и опиум.</entitydescription.k_em_magmawomfin>
+  <entityname.k_em_magmalarvatendril>Тепловые усики</entityname.k_em_magmalarvatendril>
+  <entitydescription.k_em_magmalarvatendril>Состоят из легковоспламеняющийхся веществ. Могут быть переработаны в деконструкторе.</entitydescription.k_em_magmalarvatendril>
+  <entityname.k_em_fractalsensor>Фрактальный сенсор</entityname.k_em_fractalsensor>
+  <entityname.k_em_fractalthorn>Фрактальный шип</entityname.k_em_fractalthorn>
+  <entityname.k_em_charybdisfang>Клык харибды</entityname.k_em_charybdisfang>
+  <entitydescription.k_em_charybdisfang>Чудовищных размеров зуб, который, кажется, с лёгкостью вспарывает укреплённую обшивку судна. Может быть переработан на углерод, кальций и калий.</entitydescription.k_em_charybdisfang>
+  <entityname.k_em_charybdissavagefang>Клык дикой харибды</entityname.k_em_charybdissavagefang>
+  <entitydescription.k_em_charybdissavagefang>Чудовищных размеров зуб, который отличается повышенным содержанием твёрдых веществ.</entitydescription.k_em_charybdissavagefang>
+  <entityname.k_em_endwormfang>Зуб червя Рока</entityname.k_em_endwormfang>
+  <entitydescription.k_em_endwormfang>Один из множества острых как бритва зубов червя Рока. Ценится за повышенную концентрацию особенно прочных веществ.</entitydescription.k_em_endwormfang>
+  <entityname.k_em_icecrabclaw>Клешня ледяного краба</entityname.k_em_icecrabclaw>
+  <entityname.dryice>Сухой лед</entityname.dryice>
+  <entityname.k_em_shadowoil>Жир чёрного ската</entityname.k_em_shadowoil>
+  <entityname.k_em_shadowthorn>Шип чёрного ската</entityname.k_em_shadowthorn>
+  <entityname.k_em_wanderereye>Глаз тёмного наблюдателя</entityname.k_em_wanderereye>
+  <entityname.k_em_paragland>Парализующая железа</entityname.k_em_paragland>
+  <entityname.k_em_thereelmask>Голова огромного хребеточника</entityname.k_em_thereelmask>
+  <entityname.Telepulse>Электрический импульс</entityname.Telepulse>
+  <entityname.teleglitchelectropulse>Электрический импульс</entityname.teleglitchelectropulse>
+  <entityname.projectileiceberg>Айсберг</entityname.projectileiceberg>
+  <!--  CLOTHES  -->
+  <entityname.bluejumpsuittied>Завязанный комбинезон механика</entityname.bluejumpsuittied>
+  <entitydescription.bluejumpsuittied>Господи, как же жарко в реакторной!</entitydescription.bluejumpsuittied>
+  <entityname.clowncostumesleeveless>Клоунский костюм без рукавов</entityname.clowncostumesleeveless>
+  <entitydescription.yes>Разноцветный костюм с карманами, подходящий любому накачанному негодяю. Вмещает в себя множество комедийных реквизитов и фирменный нож клоуна.</entitydescription.yes>
+  <entityname.cultistrobescool>Одеяние жреца</entityname.cultistrobescool>
+  <entityname.brokengenesplicer>Сломанный спайщик генов</entityname.brokengenesplicer>
+  <entitydescription.brokengenesplicer>Сломанный спайщик генов. Можно разобрать или продать торговцам.</entitydescription.brokengenesplicer>
+  <entityname.cultistmask>Странная маска</entityname.cultistmask>
+  <entityname.cultistcostume>Клоунский костюм с плащом</entityname.cultistcostume>
+  <entitydescription.cultistcostume>Носят бродячие и бездомные клоуны. Выглядит стильно.</entitydescription.cultistcostume>
+  <entityname.harlequinsuit>Костюм арлекина</entityname.harlequinsuit>
+  <entitydescription.harlequinsuit>Носят бродячие и бездомные клоуны. Излучает странную ауру грусти и снисходительности.</entitydescription.harlequinsuit>
+  <entityname.jestersuit>Костюм шута</entityname.jestersuit>
+  <entitydescription.jestersuit>Носят бродячие клоуны, владеющие клоунской силой. В нём так и хочется пойти на риск и сделать пакость.</entitydescription.jestersuit>
+  <entityname.pierrotsuit>Костюм Пьеро</entityname.pierrotsuit>
+  <entitydescription.pierrotsuit>Носят бродячие клоуны, владеющие клоунской силой. В нём так и хочется отпустить пару анекдотов и залиться смехом.</entitydescription.pierrotsuit>
+  <entityname.mimemask>Маска мима</entityname.mimemask>
+  <entityname.raggedclownmask>Рваная клоунская маска</entityname.raggedclownmask>
+  <entityname.mimeoutfit>Костюм мима</entityname.mimeoutfit>
+  <entityname.Clown_divingsuit>Клоунский водолазный скафандр</entityname.Clown_divingsuit>
+  <entitydescription.Clown_divingsuit>Похоже, какой-то маньяк приклеил к этому скафандру нос с париком и разрисовал его, чтобы он выглядел как клоун... Выдерживает давление на глубине до 4000 м.</entitydescription.Clown_divingsuit>
+  <entityname.creaturedevoutfit>Толстовка с капюшоном</entityname.creaturedevoutfit>
+  <entityname.jovian_divingsuit>Юпитерианский водолазный скафандр</entityname.jovian_divingsuit>
+  <entitydescription.jovian_divingsuit>Боевой скафандр, который, похоже, является модифицированным вариантом стандартного скафандра, но источником кислорода является эзотерическая герметичная камера с подключением для стандартных баллонов. Выдерживает давление на глубине до 5750 м.</entitydescription.jovian_divingsuit>
+  <entityname.Heavyjovian_divingsuit>Усиленный юпитерианский водолазный скафандр</entityname.Heavyjovian_divingsuit>
+  <entitydescription.Heavyjovian_divingsuit>Медленный, громоздкий и немного ржавый, этот скафандр обеспечивает достойную защиту и почти такое же сопротивление давлению, как и его глубоководные аналоги. Источник кислорода — это эзотерическая герметичная камера с подключением для стандартных баллонов. Выдерживает давление на глубине до 6350 м.</entitydescription.Heavyjovian_divingsuit>
+  <entityname.suicidevest>Уничтоженный жилет смертника</entityname.suicidevest>
+  <entitydescription.suicidevest>Полностью уничтоженный жилет смертника. Не подлежит восстановлению.</entitydescription.suicidevest>
+  <entityname.Skelly>Кости</entityname.Skelly>
+  <entitydescription.Skelly>«С того момента, как я осознал слабость своей плоти, она стала мне противна».</entitydescription.Skelly>
+  <entityname.EW_ExosuitClowns>Клоунский экзокостюм</entityname.EW_ExosuitClowns>
+  <entitydescription.EW_ExosuitClowns>Странный экзокостюм, разукрашенный разными цветами, очень грязный и потрёпанный. Удивительно, но, несмотря на своё состояние, он всё ещё нормально функционирует, а большинство повреждённых частей делают костюм легче, что позволяет бегать. Переносит меньше предметов.</entitydescription.EW_ExosuitClowns>
+  <entityname.Protoexosuit>ПротоЭкзо</entityname.Protoexosuit>
+  <entitydescription.Protoexosuit>Тяжёлый промышленный экзоскелет, оснащённый скафандром и гидравлическими сервоприводами, позволяющими совершать трудоёмкие движения без подключения питания. ПротоЭкзо являются предшественниками экзокостюмов, и большинство из них уже давно переработаны после серьёзных повреждений или из-за отсутствия деталей для ремонта. Этот редкий экземпляр — чудо инженерной мысли, которое было обычным явлением шесть десятилетий тому назад. Выдерживает давление на глубине до 6500 м.</entitydescription.Protoexosuit>
+  <entityname.ProtoexosuitCLOWN>Клоунский ПротоЭкзо</entityname.ProtoexosuitCLOWN>
+  <entitydescription.ProtoexosuitCLOWN>Тяжёлый промышленный экзоскелет, оснащённый скафандром и гидравлическими сервоприводами, позволяющими совершать трудоёмкие движения без подключения питания. ПротоЭкзо являются предшественниками экзокостюмов, и большинство из них уже давно переработаны после серьёзных повреждений или из-за отсутствия деталей для ремонта. Остаётся лишь догадываться, как этот экземпляр попал в руки клоунов, которые внесли в него множество собственных изменений. Выдерживает давление на глубине до 6500 м.</entitydescription.ProtoexosuitCLOWN>
+  <entityname.ProtoexosuitCLOWNenemy>Прототип клоунского экзоскелета</entityname.ProtoexosuitCLOWNenemy>
+  <entitydescription.ProtoexosuitCLOWNenemy>Крайне устаревший ПротоЭкзо без отдельного дыхательного аппарата, но с большим объёмом для хранения. Неактуальный дизайн, хотя и прочный, покрытый комичными надписями, которые делают его истинный возраст неопределяемым, поскольку несколько десятков оригинальных прототипов были повреждены, модернизированы или переработаны вместе с первыми костюмами RIG задолго до того, как контакт с Землей был потерян. Существование стольких клоунских модернизированных прототипов является ещё одной таинственной загадкой Европы. Выдерживает давление на глубине до 6000 м.</entitydescription.ProtoexosuitCLOWNenemy>
+  <entityname.alienknightarmor>Инопланетный экзоскелет</entityname.alienknightarmor>
+  <entitydescription.alienknightarmor>Древняя броня, которая, похоже, запечатана на страже, не давая вам снять её.</entitydescription.alienknightarmor>
+  <entityname.pierrotmask>Маска Пьеро</entityname.pierrotmask>
+  <entitydescription.pierrotmask>Ты можешь спрятать предмет в шляпе, если хочешь.</entitydescription.pierrotmask>
+  <entityname.pierrotcostume>Костюм Пьеро 2</entityname.pierrotcostume>
+  <entitydescription.pierrotcostume>Когда ваша жизнь недостаточно ярка.</entitydescription.pierrotcostume>
+  <entityname.jesterbodyarmor>Бронежилет шута</entityname.jesterbodyarmor>
+  <entitydescription.jesterbodyarmor>Полосатый комплект брони, изготовленный из панциря наблюдателя.</entitydescription.jesterbodyarmor>
+  <entityname.jesterhelmet>Шлем шута</entityname.jesterhelmet>
+  <entitydescription.jesterhelmet>Жуткий шлем, сделанный из панциря наблюдателя, титана и эластина.</entitydescription.jesterhelmet>
+  <entityname.Infected_divingsuit>Заражённый водолазный скафандр</entityname.Infected_divingsuit>
+  <entitydescription.Infected_divingsuit>Похоже, этот скафандр изнутри и снаружи покрыт балластной флорой, которая производит кислород как побочный продукт, питаясь кровью. Крайне заразен для находящихся поблизости людей и предметов.</entitydescription.Infected_divingsuit>
+  <entityname.wreckexosuit>Сломанный экзокостюм</entityname.wreckexosuit>
+  <entityname.wreckexosuitholder>Сломанный экзокостюм</entityname.wreckexosuitholder>
+  <entityname.deadskeleton>Останки человека</entityname.deadskeleton>
+  <entityname.fishbone>Рыбья кость</entityname.fishbone>
+  <entityname.fishoil>Рыбий жир</entityname.fishoil>
+  <entityname.fishscale>Рыбья чешуя</entityname.fishscale>
+  <entityname.sebum>Кожное сало</entityname.sebum>
+  <entityname.glowgland>Биолюминисцентная железа</entityname.glowgland>
+  <entityname.thezoo>Клетка для рыбы</entityname.thezoo>
+  <entityname.petdufflebag>Туша домашнего животного</entityname.petdufflebag>
+  <entitydescription.petdufflebag>Упакованный мешок с телом умершего домашнего животного.</entitydescription.petdufflebag>
+  <entityname.Sawcrazychainsaw>Пила безумца</entityname.Sawcrazychainsaw>
+  <entitydescription.Sawcrazychainsaw>Большая ржавая электрическая цепная пила, которая была списана шахтерами Европы. Её края всё ещё острые, и она, кажется, окровавлена. Какую пользу может принести этот инструмент?</entitydescription.Sawcrazychainsaw>
+  <entityname.clowndrillsaw>Горный бур безумца</entityname.clowndrillsaw>
+  <entitydescription.clowndrillsaw>Старый карьерный бур, переделанный в смертоносное самодельное оружие.</entitydescription.clowndrillsaw>
+  <entityname.trimmer>Таинственная бензопила</entityname.trimmer>
+  <entitydescription.trimmer>Странный инструмент, извлечённый из тёмных глубин Европы. Теперь он в правильных руках.</entitydescription.trimmer>
+  <entityname.clownsawcutter>Циркулярная пила</entityname.clownsawcutter>
+  <entitydescription.clownsawcutter>Используется для резки различных материалов с помощью кругового лезвия. Работает на батарейках.</entitydescription.clownsawcutter>
+  <entityname.drillsaw>Трофейный горный бур</entityname.drillsaw>
+  <entitydescription.drillsaw>Старый карьерный бур, переделанный в смертоносное самодельное оружие.</entitydescription.drillsaw>
+  <entityname.meatcleaver>Тесак для мяса</entityname.meatcleaver>
+  <entitydescription.meatcleaver>Тяжёлое и немного туповатое лезвие, изготовленное из куска корпуса подводной лодки. Удивительно лёгкое и способно пробивать различные укрепления.</entitydescription.meatcleaver>
+  <entityname.Chainsawold>Ржавая пила</entityname.Chainsawold>
+  <entitydescription.Chainsawold>Большая ржавая электрическая цепная пила, которая была списана шахтерами Европы. Её края всё ещё острые, и она, кажется, окровавлена. Какую пользу может принести этот инструмент?</entitydescription.Chainsawold>
+  <entityname.endwormarmor>Грудной экзоскелет червя Рока</entityname.endwormarmor>
+  <entityname.endwormhelmet>Головной экзоскелет червя Рока</entityname.endwormhelmet>
+  <entityname.largefleshstinger>Большое мясистое жало</entityname.largefleshstinger>
+  <entityname.banditweldingbomb>Сварочная баллон-бомба</entityname.banditweldingbomb>
+  <entitydescription.banditweldingbomb>Сварочное топливо с привязанным к нему факелом. Не рассчитано для длительного использования.</entitydescription.banditweldingbomb>
+  <entityname.banditoxygentankbomb>Кислородная баллон-бомба</entityname.banditoxygentankbomb>
+  <entitydescription.banditoxygentankbomb>Кислородный баллон под высоким давлением, готовый засыпать врагов осколками. Классика сепаратистов.</entitydescription.banditoxygentankbomb>
+  <entityname.fertilemediumcrawleregg>Оплодотворённое яйцо ползуна</entityname.fertilemediumcrawleregg>
+  <entityname.fertilecrawleregg>Оплодотворённое яйцо ползуна</entityname.fertilecrawleregg>
+  <entityname.fertiletigerthresheregg>Оплодотворённое яйцо акульего тигра</entityname.fertiletigerthresheregg>
+  <entityname.fertilethresheregg>Оплодотворённое яйцо акульего тигра</entityname.fertilethresheregg>
+  <entityname.fertilemediummudraptoregg>Оплодотворённое яйцо грязевого раптора</entityname.fertilemediummudraptoregg>
+  <entityname.fertilemudraptoregg>Оплодотворённое яйцо грязевого раптора</entityname.fertilemudraptoregg>
+  <entityname.BTdistressbeacon>Одноразовый аварийный маячок</entityname.BTdistressbeacon>
+  <!--  AFFLICTIONS  -->
+  <afflictionname.fractalarmed>Вооружён</afflictionname.fractalarmed>
+  <afflictiondescription.fractalarmed>Этот страж имеет оружие и не боится использовать его!</afflictiondescription.fractalarmed>
+  <afflictionname.xanhuskhunterstorage>Хранилище</afflictionname.xanhuskhunterstorage>
+  <afflictiondescription.xanhuskhunterstorage>Монстр носит с собой некоторые вещи!</afflictiondescription.xanhuskhunterstorage>
+  <afflictionname.xanhuskhunterextrastorage>Дополнительное хранилище</afflictionname.xanhuskhunterextrastorage>
+  <afflictiondescription.xanhuskhunterextrastorage>Монстр клонирует свои боеприпасы!</afflictiondescription.xanhuskhunterextrastorage>
+  <afflictionname.runcrawler>Бегство</afflictionname.runcrawler>
+  <afflictiondescription.runcrawler>Матка роя мертва! Бегите, спасайте свои жизни!</afflictiondescription.runcrawler>
+  <afflictionname.humanarmed>Вооружён</afflictionname.humanarmed>
+  <afflictiondescription.humanarmed>Человек имеет при себе оружие.</afflictiondescription.humanarmed>
+  <afflictionname.stalkerblinded>Ослеплён</afflictionname.stalkerblinded>
+  <afflictiondescription.stalkerblinded>МОИ ГЛАЗА!!!</afflictiondescription.stalkerblinded>
+  <afflictionname.stalkershocked>Шокирован</afflictionname.stalkershocked>
+  <afflictiondescription.stalkershocked>Ээээ...</afflictiondescription.stalkershocked>
+  <afflictionname.eggshocked>Шокирован</afflictionname.eggshocked>
+  <afflictiondescription.eggshocked>Ээээ...</afflictiondescription.eggshocked>
+  <afflictionname.stalkerhands>Напуган</afflictionname.stalkerhands>
+  <afflictiondescription.stalkerhands>ОНО БЛИЗКО</afflictiondescription.stalkerhands>
+  <afflictionname.attackstalker>Разорван</afflictionname.attackstalker>
+  <afflictiondescription.attackstalker>...</afflictiondescription.attackstalker>
+  <causeofdeathdescription.burn>Убит электрическим током</causeofdeathdescription.burn>
+  <self_causeofdeathdescription.stalkerkill>Сталкер загрыз вас насмерть.</self_causeofdeathdescription.stalkerkill>
+  <afflictionname.fastspeed>ЧЕРТОВСКИ БЫСТРЫЙ</afflictionname.fastspeed>
+  <afflictionname.infectedsuitinfection>Заражённый костюм</afflictionname.infectedsuitinfection>
+  <afflictiondescription.infectedsuitinfection>Пациент находится в заражённом костюме и постепенно разлагается.</afflictiondescription.infectedsuitinfection>
+  <causeofdeathdescription.infectedsuitinfection>Талассемия</causeofdeathdescription.infectedsuitinfection>
+  <self_causeofdeathdescription.infectedsuitinfection>Вы долго находились в заражённом костюме и постепенно разложились.</self_causeofdeathdescription.infectedsuitinfection>
+  <!--  Далее в процессе разработки  -->
+  <!--  Перевод от Router и Enigma   -->
+</infotexts>

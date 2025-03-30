@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.sweepermask_SO>Маска Чистильщика</entityname.sweepermask_SO>
+  <entityname.sweepermask_alt1_SO>Маска Чистильщика</entityname.sweepermask_alt1_SO>
+  <entityname.sweepermask_alt2_SO>Маска Чистильщика</entityname.sweepermask_alt2_SO>
+  <entityname.sweepersuit_SO>Костюм Чистильщика</entityname.sweepersuit_SO>
+  <entityname.sweeperhook_SO>Крюк Чистильщика</entityname.sweeperhook_SO>
+  <afflictionname.sweeper_persistence_SO>Упорство</afflictionname.sweeper_persistence_SO>
+  <afflictiondescription.sweeper_persistence_SO>50% шанс восстановить немного здоровья после падения живучести до нуля. Перезарядка способности 30 секунд.</afflictiondescription.sweeper_persistence_SO>
+  <afflictionname.sweepheal_SO>Восстановление очисткой</afflictionname.sweepheal_SO>
+  <afflictionname.sweepheal_SO2>Восстановление очисткой 2</afflictionname.sweepheal_SO2>
+  <afflictionname.sweepermask_worn_SO>Надета маска Чистильщика</afflictionname.sweepermask_worn_SO>
+  <afflictionname.sweepersuit_worn_SO>Надет костюм Чистильщика</afflictionname.sweepersuit_worn_SO>
+  <afflictionname.sweeper_persistence_cooldown_SO>Восстановление упорства</afflictionname.sweeper_persistence_cooldown_SO>
+</infotexts>

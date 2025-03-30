@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.autogunacidammobox>Ящик с химичискими боеприпасами для автопушки</entityname.autogunacidammobox>
+  <entitydescription.autogunacidammobox>Ящик с тяжелыми снарядами, наполненными кислотой. Замедляет врагов и наносит им урон от ожогов с течением времени.</entitydescription.autogunacidammobox>
+  <entityname.autogundepletedfuelammobox>Ящик с боеприпасами с обедненным топливом для автопушки</entityname.autogundepletedfuelammobox>
+  <entitydescription.autogundepletedfuelammobox>Ящик с тяжелыми снарядами из обедненного урана. Пробивает броню и облучает цель.</entitydescription.autogundepletedfuelammobox>
+  <entityname.autogunexplosiveammobox>Ящик с разрывными боеприпасами для автопушки</entityname.autogunexplosiveammobox>
+  <entitydescription.autogunexplosiveammobox>Ящик с тяжелыми разрывными снарядами. Уничтожает стаи хлипких целей, сохраняя при этом способность противостоять броне.</entitydescription.autogunexplosiveammobox>
+  <entityname.autogunphysicoriumammobox>Ящик физикориевых снарядов для автопушки</entityname.autogunphysicoriumammobox>
+  <entitydescription.autogunphysicoriumammobox>Ящик тяжелых снарядов из физикория. Надежный универсальный боеприпас, наносит урон выше среднего и лучше противостоит броне.</entitydescription.autogunphysicoriumammobox>
+  <entityname.autogunpiercingammobox>Ящик с пробивными боеприпасами для автопушки</entityname.autogunpiercingammobox>
+  <entitydescription.autogunpiercingammobox>Ящик с тяжелыми пробивными снарядами. Эти боеприпасы отлично справляются с броней, с легкостью пробивая даже самые прочные панцири и корпуса.</entitydescription.autogunpiercingammobox>
+  <entityname.autogunammobox>Ящик с боеприпасами для автопушки</entityname.autogunammobox>
+  <entitydescription.autogunammobox>Ящик с тяжелыми снарядами, наполненные порохом.</entitydescription.autogunammobox>
+  <entityname.autogun>Автопушка</entityname.autogun>
+  <entitydescription.autogun>Использует боеприпасы со взрывчатым ускорителем. Оружие начинает действовать медленно, но со временем наращивает скорострельность, обрушивая на противника шквал огня с довольно высокой точностью.</entitydescription.autogun>
+  <entityname.autogunloader>Зарядник автопушки</entityname.autogunloader>
+  <entitydescription.autogunloader>Подает боеприпасы к автопушке, к которой он подключен.</entitydescription.autogunloader>
+  <entityname.quickfiregunshellsalvo>Залповый снаряд для быстрозарядного орудия</entityname.quickfiregunshellsalvo>
+  <entitydescription.quickfiregunshellsalvo>Залповые снаряды содержат 5 дополнительных дробинок, которые разлетаются с небольшой задержкой после выстрела. Действует аналогично шрапнельному снаряду, эффективен против групп мелких целей на средних дистанциях.</entitydescription.quickfiregunshellsalvo>
+  <entityname.torpedodecoy>Торпеда-приманка</entityname.torpedodecoy>
+  <entitydescription.torpedodecoy>В отличие от глубинных бомб, эта торпеда несет боеголовку и может быть оснащена дополнительным взрывчатым веществом.</entitydescription.torpedodecoy>
+  <entityname.torpedorack>Торпедная стойка</entityname.torpedorack>
+  <entitydescription.torpedorack>Стационарный контейнер для торпед, вмещает до 3 штук.</entitydescription.torpedorack>
+  <entityname.quickfiregunshellphysicorium>Физикориевый снаряд для быстрозарядного орудия</entityname.quickfiregunshellphysicorium>
+  <entitydescription.quickfiregunshellphysicorium>Физикориевая оболочка легко пробивает любую броню и разрывает то, что под ней находится.</entitydescription.quickfiregunshellphysicorium>
+  <entityname.quickfiregunammobox>Хранилище боеприпасов для быстрозарядного орудия</entityname.quickfiregunammobox>
+  <entitydescription.quickfiregunammobox>Специальный контейнер снарядов для быстрозарядного орудия.</entitydescription.quickfiregunammobox>
+  <entityname.quickfiregunshellpiercing>Пробивной снаряд для быстрозарядного орудия</entityname.quickfiregunshellpiercing>
+  <entitydescription.quickfiregunshellpiercing>Пробивной снаряд для быстрозарядного орудия, способный с легкостью рассекать тяжелую броню и корпуса подводных лодок.</entitydescription.quickfiregunshellpiercing>
+  <entityname.quickfiregunshellexplosive>Разрывной снаряд для быстрозарядного орудия</entityname.quickfiregunshellexplosive>
+  <entitydescription.quickfiregunshellexplosive>Этот снаряд оснащен взрывной боеголовкой, что повышает его эффективность против групп более мягких целей, но практически не действует на бронированные.</entitydescription.quickfiregunshellexplosive>
+  <entityname.quickfiregunshell>Снаряд для быстрозарядного орудия</entityname.quickfiregunshell>
+  <entitydescription.quickfiregunshell>Стандартные боеприпасы для быстрозарядного орудия. Приличная пробивная способность и высокий урон, способный уничтожить мелких существ одним прямым попаданием и при этом нанести удар по более крупным угрозам.</entitydescription.quickfiregunshell>
+  <entityname.quickfiregun>Быстрозарядное орудие</entityname.quickfiregun>
+  <entitydescription.quickfiregun>Мощная крупнокалиберная автоматическая пушка, работающая как облегченная рельсовая пушка. Чрезвычайно эффективна против любых видов угроз, но требует много ресурсов для использования.</entitydescription.quickfiregun>
+  <entityname.quickfiregunloader>Зарядник для быстрозарядного орудия</entityname.quickfiregunloader>
+  <entitydescription.quickfiregunloader>Подает боеприпасы к быстрозарядному орудию, к которому он подключен.</entitydescription.quickfiregunloader>
+  <entityname.piercingtorpedo>Прибивная торпеда</entityname.piercingtorpedo>
+  <entitydescription.piercingtorpedo>Эта торпеда детонирует с небольшой задержкой после пробития цели, что приводит к разрушительному внутреннему взрыву.</entitydescription.piercingtorpedo>
+  <entityname.nucleartorpedo>Ядерная топреда</entityname.nucleartorpedo>
+  <entitydescription.nucleartorpedo>Торпеда с ядерной боеголовкой.</entitydescription.nucleartorpedo>
+  <entityname.torpedo>Торпеда</entityname.torpedo>
+  <entitydescription.torpedo>Базовая торпеда со взрывной боеголовкой и местом для дополнительной взрывчатки. Приводимая в движение электродвигателем, торпеда движется по прямой линии, оставаясь на той высоте, на которой была запущена.</entitydescription.torpedo>
+  <entityname.torpedotube>Торпедный аппарат </entityname.torpedotube>
+  <entitydescription.torpedotube>Фиксированное орудие для запуска топред по прямой.</entitydescription.torpedotube>
+  <entityname.torpedoloader>Зарядник торпед</entityname.torpedoloader>
+  <entitydescription.torpedoloader>Специальное загрузочное устройство для торпедных аппаратов. Может вмещать одну торпеду за раз.</entitydescription.torpedoloader>
+  <entityname.mortarammobox_kinetic>Ящик с кинетическими боеприпасами для бомбомета</entityname.mortarammobox_kinetic>
+  <entitydescription.mortarammobox_kinetic>Ящик с тяжелыми снарядами, наносящими большой урон за счет своей ударной силы. Отлично действует против бронированных целей.</entitydescription.mortarammobox_kinetic>
+  <entityname.mortarammobox_he>Ящик с фугасными боеприпасами для бомбомета</entityname.mortarammobox_he>
+  <entitydescription.mortarammobox_he>Ящик с бомбами с фугасными боеголовками, которые создают более мощный взрыв с большей площадью поражения.</entitydescription.mortarammobox_he>
+  <entityname.mortarammobox>Ящик с патронами для бомбомета</entityname.mortarammobox>
+  <entitydescription.mortarammobox>Ящик с патронами для бомбомета. В ящике 33 бомбы, наполненные взрывчаткой. После выстрела бомбы летят по дугообразной траектории.</entitydescription.mortarammobox>
+  <entityname.mortarloader>Зарядник бомбомета</entityname.mortarloader>
+  <entitydescription.mortarloader>Подает боеприпасы к бомбомету, к которому он подключен.</entitydescription.mortarloader>
+  <entityname.mortarlol>Бомбомет</entityname.mortarlol>
+  <entitydescription.mortarlol>Тяжелая пушка для запуска бомб, которые летят по дуге и наносят огромный урон.</entitydescription.mortarlol>
+</infotexts>

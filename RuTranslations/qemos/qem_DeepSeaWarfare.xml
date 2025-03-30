@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--Предметы-->
+  <entityname.europagunpowder>Европейский порох</entityname.europagunpowder>
+  <entitydescription.europagunpowder>Импровизированный порох. Из-за нехватки серы при его создании в качестве заменителя использовались другие, более распространенные вещества. Используется в широком спектре боеприпасов. При метании рассыпается.</entitydescription.europagunpowder>
+  <entityname.cdatadrive>Зашифрованный накопитель</entityname.cdatadrive>
+  <entitydescription.cdatadrive>Содержит схемы особо секретного оружия Коалиции. Имеет встроенный вирус, который не позволяет использовать диск многократно. Вы чувствуете, что его потеря крайне нежелательна.</entitydescription.cdatadrive>
+  <!--Взрывчатка-->
+  <entityname.combatdisablergrenade>Боевая обезвреживающая граната</entityname.combatdisablergrenade>
+  <entitydescription.combatdisablergrenade>Оглушающая граната, используемая для ослабления любой пораженной цели, предназначена для тяжелобронированных и крупных существ. При детонации вылетает шрапнель, наносящая серьезные внутренние повреждения. С осторожностью используйте на людях.</entitydescription.combatdisablergrenade>
+  <entityname.combatstungrenade>Боевая оглушающая граната</entityname.combatstungrenade>
+  <entitydescription.combatstungrenade>Оглушающая граната для обездвиживания как мелких, так и крупных целей. Применение против человека может вызвать сильную дезориентацию и потерю слуха.</entitydescription.combatstungrenade>
+  <entityname.fragmentationgrenadeM67>Боевая осколочная граната</entityname.fragmentationgrenadeM67>
+  <entitydescription.fragmentationgrenadeM67>При детонации вызывает сильный взрыв, разбрасывая по округе осколки. Почти наверняка смертелен, если находится на близкой дистанции при взрыве.</entitydescription.fragmentationgrenadeM67>
+  <entityname.c4satchelcharge>Связка C4</entityname.c4satchelcharge>
+  <entitydescription.c4satchelcharge>Блоки C4, скрепленные вместе. Вызывает серьезные структурные повреждения. Вы можете установить время до детонации взрывчатки. Часто используется для вскрытия подводных лодок и аванпостов.</entitydescription.c4satchelcharge>
+  <entityname.uexbreachingcharge>Прорывной заряд</entityname.uexbreachingcharge>
+  <entitydescription.uexbreachingcharge>Взрывчатка с коротким фитилём для прорыва подводных шлюзов и руин с регулируемым таймером. Имеет небольшой радиус действия, поэтому для максимальной эффективности закладывайте его как можно ближе к цели.</entitydescription.uexbreachingcharge>
+  <entityname.combatsmokegrenade>Боевая пыхтелка</entityname.combatsmokegrenade>
+  <entitydescription.combatsmokegrenade>Выпускает плотное облако дыма. Нарушает видимость и вызывает сильное затруднение дыхания. Содержит кислородит в крайне нестабильном и раскисленном состоянии, быстро высасывает воздух из помещения. Рекомендуется использовать кислородную маску.</entitydescription.combatsmokegrenade>
+  <entityname.dynamitestick>Динамитная шашка</entityname.dynamitestick>
+  <entitydescription.dynamitestick>Динамитная шашка для пробивания корпусов подводных лодок. Сепаратисты любят бросать ее в солдат коалиции. Не держите его слишком долго после воспламенения. (Нажмите E, чтобы поджечь фитиль перед броском)</entitydescription.dynamitestick>
+  <entityname.dynamitebundle>Динамитная шашка</entityname.dynamitebundle>
+  <entitydescription.dynamitebundle>Три динамитные шашки, связанные вместе для увеличения разрушительных способностей. (Нажмите E, чтобы поджечь фитиль перед броском)</entitydescription.dynamitebundle>
+  <entityname.fragmentationgrenadeF1>Осколочная граната F1</entityname.fragmentationgrenadeF1>
+  <entitydescription.fragmentationgrenadeF1>Усовершенствованая осколочная граната. Вызывает мощный взрыв при детонации, с большой скоростью разбрасывая осколки по округе, нанося серьезные внутренние повреждения.</entitydescription.fragmentationgrenadeF1>
+  <entityname.GL06grenadelauncher>Гранатомет GL06</entityname.GL06grenadelauncher>
+  <entitydescription.GL06grenadelauncher>Компактный гранатомет, вмещающий одну 40-мм гранату. Неплох для борьбы с толпой и прорывания.</entitydescription.GL06grenadelauncher>
+  <entityname.milkormgl>Milkor MGL</entityname.milkormgl>
+  <entitydescription.milkormgl>Легкий шестизарядный гранатомет с цилиндрическим механизмом подачи, позволяющим вести быструю стрельбу.</entitydescription.milkormgl>
+  <entityname.uraniumgrenade>Ядерная бомба-ржомба</entityname.uraniumgrenade>
+  <entitydescription.uraniumgrenade>Оболочка из титана и стали, содержащая уран. Использование в бою крайне опасно для обеих сторон. Требуется отключить предохранительный механизм перед броском. (Нажмите E, чтобы активировать гранату перед броском, у вас есть 5 секунд до детонации)</entitydescription.uraniumgrenade>
+  <!--Боевые винтовки>-->
+  <entityname.AK12gun>AK12</entityname.AK12gun>
+  <entitydescription.AK12gun>Старый по сравнению с другими видами оружия АК. По техническим характеристикам схож с АК47, но немного хуже. Используется в основном сепаратистами.</entitydescription.AK12gun>
+  <entityname.AK12magazine>Магазин AK12</entityname.AK12magazine>
+  <entitydescription.AK12magazine>Магазин, заряженный патронами калибра 5,45x39мм.</entitydescription.AK12magazine>
+  <entityname.AR10gun>AR10</entityname.AR10gun>
+  <entitydescription.AR10gun>Оружие, считающееся альтернативой к M16. Имеет более высокий урон, но меньшую емкость магазина. Иногда его можно увидеть в продаже у сепаратистов. Стреляет патронами калибра 7,62х51мм.</entitydescription.AR10gun>
+  <entityname.AR10magazine>Магазин AR10</entityname.AR10magazine>
+  <entitydescription.AR10magazine>Магазин, заряженный патронами калибра 7,62х51мм.</entitydescription.AR10magazine>
+  <entityname.FG42gun>FG42</entityname.FG42gun>
+  <entitydescription.FG42gun>Устаревшая, но мощная боевая винтовка под калибр 7,92x57мм. Предлагает большой урон и хорошую точность. Часто используется сепаратистами.</entitydescription.FG42gun>
+  <entityname.FG42magazine>Магазин FG42</entityname.FG42magazine>
+  <entitydescription.FG42magazine>Магазин, заряженный патронами калибра 7.92x57мм.</entitydescription.FG42magazine>
+  <entityname.FNFALgun>FN FAL</entityname.FNFALgun>
+  <entitydescription.FNFALgun>Широко распространенная и культовая боевая винтовка, имеющаяся почти в каждом военном комплексе на Европе. Обеспечивает высокую точность и большой урон. Стреляет патронами калибра 7,62х51мм.</entitydescription.FNFALgun>
+  <entityname.FNFALmagazine>Магазин FN FAL</entityname.FNFALmagazine>
+  <entitydescription.FNFALmagazine>Магазин, заряженный патронами калибра 7.92x57мм.</entitydescription.FNFALmagazine>
+  <entityname.G3gun>G3</entityname.G3gun>
+  <entitydescription.G3gun>Близкий родственник штурмовой винтовки CETME-L. Обладает характеристиками ниже среднего по сравнению с большинством боевых винтовок, в основном используется сепаратистами из-за дешевизны производства. Стреляет патронами калибра 7,62х51мм.</entitydescription.G3gun>
+  <entityname.G3magazine>Маназин G3</entityname.G3magazine>
+  <entitydescription.G3magazine>Магазин, заряженный патронами калибра 7.62x51мм.</entitydescription.G3magazine>
+  <entityname.HK417gun>HK417</entityname.HK417gun>
+  <entitydescription.HK417gun>HK417 был принят на вооружение ряда вооруженных сил и коалиции по всей Европе. Он предназначен для использования там, где останавливающая сила патрона 5,56х45мм была бы недостаточной. Обладает высокой скорострельностью. Стреляет патронами калибра 7,62х51мм.</entitydescription.HK417gun>
+  <entityname.HK417magazine>Магазин HK417</entityname.HK417magazine>
+  <entitydescription.HK417magazine>Магазин, заряженный патронами калибра 7.62x51мм.</entitydescription.HK417magazine>
+  <entityname.SCARHgun>SCAR-H</entityname.SCARHgun>
+  <entitydescription.SCARHgun>Тяжелая и скорострельная боевая винтовка с сильной отдачей, но большим уроном. Для эффективной стрельбы из нее требуется крепкий хват и сила. Стреляет патронами калибра 7,62×51мм.</entitydescription.SCARHgun>
+  <entityname.SCARHmagazine>Магазин SCAR-H</entityname.SCARHmagazine>
+  <entitydescription.SCARHmagazine>Магазин, заряженный специальными патронами калибра 7.62x51мм. Вмещает больше патронов чем обычно.</entitydescription.SCARHmagazine>
+  <entityname.SIGMCXgun>SIG MCX</entityname.SIGMCXgun>
+  <entitydescription.SIGMCXgun>Боевая винтовка с большим уроном и низкой отдачей. Винтовка часто используется коалиционными силами в закрытых пространствах. Стреляет патронами калибра 7,62x39мм.</entitydescription.SIGMCXgun>
+  <entityname.SIGMCXmagazine>Магазин SIG MCX</entityname.SIGMCXmagazine>
+  <entitydescription.SIGMCXmagazine>Магазин, заряженный патронами калибра .300 cal 'Blackout'.</entitydescription.SIGMCXmagazine>
+  <!--Пулеметы>-->
+  <entityname.M60gun>M60</entityname.M60gun>
+  <entitydescription.M60gun>Тяжелый пулемет, способный держать на мушке или кромсать вражеские цели. Одно из самых распространенных орудий такого типа. Стреляет патронами калибра 7,62×51мм.</entitydescription.M60gun>
+  <entityname.M60magazine>Барабанный магазин M60</entityname.M60magazine>
+  <entitydescription.M60magazine>Барабанный магазин для пулемета M60, снаряженный патронами калибра 7,62×51мм.</entitydescription.M60magazine>
+  <entityname.M60apmagazine>Барабанный магазин M60 с физикорием</entityname.M60apmagazine>
+  <entitydescription.M60apmagazine>Специальная модификация обычного барабанного магазина M60 с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон по бронированным и небронированным целям.</entitydescription.M60apmagazine>
+  <entityname.M1918gun>M1918 BAR</entityname.M1918gun>
+  <entitydescription.M1918gun>Легкий пулемет, используемый в основном сепаратистами. Обладает большим уроном, компактными размерами и высокой точностью, но имеет низкий темп стрельбы. Стреляет патронами калибра 7,62×63мм. Не может принимать боеприпасы особого типа.</entitydescription.M1918gun>
+  <entityname.M1918magazine>Магазин M1918 BAR</entityname.M1918magazine>
+  <entitydescription.M1918magazine>Магазин для пулемета M1918 BAR заряженный патронами калибра 7.62×63мм.</entitydescription.M1918magazine>
+  <entityname.K3gun>K3</entityname.K3gun>
+  <entitydescription.K3gun>Легкий пулемет с хорошей скорострельностью и останавливающим действием, не замедляющий пользователя. Стреляет патронами калибра 5,56×45мм и может использовать специальные пробивные боеприпасы, которые можно сделать на любом фабрикаторе.</entitydescription.K3gun>
+  <entityname.K3magazine>Пулеметная лента K3</entityname.K3magazine>
+  <entitydescription.K3magazine>Пулеметная лента для К3 под патроны 5,56×45мм. Компактный размер позволяет перевозить гораздо больше патронов в контейнере того же размера по сравнению с барабанными магазинами стандартного размера.</entitydescription.K3magazine>
+  <entityname.K3apmagazine>Пулеметная лента K3 из физикория</entityname.K3apmagazine>
+  <entitydescription.K3apmagazine>Специальная модификация обычного боевого пояса K3 с добавлением физикориума и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон как по бронированным, так и по небронированным целям.</entitydescription.K3apmagazine>
+  <entityname.FNgun>FN Minimi</entityname.FNgun>
+  <entitydescription.FNgun>Легкий пулемет, обладающий большой убойной силой за счет большого веса. Стреляет патронами калибра 5,56×45мм. Принимает специальные бронебойные патроны.</entitydescription.FNgun>
+  <entityname.FNmagazine>Барабанный магазин FN</entityname.FNmagazine>
+  <entitydescription.FNmagazine>Барабанный магазин для пулемета FN Minimi заряженный патронами калибра 5.56×45мм.</entitydescription.FNmagazine>
+  <entityname.FNapmagazine>Магазин FN с физикорием</entityname.FNapmagazine>
+  <entitydescription.FNapmagazine>Специальный вариант обычного барабанного магазина FN с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон как по бронированным, так и по небронированным целям.</entitydescription.FNapmagazine>
+  <entityname.M249gun>M249</entityname.M249gun>
+  <entitydescription.M249gun>Легкий пулемет, обладающий большой убойной силой за счет большого веса. Адаптация легкого пулемета FN Minimi. Имеет схожие характеристики, но более емкий магазин и несколько лучшую управляемость. Стреляет патронами калибра 5,56х45мм.</entitydescription.M249gun>
+  <entityname.M249magazine>Барабанный магазин M249</entityname.M249magazine>
+  <entitydescription.M249magazine>Барабанный магазин для пулемета M249 заряженный патронами калибра 5,56×45мм.</entitydescription.M249magazine>
+  <entityname.M249apmagazine>Барабанный магазин M249 с физикорием</entityname.M249apmagazine>
+  <entitydescription.M249apmagazine>Специальная модификация обычного барабанного магазина M249 с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон как по бронированным, так и по небронированным целям.</entitydescription.M249apmagazine>
+  <entityname.MG42gun>MG42</entityname.MG42gun>
+  <entitydescription.MG42gun>Пулемет общего назначения. Один из самых известных видов огнестрельного оружия на Земле. Очень тяжелый и громоздкий, но при этом обладает большой мощью и отличной скорострельностью, а также умеренной точностью. Стреляет патронами калибра 7,92×57мм.</entitydescription.MG42gun>
+  <entityname.MG42apmagazine>Барабанный магазин для MG42 с физикорием</entityname.MG42apmagazine>
+  <entitydescription.MG42apmagazine>Специальная модификация обычного барабанного магазина MG42 с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон по бронированным и небронированным целям.</entitydescription.MG42apmagazine>
+  <entityname.MG42magazine>Барабанный магазиндля MG42</entityname.MG42magazine>
+  <entitydescription.MG42magazine>Барабанный магазин для пулемета MG42 с патронами 7,92×57мм.</entitydescription.MG42magazine>
+  <entityname.Brengun>Пулемет Bren</entityname.Brengun>
+  <entitydescription.Brengun>Легкий пулемет, используемый в основном сепаратистами. Обладает большим уроном, компактными размерами и точностью, однако перегревается гораздо быстрее, чем обычно. Один из лучших в своем роде, доступных сепаратистам. Стреляет патронами калибра .303.</entitydescription.Brengun>
+  <entityname.Brenmagazine>Магазин Bren</entityname.Brenmagazine>
+  <entitydescription.Brenmagazine>Магазин, заряженный патронами калибра .303.</entitydescription.Brenmagazine>
+  <entityname.HK23gun>HK23</entityname.HK23gun>
+  <entitydescription.HK23gun>Легкий пулемет, обладающий хорошей останавливающей силой, скорострельностью и точностью. Благодаря своей дешевой и надежной конструкции довольно часто используется коалицией в регулярных полевых операциях. Стреляет патронами калибра 5,56х45мм.</entitydescription.HK23gun>
+  <entityname.HK23magazine>Барабанный магазин HK23</entityname.HK23magazine>
+  <entitydescription.HK23magazine>Барабанный магазин для пулемета HK23, снаряженный патронами калибра 5,56×45мм.</entitydescription.HK23magazine>
+  <entityname.HK23apmagazine>Барабанный магазин HK23 с физикорием</entityname.HK23apmagazine>
+  <entitydescription.HK23apmagazine>Специальная модификация обычного барабанного магазина HK23 с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон как по бронированным, так и по небронированным целям.</entitydescription.HK23apmagazine>
+  <entityname.Negevgun>IMI Negev</entityname.Negevgun>
+  <entitydescription.Negevgun>Легкий пулемет, обладающий высокой точностью и боезапасом для ведения огня на подавление и непрерывного штурма. Стреляет патронами калибра 7,62×51мм.</entitydescription.Negevgun>
+  <entityname.Negevmagazine>Барабанный магазин Negev</entityname.Negevmagazine>
+  <entitydescription.Negevmagazine>Барабанный магазин для пулемета IMI Negev с патронами 7,62×51мм.</entitydescription.Negevmagazine>
+  <entityname.Negevapmagazine>Барабанный магазин Negev с физикорием</entityname.Negevapmagazine>
+  <entitydescription.Negevapmagazine>Специальная модификация обычного барабанного магазина IMI Negev с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон по бронированным и небронированным целям.</entitydescription.Negevapmagazine>
+  <entityname.Lewisgun>Lewis</entityname.Lewisgun>
+  <entitydescription.Lewisgun>Старый добрый легкий пулемет, обладающий огромной мощностью, хорошей скорострельностью и высокой точностью за счет размера магазина. Используется круглый магазин, закрепленный на верхней части оружия. Стреляет патронами калибра .303.</entitydescription.Lewisgun>
+  <entityname.Lewismagazine>Магазин Lewis</entityname.Lewismagazine>
+  <entitydescription.Lewismagazine>Компактный круглый магазин для пулемета Lewis с патронами калибра .303.</entitydescription.Lewismagazine>
+  <entityname.Lewisapmagazine>Магазин Lewis с физикорием</entityname.Lewisapmagazine>
+  <entitydescription.Lewisapmagazine>Специальная модификация обычного магазина Lewis с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон как по бронированным, так и по небронированным целям.</entitydescription.Lewisapmagazine>
+  <entityname.PFRgun>ПУФ 'Освободитель'</entityname.PFRgun>
+  <entitydescription.PFRgun>Пулемет для Уничтожения Фауны, прозвище 'Освободитель'. Крайне секретное и опасное оружие массового поражения. Создан Коалицией в качестве решения проблемы нападения крупной фауны на еще не полностью сформировавшиеся жилые аванпосты во времена Коллапса. В настоящее время используется специальными командами Коалиции в рейдах на важные места и укрытия сепаратистов. Рецепт изготовления был зашифрован высшим руководством, чтобы избежать попадания технологии в руки врагов Коалиции. Быстро стреляет специальными патронами 26,1×70мм, обеспечивая абсолютную децимацию цели. Требуется особое мастерство, чтобы не оторвать себе руку при стрельбе из этого зверя.  Требуется специальный накопитель данных, чтобы изготовить его самостоятельно, если вам удастся его найти, или купить, если вас сочтут достаточно надежным.</entitydescription.PFRgun>
+  <entityname.PFRmagazine>Барабанный магазин ПУФ</entityname.PFRmagazine>
+  <entitydescription.PFRmagazine>Барабанный магазин для Пулемета Уничтожения Фауны заряжается патронами 26,1×70мм, которые хорошо пробивают любые материалы и броню. Автоматически закрывается, когда в нем заканчиваются патроны, для более легкого извлечения и безопасности. Вы можете изготовить его без специального накопителя данных, однако хранение и торговля боеприпасами такого высокого калибра запрещены законом, и вам может не повезти, если вы попытаетесь продать его с выгодой.</entitydescription.PFRmagazine>
+  <entityname.PKMgun>ПКМ</entityname.PKMgun>
+  <entitydescription.PKMgun>Средний пулемет, обладающий огромной останавливающей силой за счет большого веса. Его чертежи были импортированы в базу данных Коалиции незадолго до Коллапса. Стандартная точность и скорострельность для своего типа оружия. Стреляет патронами калибра 7,62×54мм.</entitydescription.PKMgun>
+  <entityname.PKMmagazine>Барабанный магазин ПКМ</entityname.PKMmagazine>
+  <entitydescription.PKMmagazine>Барабанный магазин для пулемета ПКМ, снаряженный патронами калибра 7,62×54мм.</entitydescription.PKMmagazine>
+  <entityname.PKMapmagazine>Барабанный магазин ПКМ с физикорием</entityname.PKMapmagazine>
+  <entitydescription.PKMapmagazine>Специальная модификация обычного барабанного магазина ПКМ с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон как по бронированным, так и по небронированным целям.</entitydescription.PKMapmagazine>
+  <entityname.RPDgun>РПД</entityname.RPDgun>
+  <entitydescription.RPDgun>Легкий пулемет, наносящий большой урон за счет низкой точности и скорострельности. Его чертежи были импортированы в базу данных Коалиции незадолго до Коллапса. Часто используется сепаратистами. Стреляет патронами калибра 7,62×39мм.</entitydescription.RPDgun>
+  <entityname.RPDmagazine>Барабанный магазин РПД</entityname.RPDmagazine>
+  <entitydescription.RPDmagazine>Барабанный магазин для пулемета RPD, заряженный патронами калибра 7,62×39мм.</entitydescription.RPDmagazine>
+  <entityname.RPDapmagazine>Барабанный магазин РПД с физикорием</entityname.RPDapmagazine>
+  <entitydescription.RPDapmagazine>Специальная модификация обычного барабанного магазина RPD с добавлением физикория и титана. Пробивает очень прочную броню, но не наносит значительных структурных повреждений. Увеличивает урон как по бронированным, так и по небронированным целям.</entitydescription.RPDapmagazine>
+  <entityname.SS77gun>SS-77</entityname.SS77gun>
+  <entitydescription.SS77gun>Пулемет общего назначения, используемый из-за дешевизны производства и доступности во всех поселениях Европы... и большого урона. Не очень хорош по сравнению с другими пулеметами на рынке. Вероятно, вы сможете найти торговца, готового продать его вам без лицензии на оружие Коалиции. Стреляет патронами калибра 7,62×51мм.</entitydescription.SS77gun>
+  <entityname.SS77magazine>Пулеметная лента SS-77</entityname.SS77magazine>
+  <entitydescription.SS77magazine>Патронная лента для пулемета SS77 с патронами калибра 7,62×51мм. Компактный размер позволяет удобно хранить его.</entitydescription.SS77magazine>
+  <!--Дробовики-->
+  <entityname.BenelliM4gun>Benelli M4</entityname.BenelliM4gun>
+  <entitydescription.BenelliM4gun>Полуавтоматический дробовик, способный вмещать 8 патронов одновременно. Он может работать много лет без обслуживания, поэтому его часто используют в качестве запасного оружия в тяжелых ситуациях.</entitydescription.BenelliM4gun>
+  <entityname.SPAS12gun>SPAS-12</entityname.SPAS12gun>
+  <entitydescription.SPAS12gun>Боевое помповое ружье, отличающееся высокой точностью стрельбы и повышенной скорострельностью, но требующее подкачки после каждого выстрела. Вмещает 10 патронов.</entitydescription.SPAS12gun>
+  <entityname.Ithaca37gun>Ithaca 37</entityname.Ithaca37gun>
+  <entitydescription.Ithaca37gun>Помповое ружье, выпускаемое в больших количествах для гражданского и военного рынков. Вмещает 10 патронов и требует накачки после каждого выстрела.</entitydescription.Ithaca37gun>
+  <entityname.doublebarreledshotgun>Двуствольное ружье</entityname.doublebarreledshotgun>
+  <entitydescription.doublebarreledshotgun>Вмещает 2 снаряда, которые могут быть выпущены в быстрой последовательности. Хорошо подходит для мгновенного нанесения большого урона.</entitydescription.doublebarreledshotgun>
+  <entityname.doublebarreledsawnoffshotgun>Обрез</entityname.doublebarreledsawnoffshotgun>
+  <entitydescription.doublebarreledsawnoffshotgun>Захватывает 2 снаряда, которые можно быстро выпустить. Может стрелять одной рукой, но требует большой сноровки, чтобы не нанести серьезных повреждений владельцу. Из-за укороченного ствола и отсутствия приклада имеет больший разброс и не может удерживать фонарь.</entitydescription.doublebarreledsawnoffshotgun>
+  <entityname.KS23gun>КС-23</entityname.KS23gun>
+  <entitydescription.KS23gun>Самое крупнокалиберное ружье в современном мире. Вмещает 6 патронов и обладает невероятной мощностью.</entitydescription.KS23gun>
+  <entityname.KSG12gun>KSG-12</entityname.KSG12gun>
+  <entitydescription.KSG12gun>Помповое ружье буллпап. Имеет два трубчатых магазина, вмещающих до шести патронов. Часто используется Коалицией в закрытых пространствах.</entitydescription.KSG12gun>
+  <entityname.shotgunslugshell>Пуля для дробовика</entityname.shotgunslugshell>
+  <entitydescription.shotgunslugshell>Боеприпасы военного образца, выдаваемые Коалицией. Выстреливает одиночной пулей с высокой скоростью, средне пробивая броню и оглушая цель.</entitydescription.shotgunslugshell>
+  <entityname.shotgunfragmentationshell>Осколочный снаряд дробовика</entityname.shotgunfragmentationshell>
+  <entitydescription.shotgunfragmentationshell>Коалиционные боеприпасы ограниченного боевого применения. Выстреливает 8 гранул с высокой скоростью, которые пробивают броню, взрываясь затем на множество мелких осколков, вызывающих сильное кровотечение и рваные раны. Его использование против людей считается негуманным (ну а хули нам убийцам).</entitydescription.shotgunfragmentationshell>
+  <entityname.shotgunhighexplosiveshell>Фугасный снаряд для дробовика</entityname.shotgunhighexplosiveshell>
+  <entitydescription.shotgunhighexplosiveshell>Боеприпасы военного образца, поставляемые коалицией. Выстреливает 2 взрывные дробины, которые взрываются при попадании. Наносит серьезный урон легкобронированным противникам.</entitydescription.shotgunhighexplosiveshell>
+  <entityname.shotgunbuckshotshell>Картечь для дробовиков</entityname.shotgunbuckshotshell>
+  <entitydescription.shotgunbuckshotshell>Боеприпасы военного образца, поставляемые коалицией. Выстреливает 10 гранул с высокой скоростью, очень смертоносен на близком расстоянии.</entitydescription.shotgunbuckshotshell>
+  <entityname.arbitergun>Арбитр</entityname.arbitergun>
+  <entitydescription.arbitergun>Полуавтоматический дробовик с магазином на 16 патронов. Выстрелы производятся с большей скоростью, чем в обычных дробовиках, что обеспечивает более высокую пробивную способность.</entitydescription.arbitergun>
+  <entityname.arbiterbuckshotmagazine>Маназин Арбитра</entityname.arbiterbuckshotmagazine>
+  <entitydescription.arbiterbuckshotmagazine>Магазин заряжен 12 патронами с картечью военного образца, выпущенными Коалицией.</entitydescription.arbiterbuckshotmagazine>
+  <entityname.arbiterslugmagazine>Магазин с пулями для Арбитра</entityname.arbiterslugmagazine>
+  <entitydescription.arbiterslugmagazine>Магазин заряжен 12 патронами с пулями военного образца, выпущенными Коалицией.</entitydescription.arbiterslugmagazine>
+  <entityname.saiga12buckshotdrummagazine>Барабанный магазин с картечью для Сайга-12К</entityname.saiga12buckshotdrummagazine>
+  <entitydescription.saiga12buckshotdrummagazine>Пружинный барабанный магазин на 20 патронов с картечью военного образца, выпущенных Коалицией.</entitydescription.saiga12buckshotdrummagazine>
+  <entityname.saiga12slugmagazine>Магазин с пулями для Сайга-12К</entityname.saiga12slugmagazine>
+  <entitydescription.saiga12slugmagazine>Магазин заряжен 9 пулевыми патронами военного образца, выпущенными Коалицией.</entitydescription.saiga12slugmagazine>
+  <entityname.strikershotgun>Striker</entityname.strikershotgun>
+  <entitydescription.strikershotgun>Автоматический дробовик, предназначенный для борьбы с беспорядками и активных боевых действий. В нем используется подпружиненный цилиндр для быстрого перебора патронов, что обеспечивает высокую скорострельность. Использует физикориевые сплавы для предотвращения перегрева. Требуется расширенное знание оружия, чтобы справиться с отдачей и полностью использовать его огневые возможности.</entitydescription.strikershotgun>
+  <entityname.strikerbuckshotmagazine>Барабанный магазин Striker с картечью</entityname.strikerbuckshotmagazine>
+  <entitydescription.strikerbuckshotmagazine>Пружинный барабанный магазин, заполненный 15 патронами с картечью военного образца, выпущенными Коалицией.</entitydescription.strikerbuckshotmagazine>
+  <entityname.strikerslugmagazine>Барабанный магазин Striker с пулями</entityname.strikerslugmagazine>
+  <entitydescription.strikerslugmagazine>Пружинный барабанный магазин, заполненный 15 пулевыми патронами военного образца, выпущенными Коалицией.</entitydescription.strikerslugmagazine>
+  <!--Снайперские винтовки-->
+  <entityname.Anzio20mmgun>Anzio 20mm</entityname.Anzio20mmgun>
+  <entitydescription.Anzio20mmgun>Кит из мира винтовок по размеру и весу. Перезарядка после каждого выстрела занимает несколько секунд, поэтому лучше не промахиваться. Калибр патронов - 20мм.</entitydescription.Anzio20mmgun>
+  <entityname.20calbullet>20мм патрон</entityname.20calbullet>
+  <entitydescription.20calbullet>Изготовлен специально для высококачественных снайперских винтовок.</entitydescription.20calbullet>
+  <entityname.AS50gun>AS50</entityname.AS50gun>
+  <entitydescription.AS50gun>Полуавтоматическая снайперская винтовка с быстрой перезарядкой и хорошим боезапасом. Стреляет патронами калибра .50 BMG.</entitydescription.AS50gun>
+  <entityname.AS50magazine>Магазин AS50</entityname.AS50magazine>
+  <entitydescription.AS50magazine>Магазин, заряженный патронами калибра .50 BMG.</entitydescription.AS50magazine>
+  <entityname.AWMgun>AWM</entityname.AWMgun>
+  <entitydescription.AWMgun>Ударная снайперская винтовка с длительной перезарядкой, лучше не промахиваться. Может нанести травму плеча, если используется неопытным стрелком. Стреляет пулями .300 калибра.</entitydescription.AWMgun>
+  <entityname.AWMmagazine>Магазин AWM</entityname.AWMmagazine>
+  <entitydescription.AWMmagazine>Магазин, заряженный патронами калибра .300.</entitydescription.AWMmagazine>
+  <entityname.300calbullet>Патрон калибра .300</entityname.300calbullet>
+  <entityname.Barretgun>Barret M82</entityname.Barretgun>
+  <entitydescription.Barretgun>Антиматериальная полуавтоматическая снайперская винтовка для использования против вражеских подводных лодок и вражеских аванпостов. Пробивает стены и корпуса, а также броню, но не наносит такого урона небронированным целям. Стреляет пулями калибра .50 BMG.</entitydescription.Barretgun>
+  <entityname.Barretmagazine>Магазин Barret M82</entityname.Barretmagazine>
+  <entitydescription.Barretmagazine>Магазин, заряженный патронами калибра .50 BMG.</entitydescription.Barretmagazine>
+  <entityname.Delislegun>Карабин Де Лизл</entityname.Delislegun>
+  <entitydescription.Delislegun>Старый на вид карабин со встроенным глушителем на стволе. Стреляет пулями .45, но может принимать и сингулярные пули .45 вне магазина, однако одновременно вмещает только одну такую пулю. ПРЕДУПРЕЖДЕНИЕ: если вы одновременно зарядите магазин и дополнительную пулю, то ствол точно разнесет вам лицо.</entitydescription.Delislegun>
+  <entityname.Delislemagazine>Магазин Де Лизл</entityname.Delislemagazine>
+  <entitydescription.Delislemagazine>Магазин, заряженный патронами калибра .45.</entitydescription.Delislemagazine>
+  <entityname.K14gun>K14</entityname.K14gun>
+  <entitydescription.K14gun>Одна из наиболее распространенных снайперских винтовок, используемых Коалицией. Имеет небольшое замедление, но при этом сохраняет точность и смертоносность. Стреляет пулями калибра .300.</entitydescription.K14gun>
+  <entityname.K14magazine>Магазин K14</entityname.K14magazine>
+  <entitydescription.K14magazine>Магазин, заряженный патронами калибра .300.</entitydescription.K14magazine>
+  <entityname.M1carbinegun>Карабин M1</entityname.M1carbinegun>
+  <entitydescription.M1carbinegun>Оружие старых земных времен, часто используемое Сепаратистами из-за дешевизны производства. Обладает хорошей точностью и приличной скорострельностью. Использует патроны 7,62x33мм.</entitydescription.M1carbinegun>
+  <entityname.M1carbinemagazine>Магазин карабина M1</entityname.M1carbinemagazine>
+  <entitydescription.M1carbinemagazine>Магазин, заряженный патронами калибра 7.62x33мм.</entitydescription.M1carbinemagazine>
+  <entityname.M1garandgun>M1 Garand</entityname.M1garandgun>
+  <entitydescription.M1garandgun>Культовая полуавтоматическая винтовка, обеспечивающая высокую точность и большой урон. Издает отчетливый звук при выбросе обоймы. Стреляет патронами 7,62x63мм.</entitydescription.M1garandgun>
+  <entityname.M1garandmagazine>Обойма M1 Garand</entityname.M1garandmagazine>
+  <entitydescription.M1garandmagazine>Обойма для боеприпасов "en bloc", снаряженная патронами 7,62х63мм.</entitydescription.M1garandmagazine>
+  <entityname.M1941Jgun>Johnson M1941</entityname.M1941Jgun>
+  <entitydescription.M1941Jgun>Конкурент M1 Garand, который так и не был использован в бою. Стреляет гораздо более высоким калибром, сохраняя при этом большую скорострельность и хорошую точность по сравнению с M1 Garand. Такие модификации были сочтены нерентабельными, и поэтому он редко используется в войсках Сепаратистов. Стреляет патронами калибра 7,57мм, которые необходимо вручную вставлять во встроенный вращающийся магазин.</entitydescription.M1941Jgun>
+  <entityname.751calbullet>Специальная пуля 7,51мм</entityname.751calbullet>
+  <entitydescription.751calbullet>Создан специально для винтовки Johnson M1941. Имеет повышенный шанс оглушить цель и хорошо пробивает броню.</entitydescription.751calbullet>
+  <entityname.marlingun>Marlin 1894</entityname.marlingun>
+  <entitydescription.marlingun>Винтовка с рычажным механизмом, обеспечивающая высокую точность и урон. Стреляет пулями калибра .357.</entitydescription.marlingun>
+  <entityname.357calbullet>Патрон .357</entityname.357calbullet>
+  <entitydescription.357calbullet>Часто используется в некоторых винтовках и револьверах.</entitydescription.357calbullet>
+  <entityname.winchestergun>Winchester 1873</entityname.winchestergun>
+  <entitydescription.winchestergun>Винтовка с рычажным механизмом, отличающаяся высокой точностью и большим уроном, а также хорошей скоростью перезарядки. Стреляет пулями .45.</entitydescription.winchestergun>
+  <entityname.45calbullet>Патрон .45</entityname.45calbullet>
+  <entitydescription.45calbullet>Часто используется в некоторых винтовках и револьверах.</entitydescription.45calbullet>
+  <entityname.VSSvintorezgun>ВСС Винторез</entityname.VSSvintorezgun>
+  <entitydescription.VSSvintorezgun>Снайперская модификация штурмовой винтовки АС ВАЛ, отличающаяся высокой скорострельностью и точностью. Имеет встроенный глушитель.</entitydescription.VSSvintorezgun>
+  <entityname.VSSvintorezmagazine>Магазин Винтореза</entityname.VSSvintorezmagazine>
+  <entitydescription.VSSvintorezmagazine>Магазин с патронами 9х39мм. Обеспечивает повышенную бронебойность.</entitydescription.VSSvintorezmagazine>
+  <entityname.SVDdragunovgun>СВД</entityname.SVDdragunovgun>
+  <entitydescription.SVDdragunovgun>СВД была разработана для поддержки отрядов, чтобы обеспечить точное дальнее поражение обычных войск на аванпостах. Наибольшее распространение она получила среди наемников-сепаратистов. Стреляет патронами калибра 7,62х54мм.</entitydescription.SVDdragunovgun>
+  <entityname.SVDdragunovmagazine>Магазин СВД</entityname.SVDdragunovmagazine>
+  <entitydescription.SVDdragunovmagazine>Магазин, заряженный патронами 7.62x54мм.</entitydescription.SVDdragunovmagazine>
+  <entityname.RSMMinigun>RSM Mini</entityname.RSMMinigun>
+  <entitydescription.RSMMinigun>Модифицированная версия снайперской винтовки Barret, отличающаяся повышенной безопасностью для пользователя. Отдача уменьшена, чтобы снизить возможные травмы для неопытных владельцев за счет перехода на менее разрушительные пули калибра .22Lr. Для эффективного использования требуется меньше опыта, но в некоторых случаях она все равно может вывихнуть плечо.</entitydescription.RSMMinigun>
+  <entityname.RSMMinimagazine>Магазин RSM Mini</entityname.RSMMinimagazine>
+  <entitydescription.RSMMinimagazine>Магазин, заряженный патронами калибра .22Lr.</entitydescription.RSMMinimagazine>
+  <entityname.M1917enfieldgun>M1917 Enfield</entityname.M1917enfieldgun>
+  <entitydescription.M1917enfieldgun>Старинная, но надежная винтовка, нашедшая применение в войсках Сепаратистов. Благодаря более глубокому магазину винтовка имеет характерный бугорок, позволяющий вмещать шесть патронов калибра .30-06 в магазине и один в патроннике.</entitydescription.M1917enfieldgun>
+  <entityname.3006calbullet>Патрон .30-06 Springfield</entityname.3006calbullet>
+  <!--Пистолеты-Пулеметы-->
+  <entityname.Krissgun>Kriss Vector</entityname.Krissgun>
+  <entitydescription.Krissgun>Пистолет-пулемет с высокой скорострельностью для боя в закрытом прстранстве. Обладает ужасной точностью, но превосходит большинство других видов оружия в столкновениях с подводными лодками и аванпостами. Стреляет патронами калибра 10мм.</entitydescription.Krissgun>
+  <entityname.Krissmagazine>Магазин Kriss Vector</entityname.Krissmagazine>
+  <entitydescription.Krissmagazine>Магазин, заряженный патронами калибра 10мм.</entitydescription.Krissmagazine>
+  <entityname.MP34gun>MP34</entityname.MP34gun>
+  <entitydescription.MP34gun>Пистолет-пулемет с высокой скорострельностью, умеренной отдачей и точностью стрельбы. Стрельба ведется патронами 9х19мм из бокового магазина.</entitydescription.MP34gun>
+  <entityname.MP34magazine>Магазин MP34</entityname.MP34magazine>
+  <entitydescription.MP34magazine>Магазин, заряженный патронами калибра 9x19мм.</entitydescription.MP34magazine>
+  <entityname.M3gun>M3</entityname.M3gun>
+  <entitydescription.M3gun>Старый пистолет-пулемет, чертежи которого были импортированы в базу данных фабрикантов еще до Коллапса. В настоящее время используется только Сепаратистами. Наносит большой урон, но обладает ужасной точностью. Стреляет патронами калибра 9х19мм.</entitydescription.M3gun>
+  <entityname.M3magazine>Магазин M3</entityname.M3magazine>
+  <entitydescription.M3magazine>Магазин, заряженный патронами калибра 9x19мм.</entitydescription.M3magazine>
+  <entityname.MP5gun>MP5</entityname.MP5gun>
+  <entitydescription.MP5gun>Надежный и широко распространенный пистолет-пулемет. Обеспечивает отличные боевые возможности в закрытых условиях. Часто используется коалицией в рейдах на аванпосты. Стреляет патронами калибра 9х19мм.</entitydescription.MP5gun>
+  <entityname.MP5magazine>Магазин MP5</entityname.MP5magazine>
+  <entitydescription.MP5magazine>Магазин, заряженный патронами калибра 9x19мм.</entitydescription.MP5magazine>
+  <entityname.MP7gun>MP7</entityname.MP7gun>
+  <entitydescription.MP7gun>Пистолет-пулемет, использующий специальные патроны 4,6x30мм AP для защиты подводных лодок от фауны и людей. Для дополнительного стиля и огневой мощи вы можете держать в одной руке два таких пистолета. Требуется большое мастерство, чтобы справиться с отдачей одного из них или столкнуться с последствиями вывихнутого плеча.</entitydescription.MP7gun>
+  <entityname.MP7magazine>Магазин MP7</entityname.MP7magazine>
+  <entitydescription.MP7magazine>Магазин, заряженный специальными патронами калибра 4.6x30мм AP.</entitydescription.MP7magazine>
+  <entityname.MP40gun>MP40</entityname.MP40gun>
+  <entitydescription.MP40gun>Пистолет-пулемет с высокой скорострельностью и средней точностью. Его чертежи были импортированы незадолго до Коллапса. В основном используется Сепаратистами в качестве основного оружия для операций в закрытом пространстве. Стреляет патронами калибра 9х19мм.</entitydescription.MP40gun>
+  <entityname.MP40magazine>Магазин MP40</entityname.MP40magazine>
+  <entitydescription.MP40magazine>Магазин, заряженный патронами калибра 9x19мм.</entitydescription.MP40magazine>
+  <entityname.P90gun>P90</entityname.P90gun>
+  <entitydescription.P90gun>Пистолет-пулемет с высокой скорострельностью, обеспечивающий отличные боевые возможности на близком расстоянии. Часто используется коалиционными силами в качестве надежного средства обороны аванпостов. Стреляет патронами калибра 5,7х28мм.</entitydescription.P90gun>
+  <entityname.P90magazine>Магазин P90</entityname.P90magazine>
+  <entitydescription.P90magazine>Магазин, заряженный патронами калибра 5.7x28мм.</entitydescription.P90magazine>
+  <entityname.PP19gun>ПП-19 Бизон</entityname.PP19gun>
+  <entitydescription.PP19gun>Пистолет-пулемет с высокой скорострельностью. Использует барабанный магазин большой емкости для длительных перестрелок. Иногда используется сотрудниками охраны коалиционных аванпостов. Стреляет патронами калибра 9х19мм.</entitydescription.PP19gun>
+  <entityname.PP19magazine>Барабанный магазин ПП-19</entityname.PP19magazine>
+  <entitydescription.PP19magazine>Барабанный Магазин, заряженный патронами калибра 9x19мм.</entitydescription.PP19magazine>
+  <entityname.PPShgun>ППШ-41</entityname.PPShgun>
+  <entitydescription.PPShgun>Высокоэффективный пистолет-пулемет для ведения боя в закрытом помещении на аванпостах и в узких пещерных туннелях. Не очень точен при использовании на больших расстояниях. Стреляет патронами калибра 7,62х25мм.</entitydescription.PPShgun>
+  <entityname.PPShmagazine>Барабанный магазин ППШ-41</entityname.PPShmagazine>
+  <entitydescription.PPShmagazine>Барабанный Магазин, заряженный патронами калибра 7.62x25мм.</entitydescription.PPShmagazine>
+  <entityname.Stengun>Sten</entityname.Stengun>
+  <entitydescription.Stengun>Экономичный пистолет-пулемет, обладающий хорошими статистическими данными при своей себестоимости. Более дешевая альтернатива другим пистолетам-пулеметам, таким как ППШ-41. Стреляет патронами калибра 9х19мм из бокового магазина.</entitydescription.Stengun>
+  <entityname.Stenmagazine>Магазин Sten</entityname.Stenmagazine>
+  <entitydescription.Stenmagazine>Магазин, заряженный патронами калибра 9x19мм.</entitydescription.Stenmagazine>
+  <entityname.UMP45gun>UMP45</entityname.UMP45gun>
+  <entitydescription.UMP45gun>Компактная и надежная "пукалка", часто используемый в охране аванпостов или на гражданских судах. Обладает умеренной точностью и хорошей скорострельностью. Стреляет патронами .45 ACP.</entitydescription.UMP45gun>
+  <entityname.UMP45magazine>Магазин UMP45</entityname.UMP45magazine>
+  <entitydescription.UMP45magazine>Магазин, заряженный патронами калибра .45 ACP.</entitydescription.UMP45magazine>
+  <entityname.MAC10gun>MAC-10</entityname.MAC10gun>
+  <entitydescription.MAC10gun>Компактный пистолет-пулемет, часто используемый охранниками аванпостов в качестве боевого оружия с высокой скорострельностью. Им можно пользоваться одной рукой, но опасайтесь отдачи. Стреляет патронами калибра 9х19мм.</entitydescription.MAC10gun>
+  <entityname.MAC10magazine>Магазин MAC-10</entityname.MAC10magazine>
+  <entitydescription.MAC10magazine>Магазин, заряженный специальными патронами калибра 9x19мм.</entitydescription.MAC10magazine>
+  <entityname.MP5Kgun>MP5K</entityname.MP5Kgun>
+  <entitydescription.MP5Kgun>Карманная версия MP5 отлично подходит в качестве скорострельного пистолета, однако вмещает меньше патронов и обладает меньшей точностью. Вы можете стрелять из него одной рукой. Отдача вполне ощутима, даже если вы умеете обращаться с огнестрельным оружием. Стреляет патронами 9х19мм.</entitydescription.MP5Kgun>
+  <entityname.MP5Kmagazine>Магазин MP5K</entityname.MP5Kmagazine>
+  <entitydescription.MP5Kmagazine>Магазин, заряженный патронами калибра 9x19мм.</entitydescription.MP5Kmagazine>
+  <!--Автоматы-->
+  <entityname.AK47gun>АК-47</entityname.AK47gun>
+  <entitydescription.AK47gun>Классическое оружие с Земли, завезенное незадолго до Коллапса. Стреляет патронами калибра 7,62x39мм.</entitydescription.AK47gun>
+  <entityname.AK47magazine>Магазин АК-47</entityname.AK47magazine>
+  <entitydescription.AK47magazine>Магазин, заряженный патронами калибра 7.62x39мм.</entitydescription.AK47magazine>
+  <entityname.AKMgun>АКМ</entityname.AKMgun>
+  <entitydescription.AKMgun>Близкий родственник AK-47, обладающий большей мощью и большим количеством патронов в магазине. Стреляет патронами 7,62x39мм.</entitydescription.AKMgun>
+  <entityname.AKMmagazine>Магазин АКМ</entityname.AKMmagazine>
+  <entitydescription.AKMmagazine>Магазин, заряженный патронами калибра 7.62x39мм.</entitydescription.AKMmagazine>
+  <entityname.AKS74Ugun>АКС-74У</entityname.AKS74Ugun>
+  <entitydescription.AKS74Ugun>Легкая штурмовая винтовка с хорошей точностью и скорострельностью. Стреляет патронами калибра 5,45мм.</entitydescription.AKS74Ugun>
+  <entityname.AKS74Umagazine>Магазин АКС-74У</entityname.AKS74Umagazine>
+  <entitydescription.AKS74Umagazine>Магазин, заряженный патронами калибра 5.45мм.</entitydescription.AKS74Umagazine>
+  <entityname.AUGA3gun>AUG-A3</entityname.AUGA3gun>
+  <entitydescription.AUGA3gun>Скорострельная штурмовая винтовка с хорошей подвижностью и точностью. Стреляет патронами 5.56x45мм.</entitydescription.AUGA3gun>
+  <entityname.AUGA3magazine>Магазин AUG-A3</entityname.AUGA3magazine>
+  <entitydescription.AUGA3magazine>Магазин, заряженный патронами калибра 5.56x45мм.</entitydescription.AUGA3magazine>
+  <entityname.9A91gun>9A-91</entityname.9A91gun>
+  <entitydescription.9A91gun>Компактная штурмовая винтовка, дешевая и универсальная альтернатива с хорошей пробивной способностью. Стреляет патронами 9х39мм.</entitydescription.9A91gun>
+  <entityname.9A91magazine>Магазин 9A-91</entityname.9A91magazine>
+  <entitydescription.9A91magazine>Магазин заряжается патронами калибра 9х39мм, обеспечивающими хорошую пробиваемость бронированных целей.</entitydescription.9A91magazine>
+  <entityname.BR18gun>BR-18</entityname.BR18gun>
+  <entitydescription.BR18gun>Штурмовая винтовка буллпап со стандартной точностью и боезапасом. Стреляет патронами калибра 5,56мм.</entitydescription.BR18gun>
+  <entityname.BR18magazine>Магазин BR-18</entityname.BR18magazine>
+  <entitydescription.BR18magazine>Магазин, заряженный патронами калибра 5.56мм.</entitydescription.BR18magazine>
+  <entityname.TAR21gun>TAR-21</entityname.TAR21gun>
+  <entitydescription.TAR21gun>Штурмовая винтовка буллпап со средней точностью и скорострельностью. Стреляет патронами 5.56x45мм.</entitydescription.TAR21gun>
+  <entityname.TAR21magazine>МагазинTAR-21</entityname.TAR21magazine>
+  <entitydescription.TAR21magazine>Магазин, заряженный патронами калибра 5.56x45мм</entitydescription.TAR21magazine>
+  <entityname.Grossfussgun>Grossfuss Sturmgewehr</entityname.Grossfussgun>
+  <entitydescription.Grossfussgun>Прототип штурмовой винтовки времен Второй мировой войны. Усовершенствованные версии отличаются большой кучностью и скорострельностью за счет снижения точности. Стреляет патронами 7,92x33мм, хорошо пробивающими броню.</entitydescription.Grossfussgun>
+  <entityname.Grossfussmagazine>Магазин Grossfuss Sturmgewehr</entityname.Grossfussmagazine>
+  <entitydescription.Grossfussmagazine>Магазин, заряженный патронами калибра 7.92x33мм, способные пробивать броню.</entitydescription.Grossfussmagazine>
+  <entityname.M16gun>M16</entityname.M16gun>
+  <entitydescription.M16gun>Широко распространен на вооружении войск Европы. Стреляет патронами 5,56х45мм, один из самых производимых в своем калибре.</entitydescription.M16gun>
+  <entityname.M16magazine>Магазин M16</entityname.M16magazine>
+  <entitydescription.M16magazine>Магазин, заряженный патронами калибра 5.56x45мм.</entitydescription.M16magazine>
+  <entityname.HK416gun>HK416</entityname.HK416gun>
+  <entitydescription.HK416gun>Часто используется Коалицией. Обеспечивает высокую точность на средних и дальних дистанциях и приличный урон. Стреляет пользовательскими патронами 5,56x45мм, пробивающими бронированные цели.</entitydescription.HK416gun>
+  <entityname.HK416magazine>Магазин HK416</entityname.HK416magazine>
+  <entitydescription.HK416magazine>Магазин, заряженный специальными патронами калибра 5.56x45мм.</entitydescription.HK416magazine>
+  <entityname.HKG56gun>HKG56</entityname.HKG56gun>
+  <entitydescription.HKG56gun>Первоклассная штурмовая винтовка для специальных операций. Тяжелая и медленно стреляющая, требует большого мастерства. Стреляет специальными патронами 9x39мм, легко пробивающими броню.</entitydescription.HKG56gun>
+  <entityname.HKG56magazine>Магазин HKG56</entityname.HKG56magazine>
+  <entitydescription.HKG56magazine>Магазин, заряженный специальными патронами калибра 9x39мм.</entitydescription.HKG56magazine>
+  <entityname.SteyrAUGgun>Steyr AUG</entityname.SteyrAUGgun>
+  <entitydescription.SteyrAUGgun>Близкий родственник AUG-A3. Стреляет патронами 5,56х45мм. Предлагает меньшую скорострельность, но большую точность для неопытных стрелков. Ауг блять</entitydescription.SteyrAUGgun>
+  <entityname.SteyrAUGmagazine>Магазин Steyr AUG</entityname.SteyrAUGmagazine>
+  <entitydescription.SteyrAUGmagazine>Магазин, заряженный патронами калибра 5.56x45мм.</entitydescription.SteyrAUGmagazine>
+  <entityname.STG44gun>STG-44</entityname.STG44gun>
+  <entitydescription.STG44gun>Штурмовая винтовка, разработанная во время Второй мировой войны и используемая сепаратистами. Стреляет патронами 7,92x33мм.</entitydescription.STG44gun>
+  <entityname.STG44magazine>Магазин STG-44</entityname.STG44magazine>
+  <entitydescription.STG44magazine>Магазин, заряженный патронами калибра 7.92x33мм.</entitydescription.STG44magazine>
+  <entityname.ASVALgun>АС ВАЛ</entityname.ASVALgun>
+  <entitydescription.ASVALgun>Бесшумная и точная штурмовая винтовка, стреляющая патронами 9х39мм. Имеет встроенный глушитель.</entitydescription.ASVALgun>
+  <entityname.ASVALmagazine>Магазин АС ВАЛ</entityname.ASVALmagazine>
+  <entitydescription.ASVALmagazine>Магазин, заряженный патронами калибра 9x39мм.</entitydescription.ASVALmagazine>
+  <entityname.AR56gun>AR-56</entityname.AR56gun>
+  <entitydescription.AR56gun>Используется для ведения огня на подавление и стычек в закрытом пространстве. Гибрид с магазином на верхней части ствола. Стреляет патронами 5,7х28мм.</entitydescription.AR56gun>
+  <entityname.AR56magazine>Магазин AR-56</entityname.AR56magazine>
+  <entitydescription.AR56magazine>Магазин, заряженный патронами калибра 5.7x28мм. Не подходит P90.</entitydescription.AR56magazine>
+  <entityname.AK472gun>АК-47-2</entityname.AK472gun>
+  <entitydescription.AK472gun>Самодельная модификация AK-47, созданная сепаратистами из-за нехватки материалов. Ужасная точность, в основном продается сепаратистами.</entitydescription.AK472gun>
+  <entityname.AK472magazine>Магазин АК-47-2</entityname.AK472magazine>
+  <entitydescription.AK472magazine>Магазин, заряженный патронами калибра 7.62x39мм. Отвратительная конструкция не позволяет перезарядку в фабрикаторе.</entitydescription.AK472magazine>
+  <entityname.Charltongun>Charlton</entityname.Charltongun>
+  <entitydescription.Charltongun>Полуавтоматическая винтовка, созданная на основе Lee-Enfield. В основном используется сепаратистами. Стреляет патронами 7,7x56мм, хорошо пробивающими броню.</entitydescription.Charltongun>
+  <entityname.Charltonmagazine>Магазин Charlton</entityname.Charltonmagazine>
+  <entitydescription.Charltonmagazine>Магазин, заряженный патронами калибра 7.7x56мм, пробивает броню в некоторой степени.</entitydescription.Charltonmagazine>
+  <entityname.CETMELgun>CETME-L</entityname.CETMELgun>
+  <entitydescription.CETMELgun>Широко используется сепаратистами. Надежная и доступная. Хорошая точность и скорострельность. Стреляет патронами 5,56х45мм.</entitydescription.CETMELgun>
+  <entityname.CETMELmagazine>Магазин CETME-L</entityname.CETMELmagazine>
+  <entitydescription.CETMELmagazine>Магазин, заряженный патронами калибра 5.56x45мм.</entitydescription.CETMELmagazine>
+</infotext>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" noWhitespace="false" translatedName="Русский">
+  <afflictionname.aos_radiointerference>Искаженные сигналы</afflictionname.aos_radiointerference>
+  <afflictiondescription.aos_radiointerference.low>В вашей гарнитуре слышны посторонние шумы.</afflictiondescription.aos_radiointerference.low>
+  <afflictiondescription.aos_radiointerference.med>Шум заглушает голоса вашей команды.</afflictiondescription.aos_radiointerference.med>
+  <afflictiondescription.aos_radiointerference.high>Из вашей гарнитуры доносится крайне неприятный звук.</afflictiondescription.aos_radiointerference.high>
+  <afflictiondescription.aos_radiointerference.max>Сними гарнитуру\nсними ее сними ее с ним и е е сни ми е ее СНИ МИ ЕЕ СНИ МИ ЕЕ СНИ МИ ЕЕ СНИИИИИ МИ ЕЕЕЕЕ</afflictiondescription.aos_radiointerference.max>
+  <entityname.aos_voyagedatarecorder>Бортовой самописец</entityname.aos_voyagedatarecorder>
+  <entitydescription.aos_voyagedatarecorder>Защищенное водонепроницаемое устройство, содержащее обширные показания датчиков перед гибелью подводной лодки. Аванпосты обычно предлагают высокую награду за его получение.</entitydescription.aos_voyagedatarecorder>
+  <entityname.aos_simplevoyagedatarecorder>Бортовой самописец челнока</entityname.aos_simplevoyagedatarecorder>
+  <entitydescription.aos_simplevoyagedatarecorder>Упрощенный регистратор, хранящий основные данные, в основном встречается на шаттлах. За его находку обычно полагается определенная компенсация.</entitydescription.aos_simplevoyagedatarecorder>
+</infotexts>

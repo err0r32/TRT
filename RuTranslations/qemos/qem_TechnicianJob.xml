@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <jobname.technician>Техник</jobname.technician>
+  <talentname.mineralmaster>Минеральный мастер</talentname.mineralmaster>
+  <talentname.technician_handheldmonitors>Ручные мониторы</talentname.technician_handheldmonitors>
+  <talentname.technician_powertools>Электроинструменты</talentname.technician_powertools>
+  <talentdescription.technician_toolpower>Вы наносите на [powerincrease]% больше урона ‖color:gui.orange‖Гаечными ключами‖end‖ и ‖color:gui.orange‖Отвертками‖end‖.</talentdescription.technician_toolpower>
+  <talentname.technician_mrfixit>Чинила</talentname.technician_mrfixit>
+  <talentdescription.technician_mrfixit>Каждый раз при ремонте устройства, вы получаете [experienceamount] очков опыта.</talentdescription.technician_mrfixit>
+  <talentname.technician_electricalsystems>Электрические системы</talentname.technician_electricalsystems>
+  <talentname.technician_musicalexperience>Музыкальный опыт</talentname.technician_musicalexperience>
+  <talentdescription.technician_musicalexperience_skill>Когда вы играете на [instrument], каждую секунду вы и ближайший к вам союзник получаете случайное очко умений.</talentdescription.technician_musicalexperience_skill>
+  <talentdescription.technician_musicalexperience_exp>Когда вы играете [instrument], случайный союзник на подводной лодке имеет [probability]% шанс получить [experienceamount] очков опыта, каждую секунду.</talentdescription.technician_musicalexperience_exp>
+  <!-- REPAIR MAN -->
+  <talenttree.repairman>Ремонтник</talenttree.repairman>
+  <talentname.technician_maintainanceman>Мастер обслуживания</talentname.technician_maintainanceman>
+  <talentname.technician_extraeffort>Усилие за усилием</talentname.technician_extraeffort>
+  <talentdescription.technician_increasemaxrepair>Вы можете восстанавливать устройства на [percentage]% больше их нормального максимального состояния.</talentdescription.technician_increasemaxrepair>
+  <talentname.technician_resilientrepairs>Надежный ремонт</talentname.technician_resilientrepairs>
+  <talentdescription.technician_resilientrepairs>Устройства, которые вы починили ломаются на [amount]% медленнее.</talentdescription.technician_resilientrepairs>
+  <talentname.technician_dayjob>Дневная смена</talentname.technician_dayjob>
+  <talentdescription.technician_dayjob>После починки устройства, вы двигаетесь на [amount]% быстрее в течении [duration] секунд.</talentdescription.technician_dayjob>
+  <!-- ENGINEER -->
+  <talentname.technician_mechanicalengineer>Инженер-механик</talentname.technician_mechanicalengineer>
+  <talentname.technician_electricalengineer>Инженер-электрик</talentname.technician_electricalengineer>
+  <talentdescription.technician_skillspeedboost>Вы зарабатвываете очки умений [skill] на [skillspeedboost]% быстрее.</talentdescription.technician_skillspeedboost>
+  <talentname.technician_morejuice>Самый сок</talentname.technician_morejuice>
+  <talentname.technician_qualitytools>Золотые инструменты</talentname.technician_qualitytools>
+  <talentname.technician_electricalupgrades>Продвинутое электрооборудование</talentname.technician_electricalupgrades>
+  <talentname.technician_mechanicalupgrades>Механическая модернизация</talentname.technician_mechanicalupgrades>
+  <talentdescription.technician_engineupgrades>‖color:gui.orange‖Двигатели‖end‖ подлодки получают +[amount]% [stattype].</talentdescription.technician_engineupgrades>
+  <talentdescription.technician_pumpupgrades>‖color:gui.orange‖Насосы‖end‖ получают +[amount]% [stattype].</talentdescription.technician_pumpupgrades>
+  <talentname.technician_advancedsuits>Продвинутые скафандры</talentname.technician_advancedsuits>
+  <talentdescription.technician_advancedsuits>Получайте дополнительно [resistance]% защиты к ‖color:gui.orange‖Потоку‖end‖ когда носите ‖color:gui.orange‖УЗК‖end‖.</talentdescription.technician_advancedsuits>
+  <!-- COMBAT ENGINEER -->
+  <talenttree.combatengineer>Боевой инженер</talenttree.combatengineer>
+  <talentname.technician_fleshwound>Просто царапина</talentname.technician_fleshwound>
+  <talentname.technician_resistance>Защита</talentname.technician_resistance>
+  <talentname.technician_blasters>Бластеры</talentname.technician_blasters>
+  <talentdescription.technician_blasterdamage>Когда стреляете из ‖color:gui.orange‖Бластеров‖end‖ ваши атаки на [value]% мощнее.</talentdescription.technician_blasterdamage>
+  <talentname.technician_weaponsmaster>Оружейный мастер</talentname.technician_weaponsmaster>
+  <talentname.technician_bonuspoints>Бонусные очки</talentname.technician_bonuspoints>
+  <talentname.technician_advancedblasters>Продвинутые бластеры</talentname.technician_advancedblasters>
+  <entityname.technicianjumpsuit1>Прыжковый скафандр техника</entityname.technicianjumpsuit1>
+  <entityname.technicianjumpsuit2>Прыжковый скафандр техника</entityname.technicianjumpsuit2>
+  <entityname.technicianjumpsuit3>СИЗ техника</entityname.technicianjumpsuit3>
+  <entitydescription.technicianjumpsuit3>Имеет свинцовое экранирование и защищает от радиации.</entitydescription.technicianjumpsuit3>
+  <entityname.technicianjumpsuit4>Прыжковый скафандр техника</entityname.technicianjumpsuit4>
+  <entityname.technician_electricalbelt>Электрический пояс техника</entityname.technician_electricalbelt>
+  <entityname.technician_electricalchargingbelt>Электрический зарядный пояс техника</entityname.technician_electricalchargingbelt>
+  <entityname.abysspucs>УЗКБ</entityname.abysspucs>
+  <entitydescription.abysspucs>Универсальный Защитный Костюм Бездны, или сокращенно УЗКБ, - это тяжелый костюм, предназначенный для глубоководных исследований и защищающий от повреждений и высокого давления на глубине до 10 000 метров. Он наделяет своего пользователя огромной устойчивостью к таким опасным факторам окружающей среды, как радиация и огонь. Встроенная система фильтрации воздуха позволяет костюму использовать кислород корпуса, когда это возможно, а дополнительный аккумулятор заряжает кислородный контейнер от атмосферы. Встроенный компьютер вводит пользователю лекарство, помещенное внутрь костюма.</entitydescription.abysspucs>
+  <entityname.advancedexosuit>Advanced Exosuit</entityname.advancedexosuit>
+  <entitydescription.advancedexosuit>A heavy battery-powered suit originally designed for underwater construction work. Heavily armored and capable of carrying heavy loads. This modified version has smart control for Oxygen usage.</entitydescription.advancedexosuit>
+  <entityname.handheldmonitor>Ручной монитор</entityname.handheldmonitor>
+  <entityname.technician_portablebattery>Портативный аккумулятор</entityname.technician_portablebattery>
+  <entityname.technician_portablejunctionbox>Портативная кабельная коробка</entityname.technician_portablejunctionbox>
+  <entityname.technician_blastercell>Элемент питания бластера</entityname.technician_blastercell>
+  <entitydescription.technician_blastercell>Источник энергии для бластеров.</entitydescription.technician_blastercell>
+  <entityname.technician_rechargableblastercell>Элемент питания бластера - перезаряжаемый</entityname.technician_rechargableblastercell>
+  <entitydescription.technician_rechargableblastercell>Источник энергии для бластерного оружия, более дорогая перезаряжаемая версия.</entitydescription.technician_rechargableblastercell>
+  <entityname.technician_blasterchargingdock>Док-станция для бластера</entityname.technician_blasterchargingdock>
+  <entitydescription.technician_blasterchargingdock>Док-станция для подзарядки элементов питания бластера</entitydescription.technician_blasterchargingdock>
+  <entityname.technician_blasterpistol>Пистолет-бластер</entityname.technician_blasterpistol>
+  <entitydescription.technician_blasterpistol>Прототип энергетического оружия, созданный с использованием уникальных инопланетных материалов на Европе. Оружие накапливает энергию и выпускает ее в виде мощного луча, когда она становится слишком сильной, чтобы ее сдержать.</entitydescription.technician_blasterpistol>
+  <entityname.technician_blasterrifle>Винтовка-бластер</entityname.technician_blasterrifle>
+  <entitydescription.technician_blasterrifle>Прототип энергетического оружия, созданный с использованием уникальных инопланетных материалов на Европе. Оружие накапливает энергию и выпускает ее в виде мощного луча, когда она становится слишком сильной, чтобы ее сдержать.</entitydescription.technician_blasterrifle>
+</infotexts>

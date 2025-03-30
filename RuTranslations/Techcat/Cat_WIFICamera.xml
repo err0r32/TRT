@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <entityname.cammonitor>Монитор видеонаблюдения</entityname.cammonitor>
+  <entityname.wificam>Wi-Fi камера</entityname.wificam>
+  <entityname.wificampiratehelmet>Шлем сепаратистов с камерой</entityname.wificampiratehelmet>
+  <entityname.wificamballistichelmet1>Пуленепробиваемый шлем с камерой</entityname.wificamballistichelmet1>
+  <entityname.wificamballistichelmet2>Шлем стрелка с камерой</entityname.wificamballistichelmet2>
+  <entityname.wificamballistichelmet3>Полицейский шлем с камерой</entityname.wificamballistichelmet3>
+  <entityname.wificamchitinhelmet>Хитиновый шлем с камерой</entityname.wificamchitinhelmet>
+  <entityname.wificamironhelmet>Железный шлем с камерой</entityname.wificamironhelmet>
+  <entityname.wificamclownmask>Клоунская маска с камерой</entityname.wificamclownmask>
+  <entityname.wificamclownmaskunique>Материнская поддержка через Wi-Fi</entityname.wificamclownmaskunique>
+  <entityname.wificamclowndivingmask>Подводная маска клоуна с камерой</entityname.wificamclowndivingmask>
+  <entityname.wificamdivingmask>Подводная маска с камерой</entityname.wificamdivingmask>
+  <entityname.monitorwiringdiagram>Схема подключения монитора камер</entityname.monitorwiringdiagram>
+  <entityname.surveillancecamera>Камера наблюдения Wi-Fi</entityname.surveillancecamera>
+  <entitydescription.cammonitor>Экран, показывающий трансляции с Wi-Fi камер. Требует подключение компонента Wi-Fi.</entitydescription.cammonitor>
+  <entitydescription.wificam>Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificam>
+  <entitydescription.wificampiratehelmet>Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificampiratehelmet>
+  <entitydescription.wificamballistichelmet1>Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamballistichelmet1>
+  <entitydescription.wificamballistichelmet2>Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamballistichelmet2>
+  <entitydescription.wificamballistichelmet3>Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamballistichelmet3>
+  <entitydescription.wificamchitinhelmet>Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamchitinhelmet>
+  <entitydescription.wificamironhelmet>Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamironhelmet>
+  <entitydescription.wificamclownmask>Будьте клоуном и транслируйте ваши клоунские выступления по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamclownmask>
+  <entitydescription.wificamclownmaskunique>Транслирует действия ХонкМатери по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamclownmaskunique>
+  <entitydescription.wificamclowndivingmask>Будьте клоуном и транслируйте ваши клоунские выступления по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamclowndivingmask>
+  <entitydescription.wificamdivingmask>Не дает вам утонуть и транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamdivingmask>
+  <entitydescription.monitorwiringdiagram>Отображает предполагаемую схему подключения монитора камеры, когда снаряжен.</entitydescription.monitorwiringdiagram>
+  <entitydescription.surveillancecamera>Транслирует окружение по настренному каналу Wi-Fi, когда подключен к источнику питания. Может быть прикреплён везде внутри лодки и на балках и рёбрах снаружи.</entitydescription.surveillancecamera>
+  <!-- UNUSED ASSETS -->
+  <entityname.wificamheadset>Наушники с Wi-Fi камерой</entityname.wificamheadset>
+  <entityname.wificaminjectorheadset>Гарнитура с инжектором и Wi-Fi камерой</entityname.wificaminjectorheadset>
+  <entitydescription.wificamheadset>Наушники со встроенной камерой. Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificamheadset>
+  <entitydescription.wificaminjectorheadset>Наушники со встроенной камерой. Транслирует ваш обзор по настроенному каналу Wi-Fi. Требуется батарея.</entitydescription.wificaminjectorheadset>
+</infotexts>

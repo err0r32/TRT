@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
+  <entityname.chemsub>Химический заменитель</entityname.chemsub>
+  <entitydescription.chemsub>Химический заменитель, используемый для медленного лечения химической зависимости с течением времени.</entitydescription.chemsub>
+  <entityname.chemcure>Аддиктол</entityname.chemcure>
+  <entitydescription.chemcure>Экстремальный метод лечения химической зависимости. Может быть опасен при использовании без медицинского наблюдения и надлежащих медицинских навыков, но может полностью излечить от химической зависимости.</entitydescription.chemcure>
+  <!-- Affliction -->
+  <afflictionname.afchemsub>Химический заменитель</afflictionname.afchemsub>
+  <afflictionname.afchemcure>Аддиктол</afflictionname.afchemcure>
+</infotexts>

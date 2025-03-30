@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- English.xml -->
+  <!-- Location Defs -->
+  <ilo_PirateOutpost>Аванпост пиратов</ilo_PirateOutpost>
+  <mlc_BeaconConstruction>Строительство маяка</mlc_BeaconConstruction>
+  <!-- Map UI -->
+  <mlc.beaconconsttooltip>Строительство ‖color:gui.orange‖маяка‖end‖ приостановлено на этом пути из-за недостатка [requestedsupplies]. После окончания строительства он облегчит строительство новых аванпостов в близлежащих районах.</mlc.beaconconsttooltip>
+  <mlc.distresstooltip>Кто-то активировал сигнал бедствия на этом маршруте. Потерявшийся экипаж, "бесплатные" вещи или что-то ещё?</mlc.distresstooltip>
+  <mlc.distresstooltipfaint>Сигнал бедствия на этом маршруте становится всё слабее. Что бы здесь ни находилось, скоро это обнаружить будет невозможно.</mlc.distresstooltipfaint>
+  <mlc.pirateactivitytooltip>Поступали сообщения об активности пиратов в этом районе. Экипажам следует соблюдать осторожность.</mlc.pirateactivitytooltip>
+  <mlc.navigationannouce>Обновление сигнала</mlc.navigationannouce>
+  <mlc.distress.new>Между [location1] и [location2] был принят новый сигнал бедствия.</mlc.distress.new>
+  <mlc.distress.faint>Сигнал бедствия между [location1] и [location2] становится всё слабее.</mlc.distress.faint>
+  <mlc.distress.lost>Сигнал бедствия между [location1] и [location2] больше не может быть обнаружен из-за фонового шума.</mlc.distress.lost>
+  <mlc.beaconconstone>[supply1]</mlc.beaconconstone>
+  <mlc.beaconconsttwo>[supply1] и [supply2]</mlc.beaconconsttwo>
+  <mlc.beaconconstthree>[supply1], [supply2] и [supply3]</mlc.beaconconstthree>
+  <mlc.beaconconstutility>‖color:gui.Green‖[count] Расходные материалы для маяка‖end‖</mlc.beaconconstutility>
+  <mlc.beaconconststructural>‖color:gui.Orange‖[count] Строительные материалы для маяка‖end‖</mlc.beaconconststructural>
+  <mlc.beaconconstelectrical>‖color:gui.Yellow‖[count] Электрические материалы для маяка‖end‖</mlc.beaconconstelectrical>
+  <!--  Loading Tips  -->
+  <loadingscreentip>Сигналы бедствия не будут посылаться вечно, через некоторое время они исчезнут с карты.</loadingscreentip>
+  <loadingscreentip>Пусковые стартеры могут использоваться для перезапуска шаттлов, у которых закончилась энергия. Некоторые системы (генераторы кислорода) следует выключать при запуске шаттла, так как они потребляют чрезмерное количество энергии.</loadingscreentip>
+  <loadingscreentip>Если вы не поторопитесь с выполнением экстренной миссии, тот, кто активировал сигнал бедствия, может быть уже мёртв к тому времени, как вы появитесь.</loadingscreentip>
+  <loadingscreentip>Если у вас установлена ​​Dynamic Europa, высокая репутация с фракцией бандитов сделает их базы пассивными.</loadingscreentip>
+  <loadingscreentip>Поступали сообщения о том, что пиратские базы используют глушители гидролокаторов для маскировки своего присутствия.</loadingscreentip>
+  <loadingscreentip>Следуя странным сонарным сигналам, можно обнаружить автономных торговцев, промежуточные станции или другие структуры. Кто знает, что вы можете найти!</loadingscreentip>
+  <loadingscreentip>При ответе на сигнал бедствия подводники могут обнаружить, что активировавший его человек мёртв по прибытии. Однако не всё потеряно, поскольку если у них есть подлодка, её можно спасти.</loadingscreentip>
+  <loadingscreentip>Посещение промежуточной станции часто открывает новое место на карте.</loadingscreentip>
+  <loadingscreentip>Для починки ретрансляционных станций требуются базовые знания математики и системы электропроводки. Если у вас есть сомнения, обратитесь к ближайшему инженеру.</loadingscreentip>
+  <loadingscreentip>Ретрансляционные станции, созданные конгломератом Keletco, являются одним из немногих сохранившихся творений его недолгого пребывания на Европе.</loadingscreentip>
+  <loadingscreentip>Ретрансляционные станции были заменены маяками, однако некоторые аванпосты всё ещё полагаются на устаревшую систему. В последние годы многие из этих станций вышли из строя из-за отсутствия обслуживания.</loadingscreentip>
+  <!-- Level Stuff -->
+  <mlc.distresscall>Сигнал бедствия</mlc.distresscall>
+  <!--  Distress Ghostship Objective  -->
+  <dgs.obj.exploreship>Исследуйте не менее 50% корабля.</dgs.obj.exploreship>
+  <dgs.obj.optionalsalvage>(НЕОБЯЗАТЕЛЬНО) Спасите корабль-призрак, доведя его до конца уровня.</dgs.obj.optionalsalvage>
+  <dgs.inrageforsalvage>Дрейфующий корабль-призрак находится в зоне досягаемости для спасения.</dgs.inrageforsalvage>
+  <entityname.stomach_acid_vent>Выброс желудочной кислоты</entityname.stomach_acid_vent>
+  <entityname.relaystationsmaintenceguide>Руководство по обслуживанию ретрансляционной станции Keletco</entityname.relaystationsmaintenceguide>
+  <entitydescription.relaystationsmaintenceguide>Руководство по эксплуатации, подробно описывающее обслуживание и ремонт ретрансляционных станций Keletco. Оно сильно изношено и едва скреплено вместе.</entitydescription.relaystationsmaintenceguide>
+  <relaystation.maintenceguide>РУКОВОДСТВО ПО ОБСЛУЖИВАНИЮ СТАНЦИИ KELETCO\n\nПриветствуем и поздравляем с новой работой в качестве специалиста по обслуживанию Keletco! В вашей новой роли KST вы будете представлять бренд Keletco, а также обслуживать несколько ретрансляционных станций на Европе. Это важная роль, поскольку ретрансляционные станции являются основой растущей торговой сети Европы. Как KST, вы будете экс[???]\n[Остальная часть страницы слишком повреждена водой, чтобы её можно было прочитать]\n\nИНСТРУМЕНТЫ РАБОТЫ\nВ каждую ретрансляционную станцию ​​Keletco входит базовый ремонтный комплект, состоящий из:\n - 1x Руководство по обслуживанию ретрансляционной станции Keletco\n - 1x Отвёртка\n - 5x Стандартный электрический провод\n - 1x Кислородная маска\n - 1x Кислородный баллон\n\nОжидается, что каждый KST вернёт эти принадлежности в ремонтный комплект после завершения ремонта и пополнит запасы любых использованных или поврежденных принадлежностей. Знач[???]\n\nКОМПОНЕНТЫ РЕЛЕЙНОЙ СТАНЦИИ\n[???]работая с ретрансляционной станцией, важно знать, что каждая часть[???]\n\nВХОДНОЕ РЕЛЕ\nРасположенное у распределительной коробки IN, подает входное напряжение. Затем оно подаётся в КОМПОНЕНТЫ МОДУЛЯЦИИ, расположенные по всей станции. \n\nКОМПОНЕНТЫ МОДУЛЯЦИИ\nОни поставляются в наборах по 4. Каждый компонент в одном наборе будет выполнять одну и ту же операцию, но с другим значением. Значение, с которым они будут выполнять операцию, отображается на экране над ними. \n\nВЫХОДНОЕ РЕЛЕ\nРасположенное у распределительной коробки OUT, это реле отправляет конечный результат КОМПОНЕНТОВ МОДУЛЯЦИИ в ЦЕПЬ ПРОВЕРКИ\n\nЦЕПЬ ПРОВЕРКИ\nРасположенная у распределительной коробки OUT, схема проверки предскажет, какой будет ожидаемый выход, и отобразит его на экране TRGT. Затем он установит индикатор на красный или зеленый, в зависимости от того, было ли подано на него ожидаемое напряжение.\n\nРЕМОНТ РЕТРАНСЛЯЦИОННОЙ СТАНЦИИ\n\n[???]учае повреждения ретрансляционной станции, важно сначала пройти через калибровочный терминал. Калибровочный терминал отобразит пример входов и соответствующие им выходы поврежденной секции. Терминал ретрансляционной ста[???]ции даст вам пример входного напряжения, затем три значения, показывающие входное напряжение после каждого шага модуляции, затем, наконец, выходное напряжение. Каждый шаг должен быть выполнен последовательно, чтобы обеспечить правильное[???]\n\nВАШ ТИПИЧНЫЙ РЕМОНТ\n\n - Прочтите калибровочный терминал\n - Достаньте отвёртку, провода и кислородную маску из ремонтного комплекта\n - Наденьте кислородную маску\n - Найдите реле "INPUT", оно должно быть рядом с меткой "IN"\n - Подключите один конец провода к контакту "SIGNAL_OUT_1" реле INPUT\n - Подключите другой конец провода к контакту "SIGNAL_IN_1" первого\n компонента модуляции (используйте калькулятор Keletco и калибровочный терминал, чтобы\n определить первый компонент модуляции)\n - Подключите другой провод к выходному контакту первого компонента модуляции\n - Подключите другой конец провода ко входу второго компонента модуляции\n - Продолжайте, пока не выполните все 4 шага в последовательности\n - Подключите выход последнего компонента модуляции к "SIGNAL_IN_1" вывод  \n OUT реле\n\nЕсли вы правильно выполнили вышеуказанные шаги, цепь проверки должна мигать зелёным. Сердечные поздравления Keletco с завершением вашего первого из многих ремонтов! \n\nЕсли цепь проверки НЕ мигает зеленым, обратитесь к калибровочному терминалу и повторите эти шаги. Скорее всего, вы где-то допустили ошибку.\n\nБЕЗОПАСНОСТЬ И ВЫ\n\nЕвропа — опасное место! Хотя Keletco предприняла шаги для обеспечения вашей безопасности при ремонте ретрансляционной станции, часть бремени лежит на вас. Поэтому любому специалисту по обслуживанию Keletco важно следо[???]\n[Остальные страницы склеены]</relaystation.maintenceguide>
+  <talentname.mlcaddict>Наркоман</talentname.mlcaddict>
+  <talentdescription.mlcaddict>Время от времени возникает... тяга... к опиатам.</talentdescription.mlcaddict>
+  <!-- Mission Items -->
+  <entityname.distressbeacon>Сигнал бедствия</entityname.distressbeacon>
+  <entitydescription.distressbeacon>Излучает сигнал большой дальности, который может быть обнаружен ручным сонаром или навигационным терминалом.</entitydescription.distressbeacon>
+  <entityname.jumpstarter>Пусковой стартер</entityname.jumpstarter>
+  <entitydescription.jumpstarter>Электрическое устройство с питанием от аккумулятора, используемое для запуска неработающих систем.</entitydescription.jumpstarter>
+  <itemmsgdetachcrowbar>[[use]] Отсоединить (Лом)</itemmsgdetachcrowbar>
+  <entityname.captains_notebook>Записная книжка капитана</entityname.captains_notebook>
+  <entitydescription.captains_notebook>Небольшая, потрепанная бумажная книга. Обычно используется капитанами подлодок для записи своих путешествий. Можно продавать по высокой цене на станциях или прочитать для приобретения опыта.</entitydescription.captains_notebook>
+  <!-- Beacon Construction -->
+  <entityname.mlc_beaconutilitysupplies>Расходные материалы для маяка</entityname.mlc_beaconutilitysupplies>
+  <entitydescription.mlc_beaconutilitysupplies>Ящик с различными расходными материалами для строительства маяков. Разрушается при попадании в воду. Рекомендуется хранить в защищённом месте.</entitydescription.mlc_beaconutilitysupplies>
+  <entityname.mlc_beaconstructuralsupplies>Строительные материалы для маяка</entityname.mlc_beaconstructuralsupplies>
+  <entitydescription.mlc_beaconstructuralsupplies>Ящик с различными строительными материалами для строительства маяков. Разрушается при попадании в воду. Рекомендуется хранить в защищённом месте.</entitydescription.mlc_beaconstructuralsupplies>
+  <entityname.mlc_beaconelectrialsupplies>Электрические материалы для маяка</entityname.mlc_beaconelectrialsupplies>
+  <entitydescription.mlc_beaconelectrialsupplies>Ящик с различными электронными материалами для строительства маяков. Разрушается при попадании в воду. Рекомендуется хранить в защищённом месте.</entitydescription.mlc_beaconelectrialsupplies>
+  <!-- Structural Crafting Items -->
+  <entityname.mlc_beaconsmat1>Наружное покрытие маяка</entityname.mlc_beaconsmat1>
+  <entitydescription.mlc_beaconsmat1>Прочное покрытие, используемое для внешней отделки маяков. Создано для того, чтобы противостоять сокрушительному давлению, а также различным тварям.</entitydescription.mlc_beaconsmat1>
+  <entityname.mlc_beaconsmat2>Внутреннее покрытие маяка</entityname.mlc_beaconsmat2>
+  <entitydescription.mlc_beaconsmat2>Лёгкие металлические листы, используемые для внутренней облицовки маяков.</entitydescription.mlc_beaconsmat2>
+  <entityname.mlc_beaconsmat3>Комплект опор для маяка</entityname.mlc_beaconsmat3>
+  <entitydescription.mlc_beaconsmat3>Сверхпрочные формы и якоря, используемые для крепления маяка к стенам пещер.</entitydescription.mlc_beaconsmat3>
+  <!-- Electrical Crafting Items -->
+  <entityname.mlc_beaconemat1>Логические компоненты для маяка</entityname.mlc_beaconemat1>
+  <entitydescription.mlc_beaconemat1>Различные схемы, используемые при создании радиолокационных систем маяков. Разрушаются при попадании в воду.</entitydescription.mlc_beaconemat1>
+  <entityname.mlc_beaconemat2>Проводка для маяка</entityname.mlc_beaconemat2>
+  <entitydescription.mlc_beaconemat2>Большие и малые кабели, используемые для подачи питания и подключения схем на маяках. Разрушаются при попадании в воду.</entitydescription.mlc_beaconemat2>
+  <entityname.mlc_beaconemat3>Электрические компоненты для маяка</entityname.mlc_beaconemat3>
+  <entitydescription.mlc_beaconemat3>Различные предохранители, выключатели и рубильники, используемые в электрической системе маяков. Разрушаются при попадании в воду.</entitydescription.mlc_beaconemat3>
+  <!-- Utility Crafting Items -->
+  <entityname.mlc_beaconumat1>Водопроводные компоненты для маяка</entityname.mlc_beaconumat1>
+  <entitydescription.mlc_beaconumat1>Трубы, клапаны и другие системы контроля потока, используемые для того, чтобы вода не попадала внутрь, а воздух не выходил с маяка.</entitydescription.mlc_beaconumat1>
+  <entityname.mlc_beaconumat2>Реакторные компоненты для маяка</entityname.mlc_beaconumat2>
+  <entitydescription.mlc_beaconumat2>Экранирование, регулирующие стержни и системы парообмена, используемые при строительстве реактора маячных станций. Разрушаются при попадании в воду.</entitydescription.mlc_beaconumat2>
+  <entityname.mlc_beaconumat3>Компоненты для герметизации маяка</entityname.mlc_beaconumat3>
+  <entitydescription.mlc_beaconumat3>Сварочный флюс, резиновые заплатки и другие изделия, используемые для заделки щелей и отверстий в маяках.</entitydescription.mlc_beaconumat3>
+  <!-- Blackmarket -->
+  <npctitle.blackmarketmerchant>Торговец чёрного рынка</npctitle.blackmarketmerchant>
+  <!-- Outpost Name -->
+  <mlc.pirateoutpost>База пиратов</mlc.pirateoutpost>
+  <!-- Pirate Titles -->
+  <npctitle.piratemedicrecruit>Пират-начинающий медик</npctitle.piratemedicrecruit>
+  <npctitle.piratemedic>Пират-медик</npctitle.piratemedic>
+  <npctitle.pirateflamer>Пират-огнемётчик</npctitle.pirateflamer>
+  <npctitle.piratedeadeye>Пират-снайпер</npctitle.piratedeadeye>
+  <npctitle.pirateberserker>Пират-берсерк</npctitle.pirateberserker>
+  <npctitle.piratefanatic>Пират-фанатик</npctitle.piratefanatic>
+  <npctitle.piratetank>Пират-джаггернаут</npctitle.piratetank>
+  <npctitle.piratevolitile>Бешеный пират</npctitle.piratevolitile>
+  <!--  Pirate  -->
+  <piratebase.active>На этом маршруте находится действующая пиратская база, будьте осторожны!</piratebase.active>
+  <piratebase.husked>На этом маршруте невезучие пираты были инфицированы эпидемией хаска.</piratebase.husked>
+  <piratebase.destroyed>Пиратская база на этом маршруте полностью уничтожена</piratebase.destroyed>
+  <entityname.sonarjammer>Глушитель сонара</entityname.sonarjammer>
+  <entitydescription.sonarjammer>Создает мощные, высокоамплитудные частоты, которые нарушают работу сонара.</entitydescription.sonarjammer>
+  <!--  Machines  -->
+  <entityname.autotrader_weapons>Автономный торговец оружием</entityname.autotrader_weapons>
+  <entityname.autotrader_supplies>Автономный торговец припасами</entityname.autotrader_supplies>
+  <autotrader.instock>[count] на складе</autotrader.instock>
+  <entityname.sonarguide>Сонарный маяк</entityname.sonarguide>
+  <entitydescription.sonarguide>Устройство, генерирующее гидроакустические импульсы, обнаруживаемые на большом расстоянии. Используется для направления проходящих подводных лодок к интересующим объектам.</entitydescription.sonarguide>
+  <!-- Server Messages -->
+  <mlc.server.wrongversionclient>Ваш клиент использует неверную версию!\nКлиент: v[clientversion]  Сервер: v[serverversion]</mlc.server.wrongversionclient>
+  <mlc.server.wrongversion>Клиент [client] использует неверную версию!\nКлиент: v[clientversion]  Сервер: v[serverversion]</mlc.server.wrongversion>
+  <mlc.server.installed>Клиент [client] установил More Level Content успешно!</mlc.server.installed>
+  <!-- Patch Notes -->
+  <mlc.patchnote>More Level Content Patch Notes v[version]</mlc.patchnote>
+  <mlc.patchnotes>НОВЫЕ ОПАСНОСТИ И ДОПОЛНИТЕЛЬНЫЕ ВОЗМОЖНОСТИ\n-Полная переработка пиратских баз\n-Пиратские базы теперь стабильны, уничтожьте их, и они больше не появятся\n-Пиратские базы теперь могут глушить ваш сонар\n-Интеграция с Dynamic Europa\n-Если у вас установлена DE, добавятся новые возможности\n-Пиратские базы будут чаще встречаться вблизи пиратских аванпостов из DE\n-Если у вас высокая репутация с бандитами, пиратские базы станут пассивными\n-Новые особенности карты\n-Скрытые точки интереса\n-Новая миссия: Ремонт реле\n-Похожи на станции-маяки, но нужно решить головоломку\n-Добавлены пещеры с таламусом\n-Обновлены некоторые пиратские базы\n-Добавлено несколько новых пиратских баз\n-Уведомления о бедствии теперь отображаются в новостной ленте!\n\nКонтакты @Dak#0001 on https://discord.gg/XFp5vq67MY</mlc.patchnotes>
+  <!-- Config -->
+  <mlc.config>Настройки More Level Content</mlc.config>
+  <mlc.configshort>Настройки MLC</mlc.configshort>
+  <mlc.config.pirate.peakspawnchance>Крайний шанс появления</mlc.config.pirate.peakspawnchance>
+  <mlc.config.pirate.peakspawnchance.tooltip>Крайний процентный шанс появления пиратской базы. Базы чаще всего встречаются на уровне сложности 50%. Например, если этот параметр установлен на 100%, а уровень сложности равен 50%, пиратская база гарантированно появится.</mlc.config.pirate.peakspawnchance.tooltip>
+  <!-- General Config -->
+  <SettingsTab.General>Общие</SettingsTab.General>
+  <mlc.settings.moveruins>Руины в бездне</mlc.settings.moveruins>
+  <mlc.settings.moveruinstooltip>Шанс появления инопланетных руин в бездне</mlc.settings.moveruinstooltip>
+  <mlc.settings.maxdistresscount>Макс. Сигналов бедствия активно</mlc.settings.maxdistresscount>
+  <mlc.settings.maxdistresscounttooltip>Сколько сигналов бедствия может быть активно в одно и то же время</mlc.settings.maxdistresscounttooltip>
+  <mlc.settings.spawndistresschance>Шанс сигнала бедствия</mlc.settings.spawndistresschance>
+  <mlc.settings.spawndistresschancetooltip>Процентный шанс появления нового сигнала бедствия</mlc.settings.spawndistresschancetooltip>
+  <mlc.settings.spawnchance>[chance]% шанс</mlc.settings.spawnchance>
+  <mlc.settings.maxactive>[max] макс</mlc.settings.maxactive>
+  <!-- Pirate Config -->
+  <SettingsTab.PirateOutpost>Аванпост пиратов</SettingsTab.PirateOutpost>
+  <mlc.config.piratespawnchance>Бонусный шанс появления</mlc.config.piratespawnchance>
+  <mlc.config.piratespawnchancetooltip>Увеличение этого значения выше 0 приведет к появлению ГОРАЗДО большего количества пиратских аванпостов, что может нарушить игровой баланс.</mlc.config.piratespawnchancetooltip>
+  <mlc.config.piratehuskchance>Шанс хасков</mlc.config.piratehuskchance>
+  <mlc.config.piratehuskchancetooltip>Вероятность того, что на пиратском аванпосте все будут заражены хасками. По умолчанию - 1.</mlc.config.piratehuskchancetooltip>
+  <mlc.config.piratespawnnoise>Доп. сложность</mlc.config.piratespawnnoise>
+  <mlc.config.piratediffnoise>Это значение влияет на то, сколько бонусных очков добавляется к сложности. Например, значение 25 может привести к появлению пиратов, которые на 25% сложнее от текущей сложности.</mlc.config.piratediffnoise>
+  <mlc.config.piratedisplaysonar>Отображать на сонаре</mlc.config.piratedisplaysonar>
+  <mlc.config.piratedisplaysonartooltip>Должен ли маркер пиратской базы появляться на сонаре.</mlc.config.piratedisplaysonartooltip>
+  <mlc.config.piratescalediff>Масштабирование сложности</mlc.config.piratescalediff>
+  <mlc.config.piratescaledifftooltip>Должна ли сложность пиратов зависеть от количества людей на сервере.</mlc.config.piratescaledifftooltip>
+  <!-- Debug Config -->
+  <SettingsTab.Debug>Отладка</SettingsTab.Debug>
+  <mlc.config.debugverbose>Подробный журнал</mlc.config.debugverbose>
+  <mlc.config.debugverbosetooltip>Включить ведение подробного журнала (логов).</mlc.config.debugverbosetooltip>
+  <mlc.config.debuginternal>Внутренний журнал</mlc.config.debuginternal>
+  <mlc.config.debuginternaltooltip>Включить внутренний журнал, который регистрирует внутренние отладочные сообщения в консоле.</mlc.config.debuginternaltooltip>
+  <!-- Talents -->
+  <!--  Hints  -->
+  <mlc.hint.jumpstarter>‖color:gui.orange‖Jump Starter‖end‖ может использоваться для временного питания отработавших электрических устройств, например, батареи шаттлов. Их можно изготовить или купить на аванпостах.</mlc.hint.jumpstarter>
+  <mlc.title>More Level Content</mlc.title>
+  <!-- MissionText.xml -->
+  <!-- Missions -->
+  <missionname.beaconconstruction>Строительство маяка</missionname.beaconconstruction>
+  <missiondescription.beaconconstruction>Маяк между [location1] и [location1] нуждается в поставке [requestedsupplies] для продолжения строительства. Любому экипажу, который доставит груз, предлагается вознаграждение в размере [reward] кредитов.</missiondescription.beaconconstruction>
+  <beaconconsonarlabel>Строительная площадка</beaconconsonarlabel>
+  <missionheader0.beaconconstruction>Припасы доставлены</missionheader0.beaconconstruction>
+  <missionmessage0.beaconconstruction>Припасы доставлены. Отправляйтесь в [location2], чтобы получить вознаграждение.</missionmessage0.beaconconstruction>
+  <missionsuccess.beaconconstruction>Строительство маяка продолжается.</missionsuccess.beaconconstruction>
+  <missionfailure.beaconconstruction>Строительство маяка по-прежнему приостановлено.</missionfailure.beaconconstruction>
+  <!-- Distress Missions -->
+  <distress.new0>Станции прослушивания обнаружили ‖color:gui.Red‖сигнал бедствия‖end‖ между [location1] и [location2].</distress.new0>
+  <distress.new1>Между [location1] и [location2] обнаружен ‖color:gui.Red‖сигнал бедствия‖end‖.</distress.new1>
+  <distress.new2>[location1] сообщил о новом ‖color:gui.Red‖сигнале бедствия‖end‖ в пещерах, ведущих к [location2].</distress.new2>
+  <distress.faint0>Станции прослушивания сообщают, что ‖color:gui.Red‖сигнал бедствия‖end‖ между [location1] и [location2] слабеет.</distress.faint0>
+  <distress.faint1>Прогнозируемое движение льда скоро сделает ‖color:gui.Red‖сигнал бедствия‖end‖ между [location1] и [location2] недоступным.</distress.faint1>
+  <distress.lost0>‖color:gui.Red‖Сигнал бедствия‖end‖ между [location1] и [location2] больше не может быть обнаружен.</distress.lost0>
+  <distress.lost1>Дрейф льдов между [location1] и [location2] сделал ‖color:gui.Red‖сигнал бедствия‖end‖ недоступным.</distress.lost1>
+  <distress.lost2>Экипаж подводной лодки, проходящий между [location1] и [location2], сообщает, что выживших с ‖color:gui.Red‖сигнала бедствия‖end‖ нет.</distress.lost2>
+  <!-- Distress Events -->
+  <charactername.captain_dakota>Капитан Дакота</charactername.captain_dakota>
+  <charactername.clowncorpse>Труп клоуна</charactername.clowncorpse>
+  <charactername.pagliacci>Паяц</charactername.pagliacci>
+  <DistressEvent.outoffuel.c1>Лицо капитана выражает явное облегчение. «О, слава Богу, кто-то действительно пришёл! Я уж начал думать, что мне придётся добираться обратно вплавь», — он издает напряжённый смешок.</DistressEvent.outoffuel.c1>
+  <DistressEvent.outoffuel.o1>«Что случилось?»</DistressEvent.outoffuel.o1>
+  <DistressEvent.outoffuel.o1.c1>Капитан беспокойно ходит, заметно прихрамывая. Он слегка вздрагивает каждый раз, когда его нога касается пола. «Дэна, моего предыдущего инженера, растерзали грязевые рапторы, да упокоит его душу Юпитер. Я не из тех, кто возится с электроникой, а после того, как мой механик чуть не умер от удара током, я понял, что нам нужно нанять ещё одного». Он упирается рукой в ​​бедро. «Поэтому мы наняли нового на станции, к которой пришвартовались. Только когда мы отправились в путь, я узнал, что нанял одного из этих клоунов-гудков».</DistressEvent.outoffuel.o1.c1>
+  <DistressEvent.outoffuel.o1.c2>«Не прошло и недели, как мы вышли из порта, как на нас напала стая ползунов. Среди наступившего хаоса я услышал одинокий гудок велосипеда, и все огни погасли. Когда мы, наконец, взяли ситуацию под контроль, мы обнаружили, что наш новый инженер исчез». Капитан падает в кресло, явно уставший и, возможно, пересматривающий свою карьеру моряка. «И все наши топливные стержни тоже».</DistressEvent.outoffuel.o1.c2>
+  <DistressEvent.outoffuel.o1.c3>«Это последний раз, когда я пускаю придурков на свою лодку». Капитан поднимает на вас взгляд. Он кажется таким маленьким в своём кресле. «У тебя... у тебя случайно нет лишнего топливного стержня?»</DistressEvent.outoffuel.o1.c3>
+  <DistressEvent.outoffuel.o1.o1>«Я посмотрю, что смогу сделать».</DistressEvent.outoffuel.o1.o1>
+  <DistressEvent.outoffuel.o1.o1.c1>В усталых глазах капитана появляется проблеск надежды. «Ты святой, ты знаешь это?»</DistressEvent.outoffuel.o1.o1.c1>
+  <DistressEvent.outoffuel.o1.o1.c2>«О-о, ты вернулся. Я начал думать... Ну, ха-ха, ты теперь всё равно здесь».</DistressEvent.outoffuel.o1.o1.c2>
+  <DistressEvent.outoffuel.o1.o1.o1>Я вернусь.</DistressEvent.outoffuel.o1.o1.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.c1>«Ты уже принёс стержень?»</DistressEvent.outoffuel.o1.o1.o1.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o1>«Ещё нет».</DistressEvent.outoffuel.o1.o1.o1.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.o2>«Да, вот». [+Location Rep]</DistressEvent.outoffuel.o1.o1.o1.o2>
+  <DistressEvent.outoffuel.o1.o1.o1.o3>«У меня может быть, найдётся лишний, если вы добавите несколько кредитов за мои старания». [Helm: HARD]</DistressEvent.outoffuel.o1.o1.o1.o3>
+  <!--  Intimidation success  -->
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1>«Я-я...» Он замолкает, и его нога начинает дергаться вверх-вниз. «Вот, это всё, что у меня есть. Пожалуйста».</DistressEvent.outoffuel.o1.o1.o1.o3.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1>«Посмотрю, смогу ли я найти стержень».</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1>Капитан вжался в свое кресло. Он не встречается с вами взглядом, поскольку чувство стыда наполняет воздух. Какой грустный, маленький человек.</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o1>...</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2>Дать стержень.</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1>Вы бросаете ему стержень, а он не двигается, чтобы подобрать его. Топливо громко падает на пол, звеня в пустой подлодке.</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o1>Как скажешь.</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2>«Ну что? Ты заплатил за это хорошие деньги, неужели ты не собираешься этим воспользоваться?»</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1>Капитан замер, его тело обмякло в слишком большом для него кресле. Вы поворачиваетесь, чтобы уйти, но он внезапно выпаливает: «Когда я был ребёнком, мы с Дэном всегда смотрели, как подводные лодки отплывают из Мелтуотера. Даже если не находиться рядом с иллюминатором, можно услышать их через стены, если поднести ухо достаточно близко...Если очень поднапрячься, можно было обмануть себя, думая, что слышишь стадо молохов». Он замолкает, словно погрузившись в свои мысли. «К-как ты думаешь, е..если я окуну голову в воду... Услышу ли я молохов?»</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o1>Уйти</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o2>«Конечно».</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o2>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o2.c1>Он слабо улыбается вам, и его взгляд снова фокусируется на вас. «Приятные воспоминания, в любом случае стоит за них держаться...» Он совершенно не в себе.</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o2.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o2.c1.o1>Пора уходить.</DistressEvent.outoffuel.o1.o1.o1.o3.c1.o1.c1.o2.c1.o2.c1.o2.c1.o1>
+  <!--  Intimidation failure  -->
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c2>«..Пошёл ты! Ты отвечаешь на призывы людей о помощи, чтобы вымогать у них деньги? Ты не святой! Ты волк в овечьей шкуре, дьявол, протягивающий мне руку с ножом за спиной! Твоё сердце холодно, как ледяные покровы, твоё сердце черно, как бездна! Ты получишь именно то, чего заслуживаешь, единственное, чего ты заслуживаешь!»</DistressEvent.outoffuel.o1.o1.o1.o3.c2>
+  <DistressEvent.outoffuel.o1.o1.o1.o3.c2.o1>Ой-ой.</DistressEvent.outoffuel.o1.o1.o1.o3.c2.o1>
+  <!--  High clown rep  -->
+  <DistressEvent.outoffuel.o1.o1.o1.o2.c1>Прежде чем передать стержень, вы делаете паузу. Где-то в глубине сознания вы слышите слабый шёпот. «Этот человек подавлен, ты не должен просто так дать ему стержень, ты должен его ещё и подбодрить! Все любят сюрпризы, ведь что ещё может лучше поднять настроение?»</DistressEvent.outoffuel.o1.o1.o1.o2.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o2.o1>Хорошая мысль. [+Clown Rep]</DistressEvent.outoffuel.o1.o1.o1.o2.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.o2.o1.c1>Прежде чем передать топливный стержень, вы решаете устроить капитану сюрприз, когда он поместит его в реактор. Невидимая сила направляет ваши руки, пока вы ловко приводите в негодность будущее топливо.</DistressEvent.outoffuel.o1.o1.o1.o2.o1.c1>
+  <DistressEvent.outoffuel.o1.o1.o1.o2.o1.c1.o1>Это должно скрасить его день! У вас возникает предчувствие, что вам следует уйти, прежде чем капитан поместит его в реактор.</DistressEvent.outoffuel.o1.o1.o1.o2.o1.c1.o1>
+  <DistressEvent.outoffuel.o1.o1.o1.o2.o2>Не сегодня. [+Location Rep]</DistressEvent.outoffuel.o1.o1.o1.o2.o2>
+  <!--  Refuse  -->
+  <DistressEvent.outoffuel.o1.o2>«Извините, но у меня нет лишних».</DistressEvent.outoffuel.o1.o2>
+  <DistressEvent.outoffuel.o1.o2.c1>«Н-нет!» В его глазах появляется безумное выражение. Вы замечаете, как его рука тянется к револьверу, а всё его тело напрягается.</DistressEvent.outoffuel.o1.o2.c1>
+  <DistressEvent.outoffuel.o1.o2.c1.o1>«Даже не пытайся». [Weapons: HARD]</DistressEvent.outoffuel.o1.o2.c1.o1>
+  <DistressEvent.outoffuel.o1.o2.c1.o1.c1>Он падает обратно в кресло, побеждённый. «Может быть... Может, следующая подлодка мне поможет?» Он издает слабый вздох, а затем с отсутствующим выражением лица смотрит на стену позади вас.</DistressEvent.outoffuel.o1.o2.c1.o1.c1>
+  <DistressEvent.outoffuel.o1.o2.c1.o1.c1.o1>Ты не благотворительная организация, он сам ответственнен за свою жизнь.</DistressEvent.outoffuel.o1.o2.c1.o1.c1.o1>
+  <!--  Loop back to main  -->
+  <DistressEvent.outoffuel.o1.o2.c1.o2>«Вообще-то, у нас может быть запасной. Мне нужно проверить».</DistressEvent.outoffuel.o1.o2.c1.o2>
+  <!--  End Text  -->
+  <DistressEvent.outoffuel.end>Капитан благодарит вас за стержень и готовится вставить его в реактор.</DistressEvent.outoffuel.end>
+  <DistressEvent.outoffuel.end.o1>Похоже, твоя работа здесь выполнена.</DistressEvent.outoffuel.end.o1>
+  <!--  AutoTrader Overdose  -->
+  <MapFeature.autotraderoverdose.c1>Механик трясётся всем телом: «Ух ты, чувак, я вышел туда ради жаркой минутки! Но...но ты, мужик. Ты вернул меня обратно, да? Да, черт возьми, мужик! Вот о чем я!» Он останавливается и оглядывается: «Эй, мужик, ты с той подлодки, что пришвартована внизу? Тебе нужен ещё один член экипажа? Я б тебе пригодился!»</MapFeature.autotraderoverdose.c1>
+  <MapFeature.autotraderoverdose.o1>Добро пожаловать на борт.</MapFeature.autotraderoverdose.o1>
+  <MapFeature.autotraderoverdose.o1.c1>«Ты не пожалеешь, чувак, ха-ха!» Он кажется взволнованным.</MapFeature.autotraderoverdose.o1.c1>
+  <MapFeature.autotraderoverdose.o2>Нет, спасибо.</MapFeature.autotraderoverdose.o2>
+  <MapFeature.autotraderoverdose.o2.c1>«О, оу... Ну, я... я думаю, я просто... Подожду следующую команду, ладно? Кто-нибудь меня подберёт, да!»</MapFeature.autotraderoverdose.o2.c1>
+  <!--  Abyss Research  -->
+  <MapFeature.abyssresearch.c1>Когда вы проходите мимо исследователя, он поднимает на вас глаза. «О, отлично, вы наконец-то здесь. Это очень важно... убедитесь, что всё будет доставлено целым». Он суёт вам в руки пачку бумаг. Вы пытаетесь объяснить, что вы не почтальон, но вас уже не слушают. Похоже, на лицевой стороне пакета указано нужное местоположение.</MapFeature.abyssresearch.c1>
+  <MapFeature.mailman.impatient>Исследователь стоит с нетерпеливым видом.</MapFeature.mailman.impatient>
+  <MapFeature.mailman.waiting>«Ждёте кого-то?»</MapFeature.mailman.waiting>
+  <MapFeature.mailman.exposition>Он поворачивается и смотрит на вас. «В общем-то, да. Вчера команда сопровождения должна была доставить важные результаты исследований моего коллеги, но они до сих пор не появились. Я начинаю подозревать, что их схватило чудовище из бездны».</MapFeature.mailman.exposition>
+  <MapFeature.mailman.handover>Передать исследовательские данные.</MapFeature.mailman.handover>
+  <MapFeature.mailman.later>Позже.</MapFeature.mailman.later>
+  <MapFeature.mailman.missing>«Где вы оставили эти исследовательские данные?»</MapFeature.mailman.missing>
+  <MapFeature.mailman.snatch>Он выхватывает пачку бумаги из ваших рук и начинает лихорадочно её читать. «Ага! Ха-ха! Вот оно! Вот оно! Так много всего надо сделать, а времени так мало...» Он поворачивается, чтобы уйти.</MapFeature.mailman.snatch>
+  <MapFeature.mailman.payment>*кашляет* По поводу моей оплаты...</MapFeature.mailman.payment>
+  <MapFeature.mailman.groan>Он издаёт стон, прежде чем повернуться обратно. «Вы, подводники, всегда хотите получать плату за свою работу, как будто труд на благо человечества сам по себе не является наградой! Я полагаю, вам нужны кредиты, хотя...» Он оглядывается, словно проверяя, подслушивает ли кто-нибудь. По-видимому, удовлетворённый, он наклоняется поближе: «Я мог бы поделиться тем, что находится в этой загадочной коробке...»</MapFeature.mailman.groan>
+  <MapFeature.mailman.box>Таинственная коробка! Таинственная коробка!</MapFeature.mailman.box>
+  <MapFeature.mailman.sucker>Он с грохотом достаёт странный предмет в форме коробки, а затем резко суёт его вам в руки. «Теперь это твоя проблема, придурок!!» - кричит он и убегает.</MapFeature.mailman.sucker>
+  <MapFeature.mailman.marks>Кредиты, пожалуйста.</MapFeature.mailman.marks>
+  <MapFeature.mailman.lame>«Никакой жажды приключений! Ба, вот твои кредиты. А мне есть над чем работать!»</MapFeature.mailman.lame>
+  <MapFeature.mailman.wasteoftime>Какая огромная трата времени.</MapFeature.mailman.wasteoftime>
+  <EventText.clownstation_preformanceofalifetime.c1>Артист отрывает взгляд от своих бумаг. «О, привет! Ты, должно быть, здесь ради шоу!» Он слегка подпрыгивает от радости.</EventText.clownstation_preformanceofalifetime.c1>
+  <EventText.clownstation_preformanceofalifetime.o1>«Шоу? Какое шоу?»</EventText.clownstation_preformanceofalifetime.o1>
+  <EventText.clownstation_preformanceofalifetime.o1.c1>«О, вы наверняка слышали о нём!» Он драматично откидывается назад: «Знаменитый клоун Паяц здесь, чтобы дать представление всей жизни!» Он подпрыгивает и принимает торжественную позу. «По его желанию, открыто для всех». Он смотрит на вас с надеждой.</EventText.clownstation_preformanceofalifetime.o1.c1>
+  <EventText.clownstation_preformanceofalifetime.o1.o1>«Я заинтересован».</EventText.clownstation_preformanceofalifetime.o1.o1>
+  <EventText.clownstation_preformanceofalifetime.o1.o1.c1>«Превосходно! Тогда бегом в театр и готовьтесь к представлению!» Он хихикает про себя. Типичный клоун.</EventText.clownstation_preformanceofalifetime.o1.o1.c1>
+  <EventText.clownstation_preformanceofalifetime.o1.o2>«У меня нет времени на клоунов».</EventText.clownstation_preformanceofalifetime.o1.o2>
+  <EventText.clownstation_preformanceofalifetime.o1.o2.c1>«Какой позор, каждый должен находить время для развлечений, даже ты!» Был ли в его голосе намёк на презрение? Должно быть, просто показалось.</EventText.clownstation_preformanceofalifetime.o1.o2.c1>
+  <EventText.clownstation_preformanceofalifetime.c2>Свет гаснет, и скрытый диктор объявляет: «А теперь, пожалуйста, поприветствуйте Паяца!»</EventText.clownstation_preformanceofalifetime.c2>
+  <EventText.clownstation_preformanceofalifetime.c3>Откуда взялось это ликование? Вы оглядываетесь вокруг в поисках скрытых динамиков, прежде чем клоун начинает говорить: «Привет, привет всем! Спасибо за такой тёплый прием!» Он кланяется: «Напоминаю зрителям - держаться от меня подальше, пока я выступаю!»</EventText.clownstation_preformanceofalifetime.c3>
+  <EventText.clownstation_preformanceofalifetime.c4>«А теперь, без дальнейших промедлений... Моё выступление всей жизни!»</EventText.clownstation_preformanceofalifetime.c4>
+  <EventText.abyssresearch_teleportmishap.c1>Приближаясь к двери, вы слышите за ней оживлённый разговор.</EventText.abyssresearch_teleportmishap.c1>
+  <EventText.abyssresearch_teleportmishap.c2>«Ты с ума сошёл! Ты нас обоих однажды УБЬЁШЬ, если будешь возиться с этими штуками, не соблюдая мер безопасности!».</EventText.abyssresearch_teleportmishap.c2>
+  <EventText.abyssresearch_teleportmishap.c3>«Ты просто завидуешь, что институт доверил это МНЕ!» Другой голос нервно отвечает:</EventText.abyssresearch_teleportmishap.c3>
+  <EventText.abyssresearch_teleportmishap.c4>«Это... Это не имеет к делу никакого отношения! Институт явно дал его мне, потому что не хотел тестировать его на заставе, а сейчас ты просто трогаешь его голыми руками!»</EventText.abyssresearch_teleportmishap.c4>
+  <EventText.abyssresearch_teleportmishap.c5>«Поэтому они обратились ко мне, а не к тебе. А теперь заткнись и помоги мне со следующим экспериментом. Думаю, если я...»</EventText.abyssresearch_teleportmishap.c5>
+  <EventText.abyssresearch_teleportmishap.c6>Охранник выглядит обеспокоенным. «Вы тоже слышали этот звук, да? Где исследователи?» Он осматривает лабораторию, высматривая что-нибудь, что могло бы дать подсказку о их местонахождении.</EventText.abyssresearch_teleportmishap.c6>
+  <EventText.abyssresearch_teleportmishap.o1>«Я думаю, они исчезли».</EventText.abyssresearch_teleportmishap.o1>
+  <EventText.abyssresearch_teleportmishap.o1.c1>«Вот дерьмо, это происходит уже второй раз за месяц». Охранник оценивающе осматривает вас. «Ты же подводник, да? Иначе как бы ты здесь оказался, ха. Я снабдил эту группу исследователей маяками слежения на случай, если всё повторится. Вы готовы вернуть то, что от них осталось?»</EventText.abyssresearch_teleportmishap.o1.c1>
+  <EventText.abyssresearch_teleportmishap.o1.o1>«Конечно, почему бы и нет».</EventText.abyssresearch_teleportmishap.o1.o1>
+  <EventText.abyssresearch_teleportmishap.o1.o1.c1>«Отлично! Сейчас я включу маячки». Охранник достаёт из-за пояса небольшое устройство и нажимает на нем кнопку. «Теперь вы должны видеть сигнал на своём сонаре. Как только вы их найдёте, хватайте всё, что выглядит, ну, как что-то инопланетное, и приносите это сюда. Я обещаю, что это стоит вашего времени».</EventText.abyssresearch_teleportmishap.o1.o1.c1>
+  <EventText.abyssresearch_teleportmishap.o1.o2>«Извините, но я занят».</EventText.abyssresearch_teleportmishap.o1.o2>
+  <EventText.abyssresearch_teleportmishap.o1.o2.c1>«Ну что ж, спросить никогда не помешает». Охранник оглядывает исследовательскую лабораторию: «Институт будет в ярости, узнав, что мы потеряли ещё больше исследователей...» - бормочет он себе под нос.</EventText.abyssresearch_teleportmishap.o1.o2.c1>
+  <EventText.abyssresearch_teleportmishap.c7>«Вы нашли то, с чем они возились?»</EventText.abyssresearch_teleportmishap.c7>
+  <EventText.abyssresearch_teleportmishap.o2>Передать устройство.</EventText.abyssresearch_teleportmishap.o2>
+  <EventText.abyssresearch_teleportmishap.o2.c1>«Нашли устройство?»</EventText.abyssresearch_teleportmishap.o2.c1>
+  <EventText.abyssresearch_teleportmishap.o2.c2>«А, отлично! Я отнесу это в надёжное место». Охранник кладёт устройство в странную коробку на поясе. «О, и твоя награда! У исследователей есть кое-какие безделушки, если хочешь, или я могу тебе заплатить кредитами».</EventText.abyssresearch_teleportmishap.o2.c2>
+  <EventText.abyssresearch_teleportmishap.o2.o1>«Кредитов будет достаточно».</EventText.abyssresearch_teleportmishap.o2.o1>
+  <EventText.abyssresearch_teleportmishap.o2.o2>«Хотелось бы взглянуть на безделушки».</EventText.abyssresearch_teleportmishap.o2.o2>
+  <EventText.abyssresearch_teleportmishap.o3>«Ещё нет».</EventText.abyssresearch_teleportmishap.o3>
+  <EventText.waystation_revealresearch.c1>Исследователь оценивающе оглядывает вас: «Эй, ты похож на подводника. У меня есть коллеги, которые исследуют бездну, но я не могу с ними связаться. Не могли бы вы навестить их и узнать, не нужно ли им чего-нибудь?»</EventText.waystation_revealresearch.c1>
+  <EventText.waystation_revealresearch.o1>«Конечно, где они?»</EventText.waystation_revealresearch.o1>
+  <EventText.waystation_revealresearch.o1.c1>«Вот здесь. Я указал вам координаты».</EventText.waystation_revealresearch.o1.c1>
+  <EventText.waystation_revealresearch.o2>«Я похож на мальчика на побегушках?»</EventText.waystation_revealresearch.o2>
+  <EventText.waystation_revealresearch.o2.c1>Исследователь вздыхает: «Люди вроде вас обычно с радостью выполняют такие задания. Может быть, на следующем форпосте мне помогут».</EventText.waystation_revealresearch.o2.c1>
+  <EventText.waystation_husk.c1>«Я ни за что не выйду отсюда, пока эти жалкие проклятые культисты не сдохнут!» - кричит управляющий заставой.</EventText.waystation_husk.c1>
+  <EventText.waystation_husk.c2>Вы стучите в дверь и сообщаете управляющему, что путь свободен: «Они все мертвы? Дай-ка я открою дверь».</EventText.waystation_husk.c2>
+  <EventText.waystation_husk.c3>«Я так и знал, что мне следовало вышвырнуть этих культистов из шлюза в ту же секунду, как они появились тут». Управляющий пинает стену. «Вот вам за беспокойство. Теперь мне нужно сделать несколько звонков...»</EventText.waystation_husk.c3>
+  <EventText.waystation_revealtheatre.c1>Ваше внимание привлекает реклама: «Европа вас угнетает? Глубины океана вас напрягают? Ищете весёлого времяпрепровождения? Приходите отдохнуть и посмотреть шоу! Мы ВСЕГДА открыты». Получены координаты цирка.</EventText.waystation_revealtheatre.c1>
+  <EventText.waystation_cargoad.c1>Тут есть объявление: «Требуются фрилансеры для перевозки грузов. Более подробная информация представлена ​​на сайте». Далее следуют указания направляться к ближайшему форпосту.</EventText.waystation_cargoad.c1>
+  <EventText.huskchurch_unlockescort.c1>«Добро пожаловать в нашу скромную церковь, путешественник». Вы готовы поклясться, что слышите щелчок, когда он говорит: «Слушай, ты похож на того человека, который мог бы помочь церкви. Несколько наших приспешников ищут транспорт. Вот, я вам запишу».</EventText.huskchurch_unlockescort.c1>
+  <EventText.huskchurch_cargo.c1>«Добро пожаловать в нашу скромную церковь, странник». В его голосе слышна улыбка, от которой бросает в дрожь: «Послушайте, вы похожи на человека, который мог бы помочь церкви. У нас есть кое-какие... товары, которым нужен транспорт. Вот, я вам запишу. Тот, кто помогает церкви, в свою очередь, помогает и себе».</EventText.huskchurch_cargo.c1>
+  <EventText.clownstation_unlockescort.c1>«Ты, похоже, весёлый парень. У меня есть ещё несколько не менее весёлых друзей, которые ищут транспорт, если тебе такое интересно. Я отмечу на твоей карте».</EventText.clownstation_unlockescort.c1>
+  <EventText.clownstation_unlockwreck.c1>«Выглядишь весёлым, парень! Слушай, недавно мы потеряли кое-какие припасы. Если бы ты помог вернуть их, это бы подняло нам настроение. Я отмечу на твоей карте».</EventText.clownstation_unlockwreck.c1>
+  <!--  Lost Cargo  -->
+  <mlc.cargopodhidden>Грузовой отсек?</mlc.cargopodhidden>
+  <mlc.cargopod>Грузовой отсек</mlc.cargopod>
+  <mlc.lostcargonew0>Сообщается о потере груза между [location1] и [location2].</mlc.lostcargonew0>
+  <mlc.lostcargotooltip>Транспортная подводная лодка сбросила часть своего груза из-за «сложностей» на этом пути.</mlc.lostcargotooltip>
+  <mlc.lostcargo.tooslow0>Потерянный груз между [location1] и [location2] был найден другим экипажем</mlc.lostcargo.tooslow0>
+  <mlc.lostcargo.tooslow1>Станции прослушивания дальнего действия больше не могут обнаружить потерянный груз между[location1] и [location2].</mlc.lostcargo.tooslow1>
+  <mlc.lostcargo.tooslow2>Исходя из прогнозируемых течений и движений льдов, потерянный груз между [location1] и [location2] больше не подлежит возврату.</mlc.lostcargo.tooslow2>
+  <missionname.lostcargo>Потерянный груз</missionname.lostcargo>
+  <mismissionfailure.lostcargo>Груз не найден.</mismissionfailure.lostcargo>
+  <missiondescription.lostcargo>Транспортная подводная лодка сбросила часть своего груза из-за «сложностей» на этом пути. Похоже, если вам удастся найти его, это будет бесплатная добыча.</missiondescription.lostcargo>
+  <missionheader0.lostcargo>Потерянный груз</missionheader0.lostcargo>
+  <missionmessage0.lostcargo>Замечен грузовой контейнер! Пристыкуйтесь к нему и выясните, что внутри!</missionmessage0.lostcargo>
+  <!--  Relay Repair  -->
+  <mlc.relaystationtooltip.inactive>Старая ‖color:gui.Orange‖ретрансляционная станция‖end‖ на этом маршруте прекратила передачу сигналов. Её возвращение в строй поможет местным коммуникациям.</mlc.relaystationtooltip.inactive>
+  <mlc.relaystationtooltip.active>На этом маршруте находится действующая ‖color:gui.Orange‖ретрансляционная станция‖end‖</mlc.relaystationtooltip.active>
+  <missionname.relayrepair>Ремонт реле</missionname.relayrepair>
+  <missiondescription.relayrepair>Старая ретрансляционная станция между [location1] и [location2] недавно перестала функционировать. Возвращение ее в строй поможет местным коммуникациям.</missiondescription.relayrepair>
+  <relaysonarlabel>Ретрансляционная станция</relaysonarlabel>
+  <missionheader0.relayrepair>Ремонт реле</missionheader0.relayrepair>
+  <missionmessage0.relayrepair>В отличие от современных радиомаяков, ретрансляционные станции работают путем 4-ступенчатой ​​модуляции входящего сигнала перед его отправкой. Для возобновления работы станции заданные входные данные должны соответствовать ожидаемому целевому значению.</missionmessage0.relayrepair>
+  <missionheader1.relayrepair>Реле отремонтировано</missionheader1.relayrepair>
+  <missionmessage1.relayrepair>Станция снова в строю и передаёт сигналы.</missionmessage1.relayrepair>
+  <missionsuccess.relayrepair>Ретрансляционная станция была отремонтирована.</missionsuccess.relayrepair>
+  <missionfailure.relayrepair>Ретрансляционная станция осталась в нерабочем состоянии.</missionfailure.relayrepair>
+  <missionname.gotoresearch>Почтальон</missionname.gotoresearch>
+  <missiondescription.gotoresearch>Похоже, это место, где можно продать исследовательские данные. Осмотритесь и выясните, кому они нужны.</missiondescription.gotoresearch>
+  <!--  Hint  -->
+  <relayrepair.terminal>РЕЛЕ KELETCO v[version]\nСтанция [station]\n------------------------\n\nКАЛИБРОВОЧНЫЙ ТЕРМИНАЛ\nIN | ОПЕРАЦИЯ 1 - ОПЕРАЦИЯ 2 - ОПЕРАЦИЯ 3 | OUT\nIN [input0] | [step10] - [step20] - [step30] | OUT [output0]\nIN [input1] | [step11] - [step21] - [step31] | OUT [output1]\nIN [input2] | [step12] - [step22] - [step32] | OUT [output2]</relayrepair.terminal>
+  <!-- Map Feature Tooltips -->
+  <mapfeature.autotrader_weapons>На этом маршруте есть автономная станция с оружием.</mapfeature.autotrader_weapons>
+  <mapfeature.autotrader_supplies>На этом маршруте есть автономная станция с припасами.</mapfeature.autotrader_supplies>
+  <mapfeature.waystation>На этом маршруте есть ‖color:gui.blue‖промежуточная станция‖end‖.</mapfeature.waystation>
+  <mapfeature.clownstation>На этом маршруте есть цирк</mapfeature.clownstation>
+  <mapfeature.abyssresearch>Где-то под этим маршрутом есть глубоководный исследовательский центр.</mapfeature.abyssresearch>
+  <mapfeature.huskchurch>На этом маршруте есть церковь Хаска</mapfeature.huskchurch>
+  <mapfeature.huskchurch.name>Церковь Хаска</mapfeature.huskchurch.name>
+  <mapfeature.autotrader_weapons.name>Автономная станция с оружием</mapfeature.autotrader_weapons.name>
+  <mapfeature.autotrader_supplies.name>Автономная станция с припасами</mapfeature.autotrader_supplies.name>
+  <mapfeature.waystation.name>Промежуточная станция</mapfeature.waystation.name>
+  <mapfeature.clownstation.name>Цирк</mapfeature.clownstation.name>
+  <mapfeature.abyssresearch.name>Глубоководный исследовательский центр</mapfeature.abyssresearch.name>
+  <mapfeature.revealed.header>[feature] Раскрыто</mapfeature.revealed.header>
+  <mapfeature.revealed.description>Более подробную информацию можно найти на карте кампании.</mapfeature.revealed.description>
+  <!-- Generic -->
+  <missionname.distressmission>Сигнал бедствия</missionname.distressmission>
+  <missiondescription.distressmission>Радиостанции дальнего действия обнаружили активный сигнал бедствия на этом маршруте. Последнее известное местоположение было отмечено на сонаре.</missiondescription.distressmission>
+  <missionfailure.distressmission>Призыв о помощи остаётся без ответа.</missionfailure.distressmission>
+  <!-- Distess Escort -->
+  <distress.lostdiversuccess>Подводник душевно благодарит вас за спасение. В качестве благодарности он вручает вам награду.</distress.lostdiversuccess>
+  <distress.pirateambushsuccess>Пираты пытались заманить беспомощные экипажи сигналами бедствия. Миру будет лучше без них.</distress.pirateambushsuccess>
+  <!-- Distress Submarine -->
+  <distress.submarinesuccess.crew>Экипаж и шаттл были благополучно выведены из пещеры, они дают вам [reward] кредитов за хлопоты.</distress.submarinesuccess.crew>
+  <distress.submarinesuccess.sub>Вы закладываете шаттл за [reward] кредитов.</distress.submarinesuccess.sub>
+  <distress.submarinefail>Шаттл присоединяется к экипажу на морском дне.</distress.submarinefail>
+  <missionheader0.distress_shiprescue>Потерянный шаттл</missionheader0.distress_shiprescue>
+  <missionmessage0.distress_shiprescue>Сигнал бедствия приводит вас к потерявшемуся шаттлу. Судя по радиопереговорам, его экипаж переживает не лучшие времена. Выведите экипаж и шаттл из пещеры.</missionmessage0.distress_shiprescue>
+  <missionheader1.distress_shiprescue>Потерянный шаттл</missionheader1.distress_shiprescue>
+  <missionmessage1.distress_shiprescue>Экипаж шаттла погиб - слишком частая участь. Он не заплатит за своё спасение, но сам шаттл всё ещё может быть продан.</missionmessage1.distress_shiprescue>
+  <distress.lostshuttle.atend>Потерянный шаттл находится в пределах досягаемости для разбора.</distress.lostshuttle.atend>
+  <!-- Distress Ghostship -->
+  <missionheader0.distress_ghostship>Дрейфующая подлодка</missionheader0.distress_ghostship>
+  <missionheader1.distress_ghostship>Дрейфующая подлодка</missionheader1.distress_ghostship>
+  <missionmessage0.distress_ghostship>Источником сигнала бедствия, по-видимому, является дрейфующая подводная лодка. Стандартный протокол Коалиции требует высадку на борт подлодки для проведения расследования.</missionmessage0.distress_ghostship>
+  <distress.ghostship.damagenotification>Нанесение урона судну может привести к потере репутации!</distress.ghostship.damagenotification>
+  <!-- Mission Specific -->
+  <missionmessage1.distress_ghostship_bandit1>Когда вы проникаете на дрейфующую подлодку, вы слышите шаги. Жив ли ещё экипаж?</missionmessage1.distress_ghostship_bandit1>
+  <distress.success.distress_ghostship_bandit1>Подводная лодка была захвачена бандитами, весь экипаж вырезан.</distress.success.distress_ghostship_bandit1>
+  <missionmessage1.distress_ghostship_husks>Когда вы проникаете на дрейфующую подлодку, вы слышите шаги. Жив ли ещё экипаж?</missionmessage1.distress_ghostship_husks>
+  <distress.success.distress_ghostship_husks>Вы напоминаете себе, что было бы неплохо запастись каликсанидом на следующем аванпосте.</distress.success.distress_ghostship_husks>
+  <distress.success.distress_ghostship_prisonbreak>Поучительная история о том, что нужно всегда следить за своими заключенными.</distress.success.distress_ghostship_prisonbreak>
+  <missionmessage1.distress_ghostship_crawlers>Поднявшись на борт дрейфующей подлодки, вы сразу же ощущаете зловоние смерти, которым пропитан воздух. Если экипаж и был когда-то жив, то он давно умер.</missionmessage1.distress_ghostship_crawlers>
+  <distress.success.distress_ghostship_crawlers>Странное зрелище - дрейфующая подводная лодка сейчас используется как место для размножения. Возможно, у одного из членов экипажа было домашнее животное, которое слишком проголодалось.</distress.success.distress_ghostship_crawlers>
+  <distress.success.distress_ghostship_alienship>Вид модифицированной подводной лодки заседает в вашем мозгу, царапая стенки черепа. Что за хрень такая - "Яхвей"?</distress.success.distress_ghostship_alienship>
+  <!-- Fluff -->
+  <label.insanerant1>КАК ГЛУБОКО ПОДО ЛЬДОМ ВИДИТ бОГ?</label.insanerant1>
+  <label.insanerant2>ТЫ</label.insanerant2>
+  <label.insanerant3>МОЖЕШЬ</label.insanerant3>
+  <label.insanerant4>СЛЫШАТЬ</label.insanerant4>
+  <label.insanerant5>ЕГО</label.insanerant5>
+  <label.insanerant6>ЗОВ?</label.insanerant6>
+  <charactername.clowncorpse>Труп клоуна</charactername.clowncorpse>
+  <missionmessage1.quiet>Зловещая тишина. Есть ли кто-нибудь живой?</missionmessage1.quiet>
+  <distress.success.clowns>Кто знает, что задумали эти арлекины.</distress.success.clowns>
+  <!--  Misc  -->
+  <entityname.mailman_researchdata>Исследовательские данные</entityname.mailman_researchdata>
+  <entitydescription.mailman_researchdata>Какие-то важные научные данные, касающиеся глубин Европы. Ничего толком не поймешь.</entitydescription.mailman_researchdata>
+  <entityname.abyssresearch_alienobject>Странный инопланетный объект</entityname.abyssresearch_alienobject>
+  <entitydescription.abyssresearch_alienobject>Инопланетный объект неизвестного назначения. Вы, вероятно, могли бы продать это за большие деньги нужным людям.</entitydescription.abyssresearch_alienobject>
+  <sonarbeacon.researcher>Исследователь</sonarbeacon.researcher>
+  <abyssresearch.findbodies>Найдите пропавших исследователей</abyssresearch.findbodies>
+  <abyssresearch.returnitem>Верните инопланетное устройство</abyssresearch.returnitem>
+  <mlc.gamemodewarning.header>Неверный игровой режим!</mlc.gamemodewarning.header>
+  <mlc.gamemodewarning.description>More Level Content не поддерживает многопользовательские режимы игры, кроме кампании! Использование его в других режимах игры вызовет проблемы и даже может вывести игру из строя.</mlc.gamemodewarning.description>
+  <!--  Перевод от Router и Enigma -->
+</infotext>

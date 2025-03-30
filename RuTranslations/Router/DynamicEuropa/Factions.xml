@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Factions -->
+  <faction.bandits>Бандиты</faction.bandits>
+  <faction.bandits.description>Банды преступников, которые бродят по мутным морям Европы и занимаются преступной деятельностью. Опасные, но открытые для бизнеса...</faction.bandits.description>
+  <faction.bandits.shortdescription>Авантюристы, разбойники, пираты... Поистине злодейская шайка.</faction.bandits.shortdescription>
+  <!--    Перевод от Router   -->
+</infotext>

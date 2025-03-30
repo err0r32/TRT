@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
+  <entityname.low_lootcrate>Ящик с припасами</entityname.low_lootcrate>
+  <entitydescription.low_lootcrate>Разберите, чтобы получить случайный предмет!</entitydescription.low_lootcrate>
+  <entityname.ekutility_advancedheadset>Улучшенная гарнитура</entityname.ekutility_advancedheadset>
+  <entitydescription.ekutility_advancedheadset>Идеальная гарнитура. Оснащённая шумоподавлением, высокочастотными излучателями и регулируемой комфортной подвеской, эта гарнитура предназначена для использования на борту экипажами подводных лодок при минимальном потреблении энергии батареи.</entitydescription.ekutility_advancedheadset>
+  <entityname.batterycelldisposable>Одноразовая аккумуляторная батарея</entityname.batterycelldisposable>
+  <entitydescription.batterycelldisposable>Опасная попытка решения нехватки портативной энергии на Европе. Эта высокопроизводительная перезаряжаемая химическая батарея склонна к перегреву и взрыву при постоянном использовании или при ударе о твёрдую поверхность. Хоть её и можно поместить в зарядное устройство, если она начнёт дымиться, может быть безопаснее просто разобрать её или немедленно выбросить.</entitydescription.batterycelldisposable>
+  <entityname.ekutility_longrangeradio>Рюкзак с радиостанцией дальнего действия</entityname.ekutility_longrangeradio>
+  <entitydescription.ekutility_longrangeradio>Водонепроницаемый рюкзак с мощным радиопередатчиком и маяком для экспедиционных команд, его прочная конструкция гарнитуры также обеспечивает шумоподавление.</entitydescription.ekutility_longrangeradio>
+  <entityname.ek_security_radio>Рация</entityname.ek_security_radio>
+  <entitydescription.ek_security_radio>Низкопрофильный радиопередатчик, используемый в основном сотрудниками безопасности кораблей и станций. Эта рация отлично подходит для подводных вылазок, поскольку радиочастота минимизирует искажения от естественных источников благодаря использованию УНЧ в относительно компактном корпусе.</entitydescription.ek_security_radio>
+  <!--  Missions  -->
+  <missionname.salvagekillcarrier>Разбор обломков</missionname.salvagekillcarrier>
+  <missiondescription.salvagekillcarrier>Небольшое транспортное судно пропало примерно два месяца назад при перевозке инопланетных материалов из [location1] в [location2]. Считалось, что судно пропало в бездне, но его аварийный маяк, похоже, был замечен возле [location2]. Найдите судно и верните груз.</missiondescription.salvagekillcarrier>
+  <missionsonarlabel.salvagekillcarrier>Сигнал бедствия</missionsonarlabel.salvagekillcarrier>
+  <missionsuccess.salvagekillcarrier>Исследователи из [location2] хотят узнать все подробности о событии, но, похоже, не решаются отвечать на вопросы о судне. Тем не менее, они предлагают вам [reward] кредитов в качестве компенсации за ваши проблемы.</missionsuccess.salvagekillcarrier>
+  <missionfailure.salvagekillcarrier>Миссия провалена</missionfailure.salvagekillcarrier>
+  <missionheader0.salvagekillcarrier>Цель уничтожена</missionheader0.salvagekillcarrier>
+  <missionname.killmolochbt>Уничтожение стада молохов</missionname.killmolochbt>
+  <missiondescription.killmolochbt>Необычайно агрессивный молох и его потомство терроризируют суда, проходящие между [location1] и [location2]. Тем, кто убьёт этих существ, обещана награда в размере [reward] кредитов.</missiondescription.killmolochbt>
+  <missionsonarlabel.killmolochbt>Молох</missionsonarlabel.killmolochbt>
+  <missionsuccess.killmolochbt>Молохи убиты</missionsuccess.killmolochbt>
+  <missionfailure.killmolochbt>Миссия провалена</missionfailure.killmolochbt>
+  <missionheader0.killmolochbt>Цели уничтожены</missionheader0.killmolochbt>
+  <missionname.killmolochblackbt>Уничтожение стада молохов</missionname.killmolochblackbt>
+  <missiondescription.killmolochblackbt>Необычайно агрессивный молох и его потомство терроризируют суда, проходящие между [location1] и [location2]. Тем, кто убьёт этих существ, обещана награда в размере [reward] кредитов.</missiondescription.killmolochblackbt>
+  <missionsonarlabel.killmolochblackbt>Молох</missionsonarlabel.killmolochblackbt>
+  <missionsuccess.killmolochblackbt>Молохи убиты</missionsuccess.killmolochblackbt>
+  <missionfailure.killmolochblackbt>Миссия провалена</missionfailure.killmolochblackbt>
+  <missionheader0.killmolochblackbt>Цели уничтожены</missionheader0.killmolochblackbt>
+  <missionname.killhammerheadbt>Уничтожение стаи молотоглавов</missionname.killhammerheadbt>
+  <missiondescription.killhammerheadbt>Необычайно агрессивная стая молотоглавов терроризирует суда, проходящие между [location1] и [location2]. Тому, кто убьёт этих существ, обещана награда в размере [reward] кредитов.</missiondescription.killhammerheadbt>
+  <missionsonarlabel.killhammerheadbt>Молотоглав</missionsonarlabel.killhammerheadbt>
+  <missionsuccess.killhammerheadbt>Молотоглавы убиты</missionsuccess.killhammerheadbt>
+  <missionfailure.killhammerheadbt>Миссия провалена</missionfailure.killhammerheadbt>
+  <missionheader0.killhammerheadbt>Цели уничтожены</missionheader0.killhammerheadbt>
+  <missionname.killhammerheadgoldbt>Уничтожение стаи молотоглавов</missionname.killhammerheadgoldbt>
+  <missiondescription.killhammerheadgoldbt>Необычайно агрессивная стая молотоглавов терроризирует суда, проходящие между [location1] и [location2]. Тому, кто убьёт этих существ, обещана награда в размере [reward] кредитов.</missiondescription.killhammerheadgoldbt>
+  <missionsonarlabel.killhammerheadgoldbt>Молотоглав</missionsonarlabel.killhammerheadgoldbt>
+  <missionsuccess.killhammerheadgoldbt>Молотоглавы убиты</missionsuccess.killhammerheadgoldbt>
+  <missionfailure.killhammerheadgoldbt>Миссия провалена</missionfailure.killhammerheadgoldbt>
+  <missionheader0.killhammerheadgoldbt>Цели уничтожены</missionheader0.killhammerheadgoldbt>
+  <missionname.killmatriarchbt1>Убийство матриарха молотоглавов</missionname.killmatriarchbt1>
+  <missiondescription.killmatriarchbt1>Уничтожьте матриарха молотоглавов и его потомство.</missiondescription.killmatriarchbt1>
+  <missionsonarlabel.killmatriarchbt1>Молотоглав</missionsonarlabel.killmatriarchbt1>
+  <missionsuccess.killmatriarchbt1>Матриарх молотоглавов убит</missionsuccess.killmatriarchbt1>
+  <missionfailure.killmatriarchbt1>Миссия провалена</missionfailure.killmatriarchbt1>
+  <missionheader0.killmatriarchbt1>Цели уничтожены</missionheader0.killmatriarchbt1>
+  <missionname.killmatriarchbt4>Убийство королевского матриарха молотоглавов</missionname.killmatriarchbt4>
+  <missiondescription.killmatriarchbt4>Уничтожьте королевского матриарха молотоглавов и его огромное потомство.</missiondescription.killmatriarchbt4>
+  <missionsonarlabel.killmatriarchbt4>Молотоглав</missionsonarlabel.killmatriarchbt4>
+  <missionsuccess.killmatriarchbt4>Королевский матриарх молотоглавов убит</missionsuccess.killmatriarchbt4>
+  <missionfailure.killmatriarchbt4>Миссия провалена</missionfailure.killmatriarchbt4>
+  <missionheader0.killmatriarchbt4>Цели уничтожены</missionheader0.killmatriarchbt4>
+  <missionname.killcrawlerswarmbt1>Уничтожение большого роя ползунов</missionname.killcrawlerswarmbt1>
+  <missiondescription.killcrawlerswarmbt1>Большой рой ползунов терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет уничтожить его.</missiondescription.killcrawlerswarmbt1>
+  <missionsonarlabel.killcrawlerswarmbt1>Рой</missionsonarlabel.killcrawlerswarmbt1>
+  <missionsuccess.killcrawlerswarmbt1>Рой уничтожен</missionsuccess.killcrawlerswarmbt1>
+  <missionfailure.killcrawlerswarmbt1>Миссия провалена</missionfailure.killcrawlerswarmbt1>
+  <missionheader0.killcrawlerswarmbt1>Цели уничтожены</missionheader0.killcrawlerswarmbt1>
+  <missionname.killcrawlerswarmbt2>Уничтожение огромного роя ползунов</missionname.killcrawlerswarmbt2>
+  <missiondescription.killcrawlerswarmbt2>Огромный рой ползунов терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет уничтожить его.</missiondescription.killcrawlerswarmbt2>
+  <missionsonarlabel.killcrawlerswarmbt2>Рой</missionsonarlabel.killcrawlerswarmbt2>
+  <missionsuccess.killcrawlerswarmbt2>Рой уничтожен</missionsuccess.killcrawlerswarmbt2>
+  <missionfailure.killcrawlerswarmbt2>Миссия провалена</missionfailure.killcrawlerswarmbt2>
+  <missionheader0.killcrawlerswarmbt2>Цели уничтожены</missionheader0.killcrawlerswarmbt2>
+  <missionname.killcrawlerhuskswarmbt>Уничтожение огромного роя ползунов</missionname.killcrawlerhuskswarmbt>
+  <missiondescription.killcrawlerhuskswarmbt>Огромный рой ползунов терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет уничтожить его.</missiondescription.killcrawlerhuskswarmbt>
+  <missionsonarlabel.killcrawlerhuskswarmbt>Рой</missionsonarlabel.killcrawlerhuskswarmbt>
+  <missionsuccess.killcrawlerhuskswarmbt>Рой уничтожен</missionsuccess.killcrawlerhuskswarmbt>
+  <missionfailure.killcrawlerhuskswarmbt>Миссия провалена</missionfailure.killcrawlerhuskswarmbt>
+  <missionheader0.killcrawlerhuskswarmbt>Цели уничтожены</missionheader0.killcrawlerhuskswarmbt>
+  <missionname.killspinelingswarm1>Уничтожение роя шипостаев</missionname.killspinelingswarm1>
+  <missiondescription.killspinelingswarm1>Агрессивный рой шипостаев терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет уничтожить его.</missiondescription.killspinelingswarm1>
+  <missionsonarlabel.killspinelingswarmbt1>Рой</missionsonarlabel.killspinelingswarmbt1>
+  <missionsuccess.killspinelingswarmbt1>Рой уничтожен</missionsuccess.killspinelingswarmbt1>
+  <missionfailure.killspinelingswarmbt1>Миссия провалена</missionfailure.killspinelingswarmbt1>
+  <missionheader0.killspinelingswarmbt1>Цель уничтожена</missionheader0.killspinelingswarmbt1>
+  <missionname.killgiantspinelingbt1>Убийство гигантского шипостая</missionname.killgiantspinelingbt1>
+  <missiondescription.killgiantspinelingbt1>Уничтожьте гигантского шипостая.</missiondescription.killgiantspinelingbt1>
+  <missionsonarlabel.killgiantspinelingbt1>Шипостай</missionsonarlabel.killgiantspinelingbt1>
+  <missionsuccess.killgiantspinelingbt1>Гигантский шипостай убит</missionsuccess.killgiantspinelingbt1>
+  <missionfailure.killgiantspinelingbt1>Миссия провалена</missionfailure.killgiantspinelingbt1>
+  <missionheader0.killgiantspinelingbt1>Цель уничтожена</missionheader0.killgiantspinelingbt1>
+  <missionname.killgiantspinelingbt2>Убийство гигантского шипостая</missionname.killgiantspinelingbt2>
+  <missiondescription.killgiantspinelingbt2>Уничтожьте гигантского шипостая.</missiondescription.killgiantspinelingbt2>
+  <missionsonarlabel.killgiantspinelingbt2>Шипостай</missionsonarlabel.killgiantspinelingbt2>
+  <missionsuccess.killgiantspinelingbt2>Гигантский шипостай убит</missionsuccess.killgiantspinelingbt2>
+  <missionfailure.killgiantspinelingbt2>Миссия провалена</missionfailure.killgiantspinelingbt2>
+  <missionheader0.killgiantspinelingbt2>Цель уничтожена</missionheader0.killgiantspinelingbt2>
+  <missionname.killmudraptorsbt1>Уничтожение большой стаи грязевых рапторов</missionname.killmudraptorsbt1>
+  <missiondescription.killmudraptorsbt1>Большая стая грязевых рапторов терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет её нейтрализовать.</missiondescription.killmudraptorsbt1>
+  <missionsonarlabel.killmudraptorsbt1>Стая рапторов</missionsonarlabel.killmudraptorsbt1>
+  <missionsuccess.killmudraptorsbt1>Стая уничтожена</missionsuccess.killmudraptorsbt1>
+  <missionfailure.killmudraptorsbt1>Миссия провалена</missionfailure.killmudraptorsbt1>
+  <missionheader0.killmudraptorsbt1>Цели уничтожены</missionheader0.killmudraptorsbt1>
+  <missionname.killmudraptor_veteranbt>Уничтожение опытной стаи грязевых рапторов</missionname.killmudraptor_veteranbt>
+  <missiondescription.killmudraptor_veteranbt>Стая грязевых рапторов-ветеранов терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет её нейтрализовать.</missiondescription.killmudraptor_veteranbt>
+  <missionsonarlabel.killmudraptor_veteranbt>Стая рапторов</missionsonarlabel.killmudraptor_veteranbt>
+  <missionsuccess.killmudraptor_veteranbt>Стая уничтожена</missionsuccess.killmudraptor_veteranbt>
+  <missionfailure.killmudraptor_veteranbt>Миссия провалена</missionfailure.killmudraptor_veteranbt>
+  <missionheader0.killmudraptor_veteranbt>Цели уничтожены</missionheader0.killmudraptor_veteranbt>
+  <missionname.killmudraptorsbt2>Уничтожение огромной стаи грязевых рапторов</missionname.killmudraptorsbt2>
+  <missiondescription.killmudraptorsbt2>Огромная стая грязевых рапторов терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет её нейтрализовать.</missiondescription.killmudraptorsbt2>
+  <missionsonarlabel.killmudraptorsbt2>Стая рапторов</missionsonarlabel.killmudraptorsbt2>
+  <missionsuccess.killmudraptorsbt2>Стая уничтожена</missionsuccess.killmudraptorsbt2>
+  <missionfailure.killmudraptorsbt2>Миссия провалена</missionfailure.killmudraptorsbt2>
+  <missionheader0.killmudraptorsbt2>Цели уничтожены</missionheader0.killmudraptorsbt2>
+  <missionname.killthresherswarmbt1>Уничтожение большого роя акульих тигров</missionname.killthresherswarmbt1>
+  <missiondescription.killthresherswarmbt1>Большой рой акульих тигров терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет его уничтожить.</missiondescription.killthresherswarmbt1>
+  <missionsonarlabel.killthresherswarmbt1>Рой</missionsonarlabel.killthresherswarmbt1>
+  <missionsuccess.killthresherswarmbt1>Рой уничтожен</missionsuccess.killthresherswarmbt1>
+  <missionfailure.killthresherswarmbt1>Миссия провалена</missionfailure.killthresherswarmbt1>
+  <missionheader0.killthresherswarmbt1>Цели уничтожены</missionheader0.killthresherswarmbt1>
+  <missionname.killthresherswarmbt2>Уничтожение огромного роя акульих тигров</missionname.killthresherswarmbt2>
+  <missiondescription.killthresherswarmbt2>Огромный рой акульих тигров терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет его уничтожить.</missiondescription.killthresherswarmbt2>
+  <missionsonarlabel.killthresherswarmbt2>Рой</missionsonarlabel.killthresherswarmbt2>
+  <missionsuccess.killthresherswarmbt2>Рой уничтожен</missionsuccess.killthresherswarmbt2>
+  <missionfailure.killthresherswarmbt2>Миссия провалена</missionfailure.killthresherswarmbt2>
+  <missionheader0.killthresherswarmbt2>Цели уничтожены</missionheader0.killthresherswarmbt2>
+  <missionname.killseaurchin1>Уничтожение роя морских ежей</missionname.killseaurchin1>
+  <missiondescription.killseaurchin1>Большой рой морских ежей терроризирует суда, проходящие между [location1] и [location2]. Обещана награда в размере [reward] кредитов любому экипажу, который сможет его уничтожить.</missiondescription.killseaurchin1>
+  <missionsonarlabel.killseaurchin1>Рой</missionsonarlabel.killseaurchin1>
+  <missionsuccess.killseaurchin1>Рой уничтожен</missionsuccess.killseaurchin1>
+  <missionfailure.killseaurchin1>Миссия провалена</missionfailure.killseaurchin1>
+  <missionheader0.killseaurchin1>Цели уничтожены</missionheader0.killseaurchin1>
+  <missionname.beaconbt1>Активировать маяк</missionname.beaconbt1>
+  <missiondescription.beaconbt1>Маяк между [location1] и [location2] вышел из строя — направляйтесь туда и восстановите работу гидроакустического сигнала.</missiondescription.beaconbt1>
+  <missionsonarlabel.beaconbt1>Неисправный маяк</missionsonarlabel.beaconbt1>
+  <missionsuccess.beaconbt1>Вы успешно восстановили работу маяка</missionsuccess.beaconbt1>
+  <missionmessage0.beaconbt1>Маяк снова работает. Убедитесь, что передача не прерывается, и проведите подлодку к локации [location2], чтобы получить награду.</missionmessage0.beaconbt1>
+  <missionname.abandonedoutposthumansbt1>Захват аванпоста</missionname.abandonedoutposthumansbt1>
+  <missiondescription.abandonedoutposthumansbt1>Связь с аванпостом [location1] была потеряна, и есть опасения, что его кто-то захватил. Уничтожьте реактор аванпоста, чтобы избавиться от захватчиков раз и навсегда.</missiondescription.abandonedoutposthumansbt1>
+  <missionsuccess.abandonedoutposthumansbt1>Захватчики навсегда покинули аванпост.</missionsuccess.abandonedoutposthumansbt1>
+  <missionfailure.abandonedoutposthumansbt1>Миссия провалена</missionfailure.abandonedoutposthumansbt1>
+  <missionheader0.abandonedoutposthumansbt1>Реактор уничтожен</missionheader0.abandonedoutposthumansbt1>
+  <missionmessage0.abandonedoutposthumansbt1>Реактор был уничтожен. Никакие захватчики больше не попытаются занять этот аванпост. Отплывите от аванпоста, чтобы завершить задание.</missionmessage0.abandonedoutposthumansbt1>
+  <missionname.abandonedoutposthumansbt2>Захват аванпоста</missionname.abandonedoutposthumansbt2>
+  <missiondescription.abandonedoutposthumansbt2>Связь с аванпостом [location1] была потеряна, и есть опасения, что его кто-то захватил. Уничтожьте реактор аванпоста, чтобы избавиться от захватчиков раз и навсегда.</missiondescription.abandonedoutposthumansbt2>
+  <missionsuccess.abandonedoutposthumansbt2>Захватчики навсегда покинули аванпост.</missionsuccess.abandonedoutposthumansbt2>
+  <missionfailure.abandonedoutposthumansbt2>Миссия провалена</missionfailure.abandonedoutposthumansbt2>
+  <missionheader0.abandonedoutposthumansbt2>Реактор уничтожен</missionheader0.abandonedoutposthumansbt2>
+  <missionmessage0.abandonedoutposthumansbt2>Реактор был уничтожен. Никакие захватчики больше не попытаются занять этот аванпост. Отплывите от аванпоста, чтобы завершить задание.</missionmessage0.abandonedoutposthumansbt2>
+  <missionname.abandonedoutpostmudraptorbt>Вернуть аванпост</missionname.abandonedoutpostmudraptorbt>
+  <missiondescription.abandonedoutpostmudraptorbt>Недавно пропала связь с аванпостом [location1], и мы подозреваем, что там свили гнездо враждебные твари. Найдите все яйца и уничтожьте, чтобы зачистить аванпост.</missiondescription.abandonedoutpostmudraptorbt>
+  <missionsonarlabel.abandonedoutpostmudraptorbt>Гнездо</missionsonarlabel.abandonedoutpostmudraptorbt>
+  <missionsuccess.abandonedoutpostmudraptorbt>Гнездо в аванпосте успешно уничтожено.</missionsuccess.abandonedoutpostmudraptorbt>
+  <missionfailure.abandonedoutpostmudraptorbt>Зачистить аванпост не удалось.</missionfailure.abandonedoutpostmudraptorbt>
+  <missionheader0.abandonedoutpostmudraptorbt>Гнездо уничтожено</missionheader0.abandonedoutpostmudraptorbt>
+  <missionmessage0.abandonedoutpostmudraptorbt>Гнездо в аванпосте успешно уничтожено. Отплывите от аванпоста, чтобы завершить задание.</missionmessage0.abandonedoutpostmudraptorbt>
+  <missionname.abandonedoutpostcrawlerbt>Вернуть аванпост</missionname.abandonedoutpostcrawlerbt>
+  <missiondescription.abandonedoutpostcrawlerbt>Недавно пропала связь с аванпостом [location1], и мы подозреваем, что там свили гнездо враждебные твари. Найдите все яйца и уничтожьте, чтобы зачистить аванпост.</missiondescription.abandonedoutpostcrawlerbt>
+  <missionsonarlabel.abandonedoutpostcrawlerbt>Гнездо</missionsonarlabel.abandonedoutpostcrawlerbt>
+  <missionsuccess.abandonedoutpostcrawlerbt>Гнездо в аванпосте успешно уничтожено.</missionsuccess.abandonedoutpostcrawlerbt>
+  <missionfailure.abandonedoutpostcrawlerbt>Зачистить аванпост не удалось.</missionfailure.abandonedoutpostcrawlerbt>
+  <missionheader0.abandonedoutpostcrawlerbt>Гнездо уничтожено</missionheader0.abandonedoutpostcrawlerbt>
+  <missionmessage0.abandonedoutpostcrawlerbt>Гнездо в аванпосте успешно уничтожено. Отплывите от аванпоста, чтобы завершить задание.</missionmessage0.abandonedoutpostcrawlerbt>
+  <missionname.abandonedoutpostcrawlerhusk>Вернуть аванпост</missionname.abandonedoutpostcrawlerhusk>
+  <missiondescription.abandonedoutpostcrawlerhusk>Недавно пропала связь с аванпостом [location1], и мы подозреваем, что там завелись враждебные твари. Найдите всех тварей и уничтожьте, чтобы зачистить аванпост.</missiondescription.abandonedoutpostcrawlerhusk>
+  <missionsonarlabel.abandonedoutpostcrawlerhusk>Цель</missionsonarlabel.abandonedoutpostcrawlerhusk>
+  <missionsuccess.abandonedoutpostcrawlerhusk>Монстры на аванпосте успешно уничтожены.</missionsuccess.abandonedoutpostcrawlerhusk>
+  <missionfailure.abandonedoutpostcrawlerhusk>Зачистить аванпост не удалось.</missionfailure.abandonedoutpostcrawlerhusk>
+  <missionheader0.abandonedoutpostcrawlerhusk>Монстры уничтожены</missionheader0.abandonedoutpostcrawlerhusk>
+  <missionmessage0.abandonedoutpostcrawlerhusk>Монстры на аванпосте успешно уничтожены. Отплывите от аванпоста, чтобы завершить задание.</missionmessage0.abandonedoutpostcrawlerhusk>  --&gt;
+  <missionname.abandonedoutposthusks>Зачистка аванпоста</missionname.abandonedoutposthusks><missiondescription.abandonedoutposthusks>Недавно была потеряна связь с [location1], и есть подозрения, что там произошло инфицирование эпидемией хаска. Уничтожьте реактор, чтобы очистить аванпост от заразы.</missiondescription.abandonedoutposthusks><missionsuccess.abandonedoutposthusks>Инфекция внутри аванпоста успешно ликвидирована.</missionsuccess.abandonedoutposthusks><missionfailure.abandonedoutposthusks>Аванпост остаётся заражённым.</missionfailure.abandonedoutposthusks><missionheader0.abandonedoutposthusks>Аванпост зачищен</missionheader0.abandonedoutposthusks><missionmessage0.abandonedoutposthusks>Инфекция внутри аванпоста успешно ликвидирована. Отстыкуйтесь от форпоста, чтобы завершить миссию.</missionmessage0.abandonedoutposthusks><missionname.abandonedoutpostcultist>Рейд на пристанище культистов</missionname.abandonedoutpostcultist><missiondescription.abandonedoutpostcultist>Недавно была потеряна связь с [location1], и есть подозрения, что группа культистов церкви Хаска захватила там власть. Уничтожьте реактор, чтобы очистить аванпост от всех приспешников.</missiondescription.abandonedoutpostcultist><missionsuccess.abandonedoutpostcultist>Группа фанатиков внутри аванпоста успешно ликвидирована.</missionsuccess.abandonedoutpostcultist><missionfailure.abandonedoutpostcultist>Аванпост остаётся захваченным.</missionfailure.abandonedoutpostcultist><missionheader0.abandonedoutpostcultist>Аванпост зачищен</missionheader0.abandonedoutpostcultist><missionmessage0.abandonedoutpostcultist>Группа фанатиков внутри аванпоста успешно ликвидирована. Отстыкуйтесь от форпоста, чтобы завершить миссию.</missionmessage0.abandonedoutpostcultist><missionname.abandonedoutpostclown>Рейд на пристанище клоунов</missionname.abandonedoutpostclown><missiondescription.abandonedoutpostclown>Недавно была потеряна связь с [location1], и есть подозрения, что там засела банда сумасшедших клоунов. Убейте всех психопатов на заставе.</missiondescription.abandonedoutpostclown><missionsuccess.abandonedoutpostclown>Клоуны внутри заставы были успешно нейтрализованы.</missionsuccess.abandonedoutpostclown><missionfailure.abandonedoutpostclown>На аванпосте по-прежнему царит безумие.</missionfailure.abandonedoutpostclown><missionheader0.abandonedoutpostclown>Аванпост зачищен</missionheader0.abandonedoutpostclown><missionmessage0.abandonedoutpostclown>Клоуны внутри заставы были успешно нейтрализованы. Отстыкуйтесь от форпоста, чтобы завершить миссию.</missionmessage0.abandonedoutpostclown><missionname.salvageclowns1>Возвращение реликвии клоунов</missionname.salvageclowns1><missiondescription.salvageclowns1>Группа местных клоунов объявила вознаграждение за нахождение утерянной реликвии, расположенной между [location1] и [location2]. Они, к сожалению, отказываются сообщить, что это конкретно за предмет, а вознаграждение в размере [reward] кредитов невелико, однако указания к месту крушения, где наверняка есть и другие ценности, вполне ясны.</missiondescription.salvageclowns1><missionsonarlabel.salvageclowns1>Крушение</missionsonarlabel.salvageclowns1><missionsuccess.salvageclowns1>Странная реликвия была найдена</missionsuccess.salvageclowns1><missionfailure.salvageclowns1>Не удалось найти реликвию.</missionfailure.salvageclowns1><missionheader0.salvageclowns1>Реликвия успешно найдена</missionheader0.salvageclowns1><missionmessage0.salvageclowns1>Странное чувство подсказывает вам, что это было особо ценное сокровище. Покиньте территорию, чтобы избавиться от него и получить свою награду.</missionmessage0.salvageclowns1><missionname.salvagehuskcult1>Возвращение реликвии церкви Хаска</missionname.salvagehuskcult1><missiondescription.salvagehuskcult1>Церковь Хаска объявила вознаграждение за религиозный символ, находившийся на судне, затонувшем между [location1] и [location2]. За возвращение этой дешёвой алюминиевой фигурки они готовы предложить скромные [reward] кредитов.</missiondescription.salvagehuskcult1><missionsonarlabel.salvagehuskcult1>Крушение</missionsonarlabel.salvagehuskcult1><missionsuccess.salvagehuskcult1>Фигурка была найдена</missionsuccess.salvagehuskcult1><missionfailure.salvagehuskcult1>Не удалось получить странную фигурку.</missionfailure.salvagehuskcult1><missionheader0.salvagehuskcult1>Фигурка найдена</missionheader0.salvagehuskcult1><missionmessage0.salvagehuskcult1>Странная фигурка была найдена. Покиньте территорию, чтобы вернуть её и получить награду.</missionmessage0.salvagehuskcult1><missionname.clearfractalruin>Расследование сигнала бедствия</missionname.clearfractalruin><missiondescription.clearfractalruin>Команда дайверов, числящаяся как погибшая во время давней миссии к руинам, расположенным недалеко от [location1], внезапно начала подавать сигналы, что вызвало неоднозначную реакцию. За изучение сигнала полагается награда в размере [reward] кредитов.</missiondescription.clearfractalruin><missionsonarlabel.clearfractalruin>Сигнал бедствия</missionsonarlabel.clearfractalruin><missionsuccess.clearfractalruin>При расследовании сигнала вы выяснили, что команда дайверов была поражена какой-то неизвестной инопланетной порчей.</missionsuccess.clearfractalruin><missionfailure.clearfractalruin>Миссия провалена.</missionfailure.clearfractalruin><missionheader0.clearfractalruin>Сигнал изучен</missionheader0.clearfractalruin><missionmessage0.clearfractalruin>Дайверов постигла ужасная участь. Сообщите об инциденте в [location2].</missionmessage0.clearfractalruin><missionname.clearmermaidruin>Пение в руинах</missionname.clearmermaidruin><missiondescription.clearmermaidruin>Сообщения о странных поющих радиопередачах, исходящие из руин недалеко от [location1], уже привели к исчезновению нескольких разведывательных групп. Обьявлена награда в размере [reward] кредитов за прекращение передачи.</missiondescription.clearmermaidruin><missionsonarlabel.clearmermaidruin>Пение</missionsonarlabel.clearmermaidruin><missionsuccess.clearmermaidruin>При исследовании руин оказалось, что пение исходило от загадочного инопланетного разума.</missionsuccess.clearmermaidruin><missionfailure.clearmermaidruin>Миссия провалена.</missionfailure.clearmermaidruin><missionheader0.clearmermaidruin>Сигнал изучен</missionheader0.clearmermaidruin><missionmessage0.clearmermaidruin>Русалка уничтожена. Сообщите о произошедшем в [location2].</missionmessage0.clearmermaidruin><missionsuccess.clearmermaidruin>Русалка была уничтожена.</missionsuccess.clearmermaidruin><AfflictionDescription.BTradio.100>Плохая дальность радиосвязи (менее 150 м).</AfflictionDescription.BTradio.100><AfflictionDescription.BTradio.200>Штатный радиодиапазон (+150 м).</AfflictionDescription.BTradio.200><AfflictionDescription.BTradio.300>Диапазон FM-радио (+200 м).</AfflictionDescription.BTradio.300><AfflictionDescription.BTradio.400>Военный радиодиапазон (+300 м).</AfflictionDescription.BTradio.400><AfflictionDescription.BTradio.500>Дальность радиовещания (максимум 500 м).</AfflictionDescription.BTradio.500><Afflictionname.radio>Радиосвязь</Afflictionname.radio><!--    Перевод от Router   --></infotext>

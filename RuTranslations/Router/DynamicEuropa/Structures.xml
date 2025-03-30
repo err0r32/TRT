@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Structures -->
+  <entityname.labelslogocoalition>Логотип Коалиции</entityname.labelslogocoalition>
+  <entityname.labelslogocoalitioncolor>Цветной логотип Коалиции</entityname.labelslogocoalitioncolor>
+  <entityname.labelslogocoalitiondamaged>Повреждённый логотип Коалиции</entityname.labelslogocoalitiondamaged>
+  <entityname.labelslogocoalitionbroken>Сломанный логотип Коалиции</entityname.labelslogocoalitionbroken>
+  <entityname.labelslogoseparatists>Логотип юпитерианских сепаратистов</entityname.labelslogoseparatists>
+  <entityname.labelslogoseparatistscolor>Цветной логотип юпитерианских сепаратистов</entityname.labelslogoseparatistscolor>
+  <entityname.labelslogoseparatistsdamaged>Повреждённый логотип юпитерианских сепаратистов</entityname.labelslogoseparatistsdamaged>
+  <entityname.labelslogoseparatistsbroken>Сломанный логотип юпитерианских сепаратистов</entityname.labelslogoseparatistsbroken>
+  <!--    Перевод от Enigma   -->
+</infotext>

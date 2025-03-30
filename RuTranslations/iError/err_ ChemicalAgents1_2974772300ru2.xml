@@ -2,96 +2,70 @@
 <Conversations identifier="chemagentsconversations" Language="Russian" nowhitespace="False" translatedname="Русский">
   <!--Affliction related messages.-->
   <Conversation line="Я чувствую себя немного не в своей тарелке сегодня..." speaker="0" flags="feniternerveagent">
-    <Conversation line="Что, черт возьми, с тобой не так?" speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="Нам пока нельзя отдыхать." speaker="1" speakertags="professional">
-    </Conversation>
-    <Conversation line="Ты выглядишь не слишком хорошо." speaker="1">
-    </Conversation>
+    <Conversation line="Что, черт возьми, с тобой не так?" speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Нам пока нельзя отдыхать." speaker="1" speakertags="professional"></Conversation>
+    <Conversation line="Ты выглядишь не слишком хорошо." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="Делать что-то было так утомительно?" speaker="0" flags="feniternerveagent">
-    <Conversation line="Ты стареешь, ха-ха-ха..." speaker="1" speakertags="joker">
-    </Conversation>
-    <Conversation line="Так было всегда." speaker="1">
-    </Conversation>
+    <Conversation line="Ты стареешь, ха-ха-ха..." speaker="1" speakertags="joker"></Conversation>
+    <Conversation line="Так было всегда." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="..." speaker="0" flags="feniternerveagent">
-    <Conversation line="Что с тобой, черт возьми?  Увеличьте темп!" speaker="1" speakertags="rude">
-    </Conversation>
-    <Conversation line="Ты вдруг ведешь себя немного медленно..." speaker="1">
-    </Conversation>
+    <Conversation line="Что с тобой, черт возьми?  Увеличьте темп!" speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Ты вдруг ведешь себя немного медленно..." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="Свет внезапно стал немного тусклым?" speaker="0" flags="feniternerveagent">
     <Conversation line="Чего ждать?  я проверю это" speaker="1" allowedjobs="electrical">
-      <Conversation line="С тобой что-то не так?  С фарами все в порядке." speaker="1" allowedjobs="electrical">
-      </Conversation>
+      <Conversation line="С тобой что-то не так?  С фарами все в порядке." speaker="1" allowedjobs="electrical"></Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Что-то не в порядке..." speaker="0" speakertags="professional,tough" flags="feniternerveagent">
     <Conversation line="Почему?" speaker="1">
       <Conversation line="Я не могу точно сказать, но что-то меня беспокоит." speaker="0" speakertags="professional,tough">
-        <Conversation line="Хорошо..." speaker="1">
-        </Conversation>
+        <Conversation line="Хорошо..." speaker="1"></Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Я чувствую себя слабым и медленным..." speaker="0" flags="feniternerveagent">
-    <Conversation line="Вероятно, это усталость, найдите кого-нибудь, кто поможет вам." speaker="1">
-    </Conversation>
+    <Conversation line="Вероятно, это усталость, найдите кого-нибудь, кто поможет вам." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="Могу ли я немного отдохнуть?" speaker="0" flags="feniternerveagent">
-    <Conversation line="Присядь куда-нибудь, но расслабляться нельзя." speaker="1" allowedjobs="captain">
-    </Conversation>
-    <Conversation line="Зайди в медотсек и приляг на некоторое время, если тебя это так сильно беспокоит." speaker="1" allowedjobs="medicaldoctor">
-    </Conversation>
+    <Conversation line="Присядь куда-нибудь, но расслабляться нельзя." speaker="1" allowedjobs="captain"></Conversation>
+    <Conversation line="Зайди в медотсек и приляг на некоторое время, если тебя это так сильно беспокоит." speaker="1" allowedjobs="medicaldoctor"></Conversation>
   </Conversation>
   <Conversation line="Мне нужен отдых." speaker="0" flags="feniternerveagent">
     <Conversation line="Присядь куда-нибудь, но расслабляться нельзя." speaker="1" allowedjobs="captain">
       <Conversation line="Почему нет?" speaker="0">
         <Conversation line="Потому что у тебя есть работа." speaker="1" allowedjobs="captain">
-          <Conversation line="Отлично." speaker="0">
-          </Conversation>
-          <Conversation line="Серьезно?" speaker="0">
-          </Conversation>
-          <Conversation line="Чувак, пошел ты на хуй." speaker="0" speakertags="rude">
-          </Conversation>
+          <Conversation line="Отлично." speaker="0"></Conversation>
+          <Conversation line="Серьезно?" speaker="0"></Conversation>
+          <Conversation line="Чувак, пошел ты на хуй." speaker="0" speakertags="rude"></Conversation>
         </Conversation>
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Кто-нибудь, блядь, помогите мне!" speaker="0" flags="feniternonlethalagent">
-  </Conversation>
-  <Conversation line="Мои глаза!" speaker="0" flags="feniternonlethalagent">
-  </Conversation>
-  <Conversation line="*хрипящий кашель*" speaker="0" flags="feniternonlethalagent">
-  </Conversation>
-  <Conversation line="Очень сильно жжет!" speaker="0" flags="feniternonlethalagent">
-  </Conversation>
-  <Conversation line="*Звуки рвоты*" speaker="0" flags="feniternonlethalagent">
-  </Conversation>
-  <Conversation line="Все стало вдруг таким ярким..." speaker="0" flags="feniterpsychoagent">
-  </Conversation>
+  <Conversation line="Кто-нибудь, блядь, помогите мне!" speaker="0" flags="feniternonlethalagent"></Conversation>
+  <Conversation line="Мои глаза!" speaker="0" flags="feniternonlethalagent"></Conversation>
+  <Conversation line="*хрипящий кашель*" speaker="0" flags="feniternonlethalagent"></Conversation>
+  <Conversation line="Очень сильно жжет!" speaker="0" flags="feniternonlethalagent"></Conversation>
+  <Conversation line="*Звуки рвоты*" speaker="0" flags="feniternonlethalagent"></Conversation>
+  <Conversation line="Все стало вдруг таким ярким..." speaker="0" flags="feniterpsychoagent"></Conversation>
   <Conversation line="Заткнись!" speaker="0" flags="feniterpsychoagent">
     <Conversation line="Какой сукин сын это сказал!" speaker="0" flags="feniterpsychoagent">
-      <Conversation line="..." speaker="0">
-      </Conversation>
+      <Conversation line="..." speaker="0"></Conversation>
     </Conversation>
     <Conversation line="С кем ты разговариваешь?" speaker="1">
-      <Conversation line="..." speaker="0">
-      </Conversation>
+      <Conversation line="..." speaker="0"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Хватит стучать, черт возьми.!" speaker="0" flags="feniterpsychoagent">
-  </Conversation>
-  <Conversation line="Где эта поганая муха!?" speaker="0" flags="feniterpsychoagent">
-  </Conversation>
+  <Conversation line="Хватит стучать, черт возьми.!" speaker="0" flags="feniterpsychoagent"></Conversation>
+  <Conversation line="Где эта поганая муха!?" speaker="0" flags="feniterpsychoagent"></Conversation>
   <Conversation line="..." speaker="0" flags="feniterpsychoagent">
     <Conversation line="Что с тобой случилось?" speaker="1">
       <Conversation line="..." speaker="0">
         <Conversation line="Привет?  Скажите что-то..." speaker="1">
           <Conversation line="..." speaker="0">
-            <Conversation line="Ух..." speaker="1">
-            </Conversation>
+            <Conversation line="Ух..." speaker="1"></Conversation>
           </Conversation>
         </Conversation>
       </Conversation>
@@ -102,8 +76,7 @@
       <Conversation line="..." speaker="0">
         <Conversation line="Перестань смотреть на меня так." speaker="1">
           <Conversation line="..." speaker="0">
-            <Conversation line="Это странно..." speaker="1">
-            </Conversation>
+            <Conversation line="Это странно..." speaker="1"></Conversation>
           </Conversation>
         </Conversation>
       </Conversation>
@@ -116,28 +89,24 @@
         <Conversation line="Черт возьми, что оно делает?" speaker="1">
           <Conversation line="Ужасная хрень, большинство из него бесцветно и не имеет запаха, и все оно представляют из себя газы." speaker="0">
             <Conversation line="Большую часть они уже запускают в производство." speaker="0">
-              <Conversation line="Отлично, как будто моя работа еще не была занозой в заднице." speaker="2" allowedjobs="medicaldoctor">
-              </Conversation>
+              <Conversation line="Отлично, как будто моя работа еще не была занозой в заднице." speaker="2" allowedjobs="medicaldoctor"></Conversation>
             </Conversation>
           </Conversation>
         </Conversation>
       </Conversation>
     </Conversation>
     <Conversation line="Да, какое-то ядовитое оружие, разве некоторые из них уже не производятся?" speaker="1">
-      <Conversation line="Вот оно, какое-то страшное дерьмо." speaker="0">
-      </Conversation>
+      <Conversation line="Вот оно, какое-то страшное дерьмо." speaker="0"></Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Некоторые станции меняют режим работы, на учениях чаще надевают водолазное снаряжение." speaker="0">
     <Conversation line="Ну, было бы не странно подготовить охрану к пробою корпуса и бою в воде." speaker="1">
       <Conversation line="Нет, они имитируют бои в водолазных костюмах внутри станции как есть." speaker="0">
         <Conversation line="Может, у них в гидрокостюмах просто что-то новое, может, баллистическая вставка на обшивке?" speaker="1">
-          <Conversation line="Может." speaker="0">
-          </Conversation>
+          <Conversation line="Может." speaker="0"></Conversation>
         </Conversation>
         <Conversation line="Возможно, они тестируют какое-то новое оружие, которому это нужно." speaker="1">
-          <Conversation line="Интересно, что это будет?" speaker="0">
-          </Conversation>
+          <Conversation line="Интересно, что это будет?" speaker="0"></Conversation>
         </Conversation>
       </Conversation>
     </Conversation>
@@ -149,8 +118,7 @@
           <Conversation line="..." speaker="0">
             <Conversation line="Ладно, кроме этого, черт... интересно, на что это было похоже." speaker="0">
               <Conversation line="Я бы не хотел знать." speaker="1">
-                <Conversation line="Да, если подумать.  Я бы тоже не стал." speaker="0">
-                </Conversation>
+                <Conversation line="Да, если подумать.  Я бы тоже не стал." speaker="0"></Conversation>
               </Conversation>
             </Conversation>
           </Conversation>
@@ -164,15 +132,13 @@
         <Conversation line="ХБРЯ?" speaker="1">
           <Conversation line="Химические, биологические, радиологические, ядерные." speaker="0">
             <Conversation line="Ах, ладно, я сделаю вид, что понимаю это, молодец." speaker="1">
-              <Conversation line="Хотелось бы, чтобы это было не так дорого." speaker="0">
-              </Conversation>
+              <Conversation line="Хотелось бы, чтобы это было не так дорого." speaker="0"></Conversation>
             </Conversation>
           </Conversation>
         </Conversation>
       </Conversation>
     </Conversation>
-    <Conversation line="Новый защитный костюм?  Чувак, я завидую, мне бы хотелось, чтобы нам дали лучшие защитные комбинезоны." speaker="1" allowedjobs="mechanical">
-    </Conversation>
+    <Conversation line="Новый защитный костюм?  Чувак, я завидую, мне бы хотелось, чтобы нам дали лучшие защитные комбинезоны." speaker="1" allowedjobs="mechanical"></Conversation>
   </Conversation>
 </Conversations>
 <!-- Переводчик err0r32 (Илья)#7943 -->

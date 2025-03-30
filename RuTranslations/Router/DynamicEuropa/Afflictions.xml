@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Afflictions -->
+  <afflictionname.temporarycrew>Временный член экипажа</afflictionname.temporarycrew>
+  <afflictiondescription.temporarycrew.other>Покинет вашу команду через 6 часов с момента присоединения.</afflictiondescription.temporarycrew.other>
+  <afflictiondescription.temporarycrew.self>Я здесь, чтобы поддержать эту команду в течение 6 часов с момента моего прибытия. Ни больше, ни меньше.</afflictiondescription.temporarycrew.self>
+  <afflictionname.mysteriousdisease>Таинственная болезнь</afflictionname.mysteriousdisease>
+  <afflictiondescription.mysteriousdisease.self>Ты плохо себя чувствуешь и не знаешь почему.</afflictiondescription.mysteriousdisease.self>
+  <afflictiondescription.mysteriousdisease.others>Пациент болен неизвестной заразной болезнью и нуждается в медицинской помощи.</afflictiondescription.mysteriousdisease.others>
+  <afflictionname.mysteriousdiseaseplayer>Болезнь</afflictionname.mysteriousdiseaseplayer>
+  <afflictiondescription.mysteriousdiseaseplayer.self>Теперь ты тоже болен. Постарайся изолироваться и вытерпеть это.</afflictiondescription.mysteriousdiseaseplayer.self>
+  <afflictiondescription.mysteriousdiseaseplayer.others>Таинственная болезнь распространилась на экипаж...</afflictiondescription.mysteriousdiseaseplayer.others>
+  <afflictionname.nastyscar>Мерзкий шрам</afflictionname.nastyscar>
+  <afflictiondescription.nastyscar.self>Шрам в форме богомола, который получает любой член команды, присоединившийся к печально известной банде пиратов.</afflictiondescription.nastyscar.self>
+  <afflictiondescription.nastyscar.others>Вы замечаете необычный шрам под ключицей. Почти как клеймо...</afflictiondescription.nastyscar.others>
+  <afflictionname.he-damageresistancemoloch>Сопротивление повреждениям</afflictionname.he-damageresistancemoloch>
+  <afflictiondescription.he-damageresistancemoloch>Вы получаете на 50% меньше урона.</afflictiondescription.he-damageresistancemoloch>
+  <afflictionname.he-clownjuice>Цирковый сок</afflictionname.he-clownjuice>
+  <afflictiondescription.he-clownjuice>Вы почувствовали милость Хонк-матери.</afflictiondescription.he-clownjuice>
+  <afflictionname.he-pressureresistance>Устойчивость к давлению</afflictionname.he-pressureresistance>
+  <afflictiondescription.he-pressureresistance>Вы чувствуете себя как рыба в воде.</afflictiondescription.he-pressureresistance>
+  <!--   Перевод от Router и Enigma  -->
+</infotext>

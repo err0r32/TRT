@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items (Turrets) -->
+  <entityname.thgdoublechaingun>Двойная цепная пушка</entityname.thgdoublechaingun>
+  <entitydescription.thgdoublechaingun>Чудовищная двухствольная цепная пушка модели "Дециматор", обладающая вдвое большей огневой мощью, чем цепная пушка, в не очень компактном корпусе. Она способна разнести в клочья целые стаи целей и пробить любую броню, кроме самой прочной, за счет своей грубой мощи, но ее подводит лишь ужасная точность и время на приведение в рабочее состояние.</entitydescription.thgdoublechaingun>
+  <entityname.thgdepthchargemortar>Миномет глубинных бомб</entityname.thgdepthchargemortar>
+  <entitydescription.thgdepthchargemortar>Устаревший предшественник современного рельсотрона, миномет глубинных бомб использует небольшие сгорающие патроны, чтобы перемещать тяжелые глубинные бомбы с различной боевой начинкой на гораздо большие расстояния, чем это можно сделать, просто забрасывая их через глубинную трубу. Отлично подходит для борьбы с массовыми скоплениями целей благодаря огромной площади поражения, а также может использоваться для приманок, но не обладает такой эффективностью против одиночных, подвижных целей, как рельсотрон.</entitydescription.thgdepthchargemortar>
+  <entityname.depthchargemortarloader1>Зарядник миномета глубинных бомб</entityname.depthchargemortarloader1>
+  <entityname.thgchaingun>Разрывная пушка</entityname.thgchaingun>
+  <entitydescription.thgchaingun>Довольно дешевая и компактная турель по сравнению с большинством традиционных вариантов. Так называемая "разрывная пушка" была разработана как внутреннее оборонительное оружие, хотя ее водонепроницаемость позволяет использовать ее как дешевое, простое в обращении наружное оружие, эффективное в основном против мягких небронированных целей и практически бесполезное против тех, кто имеет толстый панцирь или броню, если только не используются специальные боеприпасы.</entitydescription.thgchaingun>
+  <entityname.thgchaingunloader>Зарядник разрывной пушки</entityname.thgchaingunloader>
+  <entityname.thgdoublepulselaser>Импульсный макролазер</entityname.thgdoublepulselaser>
+  <entitydescription.thgdoublepulselaser>Чудовищный двойной импульсный лазер модели "Руинарх". Он способен нанести более чем вдвое больший урон, чем его меньший собрат, но при этом очень энергозатратен и дорог в использовании из-за большого расхода боеприпасов.</entitydescription.thgdoublepulselaser>
+  <!-- Items (Turret ammunition) -->
+  <entityname.thgproxynucleardepthdecoy>Ядерная глубинная приманка c датчиком близости</entityname.thgproxynucleardepthdecoy>
+  <entityname.thgproxynucleardepthdecoy>Глубинная приманка c датчиком близости</entityname.thgproxynucleardepthdecoy>
+  <entityname.thgproxynucleardepthdecoy>Ядерная глубинная бомба c датчиком близости</entityname.thgproxynucleardepthdecoy>
+  <entityname.thgproxynucleardepthdecoy>Глубинная бомба c датчиком близости</entityname.thgproxynucleardepthdecoy>
+  <entityname.thgchaingunammobox>Боеприпасы для разрывной пушки</entityname.thgchaingunammobox>
+  <entitydescription.thgchaingunammobox>Компактный вращающийся барабан с пулями в чугунной гильзе со свинцовым сердечником, которые практически не обладают проникающей способностью, но наносят сокрушительный кровоточащий урон по мягким целям, что делает их оптимальными для использования во внутренних помещениях. Содержит до 200 выстрелов. В отличие от традиционных ящиков для боеприпасов, эти достаточно компактны, чтобы их теоретически можно было запихнуть в рюкзак.</entitydescription.thgchaingunammobox>
+  <entityname.thgchaingunammoboxpenetrator>Боеприпасы для разрывной пушки "Проникатель"</entityname.thgchaingunammoboxpenetrator>
+  <entitydescription.thgchaingunammoboxpenetrator>Выполненные в алюминиевом корпусе с цельным стальным сердечником, эти так называемые "осколочные" болты теряют свою оптимальность для использования внутри помещений в пользу повышенной пробивной способности и эффективности против бронированных целей. Содержит до 150 пуль.</entitydescription.thgchaingunammoboxpenetrator>
+  <entityname.thgpulselaserammobox1>Капсула для перегруженного импульсного лазера</entityname.thgpulselaserammobox1>
+  <entitydescription.thgpulselaserammobox1>Импульсные лазерные заряды высокой емкости, обладающие более длительным сроком жизни по сравнению с обычными зарядами при незначительном увеличении мощности и значительно более мощным оглушающим эффектом.</entitydescription.thgpulselaserammobox1>
+  <entityname.thgexplosivechaingunammobox>Разрывные боеприпасы для цепной пушки</entityname.thgexplosivechaingunammobox>
+  <entitydescription.thgexplosivechaingunammobox>Коробка малокалиберных разрывных микроснарядов в оболочке для цепной пушки. Относительно маломощные, но имеют гораздо больший радиус поражения, чем стандартные боеприпасы, что обеспечивает разрушительную эффективность при групповом использовании. Вместимость вдвое меньше, чем у обычных боеприпасов для цепной пушки.</entitydescription.thgexplosivechaingunammobox>
+  <entityname.thgpulselaserammobox1>Капсула для дестабилизированного импульсного лазера</entityname.thgpulselaserammobox1>
+  <entitydescription.thgpulselaserammobox1>Дестабилизированные, высокомощные радиоактивные импульсные лазерные емкостные заряды, заправленные крайне нестабильной смесью тория и урана. По сравнению с традиционными элементами, емкостные сердечники сгорают гораздо быстрее, но обеспечивают мощные взрывные разряды, которые, хотя и менее концентрированы, чем стандартные импульсные выстрелы, обеспечивают более широкую зону поражения в сочетании с небольшим радиационным эффектом.</entitydescription.thgpulselaserammobox1>
+  <entityname.thgchaingunammobox3>Дробные боеприпасы для разрывной пушки</entityname.thgchaingunammobox3>
+  <entitydescription.thgchaingunammobox3>Компактный вращающийся барабан с ленточными снарядами, заполненными мягкой свинцовой дробью, которая практически безвредна для твердых целей, таких как корпус. Оптимальна для обороны внутренних помещений благодаря широкому разлету и огромному потенциалу повреждений в ближней зоне, хотя против бронированных целей практически бесполезна, особенно на дальних дистанциях.</entitydescription.thgchaingunammobox3>
+</infotexts>

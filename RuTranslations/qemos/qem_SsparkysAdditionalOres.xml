@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="true" translatedname="Русский">
+  <!-- alienoverride -->
+  <entityname.sulphuritecluster>Сульфуритовый кластер</entityname.sulphuritecluster>
+  <entitydescription.sulphuritecluster>Более стабильный кусок сульфурита.</entitydescription.sulphuritecluster>
+  <entityname.oxygenitecluster>Кислородитный кластер</entityname.oxygenitecluster>
+  <entitydescription.oxygenitecluster>Более стабильный кусок кислородита.</entitydescription.oxygenitecluster>
+  <!-- bonusminerals -->
+  <entityname.coffinite>Коффинит</entityname.coffinite>
+  <entitydescription.coffinite>Минерал содержащий уран и кремний.</entitydescription.coffinite>
+  <entityname.chlorizite>Хлоризит</entityname.chlorizite>
+  <entitydescription.chlorizite>Минерал содержащий цинк и хлорин.</entitydescription.chlorizite>
+  <entityname.carnallite>Карналлит</entityname.carnallite>
+  <entitydescription.carnallite>Минерал содержащий калий, магний и хлорин.</entitydescription.carnallite>
+  <entityname.magnesite>Магнезит</entityname.magnesite>
+  <entitydescription.magnesite>Минерал содержащий магний.</entitydescription.magnesite>
+  <entityname.anomalousore>Аномальная руда</entityname.anomalousore>
+  <entitydescription.anomalousore>???</entitydescription.anomalousore>
+  <entityname.albite>Альбит</entityname.albite>
+  <entitydescription.albite>Минерал содержащий алюминий и натрий.</entitydescription.albite>
+  <entityname.spodumene>Спудимен</entityname.spodumene>
+  <entitydescription.spodumene>Минерал содержащий алюминий и литий.</entitydescription.spodumene>
+  <entityname.turqoise>Туркоз</entityname.turqoise>
+  <entitydescription.turqoise>Минерал содержащий медь, алюминий и фосфор.</entitydescription.turqoise>
+  <entityname.perovskite>Перовскит</entityname.perovskite>
+  <entitydescription.perovskite>Минерал содержащий титан и кальций.</entitydescription.perovskite>
+  <entityname.dolomite>Доломит</entityname.dolomite>
+  <entitydescription.dolomite>Минерал содержащий кальций, магний и углерод.</entitydescription.dolomite>
+  <entityname.tobernite>Тобернит</entityname.tobernite>
+  <entitydescription.tobernite>Минерал содержащий медь и уран.</entitydescription.tobernite>
+  <entityname.thorite>Торит</entityname.thorite>
+  <entitydescription.thorite>Минерал содержащий торий и кремний.</entitydescription.thorite>
+  <entityname.cylindrite>Цилиндрит</entityname.cylindrite>
+  <entitydescription.cylindrite>Минерал содержащий олово и свинец.</entitydescription.cylindrite>
+</infotexts>

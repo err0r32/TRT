@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" translatedname="Русский" nowhitespace="false">
+  <entityname.cargobackpack>Грузовой рюкзак</entityname.cargobackpack>
+  <entitydescription.cargobackpack>Рюкзак, вмещающий 6 маленьких и 6 больших предметов. Он также имеет фонарь малой мощности, для которого требуется батарейка.</entitydescription.cargobackpack>
+  <entityname.utilitybackpack>Универсальный рюкзак</entityname.utilitybackpack>
+  <entitydescription.utilitybackpack>Рюкзак, вмещающий 9 мелких предметов и 3 больших предмета. Он также имеет фонарь малой мощности, для которого требуется батарейка.</entitydescription.utilitybackpack>
+</infotexts>

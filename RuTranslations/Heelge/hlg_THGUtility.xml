@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
+  <entityname.thgemergencyelectrowelder>Аварийный сварщик</entityname.thgemergencyelectrowelder>
+  <entitydescription.thgemergencyelectrowelder>Чрезвычайно компактный сварщик простой конструкции, использующий встроенный аккумулятор, а не внешнюю или перезаряжаемую систему, предназначен в первую очередь для пополнения аварийных шкафчиков. После разрядки его можно легко сдать в утиль для получения базовой схемы.</entitydescription.thgemergencyelectrowelder>
+  <entityname.thgelectrowelder>Электросварщик</entityname.thgelectrowelder>
+  <entitydescription.thgelectrowelder>Чрезвычайно компактный электрический сварочный аппарат, работающий от аккумулятора. Этот технологически продвинутый сварочный аппарат чрезвычайно полезен благодаря способности работать от аккумуляторных батарей, но ему не хватает промышленной мощи более крупных, старомодных альтернатив, работающих на топливе.</entitydescription.thgelectrowelder>
+  <entityname.thgelectrocutter>Электрорезак</entityname.thgelectrocutter>
+  <entitydescription.thgelectrocutter>Крошечный электрический резак, работающий от аккумулятора. Технологически продвинутый инструмент, очень полезный благодаря способности использовать перезаряжаемые аккумуляторы, хотя он быстро расходует их энергию и не обладает такой силой, как кислородные резаки.</entitydescription.thgelectrocutter>
+  <entityname.thgcellcharger>Аварийное зарядное устройство с фонарем 'Семя'</entityname.thgcellcharger>
+  <entitydescription.thgcellcharger>Громоздкий, но чрезвычайно полезный ручной фонарь и устройство для зарядки аккумуляторов. Благодаря высокоэффективной лампочке он способен генерировать свет с помощью ручного привода в течение практически неограниченного времени, а зарядное устройство может одновременно обеспечивать зарядку элементов, если они не полностью разряжены и имеют остаточный заряд.</entitydescription.thgcellcharger>
+  <entityname.thgmultitool>Мультитул</entityname.thgmultitool>
+  <entitydescription.thgmultitool>Легкий, компактный складной стальной инструмент, состоящий из отвертки, набора плоскогубцев и множества других подручных приспособлений для всех видов технического обслуживания, хотя и не столь эффективный, как специальные инструменты.</entitydescription.thgmultitool>
+  <entityname.thgtorch>Факел</entityname.thgtorch>
+  <entitydescription.thgtorch>Кусок материала, обернутый легко воспламеняющимся органическим волокном, на котором горит небольшое открытое пламя. Крайне старомодный способ освещения корабля, особенно учитывая многочисленные риски, связанные со свободным ношением открытого огня, и его неводостойкость, но он может не только сжечь, но и поколотить, если использовать его как дубинку.</entitydescription.thgtorch>
+  <entityname.thgflashlightheavy>Тяжелый фонарик</entityname.thgflashlightheavy>
+  <entitydescription.thgflashlightheavy>Сверхмощный фонарик с широким углом рассеивания в прочном корпусе из алюминиево-стального сплава. Пригодится как для освещения больших помещений, так и для выбивания соплей из встречных ползунов.</entitydescription.thgflashlightheavy>
+  <entityname.thgflaregun>Сигнальная ракетница</entityname.thgflaregun>
+  <entitydescription.thgflaregun>Простая однозарядная сигнальная ракетница. Может стрелять специально модифицированными осветительными ракетами, отбрасывающими свет на большие расстояния.</entitydescription.thgflaregun>
+  <entityname.thgphosphorusflareshot>Патрон для сигнальной ракетницы</entityname.thgphosphorusflareshot>
+  <entitydescription.thgphosphorusflareshot>Относительно тусклая, но долговечная ракета на основе фосфора, предназначенная для стрельбы из сигнальной ракетницы.</entitydescription.thgphosphorusflareshot>
+  <entityname.thgmagnesiumflareshot>Магниевый патрон для сигнальной ракетницы</entityname.thgmagnesiumflareshot>
+  <entitydescription.thgmagnesiumflareshot>Очень яркая, но короткоживущая ракета на основе магния, предназначенная для запуска из сигнальной ракетницы.</entitydescription.thgmagnesiumflareshot>
+  <entityname.thgalienflareshot>Инопланетный патрон для сигнальной ракетницы</entityname.thgalienflareshot>
+  <entitydescription.thgalienflareshot>Чрезвычайно яркая и долговечная ракета, изготовленная из инопланетных материалов, грубо модифицированная для стрельбы из сигнальной ракетницы, а не для метания.</entitydescription.thgalienflareshot>
+  <entityname.thgcoiledbatterycell>Катушечный аккумулятор</entityname.thgcoiledbatterycell>
+  <entitydescription.thgcoiledbatterycell>Модернизированный аккумулятор, обмотанный медной проволокой. В НАСТОЯЩЕЕ ВРЕМЯ СОВЕРШЕННО БЕСПОЛЕЗЕН.</entitydescription.thgcoiledbatterycell>
+</infotexts>
