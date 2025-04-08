@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
   <entityname.frogspistol>Пистолет</entityname.frogspistol>
   <entityname.frogspistolmagazine>Пистолетный Магазин</entityname.frogspistolmagazine>
   <entityname.frogspistolmagazinedepletedfuel>Магазин Пистолета с Обедненным Топливом</entityname.frogspistolmagazinedepletedfuel>
   <entitydescription.frogspistolmagazinedepletedfuel>Магазин для пистолета на 13 патронов, содержащий патроны с обедненным топливом. Наряду с повышенной пробивной способностью, патроны были специально изготовлены для того, чтобы вызывать у цели лучевую болезнь.</entitydescription.frogspistolmagazinedepletedfuel>
 </infotext>
+<!-- Перевод by Dazay -->

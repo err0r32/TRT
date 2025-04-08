@@ -63,7 +63,7 @@
   <talentdescription.ammorecovery>Есть [chance]% шанс восстановить [item] при стрельбе из инопланетных ружей.</talentdescription.ammorecovery>
   <talentdescription.specializedammo>Дает [skillbonus] [skill]. Разблокирует рецепт: [recipe]</talentdescription.specializedammo>
   <talentdescription.specializedammo2>[talent]: При завершении по крайней мере 1 миссии вы получаете до [item] патронов.</talentdescription.specializedammo2>
-  <talentdescription.supremerifle>Ваше знание таинственной и древней инопланетной технологии развилось настолько, что позволило собирать следующий уровень инопланетных ружей.  Разблокирует рецепт: [recipe].</talentdescription.supremerifle>
+  <talentdescription.supremerifle>Ваше знание таинственной и древней инопланетной технологии развилось настолько, что позволило собирать следующий уровень инопланетных ружей. Разблокирует рецепт: [recipe].</talentdescription.supremerifle>
   <talentdescription.radiosupport>Пока вы внутри подлодки экипажу снаружи наноситься на [damage]% меньше повреждений.</talentdescription.radiosupport>
   <talentdescription.onthefrontlines>Пока вы вне подлодки экипаж внутри наносит на [damage]% больше повреждений.</talentdescription.onthefrontlines>
   <talentdescription.supportlines>[talent]: Вы получаете преимущества обоих вариантов.</talentdescription.supportlines>
@@ -123,3 +123,4 @@
   <eventtext.hireadmiral.decline>Я буду здесь, если передумаете.</eventtext.hireadmiral.decline>
   <eventtext.hireadmiral.hire>Рад присоединиться к вам!</eventtext.hireadmiral.hire>
 </infotexts>
+<!-- Перевод by Techcat -->

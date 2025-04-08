@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
-  <!--Talents-->
+  <!-- Talents -->
   <talentname.genespliceromega>Сращивание генов "Омега"</talentname.genespliceromega>
   <talentdescription.genespliceromega>Когда-то считалось невозможным полностью интегрироваться с европейскими формами жизни, но вы быстро обнаружили, насколько это ошибочно, и благодаря своим исследовательским навыкам изобрели самое мощное в мире устройство для изменения генов. Открывает рецепт спайщика генов "Омега"</talentdescription.genespliceromega>
   <!-- Characters -->
   <character.mudraptorveteran>Грязераптор-ветеран</character.mudraptorveteran>
-  <!--Afflictions-->
+  <!-- Afflictions -->
   <afflictionname.eyeball>Гены смотрителя</afflictionname.eyeball>
   <afflictionname.fractallyenhanced>Гены фрактального стража</afflictionname.fractallyenhanced>
   <afflictionname.psilobiotic>Гены псиложабы</afflictionname.psilobiotic>
   <afflictionname.goldenhammerheadeffect>Гены золотого молотоглава</afflictionname.goldenhammerheadeffect>
   <afflictionname.watchersgazefrendly>"Взгляд смотрителя"</afflictionname.watchersgazefrendly>
   <afflictionname.crawlerbroodmothereffect>Гены матки роя ползунов</afflictionname.crawlerbroodmothereffect>
-  <!--Items-->
+  <!-- Items -->
   <entitydescription.geneticmaterialwatcher>Субъект получает способность выделять феромоны, повышающие эффективность, в результате чего находящиеся поблизости члены экипажа становятся более сосредоточенными и разъяренными.</entitydescription.geneticmaterialwatcher>
   <entitydescription.geneticmaterialfractalguardian>Ваш мозг наполнится информацией обо всем электрическом и механическом, что повысит скорость ремонта до непревзойденного уровня.</entitydescription.geneticmaterialfractalguardian>
   <entitydescription.geneticmaterialpsilotoad>Модифицированные гены псиложабы, которые продуцируют антибиотическое соединение, позволяющее обратить вспять заражение паразитами, вы все равно можете быть полностью инфицированы при достаточно высоком уровне заражения.</entitydescription.geneticmaterialpsilotoad>
@@ -68,4 +68,4 @@
   <entityname.genesplicerzeta>Спайщик генов "Омега"</entityname.genesplicerzeta>
   <entitydescription.genesplicerzeta>Улучшенная версия, позволяющая активировать сразу двадцать шесть типов генетического материала.</entitydescription.genesplicerzeta>
 </infotexts>
-<!-- Переводчик sfgtoha-->
+<!-- Перевод by sfgtoha -->

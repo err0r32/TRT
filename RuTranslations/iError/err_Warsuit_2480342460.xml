@@ -2,10 +2,10 @@
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
   <displayname.uesmcalternatewarsuit>[itemname] (Weld helmet)</displayname.uesmcalternatewarsuit>
   <!--
-	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
-	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
-	
-	-->
+  <entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
+  <entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
+  
+  -->
   <!-- Warsuit seperated -->
   <entityname.warsuitr>Костюм Боескафандра Б.Е.З.Д.Н.А.</entityname.warsuitr>
   <entitydescription.warsuitr>В последнем "Боескафандре" смешаны технологии всех имеющихся на рынке гидрокостюмов. Эргономика оригинала, пластины боевого варианта и демпферы давления от скафандра бездны.</entitydescription.warsuitr>
@@ -55,4 +55,4 @@
   <entityname.largedivehelmlockerhr>Большой ящик для водолазных шлемов(горизонтальный)</entityname.largedivehelmlockerhr>
   <entitydescription.largedivehelmlockerhr></entitydescription.largedivehelmlockerhr>
 </infotexts>
-<!-- Переводчик err0r32 (Илья)#7943 -->
+<!-- Перевод by err0r32 -->

@@ -69,8 +69,8 @@
   <npctitle.piratetank>Пират-джаггернаут</npctitle.piratetank>
   <npctitle.piratevolitile>Бешеный пират</npctitle.piratevolitile>
   <!-- Server Messages -->
-  <mlc.server.wrongversionclient>Ваш клиент использует неверную версию!\nКлиент: v[clientversion]  Сервер: v[serverversion]</mlc.server.wrongversionclient>
-  <mlc.server.wrongversion>Клиент [client] использует неверную версию!\nКлиент: v[clientversion]  Сервер: v[serverversion]</mlc.server.wrongversion>
+  <mlc.server.wrongversionclient>Ваш клиент использует неверную версию!\nКлиент: v[clientversion] Сервер: v[serverversion]</mlc.server.wrongversionclient>
+  <mlc.server.wrongversion>Клиент [client] использует неверную версию!\nКлиент: v[clientversion] Сервер: v[serverversion]</mlc.server.wrongversion>
   <mlc.server.installed>Клиент [client] установил More Level Content успешно!</mlc.server.installed>
   <!-- Patch Notes -->
   <mlc.patchnote>More Level Content Patch Notes v[version]</mlc.patchnote>
@@ -155,4 +155,4 @@
   <label.insanerant6>ЗОВ?</label.insanerant6>
   <charactername.clowncorpse>Труп Клоуна</charactername.clowncorpse>
 </infotext>
-<!-- Discord переводчика: enigmans -->
+<!-- Перевод by Enigma -->

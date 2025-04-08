@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
   <entityname.gtfo_ammopack>Набор патронов</entityname.gtfo_ammopack>
   <entitydescription.gtfo_ammopack>Используется для изготовления магазинов для различного оружия</entitydescription.gtfo_ammopack>
   <entityname.gtfo_bullpupmagazine>Магазин для булл-пап винтовки</entityname.gtfo_bullpupmagazine>
@@ -90,3 +91,4 @@
   <entityname.gtfo_hammer>Кувалда</entityname.gtfo_hammer>
   <entitydescription.gtfo_hammer>Двуручное холодное оружие для ближнего боя</entitydescription.gtfo_hammer>
 </infotexts>
+<!-- Перевод by Heelge -->

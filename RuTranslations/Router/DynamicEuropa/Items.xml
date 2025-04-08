@@ -29,7 +29,7 @@
   <entitydescription.duckysuit>Странный костюм, предложенный вам вашим другом Джокстером. Похоже, что это модифицированный костюм УЗК с некоторыми улучшениями скорости плавания.</entitydescription.duckysuit>
   <entityname.de-jobboard>Доска объявлений</entityname.de-jobboard>
   <entityname.commsrelay>Коммуникационное реле</entityname.commsrelay>
-  <entitydescription.commsrelayDE>&gt;Релейное устройство радиосвязи, позволяющее принимать радиосигналы и осуществлять связь.</entitydescription.commsrelayDE>
+  <entitydescription.commsrelayDE>Релейное устройство радиосвязи, позволяющее принимать радиосигналы и осуществлять связь.</entitydescription.commsrelayDE>
   <entityname.giantrubberduck>Гигантская резиновая утка</entityname.giantrubberduck>
   <entitydescription.giantrubberduck>Гигантская резиновая уточка, которую можно бросать и смотреть, как она плавает в воде.</entitydescription.giantrubberduck>
   <entityname.bigrubberduck>Большая резиновая утка</entityname.bigrubberduck>
@@ -176,5 +176,5 @@
   <entityname.music_contralaluna>Трек: Contra la Luna</entityname.music_contralaluna>
   <entitydescription.music_contralaluna>«Contra la Luna» от П.T.Адамчука из Cyberpunk 2077 Phantom Liberty OST (ссылка на странице мода)</entitydescription.music_contralaluna>
   <entityname.raverplayer>Аудиоплеер</entityname.raverplayer>
-  <!--    Перевод от Router и Enigma   -->
 </infotext>
+<!-- Перевод by Router и Enigma -->

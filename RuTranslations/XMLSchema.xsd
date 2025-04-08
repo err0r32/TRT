@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <!-- Корневой элемент infotext -->
+  <xs:element name="infotext">
+    <xs:complexType>
+      <!-- Атрибуты infotext -->
+      <xs:attribute name="language" type="xs:string" use="required"/>
+      <xs:attribute name="nowhitespace" type="xs:boolean" use="required"/>
+      <xs:attribute name="translatedname" type="xs:string" use="required"/>
+      
+      <!-- Любые дочерние элементы с текстовым содержимым -->
+      <!-- <xs:any processContents="lax" minOccurs="0" maxOccurs="unbounded"/> -->
+      <xs:any namespace="##any" processContents="skip"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

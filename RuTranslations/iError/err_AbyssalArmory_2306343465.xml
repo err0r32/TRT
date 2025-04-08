@@ -2,10 +2,10 @@
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
   <displayname.uesmcalternate>[itemname] (Alternate recipe)</displayname.uesmcalternate>
   <!--
-	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
-	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
-	
-	-->
+  <entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
+  <entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
+  
+  -->
   <!-- Pistol and it's mags-->
   <entityname.ahc>A.H.C. Пистолет</entityname.ahc>
   <entitydescription.ahc>A.H.C. - это новейшая технология в области автоматических пистолетов. Как и винтовочная версия линейки оружия U.E.S.M.C., он вмещает два типа боеприпасов, а сам пистолет может справиться с нарушителем общественного порядка в рамках предусмотренного боекомплекта.</entitydescription.ahc>
@@ -53,4 +53,4 @@
   <entityname.mcabe>Ящик с патронами (взрывчатка)</entityname.mcabe>
   <entitydescription.mcabe>Небольшой ящик, используемый для быстрого пополнения боеприпасов на поле боя. Может использоваться как пояс. Может вмещать только взрывчатые вещества, такие как гранаты и патроны для гранатомета.</entitydescription.mcabe>
 </infotexts>
-<!-- Переводчик err0r32 (Илья)#7943 -->
+<!-- Перевод by err0r32 -->

@@ -380,7 +380,7 @@
   <missionheader0.killnightraptor>Цели уничтожены</missionheader0.killnightraptor>
   <missionmessage0.killnightraptor>Цели уничтожены. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killnightraptor>
   <missionname.kiilcoelanth1>Уничтожение косяка целанфов</missionname.kiilcoelanth1>
-  <missiondescription.kiilcoelanth1>Большая стая  инопланетных рыб начала охотиться между [location1] и [location2]. Награда в [reward] кредитов была обещана тому, кто сможет остановить этих тварей.</missiondescription.kiilcoelanth1>
+  <missiondescription.kiilcoelanth1>Большая стая инопланетных рыб начала охотиться между [location1] и [location2]. Награда в [reward] кредитов была обещана тому, кто сможет остановить этих тварей.</missiondescription.kiilcoelanth1>
   <missionsonarlabel.kiilcoelanth1>Целанф</missionsonarlabel.kiilcoelanth1>
   <missionsuccess.kiilcoelanth1>Целанфы уничтожены.</missionsuccess.kiilcoelanth1>
   <missionfailure.kiilcoelanth1>Миссия провалена.</missionfailure.kiilcoelanth1>
@@ -814,5 +814,5 @@
   <missionsonarlabel.huntinggroundsnoreward15>Цель</missionsonarlabel.huntinggroundsnoreward15>
   <missionheader0.huntinggroundsnoreward15>Цель уничтожена</missionheader0.huntinggroundsnoreward15>
   <missionmessage0.huntinggroundsnoreward15>Чудовище убито. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.huntinggroundsnoreward15>
-  <!--      Перевод от Router     -->
 </infotext>
+<!-- Перевод by Router -->

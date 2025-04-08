@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
   <!-- 9/15/2022 All new names and descriptions will be handled in %ModDir%/Language/Russian.xml 
-		 I will go back and convert all old items when I have time - Nick -->
+    I will go back and convert all old items when I have time - Nick -->
   <!-- << Good luck - Удачи - 祝你好运 >> -->
   <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
   <!-- Equipment - оборудование - 设备 -->
@@ -156,4 +156,4 @@
   <entityname.vheadset>Радио дальнего действия</entityname.vheadset>
   <entitydescription.vheadset>Водонепроницаемый пакет мощных радиопередатчиков с самозаряжающимися батареями, предназначенный для использования экипажами боевых экспедиций коалиции, его массивная конструкция гарнитуры также обеспечивает шумоподавление.</entitydescription.vheadset>
 </infotexts>
-<!-- Переводчик Санитар смотритель#3579 -->
+<!-- Перевод by Санитар смотритель#3579 -->

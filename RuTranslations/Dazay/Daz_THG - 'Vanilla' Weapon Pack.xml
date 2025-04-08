@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
   <entityname.thgflintlock>Кремниевый Пистолет</entityname.thgflintlock>
   <entitydescription.thgflintlock>Невероятно архаичное оружие, по сути, короткий ствол с молотком и спусковым крючком, предназначенным для воспламенения хранящегося летучего пороха, будь то магний, фосфор или порох-вспышка, чтобы произвести заряженный выстрел. Время от времени его использование может быть немного опасным, однако...</entitydescription.thgflintlock>
   <entityname.thgpowderbomb>Ручная Бомба</entityname.thgpowderbomb>
@@ -75,3 +76,4 @@
   <entityname.thgsubcarbine>Карабин-Автомат</entityname.thgsubcarbine>
   <entitydescription.thgsubcarbine>Первоначально разработанный до того, как автоматические пистолеты-пулеметы были вновь легализованы на Европе по мандату Коалиции в связи с подавляющим присутствием враждебной фауны, карабины-автоматы немного более точен и предлагает немного больше энергии на выстрел благодаря немного более длинному стволу и более упрощенной схеме, но он ограничен полуавтоматическим режимом. Однако у него исключительно легкий спусковой крючок.</entitydescription.thgsubcarbine>
 </infotext>
+<!-- Перевод by Dazay -->

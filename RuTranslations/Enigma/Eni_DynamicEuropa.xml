@@ -25,7 +25,7 @@
   <locationchange.construction.changeto.hydroponics>Механики с [previousname] завершили сварочные работы в отсеке гидропоники.</locationchange.construction.changeto.hydroponics>
   <locationchange.construction.changeto.hydroponics>[previousname] теперь обеспечивает посевами окрестности.</locationchange.construction.changeto.hydroponics>
   <locationchange.construction.changeto.factory>Инженеры с [previousname] завершили установку фабрикаторов.</locationchange.construction.changeto.factory>
-  <locationchange.construction.changeto.factory>Механики с  [previousname] начали производство товаров массового спроса.</locationchange.construction.changeto.factory>
+  <locationchange.construction.changeto.factory>Механики с [previousname] начали производство товаров массового спроса.</locationchange.construction.changeto.factory>
   <locationchange.construction.changeto.factory>Промышленность на [previousname] процветает!</locationchange.construction.changeto.factory>
   <locationchange.construction.changeto.camp>Оборонные Силы Коалиции начали развертывание базы в [previousname].</locationchange.construction.changeto.camp>
   <locationchange.construction.changeto.camp>[previousname] теперь контролируется коалицией.</locationchange.construction.changeto.camp>
@@ -33,7 +33,7 @@
   <locationchange.construction.changeto.study>Исследование окрестностей [previousname] показало изобилие экзотической жизни в области.</locationchange.construction.changeto.study>
   <locationchange.construction.changeto.study>Обнаружен удивительный образец цветов, растущий в пещере [previousname] .</locationchange.construction.changeto.study>
   <locationchange.construction.changeto.study>Флора неподалёку от [previousname] вызывает научный интерес.</locationchange.construction.changeto.study>
-  <locationchange.construction.changeto.survey>Исследование окрестностей  [previousname] показало наличие ценной руды. </locationchange.construction.changeto.survey>
+  <locationchange.construction.changeto.survey>Исследование окрестностей [previousname] показало наличие ценной руды. </locationchange.construction.changeto.survey>
   <locationchange.construction.changeto.survey>Вокруг станции [previousname] обнаружены минералы.</locationchange.construction.changeto.survey>
   <locationchange.construction.changeto.survey>Неподалёку от [previousname] обнаружены богатые минералами области для выработки.</locationchange.construction.changeto.survey>
   <locationchange.construction.changeto.fusion>Инженеры и Ученые с [previousname] завершили строительство термоядерной электростанции. </locationchange.construction.changeto.fusion>
@@ -327,7 +327,7 @@
   <missionheader0.trespassing_coalition>Судно коалиции замечено</missionheader0.trespassing_coalition>
   <missionmessage0.trespassing_coalition>Скройтесь от патруля или нейтрализуйте угрозу!</missionmessage0.trespassing_coalition>
   <missionheader1.trespassing_coalition>Патруль коалиции уничтожен</missionheader1.trespassing_coalition>
-  <missionmessage1.trespassing_coalition>Вы можете продолжить Ваш путь к  [location2].</missionmessage1.trespassing_coalition>
+  <missionmessage1.trespassing_coalition>Вы можете продолжить Ваш путь к [location2].</missionmessage1.trespassing_coalition>
   <missionname.pirate_vscoalition>Ограбление судна Коалиции</missionname.pirate_vscoalition>
   <missiondescription.pirate_vscoalition>Выследите корабль коалиции, уничтожьте его экипаж и заберите их товары! Отмеченные места показывают, куда может направляться корабль.</missiondescription.pirate_vscoalition>
   <missionsuccess.pirate_vscoalition>Команда судна коалиции была успешно уничтожена.</missionsuccess.pirate_vscoalition>
@@ -634,7 +634,7 @@
   <missionname.random_killmatriarch2>Случайное событие</missionname.random_killmatriarch2>
   <missiondescription.random_killmatriarch2>У вас странное чувство, будто где-то впереди может быть что-то интересное...</missiondescription.random_killmatriarch2>
   <missionsonarlabel.random_killmatriarch2>Неизвестный сигнал</missionsonarlabel.random_killmatriarch2>
-  <missionsuccess.random_killmatriarch2>Сигнал исследован и матриарх была убита.  Маршрут должен быть снова безопасным.</missionsuccess.random_killmatriarch2>
+  <missionsuccess.random_killmatriarch2>Сигнал исследован и матриарх была убита. Маршрут должен быть снова безопасным.</missionsuccess.random_killmatriarch2>
   <missionheader0.random_killmatriarch2>Цель уничтожена</missionheader0.random_killmatriarch2>
   <missionmessage0.random_killmatriarch2>Оказалось, что сигнал исходил от матриарха.</missionmessage0.random_killmatriarch2>
   <missionname.random_killhammerheadgold>Случайное событие</missionname.random_killhammerheadgold>
@@ -741,7 +741,7 @@
   <locationchange.excavation.changeto.mine>Раскопки на [previousname] закончились, и рабочие приступили к обустройству шахты.</locationchange.excavation.changeto.mine>
   <locationchange.hospital.changeto.surgery>Больница [previousname] была успешно переоборудована в хирургический центр.</locationchange.hospital.changeto.surgery>
   <locationchange.clinic.changeto.hospital>Клиника [previousname] нуждалась в дополнительных мощностях, поэтому её переоборудовали в больницу.</locationchange.clinic.changeto.hospital>
-  <!-- Новый мод-->
+  <!-- Новый мод -->
   <!-- Display names -->
   <displayname.humanfooditem>[itemname] (Человек)</displayname.humanfooditem>
   <displayname.crawlerfooditem>[itemname] (Ползун)</displayname.crawlerfooditem>
@@ -762,28 +762,28 @@
   <entitydescription.he-burgerbun>Используется для приготовления бургеров.</entitydescription.he-burgerbun>
   <entityname.he-hotdogbun>Булочка для Хот-дога</entityname.he-hotdogbun>
   <entitydescription.he-hotdogbun>Воткните в неё сосиску.</entitydescription.he-hotdogbun>
-  <!--crawler-->
+  <!-- Crawler -->
   <entityname.he-crawlerburger>Бургер</entityname.he-crawlerburger>
   <entitydescription.he-crawlerburger>Довольно вкусный бургер.</entitydescription.he-crawlerburger>
   <entityname.he-crawlerhotdog>Хот-дог</entityname.he-crawlerhotdog>
   <entitydescription.he-crawlerhotdog>Довольно вкусный хот-дог.</entitydescription.he-crawlerhotdog>
   <entityname.he-cookedcrawlerfilet>Приготовленное филе</entityname.he-cookedcrawlerfilet>
   <entitydescription.he-cookedcrawlerfilet>Вкус ужасен, но на Европе это не редкость.</entitydescription.he-cookedcrawlerfilet>
-  <!--human-->
+  <!-- Human -->
   <entityname.he-cookedhumanfilet>Приготовленное филе</entityname.he-cookedhumanfilet>
   <entitydescription.he-cookedhumanfilet>Вкус напоминает свинину, но немного горче и пикантней.</entitydescription.he-cookedhumanfilet>
   <entityname.he-humanburger>Бургер</entityname.he-humanburger>
   <entitydescription.he-humanburger>Имеет лёгкую горчинку во вкусе.</entitydescription.he-humanburger>
   <entityname.he-humanhotdog>Хот-дог</entityname.he-humanhotdog>
   <entitydescription.he-humanhotdog>Имеет лёгкую горчинку во вкусе.</entitydescription.he-humanhotdog>
-  <!--mudraptor-->
+  <!-- Mudraptor -->
   <entityname.he-cookedmudraptorroast>Жаркое</entityname.he-cookedmudraptorroast>
   <entitydescription.he-cookedmudraptorroast>Большой кусок жаркого.</entitydescription.he-cookedmudraptorroast>
   <entityname.he-mudraptorburger>Бургер</entityname.he-mudraptorburger>
   <entitydescription.he-mudraptorburger>Вкус похож на курицу.</entitydescription.he-mudraptorburger>
   <entityname.he-mudraptorhotdog>Хот-дог</entityname.he-mudraptorhotdog>
   <entitydescription.he-mudraptorhotdog>Вкус похож на курицу.</entitydescription.he-mudraptorhotdog>
-  <!--hammerhead-->
+  <!-- Hammerhead -->
   <entityname.he-cookedhammerheadroast>Жаркое</entityname.he-cookedhammerheadroast>
   <entitydescription.he-cookedhammerheadroast>Большой кусок жаркого.</entitydescription.he-cookedhammerheadroast>
   <entityname.he-cookedhammerheadspawnpickled>Маринованный Детёныш молотоглава</entityname.he-cookedhammerheadspawnpickled>
@@ -794,14 +794,14 @@
   <entitydescription.he-hammerheadhotdog>Ммм, так вкусно, что хочется разбить голову от удовольствия!</entitydescription.he-hammerheadhotdog>
   <entityname.he-cookedhammerheadspareribs>Рёбрышки молотоглава</entityname.he-cookedhammerheadspareribs>
   <entitydescription.he-cookedhammerheadspareribs>Вкусное блюдо с насыщенным вкусом.</entitydescription.he-cookedhammerheadspareribs>
-  <!--tresher-->
+  <!-- Tresher -->
   <entityname.he-cookedthresherfilet>Приготовленный Филе акульего тигра</entityname.he-cookedthresherfilet>
   <entitydescription.he-cookedthresherfilet>Оно мягкое и немного слизкое.</entitydescription.he-cookedthresherfilet>
   <entityname.he-thresherburger>Бургер</entityname.he-thresherburger>
   <entitydescription.he-thresherburger>От вкуса захватывает дух.</entitydescription.he-thresherburger>
   <entityname.he-thresherhotdog>Хот-дог акулы-молота</entityname.he-thresherhotdog>
   <entitydescription.he-thresherhotdog>От вкуса захватывает дух.</entitydescription.he-thresherhotdog>
-  <!--endworm-->
+  <!-- Endworm -->
   <entityname.he-endwormhotdog>Хот-дог</entityname.he-endwormhotdog>
   <entitydescription.he-endwormhotdog>Вкус безумный!</entitydescription.he-endwormhotdog>
   <entityname.he-endwormburger>Бургер</entityname.he-endwormburger>
@@ -1010,7 +1010,7 @@
   <afflictionname.he-halucinova>Галлюциновка</afflictionname.he-halucinova>
   <afflictiondescription.he-halucinova>Вы чувствуете желание отправиться в другое измерение.</afflictiondescription.he-halucinova>
   <eventtext.pirateoutpostevent.option.ignore.answer.response>Эй, подождите секунду!</eventtext.pirateoutpostevent.option.ignore.answer.response>
-  <!--Версия от 1.0-->
+  <!-- Версия от 1.0 -->
   <missionname.crawlerlair>Логово ползунов</missionname.crawlerlair>
   <missiondescription.crawlerlair>Ползуны гнездятся в [location1]. Помогите нам избавиться от них, найдя и уничтожив их яйца внутри пещеры.</missiondescription.crawlerlair>
   <missionsuccess.crawlerlair>Гнёзда успешно уничтожены.</missionsuccess.crawlerlair>
@@ -1155,4 +1155,4 @@
   <eventtext.reactormalfunction.reactor.failure>Вам не удалось сбросить давление. Попробовать еще раз?</eventtext.reactormalfunction.reactor.failure>
   <eventtext.reactormalfunction.reactor.smack.failure>Какая-то деталь отвалилась. Будем надеяться, что это не что-то важное...</eventtext.reactormalfunction.reactor.smack.failure>
 </infotext>
-<!-- Переводчики Enigma#0599 и Memestofel#5403-->
+<!-- Перевод by Enigma и Memestofel -->

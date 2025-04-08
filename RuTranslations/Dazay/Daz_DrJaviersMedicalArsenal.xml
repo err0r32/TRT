@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotext language="Russian" nowhitespace="false" translatedname="Русский">
-  <!--Item-->
+  <!-- Items -->
   <entityname.javier_syringesmg>Шприцевой пистолет Mk. 3</entityname.javier_syringesmg>
   <entitydescription.javier_syringesmg>Третья версия шприцевого пистолета. Быстрый огонь, а также хорошее распространение.</entitydescription.javier_syringesmg>
   <entityname.javier_syringeshotgun>Шприцевой дробовик</entityname.javier_syringeshotgun>
@@ -21,10 +21,10 @@
   <entitydescription.javier_uniquepistol>Единственный шприц-пистолет, способный стрелять отваром доктора Хавьера.</entitydescription.javier_uniquepistol>
   <entityname.Javier_Concoction>Отвар доктора Хавьера</entityname.Javier_Concoction>
   <entitydescription.Javier_Concoction>Отвар доктора Хавьера, взрывается при контакте с кровью через несколько секунд. Можно стрелять только из шприцевого пистолета доктора Хавьера.</entitydescription.Javier_Concoction>
-  <!--Afflictions-->
+  <!-- Afflictions -->
   <afflictionname.javier_concoctionaffliction>Отвар Хавьера</afflictionname.javier_concoctionaffliction>
   <afflictiondescription.javier_concoctionaffliction>Быстрая смерть</afflictiondescription.javier_concoctionaffliction>
   <afflictioncauseofdeath.javier_concoctionaffliction>Почувствовал гнев Хавьера</afflictioncauseofdeath.javier_concoctionaffliction>
   <afflictioncauseofdeathself.javier_concoctionaffliction>Вы почувствовали гнев Хавьера.</afflictioncauseofdeathself.javier_concoctionaffliction>
 </infotext>
-<!-- Переводчик Дазя(Сергей)#3055 -->
+<!-- Перевод by Dazay -->

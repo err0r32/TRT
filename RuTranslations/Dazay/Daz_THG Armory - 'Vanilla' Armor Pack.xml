@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotext language="Russian" nowhitespace="false" translatedname="Русский">
-  <!--Helmets-->
+  <!-- Helmets -->
   <entityname.thghelmet5>Твёрдый Шлем</entityname.thghelmet5>
   <entitydescription.thghelmet5>Относительно современный, ярко окрашенный легкий алюминиевый шлем с системой крепления к голове, разработанный для значительного снижения воздействия тупых травм на череп. Однако он мало что делает против таких угроз, как пасть хищника, и абсолютно ничего против пули.</entitydescription.thghelmet5>
   <entityname.thghelmet4>Шлем Разрушителя</entityname.thghelmet4>
@@ -31,10 +31,10 @@
   <entitydescription.thghelmet8alt>Страшный шлем, созданный из панциря мудраптора и напоминающий звериные мандибулы. Затемненный измельченным гидроксиапатитом, чтобы напоминать более грозного хищника.</entitydescription.thghelmet8alt>
   <entityname.thghelmet13alt>Шлем из Чёрного Молоха</entityname.thghelmet13alt>
   <entitydescription.thghelmet13alt>Защитный шлем с маской, изготовленный из гладких кусков прочного панциря молоха. Трофей великого охотника. Затемненный измельченным гидроксиапатитом, чтобы напоминать более грозного хищника.</entitydescription.thghelmet13alt>
-  <!--Shields-->
+  <!-- Shields -->
   <entityname.assaultshield>Штурмовой Щит</entityname.assaultshield>
   <entitydescription.assaultshield>Относительно компактный усиленный тактический щит, который гораздо легче держать и маневрировать одной рукой по сравнению с полноценными щитами бунта. Однако он не имеет такого охвата, как его более крупные собратья.</entitydescription.assaultshield>
-  <!--Suits-->
+  <!-- Suits -->
   <entityname.rhinoassaultsuit>Штурмовой Костюм "Носорог"</entityname.rhinoassaultsuit>
   <entitydescription.rhinoassaultsuit>Сверхпрочный, полностью бронированный боевой костюм, предназначенный для войны, а не для глубоководного погружения. Тем не менее, он обеспечивает небольшую устойчивость к давлению при неглубоком погружении, но сильно замедляет вас в воде. Включает большое количество тактических подсумков и мест для снаряжения, и делает вас практически пуленепробиваемым.</entitydescription.rhinoassaultsuit>
   <entityname.lynxexoskeletonsuitsuit>Экзокостюм "Рысь"</entityname.lynxexoskeletonsuitsuit>
@@ -69,7 +69,8 @@
   <entitydescription.thgendwormfullplate>Чрезвычайно прочный костюм из ониксово-черной тяжелой брони, созданной из панциря могучего Червя конца. Обеспечивает почти беспрецедентную защиту, но очень, очень тяжелый.</entitydescription.thgendwormfullplate>
   <entityname.thgmolocharmoralt>Доспехи из Черного Молоха</entityname.thgmolocharmoralt>
   <entitydescription.thgmolocharmoralt>Толстая броня, изготовленная из гладких кусков панциря молоха, обманчиво легкая и маневренная, но при этом очень надежная. Потемневший от времени гидроксиапитит, чтобы походить на более грозного хищника.</entitydescription.thgmolocharmoralt>
-  <!--Bags-->
+  <!-- Bags -->
   <entityname.thgbackpack>Сумка Алисы</entityname.thgbackpack>
   <entitydescription.thgbackpack>Легкая тактическая сумка, предназначенная для хранения множества мелких вещей, со специальной петлей для хранения одного оружия практически любого размера. Немного обременительна, особенно для плавания.</entitydescription.thgbackpack>
 </infotext>
+<!-- Перевод by Dazay -->

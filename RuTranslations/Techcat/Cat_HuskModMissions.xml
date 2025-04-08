@@ -44,7 +44,7 @@
   <missionmessage0.hypeskillcrawlerhuskswarm1>Стая хасков уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillcrawlerhuskswarm1>
   <!-- hypeskillmudraptorhuskswarm1 -->
   <missionname.hypeskillmudraptorhuskswarm1>Уничтожение стаи хасков</missionname.hypeskillmudraptorhuskswarm1>
-  <missiondescription.hypeskillmudraptorhuskswarm1>Стая грязевых рапторов  хасков терроризирует суда, плавающие по маршруту [location1] - [location2]. Команде, способной нейтрализовать их, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillmudraptorhuskswarm1>
+  <missiondescription.hypeskillmudraptorhuskswarm1>Стая грязевых рапторов хасков терроризирует суда, плавающие по маршруту [location1] - [location2]. Команде, способной нейтрализовать их, полагается достойная награда в размере [reward] кред.</missiondescription.hypeskillmudraptorhuskswarm1>
   <missionsonarlabel.hypeskillmudraptorhuskswarm1>Стая грязевых рапторов хасков</missionsonarlabel.hypeskillmudraptorhuskswarm1>
   <missionsuccess.hypeskillmudraptorhuskswarm1>Стая уничтожена.</missionsuccess.hypeskillmudraptorhuskswarm1>
   <missionheader0.hypeskillmudraptorhuskswarm1>Цель уничтожена</missionheader0.hypeskillmudraptorhuskswarm1>
@@ -78,4 +78,4 @@
   <missionheader0.hypeskillhuskendworm>Цель уничтожена</missionheader0.hypeskillhuskendworm>
   <missionmessage0.hypeskillhuskendworm>Червь Рока хасков мёртв. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.hypeskillhuskendworm>
 </infotexts>
-<!-- Переводчик Techcat#2371 -->
+<!-- Перевод by Techcat -->

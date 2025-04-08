@@ -11,7 +11,7 @@
   <entityname.gunnerdivingmask>Маска водолазного наводчика</entityname.gunnerdivingmask>
   <entitydescription.gunnerdivingmask>Добавление маски несколько противоречит принципам шлема, но вы все равно можете стрелять так же хорошо.</entitydescription.gunnerdivingmask>
   <entityname.baseballdivingmask>Бейсбольная маска для прыжков в воду</entityname.baseballdivingmask>
-  <entitydescription.baseballdivingmask>Каждый уважающий себя механик должен носить вместе с кепкой маску!  Вероятно.</entitydescription.baseballdivingmask>
+  <entitydescription.baseballdivingmask>Каждый уважающий себя механик должен носить вместе с кепкой маску! Вероятно.</entitydescription.baseballdivingmask>
   <entityname.divingmedhud>Медвизор с маской</entityname.divingmedhud>
   <entitydescription.divingmedhud>Маска для дайвинга с аккуратно отрезанной частью очков и заменена медицинским сканером. Надеюсь, вы плотно надели эти очки на голову.</entitydescription.divingmedhud>
   <entityname.piratedivingmask>Маска водолазного сепаратиста</entityname.piratedivingmask>
@@ -19,4 +19,4 @@
   <entityname.piratecapdivingmask>Маска подводного капитана пиратов</entityname.piratecapdivingmask>
   <entitydescription.piratecapdivingmask>Хой!</entitydescription.piratecapdivingmask>
 </infotexts>
-<!-- Переводчик err0r32 (Илья)#7943 -->
+<!-- Перевод by err0r32 -->

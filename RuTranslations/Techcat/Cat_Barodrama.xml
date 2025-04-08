@@ -19,7 +19,7 @@
   <entitydescription.barodrama_foolsuit>[Глубина 6000м] Несмотря на то, что этот скафандр рассчитан на давление, он не оснащен кислородным баллоном. Только полный дурак наденет его!</entitydescription.barodrama_foolsuit>
   <entityname.barodrama_coalitionsuit>Костюм Коалиции</entityname.barodrama_coalitionsuit>
   <entitydescription.barodrama_coalitionsuit>Стандартная униформа для экипажа Коалиции. Поставляется с карманами.</entitydescription.barodrama_coalitionsuit>
-  <!--Captain Suits-->
+  <!-- Captain Suits -->
   <entityname.barodrama_renegadesuit>"Ренегат" Водолазный скафандр</entityname.barodrama_renegadesuit>
   <entitydescription.barodrama_renegadesuit>[Глубина 8000м] Скафандр легендарного адмирала Коалиции, похоже, созданный из каркаса древнего водолазного костюма и сильно модифицированный инопланетными технологиями. Он невероятно прочный, но легенда гласит о проклятии для тех, кто его носит.</entitydescription.barodrama_renegadesuit>
   <entityname.barodrama_directorsuit>"Директор" Водолазный скафандр</entityname.barodrama_directorsuit>
@@ -32,14 +32,14 @@
   <entitydescription.barodrama_captainscap>Не так хорошо украшена, но не менее официальна.</entitydescription.barodrama_captainscap>
   <entityname.barodrama_navpda>Удаленная местная навигация</entityname.barodrama_navpda>
   <entityname.barodrama_tagpda>Удаленные глобальные DDCS метки</entityname.barodrama_tagpda>
-  <!--Electrician suits-->
+  <!-- Electrician suits -->
   <entityname.barodrama_eelsuit>"ЭИЛ" Водолазный скафандр</entityname.barodrama_eelsuit>
   <entitydescription.barodrama_eelsuit>[Глубина 6000м] Скафандр "Электричество.Инженерия.Логистика" также называемый Угорь(EEL), созданный величайшими умами инженерного подразделения Коалиции. Обеспечивает ремонтные бригады подсумками, дополнительной противопожарной защитой и диагностическими инструментами для оптимизации выполнения ремонта.</entitydescription.barodrama_eelsuit>
   <entityname.barodrama_moraysuit>"Мурена" Защитный водолазный скафандр</entityname.barodrama_moraysuit>
   <entitydescription.barodrama_moraysuit>[Глубина 6000м] Аварийный костюм, созданный для борьбы с огнем и ремонта. Скафандр Мурена полностью герметичен для полной радиационной защиты и может переносить огнетушители и заправлять их натрием.</entitydescription.barodrama_moraysuit>
   <entityname.barodrama_lampreysuit>"Минога" Боевой водолазный скафандр</entityname.barodrama_lampreysuit>
   <entitydescription.barodrama_lampreysuit>[Глубина 6000м] Считается "братом" водолазного костюма ЭИЛ и предназначен для боевой инженерии. Минога - это силовой костюм, который уменьшает отдачу оружия пользователя и повышает мобильность в включенном состоянии. Для случаев, когда вам нужен гаечный ключ в левой руке и пистолет в правой, есть несколько лучших вариантов.</entitydescription.barodrama_lampreysuit>
-  <!--Mechanic suits-->
+  <!-- Mechanic suits -->
   <entityname.barodrama_whalesuit>"КИТ" Тяжелый водолазный скафандр</entityname.barodrama_whalesuit>
   <entitydescription.barodrama_whalesuit>[Глубина 10000м] Крепко бронированный скафандр для глубоководной добычи со встроенным сонаром, отслеживающий минералы и встроенными гидрореакторами для повышенной мобильности в воде. Питается перезаряжаемыми аккумуляторами. Его способность противостоять сейсмическим зарядам спасла жизни многим, и все они божатся силой КИТА.</entitydescription.barodrama_whalesuit>
   <entityname.barodrama_belugiasuit>"Бегуга" Химический водолазный скафандр</entityname.barodrama_belugiasuit>
@@ -47,7 +47,7 @@
   <entityname.barodrama_orcasuit>"Косатка" Заряженный водолазный скафандр</entityname.barodrama_orcasuit>
   <entitydescription.barodrama_orcasuit>[Глубина 8000м] Тяжелый скафандр для глубоководных погружений с бортовым блоком аккумуляторов. Полезен для обеспечения дополнительной энергией электроинструментов. Устойчив к различным повреждениям, являясь веткой скафандров КИТ.</entitydescription.barodrama_orcasuit>
   <entityname.barodrama_fabpda>Удаленное производство</entityname.barodrama_fabpda>
-  <!--Medic suits-->
+  <!-- Medic suits -->
   <entityname.barodrama_waspsuit>"Оса" Медицинский водолазный скафандр</entityname.barodrama_waspsuit>
   <entitydescription.barodrama_waspsuit>[Глубина 6000м] Этот первоклассный водолазный скафандр медика оснащен двойными автоинжекторами, которые контролируют кровоток пользователя и активно вводят соответствующие антидоты против смертельных микробов/веществ. Его эффективность для лечения раненых водолазных команд в далеки от судна, сделала его особенно популярным при операциях по расчистке гнезд.</entitydescription.barodrama_waspsuit>
   <entityname.barodrama_beetlesuit>"Жук" Водолазный скафандр</entityname.barodrama_beetlesuit>
@@ -58,14 +58,14 @@
   <entitydescription.barodrama_medicuniform>Костюм для команд Боевых Медиков Коалиции, хорошая баллистическая устойчивость позволяет проводить операции по спасению жизней во враждебных условиях.</entitydescription.barodrama_medicuniform>
   <entityname.barodrama_medichelmet>Шлем медика Коалиции</entityname.barodrama_medichelmet>
   <entitydescription.barodrama_medichelmet>Баллистический шлем, разработанный для Боевых Медиков Коалиции. Защитные очки защищают владельца как от шрапнели, так и от внутренних повреждений.</entitydescription.barodrama_medichelmet>
-  <!--Security Suits-->
+  <!-- Security Suits -->
   <entityname.barodrama_cobrasuit>"Кобра" Заряженный водолазный скафандр</entityname.barodrama_cobrasuit>
   <entitydescription.barodrama_cobrasuit>[Глубина 8000м] Силовая броня Юпитириансов, способная к водолазным операциям. Невероятно прочный и увесистый, он значительно увеличивает силу владельца во время работы. Могучие шаги Кобры - это проклятие Коалиционных сил безопасности во время абордажных действий.</entitydescription.barodrama_cobrasuit>
   <entityname.barodrama_windersuit>"Сайдвиндер" Гидрокостюм</entityname.barodrama_windersuit>
   <entitydescription.barodrama_windersuit>[Глубина 6000м] Гидрокостюм разведчика, интегрированный с революционным набором для глубокого погружения, включающим сонар, маяк и тепловизор. Разработан подразделением Специальных Операций Коалиции для операций по проникновению и саботажу в водах Юпитерианцев.</entitydescription.barodrama_windersuit>
   <entityname.barodrama_vipersuit>"Гадюка" Боевой водолазный скафандр</entityname.barodrama_vipersuit>
   <entitydescription.barodrama_vipersuit>[Глубина 6000м] Этот военизированный водолазный скафандр, получивший известность на Станция Осада силами Юпитирианских сеператистов. Оснащен дополнительным магазином для хранения и встроенной в раму кобурой для оружия. Его шлем, первоначально предназначенный для горных работ, теперь служит на передовой революции.</entitydescription.barodrama_vipersuit>
-  <!--Special Items-->
+  <!-- Special Items -->
   <entityname.barodrama_honeyjar>Банка мёда</entityname.barodrama_honeyjar>
   <entitydescription.barodrama_honeyjar>Синтезированные медицинский компонент богатый не только вкусом, но и обладающий дезинфицирующими свойствами. Используется множеством моряков как подсластитель, часто со спорным результатом.</entitydescription.barodrama_honeyjar>
   <entityname.barodrama_medicine>Единственное лекарство</entityname.barodrama_medicine>
@@ -82,7 +82,7 @@
   <entitydescription.barodrama_suitartifact>Контейнер имеет фрактальное происхождение. Необычно богато украшенная конструкция. Внутренняя работа этого устройства по своей сути загадочна. Гравюры на поверхности реагируют на ваше прикосновение, а завораживающие кристаллические узоры, кажется, текут вместе с вашей перспективой - возможно, это своего рода коробка-головоломка? У того, кто особенно искусен, может быть шанс расшифровать его.</entitydescription.barodrama_suitartifact>
   <entityname.barodrama_narwhalsuit>Нарвал</entityname.barodrama_narwhalsuit>
   <entitydescription.barodrama_narwhalsuit>Возмутительно гламурный костюм, изготовленный из таинственного артефакта, каким-то образом приспособленный для использования человеком - несмотря на то, что он имеет фрактальное происхождение. При включении может использовать мощный лазерный излучатель. Но тот кто носит данный каркас в море не будут знать покоя, либо зов сирен вызовет самых жестоких и отвратительных существ океана.</entitydescription.barodrama_narwhalsuit>
-  <!--Drama-->
+  <!-- Drama -->
   <tyrant.tb1>Активный</tyrant.tb1>
   <tyrant.tb2>Неблагоприятный</tyrant.tb2>
   <tyrant.tb3>Усилить</tyrant.tb3>
@@ -116,11 +116,11 @@
   <afflictionname.mantisoverload>Загрузка артефакта</afflictionname.mantisoverload>
   <afflictiondescription.narwhalsong> НАРВАЛ! НАРВАЛ! ПЛАВАЕТ ПО МОРЮ! ВЫЗЫВАЕТ ЗАВИСТЬ, ПОТОМУ ЧТО КЛЁВЫЙ!</afflictiondescription.narwhalsong>
   <afflictionname.narwhalsong>Нарвалы</afflictionname.narwhalsong>
-  <!--Barodramatic-->
+  <!-- Barodramatic -->
   <afflictiontype.stun>Оглушить</afflictiontype.stun>
   <afflictiontype.poison>Яд</afflictiontype.poison>
   <afflictiontype.contamination>Загрязнение</afflictiontype.contamination>
-  <!--Blueprint items (Couldn't consolidate this with tags, huh guys?)-->
+  <!-- Blueprint items (Couldn't consolidate this with tags, huh guys?) -->
   <edd.unlock>Регистрационный чертеж</edd.unlock>
   <entityname.barodrama_edd_beetle>Диск костюма Жук</entityname.barodrama_edd_beetle>
   <entityname.barodrama_edd_belugia>Диск костюма Белуга</entityname.barodrama_edd_belugia>
@@ -139,3 +139,4 @@
   <entityname.barodrama_edd_whale>Диск костюма КИТ</entityname.barodrama_edd_whale>
   <entitydescription.barodrama_edd>Инициируемый одним пользователем технический диск, содержащий чертеж специального водолазного скафандра. Этот чертеж может быть извлечен только одним пользователем, после чего он стирается.</entitydescription.barodrama_edd>
 </infotexts>
+<!-- Перевод by Techcat -->
