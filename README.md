@@ -118,6 +118,8 @@
 - [Царь Некит]  
 - [slava]  
 - [Anthony]  
+- [qemos]  
+- [Router]  
 
 Особая благодарность [Luger] за помощь с Lua и [Evil Factory] за поддержку.
 
@@ -166,13 +168,15 @@
 [Lerentine]: https://steamcommunity.com/profiles/76561198220228133/myworkshopfiles/?appid=602960
 [Zyleand]: https://steamcommunity.com/profiles/76561198843821480/myworkshopfiles/?appid=602960
 
-[Enigma]: https://steamcommunity.com/profiles/76561198798090397/
-[Techcat]: https://steamcommunity.com/profiles/76561198072319932/
-[Dazay]: https://steamcommunity.com/profiles/76561198157442606/
-[iErr0r32]: https://steamcommunity.com/profiles/76561198337231134/
-[Heelge]: https://steamcommunity.com/profiles/76561198079050598/
-[Viktor Livingshield]: https://steamcommunity.com/profiles/76561198329063268/
-[Царь Некит]: https://steamcommunity.com/profiles/76561198965705560/
-[slava]: https://steamcommunity.com/profiles/76561198938160913/
-[Anthony]: https://steamcommunity.com/profiles/76561198035177155/
-[Luger]: https://steamcommunity.com/profiles/76561197988023277/
+[Enigma]: https://steam.pm/76561198798090397/
+[Techcat]: https://steam.pm/76561198072319932/
+[Dazay]: https://steam.pm/76561198157442606/
+[iErr0r32]: https://steam.pm/76561198337231134/
+[Heelge]: https://steam.pm/76561198079050598/
+[Viktor Livingshield]: https://steam.pm/76561198329063268/
+[Царь Некит]: https://steam.pm/76561198965705560/
+[slava]: https://steam.pm/76561198938160913/
+[Anthony]: https://steam.pm/76561198035177155/
+[qemos]: https://steam.pm/76561198865399571/
+[Router]: https://steam.pm/76561198309476574/
+[Luger]: https://steam.pm/76561197988023277/
