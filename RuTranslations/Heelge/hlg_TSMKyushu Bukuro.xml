@@ -240,12 +240,12 @@
   <entitydescription.tsm_magazinebg>Магазин изменений штаба Кюсю, более мощный тип боеприпасов, будьте осторожны, чтобы случайно не ранить его. </entitydescription.tsm_magazinebg>
   <entityname.tsm_58_ammobox> Ящик с патронами штаба Кюсю</entityname.tsm_58_ammobox>
   <entitydescription.tsm_58_ammobox>Зарядите 600 патронов для штаб-квартиры Кюсю в "Море чудес"
-[Вставьте магазин, нажмите правую кнопку мыши + левую кнопку мыши, чтобы нажать на патроны]. </entitydescription.tsm_58_ammobox>
+    [Вставьте магазин, нажмите правую кнопку мыши + левую кнопку мыши, чтобы нажать на патроны]. </entitydescription.tsm_58_ammobox>
   <entityname.tsm_szqyjgs>Невесомый лазерный луч тягача</entityname.tsm_szqyjgs>
   <entitydescription.tsm_szqyjgs>Дорогой изготовленный на заказ корпус с сильно реагирующей гравитационной жидкостью, протекающей внутри, создавая гравитационный домен при каждом использовании. </entitydescription.tsm_szqyjgs>
   <entityname.lm_762_ammobox>Альянсовый ящик для патронов</entityname.lm_762_ammobox>
   <entitydescription.lm_762_ammobox>Продается боеприпасы Альянса с 700 патронами, которые можно засунуть в любой магазин Альянса.
-[вставить в магазин, правый клик + левый клик для запрессовки патронов]. </entitydescription.lm_762_ammobox>
+    [вставить в магазин, правый клик + левый клик для запрессовки патронов]. </entitydescription.lm_762_ammobox>
   <entityname.tsm_mk46magazine>Магазины МК46</entityname.tsm_mk46magazine>
   <entitydescription.tsm_mk46magazine>Магазин со 120 патронами для станкового пулемета отряда "Юнион"</entitydescription.tsm_mk46magazine>
   <entityname.lm_magazine>Обычный магазин Юниона</entityname.lm_magazine>
@@ -354,3 +354,4 @@
   <npctitle.tsm_bb1>Управляемые воины</npctitle.tsm_bb1>
   <character.tsmhuman>Усовершенствованный боевой отряд Моря Марвел</character.tsmhuman>
 </infotexts>
+<!-- Перевод by Heelge -->

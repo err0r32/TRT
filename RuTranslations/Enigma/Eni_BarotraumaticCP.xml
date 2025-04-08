@@ -458,7 +458,7 @@
   <entityname.endwormhelmet>Шлем червя конца</entityname.endwormhelmet>
   <entitydescription.endwormhelmet></entitydescription.endwormhelmet>
   <!-- pirateweapons.xml -->
-  <entityname.banditweldingbomb>Сварочная  баллон-бомба бандитов</entityname.banditweldingbomb>
+  <entityname.banditweldingbomb>Сварочная баллон-бомба бандитов</entityname.banditweldingbomb>
   <entitydescription.banditweldingbomb>Топливо для сварки с привязанным к нему факелом. Не для длительного использования. Используйте, пока она сама не взорвется.</entitydescription.banditweldingbomb>
   <entityname.banditoxygentankbomb>Кислородная баллон-бомба бандитов</entityname.banditoxygentankbomb>
   <entitydescription.banditoxygentankbomb>Кислородный баллон под высоким давлением, готовый заполнить врагов осколками. Классика сепаратистов.</entitydescription.banditoxygentankbomb>
@@ -536,13 +536,18 @@
   <missionsonarlabel.surprisefractal>Инфразвуковой сигнал</missionsonarlabel.surprisefractal>
   <missionsuccess.surprisefractal>Оказалось, что сигнал излучался массивным артефактом. Исследователи [location1] согласились выплатить вам вознаграждение, несмотря на то, что вы избавились от проблемы.</missionsuccess.surprisefractal>
   <missionfailure.surprisefractal>Миссия провалена.</missionfailure.surprisefractal>
-  <!-- По идее, заменяет слудющие айди: beaconbtem6; beaconbtem7; beaconbtem8; beaconbtem10; beaconbttroll; beaconbtnc1; beaconbtnc2; beaconbtnc3; beaconbtss3; beaconbtss4; beaconbtss5; beaconbtss9;  beaconbtunder-->
-  <!-- <missionname.beaconmission>Активация маяка</missionname.beaconmission>
-    <missiondescription.beaconmission>Маяк между [location1] и [location2] вышел из строя - проникните туда, восстановите его работоспособность и включите активный сонар.</missiondescription.beaconmission>
-    <missionsuccess.beaconmission>Маяк снова работает. Убедитесь, что она продолжает передавать сигнал, и направляйте подводную лодку в [location2], чтобы получить вознаграждение.</missionsuccess.beaconmission>
-    <missionfailure.beaconmission>Миссия провалена.</missionfailure.beaconmission>
-    <missionheader0.beaconmission>Маяк вновь активирован</missionheader0.beaconmission>
-    <missionmessage0.beaconmission>Станция маяка вновь работает. Убедитесь, что она продолжает передавать сигнал, и направляйте подводную лодку в [location2], чтобы получить вознаграждение.</missionmessage0.beaconmission> -->
+  <!-- По идее, заменяет следующие ID:
+  beaconbtem6; beaconbtem7; beaconbtem8; beaconbtem10; beaconbttroll;
+  beaconbtnc1; beaconbtnc2; beaconbtnc3; beaconbtss3;
+  beaconbtss4; beaconbtss5; beaconbtss9; beaconbtunder -->
+  <!--
+  <missionname.beaconmission>Активация маяка</missionname.beaconmission>
+  <missiondescription.beaconmission>Маяк между [location1] и [location2] вышел из строя - проникните туда, восстановите его работоспособность и включите активный сонар.</missiondescription.beaconmission>
+  <missionsuccess.beaconmission>Маяк снова работает. Убедитесь, что она продолжает передавать сигнал, и направляйте подводную лодку в [location2], чтобы получить вознаграждение.</missionsuccess.beaconmission>
+  <missionfailure.beaconmission>Миссия провалена.</missionfailure.beaconmission>
+  <missionheader0.beaconmission>Маяк вновь активирован</missionheader0.beaconmission>
+  <missionmessage0.beaconmission>Станция маяка вновь работает. Убедитесь, что она продолжает передавать сигнал, и направляйте подводную лодку в [location2], чтобы получить вознаграждение.</missionmessage0.beaconmission>
+  -->
   <missionname.killthalamuscarrier>Уничтожение заражённой подлодки</missionname.killthalamuscarrier>
   <missiondescription.killthalamuscarrier>Разведчики сообщили о большом Затонувшем Перевозчике, который был захвачен растениями. Он всё ещё движется в районе между [location1] и [location2], власти предлагают награду в размере [reward] любому экипажу, который уничтожит мобильный таламус. Однако имейте в виду, что у него есть крюк на передней стороне и он должен быть исследован осторожно.</missiondescription.killthalamuscarrier>
   <missionsonarlabel.killthalamuscarrier>Таламус</missionsonarlabel.killthalamuscarrier>
@@ -557,14 +562,20 @@
   <missionfailure.killshadowwhales>Миссия провалена.</missionfailure.killshadowwhales>
   <missionheader0.killshadowwhales>Цель уничтожена</missionheader0.killshadowwhales>
   <missionmessage0.killshadowwhales>Цель уничтожена. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.killshadowwhales>
-  <!-- По идее, заменяет слудющие айди:huntinggroundsnoreward3; huntinggroundsnoreward5; huntinggroundsnoreward4; huntinggroundsnoreward6; underhuntinggroundsnoreward1; underhuntinggroundsnoreward2 -->
-  <!-- <missionname.huntinggrounds>Охотничьи угодья</missionname.huntinggrounds>
-    <missiondescription.huntinggrounds>Текст не определен</missiondescription.huntinggrounds>
-    <missionsonarlabel.huntinggrounds>Цель</missionsonarlabel.huntinggrounds>
-    <missionsuccess.huntinggrounds>Текст не определен</missionsuccess.huntinggrounds>
-    <missionfailure.huntinggrounds>Миссия провалена.</missionfailure.huntinggrounds>
-    <missionheader0.huntinggrounds>Цель уничтожена</missionheader0.huntinggrounds>
-    <missionmessage0.huntinggrounds>Чудовище мёртво. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.huntinggrounds> -->
+  <!-- По идее, заменяет следующие ID:
+  huntinggroundsnoreward3; huntinggroundsnoreward5;
+  huntinggroundsnoreward4; huntinggroundsnoreward6;
+  underhuntinggroundsnoreward1;
+  underhuntinggroundsnoreward2 -->
+  <!--
+  <missionname.huntinggrounds>Охотничьи угодья</missionname.huntinggrounds>
+  <missiondescription.huntinggrounds>Текст не определен</missiondescription.huntinggrounds>
+  <missionsonarlabel.huntinggrounds>Цель</missionsonarlabel.huntinggrounds>
+  <missionsuccess.huntinggrounds>Текст не определен</missionsuccess.huntinggrounds>
+  <missionfailure.huntinggrounds>Миссия провалена.</missionfailure.huntinggrounds>
+  <missionheader0.huntinggrounds>Цель уничтожена</missionheader0.huntinggrounds>
+  <missionmessage0.huntinggrounds>Чудовище мёртво. Выведите подлодку из пещеры, чтобы получить награду.</missionmessage0.huntinggrounds>
+  -->
   <missionname.killvoidleviathan>Чудище из Бездны</missionname.killvoidleviathan>
   <missiondescription.killvoidleviathan>Сейсмические данные указывают на то, что что-то колоссальное появилось из глубин Европы в проходе между [location1] и [location2]. Все транспортные перевозки через этот путь отменены на данный момент и обещана награда в размере [reward] тем, кто избавится от причины сейсмической активности.</missiondescription.killvoidleviathan>
   <missionsonarlabel.killvoidleviathan>Сейсмическая активность</missionsonarlabel.killvoidleviathan>
@@ -926,7 +937,7 @@
   <missionfailure.killdeadnought>Миссия провалена.</missionfailure.killdeadnought>
   <missionheader0.killdeadnought>Цель исследована</missionheader0.killdeadnought>
   <missionmessage0.killdeadnought>Пропавшее судно, как оказалось, было захвачено неким паразитическим растением, хоть теперь и недееспособно. Сообщите об инциденте в [location2].
-    </missionmessage0.killdeadnought>
+  </missionmessage0.killdeadnought>
   <missionname.killdeadnought2>Исследование огромной подводной лодки Коалиции</missionname.killdeadnought2>
   <missiondescription.killdeadnought2>Гигантская атакующая подводная лодка Коалиции, перевозившая опасные химические вещества, пропала без вести шесть месяцев назад между [location1] и [location2]. Хотя судно было предположительно поглощено бездной, экстренные маяки судна и экипажа были недавно активированы. Награда [reward] кредитов обещана любому экипажу, который сможет исследовать сигнал.</missiondescription.killdeadnought2>
   <missionsonarlabel.killdeadnought2>Экстренный маяк</missionsonarlabel.killdeadnought2>
@@ -934,7 +945,7 @@
   <missionfailure.killdeadnought2>Миссия провалена.</missionfailure.killdeadnought2>
   <missionheader0.killdeadnought2>Цель исследована</missionheader0.killdeadnought2>
   <missionmessage0.killdeadnought2>Пропавшее судно, как оказалось, было захвачено неким паразитическим растением, хоть теперь и недееспособно. Сообщите об инциденте в [location2].
-    </missionmessage0.killdeadnought2>
+  </missionmessage0.killdeadnought2>
   <!-- Xan1Missions.xml -->
   <missionname.killbomber>Расследование пропавшей взрывчатки</missionname.killbomber>
   <missiondescription.killbomber>Некоторое время назад грузовое судно, перевозившее груз взрывчатки, исчезло. Несмотря на то, что вначале считалось, что судно потеряно безвозвратно, сигнал SOS был недавно активирован. Любой, кто способен расследовать и, если это возможно, вернуть взрывчатку, будет вознаграждён.</missiondescription.killbomber>
@@ -1169,4 +1180,4 @@
   <missionheader0.killvoidstalker2>Сигнал исследован</missionheader0.killvoidstalker2>
   <missionmessage0.killvoidstalker2>Странное существо уничтожено. Сообщите о происшествии в [location2].</missionmessage0.killvoidstalker2>
 </infotext>
-<!-- Discord переводчика: enigmans -->
+<!-- Перевод by Enigma -->

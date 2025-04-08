@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
   <entityname.searchlightdown>Лампа вверх ногами</entityname.searchlightdown>
   <entitydescription.searchlightdown></entitydescription.searchlightdown>
   <entityname.WeldingTable>Сварочный стол</entityname.WeldingTable>
@@ -132,3 +133,4 @@
   <entityname.packaging_crate>Ящик для сортировки тип I</entityname.packaging_crate>
   <entityname.packaging_crate2>Ящик для сортировки тип II</entityname.packaging_crate2>
 </infotexts>
+<!-- Перевод by Enigma -->

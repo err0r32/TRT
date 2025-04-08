@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
   <!--
-	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
-	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
-	
-	-->
+  <entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
+  <entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
+  
+  -->
   <entityname.titansuit>Бронескафандр Т.И.Т.А.Н.</entityname.titansuit>
   <entitydescription.titansuit>Если вы думали, что скафандры Б.Е.З.Д.Н.А. - это нечто, то подождите, пока вы не увидите эту красоту разрушения в действии. Работающий от портальной батареи с 10-минутным временем работы и заряжающийся от реактора подводной лодки, этот костюм гарантирует, что пользователь не умрет, пока в нем есть энергия. Мелкие существа едва могут его поцарапать, а крупные с трудом его прогрызают. Костюм вас замедляет, если его использовать на суше, но благодаря мощности пропеллеров он может поддерживать хорошую скорость в воде. Самым большим недостатком является то, что для зарядки он потребляет энергию от подлодки, и если батарея разрядится посреди океана, то каркас костюма сломается, и давление сразу ворвется внутрь. Может хранить и перезаряжать все три вида вооружения Т.И.Т.А.Н.</entitydescription.titansuit>
   <!-- Arm-Weapons -->
@@ -35,4 +35,4 @@
   <entityname.titancharger>Зарядная станция Т.И.Т.А.Н.</entityname.titancharger>
   <entitydescription.titancharger>Простая, но важная часть системы Т.И.Т.А.Н. При помощи нее можно зарядить Бронескафандр Т.И.Т.А.Н. Чрезвычайно громоздкая и тяжелая.</entitydescription.titancharger>
 </infotexts>
-<!-- Переводчик err0r32 (Илья)#7943 -->
+<!-- Перевод by err0r32 -->

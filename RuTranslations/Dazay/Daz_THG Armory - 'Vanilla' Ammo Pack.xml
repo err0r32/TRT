@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotext language="Russian" nowhitespace="false" translatedname="Русский">
+  <!-- Items -->
   <entityname.thgshotgunflechetteshell>Дробь с Флешеттой</entityname.thgshotgunflechetteshell>
   <entitydescription.thgshotgunflechetteshell>Снаряд наполнен маленькими стальными дротиками с ребрами, а не свинцовой дробью, что улучшает бронепробиваемость и более плотный разброс, но снижает урон. Однако они могут наносить ужасные кровоточащие раны и пробивать бронежилеты как масло.</entitydescription.thgshotgunflechetteshell>
   <entityname.thgshotguntargetshell>Дробь для Стрельбы по Мишеням</entityname.thgshotguntargetshell>
@@ -9,9 +10,23 @@
   <entityname.thgcheaprevolverround>Револьверный патрон "Softpoint"</entityname.thgcheaprevolverround>
   <entitydescription.thgcheaprevolverround>Револьверные патроны 38-го калибра с пулей из свинца без оболочки. Дешевле в массовом производстве и все еще достаточно хороши против плоти, но жалко слабы против толстокожих европеоидов...</entitydescription.thgcheaprevolverround>
   <!-- не работает -->
-thg+P+revolverround
-thghandcannon+P+round
-thg+P+smgmagazine
-thg+P+smground
-
-<entityname.thgsnakeshotrevolverround>Револьверный патрон "Snakeshot"</entityname.thgsnakeshotrevolverround><entitydescription.thgsnakeshotrevolverround>Револьверные патроны 38-го калибра, предназначенные для распыления мелкой свинцовой дроби, изначально предназначенные для уничтожения грызунов и вредителей. Хотя большинство представителей фауны Европы классифицируются как по крайней мере немного более крупные, чем те, на которых рассчитан этот патрон, он все же служит достойным средством отпугивания.</entitydescription.thgsnakeshotrevolverround><entityname.thgrubberrevolverround>Резиновый Револьверный Патрон</entityname.thgrubberrevolverround><entitydescription.thgrubberrevolverround>Револьверные патроны 38-го калибра с пулей из свинца без оболочки. Дешевле в массовом производстве и все еще достаточно хороши против плоти, но жалко слабы против толстокожих европеоидов...</entitydescription.thgrubberrevolverround><entityname.thghandcannonshortround>"Короткий" Патрон от Ручной Пушки</entityname.thghandcannonshortround><entitydescription.thghandcannonshortround>Очень крупный револьверный патрон калибра 61, но в более короткой, чем обычно, гильзе и с более легкой пулей. Немного экономичнее и проще в обращении, но все же вполне способен уложить на задницу что угодно, кроме танка.</entitydescription.thghandcannonshortround><entityname.thgriflebulletsp>Винтовочная Пуля</entityname.thgriflebulletsp><entitydescription.thgriflebulletsp>Винтовочный патрон со стальной оболочкой, снаряженный свинцовым снарядом с мягкой точкой, более дешевый в массовом производстве, чем традиционные патроны из полимера или латуни, но несколько менее эффективный и склонный к неточности.</entitydescription.thgriflebulletsp><entityname.thgriflebulletap>Бронебойная Винтовочная Пуля</entityname.thgriflebulletap><entitydescription.thgriflebulletap>Винтовочный патрон с латунной гильзой и титановой оболочкой со стальным сердечником, способный пробивать любые, кроме самых толстых доспехов и панцирей. Дорогие и мощные, они наносят чуть меньше повреждений, чем традиционные патроны FMJ, благодаря стабильности снаряда и его склонности не расширяться при попадании в мягкие ткани.</entitydescription.thgriflebulletap><entityname.thgextendedsmgmagazine>Увеличенный Магазин 45-го Калибра</entityname.thgextendedsmgmagazine><entitydescription.thgextendedsmgmagazine>Магазин большой емкости 45-го калибра, продающийся в основном только на ограниченных рынках военного назначения.</entitydescription.thgextendedsmgmagazine></infotext>
+  <!--
+  thg+P+revolverround
+  thghandcannon+P+round
+  thg+P+smgmagazine
+  thg+P+smground
+  -->
+  <entityname.thgsnakeshotrevolverround>Револьверный патрон "Snakeshot"</entityname.thgsnakeshotrevolverround>
+  <entitydescription.thgsnakeshotrevolverround>Револьверные патроны 38-го калибра, предназначенные для распыления мелкой свинцовой дроби, изначально предназначенные для уничтожения грызунов и вредителей. Хотя большинство представителей фауны Европы классифицируются как по крайней мере немного более крупные, чем те, на которых рассчитан этот патрон, он все же служит достойным средством отпугивания.</entitydescription.thgsnakeshotrevolverround>
+  <entityname.thgrubberrevolverround>Резиновый Револьверный Патрон</entityname.thgrubberrevolverround>
+  <entitydescription.thgrubberrevolverround>Револьверные патроны 38-го калибра с пулей из свинца без оболочки. Дешевле в массовом производстве и все еще достаточно хороши против плоти, но жалко слабы против толстокожих европеоидов...</entitydescription.thgrubberrevolverround>
+  <entityname.thghandcannonshortround>"Короткий" Патрон от Ручной Пушки</entityname.thghandcannonshortround>
+  <entitydescription.thghandcannonshortround>Очень крупный револьверный патрон калибра 61, но в более короткой, чем обычно, гильзе и с более легкой пулей. Немного экономичнее и проще в обращении, но все же вполне способен уложить на задницу что угодно, кроме танка.</entitydescription.thghandcannonshortround>
+  <entityname.thgriflebulletsp>Винтовочная Пуля</entityname.thgriflebulletsp>
+  <entitydescription.thgriflebulletsp>Винтовочный патрон со стальной оболочкой, снаряженный свинцовым снарядом с мягкой точкой, более дешевый в массовом производстве, чем традиционные патроны из полимера или латуни, но несколько менее эффективный и склонный к неточности.</entitydescription.thgriflebulletsp>
+  <entityname.thgriflebulletap>Бронебойная Винтовочная Пуля</entityname.thgriflebulletap>
+  <entitydescription.thgriflebulletap>Винтовочный патрон с латунной гильзой и титановой оболочкой со стальным сердечником, способный пробивать любые, кроме самых толстых доспехов и панцирей. Дорогие и мощные, они наносят чуть меньше повреждений, чем традиционные патроны FMJ, благодаря стабильности снаряда и его склонности не расширяться при попадании в мягкие ткани.</entitydescription.thgriflebulletap>
+  <entityname.thgextendedsmgmagazine>Увеличенный Магазин 45-го Калибра</entityname.thgextendedsmgmagazine>
+  <entitydescription.thgextendedsmgmagazine>Магазин большой емкости 45-го калибра, продающийся в основном только на ограниченных рынках военного назначения.</entitydescription.thgextendedsmgmagazine>
+</infotext>
+<!-- Перевод by Dazay -->

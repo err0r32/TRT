@@ -35,7 +35,7 @@
   <entityname.sgt_bopmr>Высокоточная винтовка Коалиции</entityname.sgt_bopmr>
   <entitydescription.sgt_bopmr>Винтовка калибра 8,6x70мм с глушителем для тайных операций, выполненная по схеме буллпап, что позволяет разместить более длинный ствол за глушителем, хотя из-за своей неуклюжести она все равно должна быть закреплена на спине.</entitydescription.sgt_bopmr>
   <entityname.sgt_boarmorhaz>Противохимические панели Коалиции</entityname.sgt_boarmorhaz>
-  <entitydescription.sgt_boarmorhaz>Набор пластин, которые крепятся к боевому комплекту. Модель для опасной среды была разработана для людей с повышенной химической чувствительностью, когда таковые используются в полевых условиях, и оснащены отсеками для лекарств и противоядий.  Рассчитан на давление 3000м.</entitydescription.sgt_boarmorhaz>
+  <entitydescription.sgt_boarmorhaz>Набор пластин, которые крепятся к боевому комплекту. Модель для опасной среды была разработана для людей с повышенной химической чувствительностью, когда таковые используются в полевых условиях, и оснащены отсеками для лекарств и противоядий. Рассчитан на давление 3000м.</entitydescription.sgt_boarmorhaz>
   <entityname.sgt_boarmorleg>Маневренные панели Коалиции</entityname.sgt_boarmorleg>
   <entitydescription.sgt_boarmorleg>Набор дополнительных пластин, которые крепятся к боевому комплекту. Облегченный вариант немного неудобен, так как ремни не позволяют носить другие доспехи, однако они пассивно повышают мобильность пользователя и помогают ему держаться на ногах.</entitydescription.sgt_boarmorleg>
   <entityname.sgt_boarmorhvy>Боевые панели Коалиции</entityname.sgt_boarmorhvy>
@@ -173,20 +173,21 @@
   <!--Admin-->
   <entityname.sgt_adminskillbook>Руководство по подготовке оперативников</entityname.sgt_adminskillbook>
   <entitydescription.sgt_adminskillbook>Буклет, содержащий нецензурные подробности о некоторых тайных операциях подо льдом и о том, как они проводились, с точностью до буквы. Читая ее, вы как будто прошли по их следам.
-    
-  Это админский предмет.</entitydescription.sgt_adminskillbook>
+
+    Это админский предмет.</entitydescription.sgt_adminskillbook>
   <entityname.sgt_adminmechbook>Руководство по обслуживанию экзоскелета</entityname.sgt_adminmechbook>
   <entitydescription.sgt_adminmechbook>Скучный пошаговый процесс обслуживания экзоскелета, а также некоторые хитрости, чтобы использовать его лучше. По крайней мере, здесь много картинок.
 
-  Это админский предмет.</entitydescription.sgt_adminmechbook>
+    Это админский предмет.</entitydescription.sgt_adminmechbook>
   <entityname.sgt_admingenbook>Дополненное руководство для моряков</entityname.sgt_admingenbook>
   <entitydescription.sgt_admingenbook>В ней рассказывается обо всем по порядку: о том, как заменить моторное мало, о том, как объезжать сосульки и как эффективно обращаться с огнестрельным оружием.
 
 
-  Это админский предмет.</entitydescription.sgt_admingenbook>
+    Это админский предмет.</entitydescription.sgt_admingenbook>
   <entityname.adminxpbook>Тлеющий дневник</entityname.adminxpbook>
   <entitydescription.adminxpbook>На лицевой стороне есть вполне различимое трехбуквенное название, но это не объясняет, почему оно содержит бессмысленные фразы и коорднаты. Что находится на северной широте 28 градусов, 24 минуты, западной долготе 80 градусов, 36 минут? Стоит ли это каких-то невероятных приключений?
 
 
-  Это админский предмет.</entitydescription.adminxpbook>
+    Это админский предмет.</entitydescription.adminxpbook>
 </infotexts>
+<!-- Перевод by qemos -->

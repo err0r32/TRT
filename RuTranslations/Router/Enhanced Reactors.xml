@@ -48,5 +48,5 @@
   <afflictiondescription.overheating>Пациент сильно потеет! Ему следует покинуть помещение и остыть.</afflictiondescription.overheating>
   <afflictioncauseofdeath.overheating>Смерть от теплового удара</afflictioncauseofdeath.overheating>
   <afflictioncauseofdeathself.overheating>Вы умерли от теплового удара</afflictioncauseofdeathself.overheating>
-  <!--   Перевод от Router  -->
 </infotexts>
+<!-- Перевод by Router -->

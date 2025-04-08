@@ -3,14 +3,16 @@
   <entityname.tqzzsuit>Защитный костюм для специальных операций Miracle Sea</entityname.tqzzsuit>
   <!--entitydescription.tqzzsuit>‖color:39,55,213,255‖韬光逐薮，含章未曜‖color:end‖</entitydescription.tqzzsuit-->
   <entitydescription.tqzzsuit>Специальный боевой костюм Miracle Sea.
-  Больше брони и набивки, чем в обычных костюмах, с маленькими магнитными башмаками, чтобы не дать вам выйти из воды; этот комплект основан на высокосекретной технологии для войск, действующих в опасных ситуациях и самых суровых условиях, и, как и другие костюмы, использует технологию самозапечатывания, чтобы обеспечить герметичность костюма для защиты владельца при проникновении, что делает его специфическим для операций под водой, в вакууме или других подобных условиях. Костюм имеет не только встроенную функцию автоинъекции, но и встроенный сонар и систему светового люка, что дает пользователю большую оперативную мобильность.</entitydescription.tqzzsuit>
+    Больше брони и набивки, чем в обычных костюмах, с маленькими магнитными башмаками, чтобы не дать вам выйти из воды; этот комплект основан на высокосекретной технологии для войск, действующих в опасных ситуациях и самых суровых условиях, и, как и другие костюмы, использует технологию самозапечатывания, чтобы обеспечить герметичность костюма для защиты владельца при проникновении, что делает его специфическим для операций под водой, в вакууме или других подобных условиях. Костюм имеет не только встроенную функцию автоинъекции, но и встроенный сонар и систему светового люка, что дает пользователю большую оперативную мобильность.</entitydescription.tqzzsuit>
   <entityname.xjzzsuit>Усовершенствованный боевой костюм Miracle Sea</entityname.xjzzsuit>
   <!--entitydescription.xjzzsuit>‖color:200,0,0,255‖缪力同心，和衷共济‖color:end‖</entitydescription.xjzzsuit-->
   <entitydescription.xjzzsuit>Специально разработанный и изготовленный защитный костюм для бойцов, состоящий из щитков из гибкого материала и жестких щитков, полностью защитный шлем, который защищает владельца от осколков и летящих пуль в голову. Более защищенный, чем костюм для специальных операций, с броней, уложенной в большинстве мест, небольшими движителями на плечах и ногах для повышения гибкости в воде, шлемом со встроенными углублениями для шприцев, которые могут спасти вам жизнь в крайнем случае, и с более мощными магнитными башмаками для стабилизации вашей формы в более турбулентных течениях.</entitydescription.xjzzsuit>
   <entityname.tsm_rcsuit>Костюм подавления шторма</entityname.tsm_rcsuit>
-  <entitydescription.tsm_rcsuit></entitydescription.tsm_rcsuit>
+  <entitydescription.tsm_rcsuit>
+  </entitydescription.tsm_rcsuit>
   <entityname.riot_control_exo>Экзоскелет Буря</entityname.riot_control_exo>
-  <entitydescription.riot_control_exo></entitydescription.riot_control_exo>
+  <entitydescription.riot_control_exo>
+  </entitydescription.riot_control_exo>
   <entityname.tsm-ballistichelmet>Шлем Miracle Sea Centurion II</entityname.tsm-ballistichelmet>
   <entitydescription.tsm-ballistichelmet>Боевой шлем Miracle Sea Centurion II отличается новой легкой композитной оболочкой с уникальной геометрической формой оболочки для оптимальной посадки на голове, новой системой направляющих и добавлением отрывного козырька, инновационной быстро регулируемой индивидуальной формой головы и подкладкой из чужеродной пены, которая обеспечивает удобную посадку, предотвращая тупой удар. предотвращает тупой удар, обеспечивая удобную посадку на голове пользователя.</entitydescription.tsm-ballistichelmet>
   <entityname.tsm-ballistichelmet2>Шлем горного отряда Miracle Sea Higurashi</entityname.tsm-ballistichelmet2>
@@ -193,11 +195,161 @@
   <entitydescription.tsm-xjzzhelmet>Усовершенствованный боевой шлем Miracle Sea - это усовершенствованный шлем, специально разработанный Институтом для внешних крестоносцев, который может быть оснащен различными чипами для повышения боевых характеристик в зависимости от условий, в которых он используется. </entitydescription.tsm-xjzzhelmet>
   <entityname.tsm-xjzzjz>Усовершенствованная боевая броня Чудесного моря</entityname.tsm-xjzzjz>
   <entitydescription.tsm-xjzzjz>Броня, разработанная Институтом Чудесного Моря для передовой боевой группы, эта тяжелая броня была разработана для борьбы с различными существами и обеспечения большей защиты для сражающихся. </entitydescription.tsm-xjzzjz>
-  <!--entityname.></entityname.
-  <entitydescription.></entitydescription.-->.
-  <entityname.tsm-toolbox>Большой чемодан Miracle Sea</entityname.tsm-toolbox><entitydescription.tsm-toolbox>Большой чемодан "Море чудес" со специальной водонепроницаемой обработкой, поэтому вы можете не беспокоиться о том, что ваши вещи промокнут</entitydescription.tsm-toolbox><entityname.tsm-toolbox1>Кейс для оружия Miracle Sea</entityname.tsm-toolbox1><entitydescription.tsm-toolbox1>Ящик для оружия Miracle Sea с одним местом для пистолета и двумя местами для магазина, обычно используется для тяжелого оружия, можно носить в руке или на спине</entitydescription.tsm-toolbox1><entityname.tsm-bag>Многоцелевой рюкзак Miracle Sea</entityname.tsm-bag><entitydescription.tsm-bag>Многоцелевой рюкзак небольшой вместимости</entitydescription.tsm-bag><entityname.tsm-bag1>Малый рюкзак Miracle Sea</entityname.tsm-bag1><entitydescription.tsm-bag1>Маленький рюкзак, не очень вместительный, но достаточный</entitydescription.tsm-bag1><entityname.tsm-bag2>Рюкзак Miracle Sea TAC</entityname.tsm-bag2><entitydescription.tsm-bag2>Большой рюкзак, большой рюкзак, который был распространен во время Великого крестового похода</entitydescription.tsm-bag2><entityname.daylight>Дневная вспышка Чудесного моря</entityname.daylight><entitydescription.daylight>Освещают окрестности, как будто это дневной свет, не перезаряжаются</entitydescription.daylight><entityname.tsmvest>Кевларовые бронежилеты</entityname.tsmvest><entitydescription.tsmvest>Кевларовый жилет с большим количеством карманов для лучшей защиты</entitydescription.tsmvest><!--entityname.tsm-armor-plate>防弹插板</entityname.tsm-armor-plate>
-  <entitydescription.tsm-armor-plate>四级防护&#xD;&#xA; 碳化硅和聚乙烯IV级防护插板</entitydescription.tsm-armor-plate--><entityname.yh>Лунный цветок</entityname.yh><entitydescription.yh>‖color:255,144,48,255‖荣Оружие ближнего боя Почетной стражи, воспроизведенное из инопланетных материалов в виде кольцевидного клинка‖color:end‖</entitydescription.yh><!--entityname.yhdq>月华刀鞘</entityname.yhdq>
-  <entitydescription.yhdq>月华专用刀鞘</entitydescription.yhdq--><entityname.tsm-nlhzgun>Miracle Sea многоугольная энергопушка</entityname.tsm-nlhzgun><entitydescription.tsm-nlhzgun>Для ускорения снаряда в пушке используется пара параллельных проводящих дорожек. Поток электричества течет от одной дорожки к пуле, а затем к другой; этот взаимодействующий электромагнитный эффект разгоняет пулю до очень высокой скорости. Ему требуется короткий период перезарядки, прежде чем он сможет выстрелить свои энергетические снаряды с невероятной скоростью</entitydescription.tsm-nlhzgun><entityname.tsm-nlhzmagazine>Магазин энергопушки Miracle Sea</entityname.tsm-nlhzmagazine><entitydescription.tsm-nlhzmagazine>Это магазин для пушки энергетического взлома. Магазин заполнен частицами субатомной реакции, взрывная сила частиц увеличивает кинетическую энергию удара, делая оружие эффективным как против пехоты, так и против брони, а боеприпасы перезаряжаемы. </entitydescription.tsm-nlhzmagazine><entityname.tsm-1>TSO MK.1 мод0</entityname.tsm-1><entitydescription.tsm-1>Одна из первых модифицируемых винтовок, выпущенных компанией Miracle Sea, с дополнительными патронами для магазинов общего назначения и бронебойных расширенных магазинов, но оригинальное оружие имеет плохую точность и отдачу и нуждается в модификации с помощью деталей для достижения наилучших результатов</entitydescription.tsm-1><entityname.tsm-2>TSO MK.1 мод1</entityname.tsm-2><entitydescription.tsm-2>Добавление рукоятки и тактического фонаря значительно снижает отдачу и повышает способность вести бой в условиях недостаточной освещенности</entitydescription.tsm-2><entityname.tsm-live1>TSO MK.2 мод1</entityname.tsm-live1><entitydescription.tsm-live1>Добавлены дебильные прицельные приспособления для повышения точности оружия и уникального прицеливания, чтобы стать дебильной модифицированной передней винтовкой</entitydescription.tsm-live1><entityname.tsm-live2>TSO MK.2 мод2</entityname.tsm-live2><entitydescription.tsm-live2>Модифицирован с умопомрачительным коротким стволом для установки лечебных патронов и патронов с повышенной отдачей, а также более высокой скорострельностью для повышения способности помогать в бою</entitydescription.tsm-live2><entityname.tsm-death1>TSO MK.3 мод1</entityname.tsm-death1><entitydescription.tsm-death1>Добавление прицела ярости увеличивает точность оружия и дает ему новый центр прицеливания, превращая его в модифицированную под ярость переднюю винтовку</entitydescription.tsm-death1><entityname.tsm-death2>TSO MK.3 мод2</entityname.tsm-death2><entitydescription.tsm-death2>Ствол модифицирован для стрельбы как ударными, так и метательными боеприпасами большего калибра для повышения летальности, а из-за высокой стоимости ствола скорострельность снижена для продления срока службы</entitydescription.tsm-death2><!--entityname.tsm-weldingtool>奇迹之海结构修复工具</entityname.tsm-weldingtool>
+  <!--entityname.>
+  </entityname.
+  <entitydescription.>
+  </entitydescription.-->
+  <entityname.tsm-toolbox>Большой чемодан Miracle Sea</entityname.tsm-toolbox>
+  <entitydescription.tsm-toolbox>Большой чемодан "Море чудес" со специальной водонепроницаемой обработкой, поэтому вы можете не беспокоиться о том, что ваши вещи промокнут</entitydescription.tsm-toolbox>
+  <entityname.tsm-toolbox1>Кейс для оружия Miracle Sea</entityname.tsm-toolbox1>
+  <entitydescription.tsm-toolbox1>Ящик для оружия Miracle Sea с одним местом для пистолета и двумя местами для магазина, обычно используется для тяжелого оружия, можно носить в руке или на спине</entitydescription.tsm-toolbox1>
+  <entityname.tsm-bag>Многоцелевой рюкзак Miracle Sea</entityname.tsm-bag>
+  <entitydescription.tsm-bag>Многоцелевой рюкзак небольшой вместимости</entitydescription.tsm-bag>
+  <entityname.tsm-bag1>Малый рюкзак Miracle Sea</entityname.tsm-bag1>
+  <entitydescription.tsm-bag1>Маленький рюкзак, не очень вместительный, но достаточный</entitydescription.tsm-bag1>
+  <entityname.tsm-bag2>Рюкзак Miracle Sea TAC</entityname.tsm-bag2>
+  <entitydescription.tsm-bag2>Большой рюкзак, большой рюкзак, который был распространен во время Великого крестового похода</entitydescription.tsm-bag2>
+  <entityname.daylight>Дневная вспышка Чудесного моря</entityname.daylight>
+  <entitydescription.daylight>Освещают окрестности, как будто это дневной свет, не перезаряжаются</entitydescription.daylight>
+  <entityname.tsmvest>Кевларовые бронежилеты</entityname.tsmvest>
+  <entitydescription.tsmvest>Кевларовый жилет с большим количеством карманов для лучшей защиты</entitydescription.tsmvest>
+  <!--entityname.tsm-armor-plate>防弹插板</entityname.tsm-armor-plate>
+  <entitydescription.tsm-armor-plate>四级防护&#xD;&#xA; 碳化硅和聚乙烯IV级防护插板</entitydescription.tsm-armor-plate-->
+  <entityname.yh>Лунный цветок</entityname.yh>
+  <entitydescription.yh>‖color:255,144,48,255‖荣Оружие ближнего боя Почетной стражи, воспроизведенное из инопланетных материалов в виде кольцевидного клинка‖color:end‖</entitydescription.yh>
+  <!--entityname.yhdq>月华刀鞘</entityname.yhdq>
+  <entitydescription.yhdq>月华专用刀鞘</entitydescription.yhdq-->
+  <entityname.tsm-nlhzgun>Miracle Sea многоугольная энергопушка</entityname.tsm-nlhzgun>
+  <entitydescription.tsm-nlhzgun>Для ускорения снаряда в пушке используется пара параллельных проводящих дорожек. Поток электричества течет от одной дорожки к пуле, а затем к другой; этот взаимодействующий электромагнитный эффект разгоняет пулю до очень высокой скорости. Ему требуется короткий период перезарядки, прежде чем он сможет выстрелить свои энергетические снаряды с невероятной скоростью</entitydescription.tsm-nlhzgun>
+  <entityname.tsm-nlhzmagazine>Магазин энергопушки Miracle Sea</entityname.tsm-nlhzmagazine>
+  <entitydescription.tsm-nlhzmagazine>Это магазин для пушки энергетического взлома. Магазин заполнен частицами субатомной реакции, взрывная сила частиц увеличивает кинетическую энергию удара, делая оружие эффективным как против пехоты, так и против брони, а боеприпасы перезаряжаемы. </entitydescription.tsm-nlhzmagazine>
+  <entityname.tsm-1>TSO MK.1 мод0</entityname.tsm-1>
+  <entitydescription.tsm-1>Одна из первых модифицируемых винтовок, выпущенных компанией Miracle Sea, с дополнительными патронами для магазинов общего назначения и бронебойных расширенных магазинов, но оригинальное оружие имеет плохую точность и отдачу и нуждается в модификации с помощью деталей для достижения наилучших результатов</entitydescription.tsm-1>
+  <entityname.tsm-2>TSO MK.1 мод1</entityname.tsm-2>
+  <entitydescription.tsm-2>Добавление рукоятки и тактического фонаря значительно снижает отдачу и повышает способность вести бой в условиях недостаточной освещенности</entitydescription.tsm-2>
+  <entityname.tsm-live1>TSO MK.2 мод1</entityname.tsm-live1>
+  <entitydescription.tsm-live1>Добавлены дебильные прицельные приспособления для повышения точности оружия и уникального прицеливания, чтобы стать дебильной модифицированной передней винтовкой</entitydescription.tsm-live1>
+  <entityname.tsm-live2>TSO MK.2 мод2</entityname.tsm-live2>
+  <entitydescription.tsm-live2>Модифицирован с умопомрачительным коротким стволом для установки лечебных патронов и патронов с повышенной отдачей, а также более высокой скорострельностью для повышения способности помогать в бою</entitydescription.tsm-live2>
+  <entityname.tsm-death1>TSO MK.3 мод1</entityname.tsm-death1>
+  <entitydescription.tsm-death1>Добавление прицела ярости увеличивает точность оружия и дает ему новый центр прицеливания, превращая его в модифицированную под ярость переднюю винтовку</entitydescription.tsm-death1>
+  <entityname.tsm-death2>TSO MK.3 мод2</entityname.tsm-death2>
+  <entitydescription.tsm-death2>Ствол модифицирован для стрельбы как ударными, так и метательными боеприпасами большего калибра для повышения летальности, а из-за высокой стоимости ствола скорострельность снижена для продления срока службы</entitydescription.tsm-death2>
+  <!--entityname.tsm-weldingtool>奇迹之海结构修复工具</entityname.tsm-weldingtool>
   <entitydescription.tsm-weldingtool>电驱动弧焊机，使用电池可以对结构进行修复</entitydescription.tsm-weldingtool>
   <entityname.tsm-plasmacutter>奇迹之海结构裂解枪</entityname.tsm-plasmacutter>
-  <entitydescription.tsm-plasmacutter>氧驱动解构工具，使用氧气罐进行充能</entitydescription.tsm-plasmacutter--><entityname.tsm-dsvk>TAC MK.1</entityname.tsm-dsvk><entitydescription.tsm-dsvk>Имитация вектора земной эпохи, версия без аксессуаров, может быть двуручным</entitydescription.tsm-dsvk><entityname.tsm-mpvk>TAC MK.3</entityname.tsm-mpvk><entitydescription.tsm-mpvk>Это оружие - для партнера: эта душа - для будущего</entitydescription.tsm-mpvk><entityname.tsm-bzvk>TAC MK.2</entityname.tsm-bzvk><entitydescription.tsm-bzvk>Когда война бесконечна, а несчастье никогда не кончается, так мы сможем бороться</entitydescription.tsm-bzvk><entityname.tsm-vkmagazine>Стандартный магазин TAC</entityname.tsm-vkmagazine><entitydescription.tsm-vkmagazine>векторные обычные магазины, доступные для всего огнестрельного оружия векторного класса</entitydescription.tsm-vkmagazine><entityname.tsm-vkqwlmagazine>Магазины полной мощности TAC</entityname.tsm-vkqwlmagazine><entitydescription.tsm-vkqwlmagazine>TAC Full Power Magazine - новый тип магазина, разработанный Miracle Sea, больший калибр, большая мощность, больший урон. </entitydescription.tsm-vkqwlmagazine><entityname.tsm-fwdxd>Дробовик для обороны Miracle Sea</entityname.tsm-fwdxd><entitydescription.tsm-fwdxd>Самое распространенное оборонительное ружье в Море Чудес, использующее четыре типа боеприпасов: оленьи, однозарядные, сменные и умиротворяющие</entitydescription.tsm-fwdxd><entityname.tsm-rmstz>Дробовик для обороны Miracle Sea (окраска отряда Хигурашияма)</entityname.tsm-rmstz><entitydescription.tsm-rmstz>Стандартный оборонительный дробовик отряда Хигурашияма с увеличенной емкостью магазина и большим количеством боеприпасов</entitydescription.tsm-rmstz><entityname.tsm-rywdtz>Дробовик для обороны Miracle Sea(отделка почетного караула)</entityname.tsm-rywdtz><entitydescription.tsm-rywdtz>Стандартные снаряды для оборонительных ружей Почетной гвардии с большим количеством загрузочных отделений для лучшего соответствия различным типам ружей</entitydescription.tsm-rywdtz><entityname.tsm-ld>Специальная оленья дробь Miracle Sea Special</entityname.tsm-ld><entitydescription.tsm-ld>Специальные патроны для дробовика 12 калибра</entitydescription.tsm-ld><entityname.tsm-sdtdtd>Miracle Sea Double Rest Doktor</entityname.tsm-sdtdtd><entitydescription.tsm-sdtdtd>Инновационная конструкция двойного приклада, который автоматически отсоединяется, когда внешний приклад попадает в цель, а затем быстро вворачивается внутрь цели для нанесения урона</entitydescription.tsm-sdtdtd><entityname.tsm-bgd>Круглый трансформируемый снаряд с обедненным зарядом "Чудо-море"</entityname.tsm-bgd><entitydescription.tsm-bgd>Тритиевое термоядро, убивающая секция фрагментации дейтерия</entitydescription.tsm-bgd><entityname.tsm-pxd>Успокаивающая бомба из резины чудесного моря</entityname.tsm-pxd><entitydescription.tsm-pxd>Обеспечивает сильный контроль</entitydescription.tsm-pxd><entityname.wb>Захватный тактический фонарь</entityname.wb><entityname.mj1>Сумасшедший прицел</entityname.mj1><entityname.mj2>Злой прицел</entityname.mj2><entityname.xyq>Сумасшедший ствол</entityname.xyq><entityname.cqg>Злобный ствол</entityname.cqg><entityname.qt1>И-образный запас</entityname.qt1><entityname.qt2>приклад типа II</entityname.qt2><entityname.wb2>Прямая рукоятка</entityname.wb2><entityname.mj3>Голографический прицел</entityname.mj3><entityname.mj4>Прицел с красной точкой</entityname.mj4><entityname.qk>Дульный срез типа I</entityname.qk><entityname.qk1>Дуло типа II</entityname.qk1><npctitle.abandonedoutpostnpcs_jlp>Предводитель</npctitle.abandonedoutpostnpcs_jlp><npctitle.jlp_leader_heavy>Адвентизм - Старый Юбилей</npctitle.jlp_leader_heavy><npctitle.jlp_xb1>Адвентизм - Старый длинный</npctitle.jlp_xb1><npctitle.jlp_xb2>Воин Адвента</npctitle.jlp_xb2><npctitle.jlp_xb3>Воин Пришествия</npctitle.jlp_xb3><npctitle.jlp_xb4>Воин Пришествия</npctitle.jlp_xb4><npctitle.jlp_xb5>Наемники пришествия</npctitle.jlp_xb5><npctitle.jlp_xb6>Наемники пришествия</npctitle.jlp_xb6><npctitle.lmptleader>Командующий операциями Альянса</npctitle.lmptleader><npctitle.lmpt1>Офицер безопасности коалиции</npctitle.lmpt1><npctitle.lmpt2>Офицер безопасности коалиции</npctitle.lmpt2><npctitle.lmpt3>Офицер безопасности профсоюза</npctitle.lmpt3><npctitle.lmpt4>Офицер безопасности коалиции</npctitle.lmpt4><npctitle.lmpt5>Наемники Союза</npctitle.lmpt5><!--Притворяется наемником Моря Чудес--><npctitle.tsmpt>Наемники Моря Чудес</npctitle.tsmpt><npctitle.tsmpt1>Наемники Моря Чудес</npctitle.tsmpt1><npctitle.tsmpt2>Наемники Моря Чудес</npctitle.tsmpt2><npctitle.tsmpt3>Наемники Чудесного моря</npctitle.tsmpt3><npctitle.tsmpt4>Наемники Чудесного моря</npctitle.tsmpt4><npctitle.tsmpt5>Наемники Моря Чудес</npctitle.tsmpt5><!--Миракл Си--><npctitle.tsm_tqzz>Команда специальных операций Чудесного моря</npctitle.tsm_tqzz><npctitle.tsm_xjzz>Продвинутый боец Чудесного моря</npctitle.tsm_xjzz><npctitle.tsm_qwd>Прокомбатанты Чудесного моря</npctitle.tsm_qwd><entityname.tsm-generalmagazine>Универсальный магазин Miracle Sea</entityname.tsm-generalmagazine><entitydescription.tsm-generalmagazine>Универсальные магазины для всех видов оружия</entitydescription.tsm-generalmagazine><entityname.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine>Расширенный углеродисто-стальной бронебойный магазин Miracle Sea</entityname.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine><entitydescription.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine> Расширяющийся бронебойный магазин общего назначения</entitydescription.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine><entityname.tsm-healthyMagazine>Исцеляющий магазин моря чудес</entityname.tsm-healthyMagazine><entitydescription.tsm-healthyMagazine>Это специальный магазин ‖color:190,170,100,255‖为TSO MK.2 мод2为‖color:end‖, он будет применять лечебный эффект в определенном диапазоне после попадания, и может вернуть к жизни умирающих людей несколькими выстрелами</entitydescription.tsm-healthyMagazine><entityname.tsm-gnztMagazine>Магазин резиновых патронов Miracle Sea</entityname.tsm-gnztMagazine><entitydescription.tsm-gnztMagazine>Это специальный магазин для ‖color:190,170,100,255‖为 TSO MK.2 мод2为‖color:end‖, который наносит очень мало урона, но может оглушать существ</entitydescription.tsm-gnztMagazine><entityname.tsm-cjdMagazine>Магазин разрывных патронов Miracle Sea</entityname.tsm-cjdMagazine><entitydescription.tsm-cjdMagazine>Это специальный магазин для ‖color:190,170,100,255‖为 TSO MK.3 мод2为‖color:end‖, заряженный макроударными патронами большого калибра для увеличения ударной и взрывной силы</entitydescription.tsm-cjdMagazine><entityname.tsm-cttjMagazine>Магазин бронебойно-зажигательных патронов Miracle Sea</entityname.tsm-cttjMagazine><entitydescription.tsm-cttjMagazine>Это специализированный магазин для‖color:190,170,100,255‖为 TSO MK.3 мод2为‖color:end‖, который имеет очень высокую глубину проникновения и также весьма разрушителен для зданий</entitydescription.tsm-cttjMagazine><pucsscooter>Пропульсивная система</pucsscooter><светильник>Система освещения</светильник><фонарь>Система освещения</фонарь><лазер>лазерная указка</лазер><bzd>полуавтомат</bzd><qzd>полностью автоматическая</qzd><displayname.多量制作>[itemname] (несколько за раз)</displayname.多量制作><displayname.填装>[itemname] (заполнить)</displayname.填装><displayname.替换配方1>[itemname] (рецепт замены 1)</displayname.替换配方1><displayname.替换配方2>[itemname] (рецепт замены 2)</displayname.替换配方2><displayname.锻造>[itemname] (кузница)</displayname.锻造><displayname.精炼>[itemname] (переработка)</displayname.精炼><subcategory.tsm_abandonedhuman>Оплот адвентов</subcategory.tsm_abandonedhuman><locationchange.outpost.changeto.chcity>[previousname]:Знамя Моря Чудес было сорвано, и этот форпост был захвачен адвентистами</locationchange.outpost.changeto.chcity><locationchange.outpost.changeto.choutpost>[previousname]: Слава Адвенту богов! Этот аванпост теперь принадлежит Адвентизму</locationchange.outpost.changeto.choutpost><locationchange.AmOutpost.changeto.amforge>EMBI начал новую разработку на [previousname]. </locationchange.AmOutpost.changeto.amforge><locationchange.none.changeto.choutpost>Союз переехал на [previousname]! где он превратился в новую колонию</locationchange.none.changeto.choutpost><locationchange.none.changeto.amoutpost>Процессия Моря Чудес была отправлена на [previousname], где процессия установила новый порядок. </locationchange.none.changeto.amoutpost><locationchange.choutpost.changeto.chcity>В [previousname] Союза отправлялось все больше и больше беженцев, и был построен город. </locationchange.choutpost.changeto.chcity><locationchange.locationchange.military.changeto.smfortress>В [previousname] прибыла группа передовых боевых групп "Чудо-море", чтобы улучшить оборону территории. </locationchange.locationchange.military.changeto.smfortress><locationchange.Amforge.changeeto.amforgebig>Технические сержанты TSM и EMBI расширяют производственную площадку [previousname] до крупного производственного объекта. </locationchange.Amforge.changeeto.amforgebig><locationname.chcity>Область охвата компании</locationname.chcity><locationname.amforge>Аванпосты</locationname.amforge><locationname.choutpost>Обсерватория Моря Чудес</locationname.choutpost><locationname.amoutpost>Аванпост ЭМБИ</locationname.amoutpost><locationname.amforgebig>Производственный завод</locationname.amforgebig><locationname.smfortress>База Моря Чудес</locationname.smfortress><locationnameformat.smfortress>Крепость Альянса [name]</locationnameformat.smfortress><locationnameformat.chcity>Сентинел Адвент [name]</locationnameformat.chcity><locationnameformat.chcity>сайт [name]</locationnameformat.chcity><locationnameformat.choutpost>Союз [name]</locationnameformat.choutpost><locationnameformat.amforge>EMBI Outpost [name]</locationnameformat.amforge><locationnameformat.amoutpost>Аутпост [name]</locationnameformat.amoutpost><locationnameformat.amoutpost>сайт [name]</locationnameformat.amoutpost><locationnameformat.amoutpost>EMBI Research Facility [name]</locationnameformat.amoutpost><locationnameformat.amforgebig>Производственная площадка [name]</locationnameformat.amforgebig><locationnameformat.amforgebig>Производство [name]</locationnameformat.amforgebig><npctitle.tsm_tqzz>Группа специальных операций "Великое море"</npctitle.tsm_tqzz><npctitle.tsm_xjzz>Усовершенствованная морская боевая группа</npctitle.tsm_xjzz></infotexts>
+  <entitydescription.tsm-plasmacutter>氧驱动解构工具，使用氧气罐进行充能</entitydescription.tsm-plasmacutter-->
+  <entityname.tsm-dsvk>TAC MK.1</entityname.tsm-dsvk>
+  <entitydescription.tsm-dsvk>Имитация вектора земной эпохи, версия без аксессуаров, может быть двуручным</entitydescription.tsm-dsvk>
+  <entityname.tsm-mpvk>TAC MK.3</entityname.tsm-mpvk>
+  <entitydescription.tsm-mpvk>Это оружие - для партнера: эта душа - для будущего</entitydescription.tsm-mpvk>
+  <entityname.tsm-bzvk>TAC MK.2</entityname.tsm-bzvk>
+  <entitydescription.tsm-bzvk>Когда война бесконечна, а несчастье никогда не кончается, так мы сможем бороться</entitydescription.tsm-bzvk>
+  <entityname.tsm-vkmagazine>Стандартный магазин TAC</entityname.tsm-vkmagazine>
+  <entitydescription.tsm-vkmagazine>векторные обычные магазины, доступные для всего огнестрельного оружия векторного класса</entitydescription.tsm-vkmagazine>
+  <entityname.tsm-vkqwlmagazine>Магазины полной мощности TAC</entityname.tsm-vkqwlmagazine>
+  <entitydescription.tsm-vkqwlmagazine>TAC Full Power Magazine - новый тип магазина, разработанный Miracle Sea, больший калибр, большая мощность, больший урон. </entitydescription.tsm-vkqwlmagazine>
+  <entityname.tsm-fwdxd>Дробовик для обороны Miracle Sea</entityname.tsm-fwdxd>
+  <entitydescription.tsm-fwdxd>Самое распространенное оборонительное ружье в Море Чудес, использующее четыре типа боеприпасов: оленьи, однозарядные, сменные и умиротворяющие</entitydescription.tsm-fwdxd>
+  <entityname.tsm-rmstz>Дробовик для обороны Miracle Sea (окраска отряда Хигурашияма)</entityname.tsm-rmstz>
+  <entitydescription.tsm-rmstz>Стандартный оборонительный дробовик отряда Хигурашияма с увеличенной емкостью магазина и большим количеством боеприпасов</entitydescription.tsm-rmstz>
+  <entityname.tsm-rywdtz>Дробовик для обороны Miracle Sea(отделка почетного караула)</entityname.tsm-rywdtz>
+  <entitydescription.tsm-rywdtz>Стандартные снаряды для оборонительных ружей Почетной гвардии с большим количеством загрузочных отделений для лучшего соответствия различным типам ружей</entitydescription.tsm-rywdtz>
+  <entityname.tsm-ld>Специальная оленья дробь Miracle Sea Special</entityname.tsm-ld>
+  <entitydescription.tsm-ld>Специальные патроны для дробовика 12 калибра</entitydescription.tsm-ld>
+  <entityname.tsm-sdtdtd>Miracle Sea Double Rest Doktor</entityname.tsm-sdtdtd>
+  <entitydescription.tsm-sdtdtd>Инновационная конструкция двойного приклада, который автоматически отсоединяется, когда внешний приклад попадает в цель, а затем быстро вворачивается внутрь цели для нанесения урона</entitydescription.tsm-sdtdtd>
+  <entityname.tsm-bgd>Круглый трансформируемый снаряд с обедненным зарядом "Чудо-море"</entityname.tsm-bgd>
+  <entitydescription.tsm-bgd>Тритиевое термоядро, убивающая секция фрагментации дейтерия</entitydescription.tsm-bgd>
+  <entityname.tsm-pxd>Успокаивающая бомба из резины чудесного моря</entityname.tsm-pxd>
+  <entitydescription.tsm-pxd>Обеспечивает сильный контроль</entitydescription.tsm-pxd>
+  <entityname.wb>Захватный тактический фонарь</entityname.wb>
+  <entityname.mj1>Сумасшедший прицел</entityname.mj1>
+  <entityname.mj2>Злой прицел</entityname.mj2>
+  <entityname.xyq>Сумасшедший ствол</entityname.xyq>
+  <entityname.cqg>Злобный ствол</entityname.cqg>
+  <entityname.qt1>И-образный запас</entityname.qt1>
+  <entityname.qt2>приклад типа II</entityname.qt2>
+  <entityname.wb2>Прямая рукоятка</entityname.wb2>
+  <entityname.mj3>Голографический прицел</entityname.mj3>
+  <entityname.mj4>Прицел с красной точкой</entityname.mj4>
+  <entityname.qk>Дульный срез типа I</entityname.qk>
+  <entityname.qk1>Дуло типа II</entityname.qk1>
+  <npctitle.abandonedoutpostnpcs_jlp>Предводитель</npctitle.abandonedoutpostnpcs_jlp>
+  <npctitle.jlp_leader_heavy>Адвентизм - Старый Юбилей</npctitle.jlp_leader_heavy>
+  <npctitle.jlp_xb1>Адвентизм - Старый длинный</npctitle.jlp_xb1>
+  <npctitle.jlp_xb2>Воин Адвента</npctitle.jlp_xb2>
+  <npctitle.jlp_xb3>Воин Пришествия</npctitle.jlp_xb3>
+  <npctitle.jlp_xb4>Воин Пришествия</npctitle.jlp_xb4>
+  <npctitle.jlp_xb5>Наемники пришествия</npctitle.jlp_xb5>
+  <npctitle.jlp_xb6>Наемники пришествия</npctitle.jlp_xb6>
+  <npctitle.lmptleader>Командующий операциями Альянса</npctitle.lmptleader>
+  <npctitle.lmpt1>Офицер безопасности коалиции</npctitle.lmpt1>
+  <npctitle.lmpt2>Офицер безопасности коалиции</npctitle.lmpt2>
+  <npctitle.lmpt3>Офицер безопасности профсоюза</npctitle.lmpt3>
+  <npctitle.lmpt4>Офицер безопасности коалиции</npctitle.lmpt4>
+  <npctitle.lmpt5>Наемники Союза</npctitle.lmpt5>
+  <!--Притворяется наемником Моря Чудес-->
+  <npctitle.tsmpt>Наемники Моря Чудес</npctitle.tsmpt>
+  <npctitle.tsmpt1>Наемники Моря Чудес</npctitle.tsmpt1>
+  <npctitle.tsmpt2>Наемники Моря Чудес</npctitle.tsmpt2>
+  <npctitle.tsmpt3>Наемники Чудесного моря</npctitle.tsmpt3>
+  <npctitle.tsmpt4>Наемники Чудесного моря</npctitle.tsmpt4>
+  <npctitle.tsmpt5>Наемники Моря Чудес</npctitle.tsmpt5>
+  <!--Миракл Си-->
+  <npctitle.tsm_tqzz>Команда специальных операций Чудесного моря</npctitle.tsm_tqzz>
+  <npctitle.tsm_xjzz>Продвинутый боец Чудесного моря</npctitle.tsm_xjzz>
+  <npctitle.tsm_qwd>Прокомбатанты Чудесного моря</npctitle.tsm_qwd>
+  <entityname.tsm-generalmagazine>Универсальный магазин Miracle Sea</entityname.tsm-generalmagazine>
+  <entitydescription.tsm-generalmagazine>Универсальные магазины для всех видов оружия</entitydescription.tsm-generalmagazine>
+  <entityname.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine>Расширенный углеродисто-стальной бронебойный магазин Miracle Sea</entityname.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine>
+  <entitydescription.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine> Расширяющийся бронебойный магазин общего назначения</entitydescription.tsm-ExpandedCarbonSteelCoreArmorPiercingMagazine>
+  <entityname.tsm-healthyMagazine>Исцеляющий магазин моря чудес</entityname.tsm-healthyMagazine>
+  <entitydescription.tsm-healthyMagazine>Это специальный магазин ‖color:190,170,100,255‖为TSO MK.2 мод2为‖color:end‖, он будет применять лечебный эффект в определенном диапазоне после попадания, и может вернуть к жизни умирающих людей несколькими выстрелами</entitydescription.tsm-healthyMagazine>
+  <entityname.tsm-gnztMagazine>Магазин резиновых патронов Miracle Sea</entityname.tsm-gnztMagazine>
+  <entitydescription.tsm-gnztMagazine>Это специальный магазин для ‖color:190,170,100,255‖为 TSO MK.2 мод2为‖color:end‖, который наносит очень мало урона, но может оглушать существ</entitydescription.tsm-gnztMagazine>
+  <entityname.tsm-cjdMagazine>Магазин разрывных патронов Miracle Sea</entityname.tsm-cjdMagazine>
+  <entitydescription.tsm-cjdMagazine>Это специальный магазин для ‖color:190,170,100,255‖为 TSO MK.3 мод2为‖color:end‖, заряженный макроударными патронами большого калибра для увеличения ударной и взрывной силы</entitydescription.tsm-cjdMagazine>
+  <entityname.tsm-cttjMagazine>Магазин бронебойно-зажигательных патронов Miracle Sea</entityname.tsm-cttjMagazine>
+  <entitydescription.tsm-cttjMagazine>Это специализированный магазин для‖color:190,170,100,255‖为 TSO MK.3 мод2为‖color:end‖, который имеет очень высокую глубину проникновения и также весьма разрушителен для зданий</entitydescription.tsm-cttjMagazine>
+  <pucsscooter>Пропульсивная система</pucsscooter>
+  <светильник>Система освещения</светильник>
+  <фонарь>Система освещения</фонарь>
+  <лазер>лазерная указка</лазер>
+  <bzd>полуавтомат</bzd>
+  <qzd>полностью автоматическая</qzd>
+  <displayname.多量制作>[itemname] (несколько за раз)</displayname.多量制作>
+  <displayname.填装>[itemname] (заполнить)</displayname.填装>
+  <displayname.替换配方1>[itemname] (рецепт замены 1)</displayname.替换配方1>
+  <displayname.替换配方2>[itemname] (рецепт замены 2)</displayname.替换配方2>
+  <displayname.锻造>[itemname] (кузница)</displayname.锻造>
+  <displayname.精炼>[itemname] (переработка)</displayname.精炼>
+  <subcategory.tsm_abandonedhuman>Оплот адвентов</subcategory.tsm_abandonedhuman>
+  <locationchange.outpost.changeto.chcity>[previousname]:Знамя Моря Чудес было сорвано, и этот форпост был захвачен адвентистами</locationchange.outpost.changeto.chcity>
+  <locationchange.outpost.changeto.choutpost>[previousname]: Слава Адвенту богов! Этот аванпост теперь принадлежит Адвентизму</locationchange.outpost.changeto.choutpost>
+  <locationchange.AmOutpost.changeto.amforge>EMBI начал новую разработку на [previousname]. </locationchange.AmOutpost.changeto.amforge>
+  <locationchange.none.changeto.choutpost>Союз переехал на [previousname]! где он превратился в новую колонию</locationchange.none.changeto.choutpost>
+  <locationchange.none.changeto.amoutpost>Процессия Моря Чудес была отправлена на [previousname], где процессия установила новый порядок. </locationchange.none.changeto.amoutpost>
+  <locationchange.choutpost.changeto.chcity>В [previousname] Союза отправлялось все больше и больше беженцев, и был построен город. </locationchange.choutpost.changeto.chcity>
+  <locationchange.locationchange.military.changeto.smfortress>В [previousname] прибыла группа передовых боевых групп "Чудо-море", чтобы улучшить оборону территории. </locationchange.locationchange.military.changeto.smfortress>
+  <locationchange.Amforge.changeeto.amforgebig>Технические сержанты TSM и EMBI расширяют производственную площадку [previousname] до крупного производственного объекта. </locationchange.Amforge.changeeto.amforgebig>
+  <locationname.chcity>Область охвата компании</locationname.chcity>
+  <locationname.amforge>Аванпосты</locationname.amforge>
+  <locationname.choutpost>Обсерватория Моря Чудес</locationname.choutpost>
+  <locationname.amoutpost>Аванпост ЭМБИ</locationname.amoutpost>
+  <locationname.amforgebig>Производственный завод</locationname.amforgebig>
+  <locationname.smfortress>База Моря Чудес</locationname.smfortress>
+  <locationnameformat.smfortress>Крепость Альянса [name]</locationnameformat.smfortress>
+  <locationnameformat.chcity>Сентинел Адвент [name]</locationnameformat.chcity>
+  <locationnameformat.chcity>сайт [name]</locationnameformat.chcity>
+  <locationnameformat.choutpost>Союз [name]</locationnameformat.choutpost>
+  <locationnameformat.amforge>EMBI Outpost [name]</locationnameformat.amforge>
+  <locationnameformat.amoutpost>Аутпост [name]</locationnameformat.amoutpost>
+  <locationnameformat.amoutpost>сайт [name]</locationnameformat.amoutpost>
+  <locationnameformat.amoutpost>EMBI Research Facility [name]</locationnameformat.amoutpost>
+  <locationnameformat.amforgebig>Производственная площадка [name]</locationnameformat.amforgebig>
+  <locationnameformat.amforgebig>Производство [name]</locationnameformat.amforgebig>
+  <npctitle.tsm_tqzz>Группа специальных операций "Великое море"</npctitle.tsm_tqzz>
+  <npctitle.tsm_xjzz>Усовершенствованная морская боевая группа</npctitle.tsm_xjzz>
+</infotexts>
+<!-- Перевод by Heelge -->

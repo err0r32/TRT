@@ -11,12 +11,12 @@
     <Conversation line="Так было всегда." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="..." speaker="0" flags="feniternerveagent">
-    <Conversation line="Что с тобой, черт возьми?  Увеличьте темп!" speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Что с тобой, черт возьми? Увеличьте темп!" speaker="1" speakertags="rude"></Conversation>
     <Conversation line="Ты вдруг ведешь себя немного медленно..." speaker="1"></Conversation>
   </Conversation>
   <Conversation line="Свет внезапно стал немного тусклым?" speaker="0" flags="feniternerveagent">
-    <Conversation line="Чего ждать?  я проверю это" speaker="1" allowedjobs="electrical">
-      <Conversation line="С тобой что-то не так?  С фарами все в порядке." speaker="1" allowedjobs="electrical"></Conversation>
+    <Conversation line="Чего ждать? я проверю это" speaker="1" allowedjobs="electrical">
+      <Conversation line="С тобой что-то не так? С фарами все в порядке." speaker="1" allowedjobs="electrical"></Conversation>
     </Conversation>
   </Conversation>
   <Conversation line="Что-то не в порядке..." speaker="0" speakertags="professional,tough" flags="feniternerveagent">
@@ -63,7 +63,7 @@
   <Conversation line="..." speaker="0" flags="feniterpsychoagent">
     <Conversation line="Что с тобой случилось?" speaker="1">
       <Conversation line="..." speaker="0">
-        <Conversation line="Привет?  Скажите что-то..." speaker="1">
+        <Conversation line="Привет? Скажите что-то..." speaker="1">
           <Conversation line="..." speaker="0">
             <Conversation line="Ух..." speaker="1"></Conversation>
           </Conversation>
@@ -112,13 +112,13 @@
     </Conversation>
   </Conversation>
   <Conversation line="Некоторые протесты внезапно были разогнаны с помощью нового оружия." speaker="0">
-    <Conversation line="Да, они бегали, как безголовые цыплята.  Что это было?" speaker="1">
+    <Conversation line="Да, они бегали, как безголовые цыплята. Что это было?" speaker="1">
       <Conversation line="Какой-то газ, его называют слезоточивым веществом." speaker="0">
-        <Conversation line="Да, странное название, я бы назвал его слезоточивым газом.  Потому что, знаешь... они все плакали и их рвало." speaker="1">
+        <Conversation line="Да, странное название, я бы назвал его слезоточивым газом. Потому что, знаешь... они все плакали и их рвало." speaker="1">
           <Conversation line="..." speaker="0">
             <Conversation line="Ладно, кроме этого, черт... интересно, на что это было похоже." speaker="0">
               <Conversation line="Я бы не хотел знать." speaker="1">
-                <Conversation line="Да, если подумать.  Я бы тоже не стал." speaker="0"></Conversation>
+                <Conversation line="Да, если подумать. Я бы тоже не стал." speaker="0"></Conversation>
               </Conversation>
             </Conversation>
           </Conversation>
@@ -127,7 +127,7 @@
     </Conversation>
   </Conversation>
   <Conversation line="Есть новый защитный костюм, выглядит немного странно и надевается поверх одежды." speaker="0" allowedjobs="electrical">
-    <Conversation line="Разве ваших нынешних защитных костюмов недостаточно?  Как обстоят дела с этим новым?" speaker="1">
+    <Conversation line="Разве ваших нынешних защитных костюмов недостаточно? Как обстоят дела с этим новым?" speaker="1">
       <Conversation line="Они обновили дизайн этой защиты от ХБРЯ..." speaker="0">
         <Conversation line="ХБРЯ?" speaker="1">
           <Conversation line="Химические, биологические, радиологические, ядерные." speaker="0">
@@ -138,7 +138,8 @@
         </Conversation>
       </Conversation>
     </Conversation>
-    <Conversation line="Новый защитный костюм?  Чувак, я завидую, мне бы хотелось, чтобы нам дали лучшие защитные комбинезоны." speaker="1" allowedjobs="mechanical"></Conversation>
+    <Conversation line="Новый защитный костюм? Чувак, я завидую, мне бы хотелось, чтобы нам дали лучшие защитные комбинезоны." speaker="1" allowedjobs="mechanical"></Conversation>
   </Conversation>
 </Conversations>
-<!-- Переводчик err0r32 (Илья)#7943 -->
+<!-- Перевод by err0r32 -->
+ 

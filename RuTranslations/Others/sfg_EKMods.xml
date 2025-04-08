@@ -38,7 +38,7 @@
   <entityname.ek_ammobox_shotgun_grenade>Гранаты 12-го калибра</entityname.ek_ammobox_shotgun_grenade>
   <entitydescription.ek_ammobox_shotgun_grenade>Коробка гранат для дробовика. Граната прямого выстрела, которая взрывается при попадании.</entitydescription.ek_ammobox_shotgun_grenade>
   <entityname.ek_ammobox_shotgun_physicorium>Пачка физикориевой дроби 12-го калибра</entityname.ek_ammobox_shotgun_physicorium>
-  <entitydescription.ek_ammobox_shotgun_physicorium>&gt;Коробка картечи с физикорием для дробовика. Одиночный снаряд эффективен против бронированных целей.</entitydescription.ek_ammobox_shotgun_physicorium>
+  <entitydescription.ek_ammobox_shotgun_physicorium>Коробка картечи с физикорием для дробовика. Одиночный снаряд эффективен против бронированных целей.</entitydescription.ek_ammobox_shotgun_physicorium>
   <entityname.ek_weaponparts>Оружейные запчасти</entityname.ek_weaponparts>
   <entitydescription.ek_weaponparts>Высокоточные механические детали, используемые для внутренней работы большинства видов стрелкового оружия.</entitydescription.ek_weaponparts>
   <entityname.ek_loadingkit>Комплект для снаряжения патронов</entityname.ek_loadingkit>
@@ -2638,4 +2638,4 @@
   <entityname.ekutility_supplypouch>Хозяйственная сумка</entityname.ekutility_supplypouch>
   <entitydescription.ekutility_supplypouch>Сумка для хранения различных мелких предметов, таких как инструменты или медикаменты.</entitydescription.ekutility_supplypouch>
 </infotexts>
-<!-- Переводчик sfgtoha-->
+<!-- Перевод by sfgtoha -->

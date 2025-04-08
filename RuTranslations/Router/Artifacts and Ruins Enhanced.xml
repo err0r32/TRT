@@ -46,7 +46,7 @@
     <entityname.cleansingartifact>Инопланетный артефакт очищения</entityname.cleansingartifact>
     <entitydescription.cleansingartifact>Предположительно обладает свойствами генного очищения, но нам не хватает знаний, чтобы использовать их. Дальнейшие исследования могут позволить извлечь инопланетный материал.</entitydescription.cleansingartifact>
     <entityname.calibratedcleansingartifact>Инопланетный артефакт очищения (стабилизирован)</entityname.calibratedcleansingartifact>
-    <entitydescription.calibratedcleansingartifact>Его сила полностью разблокирована. Теперь он, возможно,  в состоянии работать с некоторыми инопланетными механизмами, найденными в руинах.</entitydescription.calibratedcleansingartifact>
+    <entitydescription.calibratedcleansingartifact>Его сила полностью разблокирована. Теперь он, возможно, в состоянии работать с некоторыми инопланетными механизмами, найденными в руинах.</entitydescription.calibratedcleansingartifact>
     <entityname.teleportartifact>Инопланетный артефакт телепортации</entityname.teleportartifact>
     <entitydescription.teleportartifact>Телепортирует владельца случайным образом. Дальнейшие исследования могут позволить извлечь инопланетный материал.</entitydescription.teleportartifact>
     <entityname.devourerartifact>Инопланетный артефакт "Пожиратель"</entityname.devourerartifact>
@@ -175,6 +175,6 @@
     <talentname.RuinLocating>Зов исследователя</talentname.RuinLocating>
     <talentname.CleansingKnowledge>Знания о генетической очистке</talentname.CleansingKnowledge>
     <talentname.TeleportationKnowledge>Знание телепортации</talentname.TeleportationKnowledge>
-    <!--    Перевод от Router   -->
   </Override>
 </infotexts>
+<!-- Перевод by Router -->

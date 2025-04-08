@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotext language="Russian" nowhitespace="false" translatedname="Русский">
-  <!--Made by Esirprus, this should make language patches significantly easier-->
-  <!--weapons_alienweapons-->
+  <!-- Made by Esirprus, this should make language patches significantly easier -->
+  <!-- weapons_alienweapons -->
   <entityname.scp_tar4a3>Фрактальная штурмовая винтовка</entityname.scp_tar4a3>
   <entitydescription.scp_tar4a3>Странная штурмовая винтовка в стиле буллпап калибра 4x48 мм с необычными рисунками на всей поверхности.</entitydescription.scp_tar4a3>
   <entityname.scp_tar4mag>Магазин для фрактальной штурмовой винтовки</entityname.scp_tar4mag>
@@ -97,7 +97,7 @@
   <entityname.scp_65projectile>6.5x39mm round</entityname.scp_65projectile>
   <entitydescription.scp_65projectile></entitydescription.scp_65projectile>
   <entityname.scp_mag>Пулемёт Коалиции общего назначения</entityname.scp_mag>
-  <entitydescription.scp_mag>Тяжёлый и длинный пулемёт калибра 7,62x51 мм, разработанный как более мощная альтернатива лёгкому пулемёту.  Использует винтовочный патрон для обеспечения значительно лучших характеристик ценой большего веса и отдачи.</entitydescription.scp_mag>
+  <entitydescription.scp_mag>Тяжёлый и длинный пулемёт калибра 7,62x51 мм, разработанный как более мощная альтернатива лёгкому пулемёту. Использует винтовочный патрон для обеспечения значительно лучших характеристик ценой большего веса и отдачи.</entitydescription.scp_mag>
   <entityname.scp_pkpboxmag>Коробчатый магазин пулемёта Коалиции общего назначения</entityname.scp_pkpboxmag>
   <entitydescription.scp_pkpboxmag>Громоздкий коробчатый магазин на 100 патронов калибра 7,62x51 мм с ленточным питанием для пулемёта общего назначения.</entitydescription.scp_pkpboxmag>
   <entityname.scp_762pkpprojectile>7.62x51mm GPMG round</entityname.scp_762pkpprojectile>
@@ -210,7 +210,7 @@
   <entitydescription.scp_railgunruinedshell>Снаряд для рельсотрона, который совершенно неузнаваем. Давно утратил свою функцию и теперь пригоден только для утилизации.</entitydescription.scp_railgunruinedshell>
   <entityname.scp_thermodepthcharge>Термоядерный глубинный заряд</entityname.scp_thermodepthcharge>
   <entitydescription.scp_thermodepthcharge>Большой глубинный заряд, который размещается в заряднике для глубинных бомб. Имеет миниатюрную и сложную конструкцию взрывателя имплозивного типа. Поскольку ему не требуется особая скорость, можно использовать более крупную боеголовку, что значительно увеличивает взрывной потенциал и делает его ещё более опасным выбором.</entitydescription.scp_thermodepthcharge>
-  <!--weapons_explosives-->
+  <!-- weapons_explosives -->
   <entityname.scp_f1>Оборонительная осколочная граната</entityname.scp_f1>
   <entitydescription.scp_f1>Большая граната с толстой осколочной оболочкой и большим зарядом взрывчатого вещества, благодаря чему её трудно бросить. С другой стороны, она и имеет очень большой радиус взрыва.</entitydescription.scp_f1>
   <entityname.scp_dm51>Дюрасталевая осколочная граната</entityname.scp_dm51>
@@ -251,7 +251,7 @@
   <entitydescription.scp_40mmgrenadedevil>40-мм граната с зарядом "Крови Дьявола", распространяющийся по области поражения при взрыве.</entitydescription.scp_40mmgrenadedevil>
   <entityname.scp_40mmgrenadehex>40-мм химическая граната с "Гексаном"</entityname.scp_40mmgrenadehex>
   <entitydescription.scp_40mmgrenadehex>40-мм граната, содержащая очень редкий, но крайне смертоносный гексан, распространяющийся по области поражения при взрыве.</entitydescription.scp_40mmgrenadehex>
-  <!--weapons_hightierweapons-->
+  <!-- weapons_hightierweapons -->
   <entityname.scp_m107>Экспериментальная крупнокалиберная снайперская винтовка</entityname.scp_m107>
   <entitydescription.scp_m107>Огромная и устрашающая самозарядная винтовка калибра 12,7x99 мм, невероятная отдача может легко сбить с ног неподготовленного человека или даже хуже.</entitydescription.scp_m107>
   <entityname.scp_m107fmjmag>Экспериментальный FMJ магазин для КСВ</entityname.scp_m107fmjmag>
@@ -332,7 +332,7 @@
   <entitydescription.scp_vector>Пистолет-пулемет калибра 9x19 мм, использующий уникальную затворную задержку для смягчения отдачи. В результате достигается значительно более высокая скорострельность без чрезмерной отдачи.</entitydescription.scp_vector>
   <entityname.scp_customrifle>Винтовка ветерана</entityname.scp_customrifle>
   <entitydescription.scp_customrifle>Болтовая винтовка калибра 12,7x55 мм, редко встречающаяся в продаже, но значительно более мощная, чем её предшественница, и очень трудно управляемая при стрельбе.</entitydescription.scp_customrifle>
-  <!--weapons_meleeweapons-->
+  <!-- weapons_meleeweapons -->
   <entityname.scp_m9bayonet>Боевой нож</entityname.scp_m9bayonet>
   <entitydescription.scp_m9bayonet>Боевой нож, созданный с учетом боевых задач и обладающий более высокими ранящими способностями, чем стандартный нож для подводного плавания.</entitydescription.scp_m9bayonet>
   <entityname.scp_m9bayonettitan>Титановый боевой нож</entityname.scp_m9bayonettitan>
@@ -355,7 +355,7 @@
   <entitydescription.scp_sledgetitan>Кувалда с закалённым навершием, предназначенная для пробивания корпусов подлодок.</entitydescription.scp_sledgetitan>
   <entityname.scp_submissionbaton>Дубинка подчинения</entityname.scp_submissionbaton>
   <entitydescription.scp_submissionbaton>Сверхмощная дубинка, способная накапливать значительно больше потенциальной энергии для быстрого выведения из строя опасного человека. Её большие конденсаторы требуют металлической защиты вокруг основания дубинки для прочности, что увеличивает вес и затрудняет её использование.</entitydescription.scp_submissionbaton>
-  <!--weapons_misc-->
+  <!-- weapons_misc -->
   <entityname.scp_starboundorgan>Странный инструмент</entityname.scp_starboundorgan>
   <entitydescription.scp_starboundorgan>Пиксельный инструмент, смутно напоминающий электрическую клавиатуру. Как человек держит его в руках, остается только догадываться.</entitydescription.scp_starboundorgan>
   <entityname.scp_starboundguitar>Странная гитара</entityname.scp_starboundguitar>
@@ -364,8 +364,9 @@
   <entitydescription.scp_starboundharmonica>Пиксельная гармошка, больше похожая на кирпич, чем на инструмент.</entitydescription.scp_starboundharmonica>
   <entityname.scp_memehorn>Велосипедный гудок?</entityname.scp_memehorn>
   <entitydescription.scp_memehorn>Предмет, напоминающий велосипедный клаксон, который при сжатии шарика издает случайные звуки.</entitydescription.scp_memehorn>
-  <!--weapons_overrides-->
-  <!-- <entityname.smg>Старый ПП</entityname.smg>
+  <!-- weapons_overrides -->
+  <!--
+  <entityname.smg>Старый ПП</entityname.smg>
   <entitydescription.smg>Старый ПП калибра 11.43x23 мм, основанный на израильской конструкции, который был на Европе с момента появления человечества. Его большой герметичный затвор сильно снижает цикличность стрельбы. Он был вытеснен другими вариантами, потому что были созданы более совершенные конструкции затворов.</entitydescription.smg>
   <entityname.smgmagazine>Старый магазин для ПП</entityname.smgmagazine>
   <entitydescription.smgmagazine>Старый и слегка громздкий магазин на 25 патронов калибра 11,43x23 мм, предназначенный для использования в старых ПП Коалиции. Его форма рассчитана на патроны, содержащие старый вид окислительного топлива.</entitydescription.smgmagazine>
@@ -412,8 +413,9 @@
   <entityname.stungrenade>Светошумовая Граната</entityname.stungrenade>
   <entitydescription.stungrenade>Несмертельная граната, предназначенная для дезориентации агрессивных лиц без причинения значительного вреда. Создаёт громкий звук и ослепляющий свет.</entitydescription.stungrenade>
   <entityname.shotgunshellblunt>Резиновая пуля для дробовика 12-го калибра</entityname.shotgunshellblunt>
-  <entitydescription.shotgunshellblunt>Пуля 12-го калибра, полностью изготовленная из резины. Предназначена для усмирения нарушителей спокойствия без необходимости в использовании летальных вариантов. Однако из-за своей менее смертоносной природы это ужасный выбор против человека, который вооружён и представляет непосредственную угрозу для окружающих.</entitydescription.shotgunshellblunt> -->
-  <!--weapons_renegadeweapons-->
+  <entitydescription.shotgunshellblunt>Пуля 12-го калибра, полностью изготовленная из резины. Предназначена для усмирения нарушителей спокойствия без необходимости в использовании летальных вариантов. Однако из-за своей менее смертоносной природы это ужасный выбор против человека, который вооружён и представляет непосредственную угрозу для окружающих.</entitydescription.shotgunshellblunt>
+  -->
+  <!-- weapons_renegadeweapons -->
   <entityname.scp_ak103>Ренегатовская штурмовая винтовка "Подавитель"</entityname.scp_ak103>
   <entitydescription.scp_ak103>Прочная и печально известная штурмовая винтовка калибра 7,62x39 мм, ставшая иконой сепаратистского движения, благодаря относительной простоте изготовления и мощным патронам. Является лучшим выбором для восстания против хорошо вооружённых противников.</entitydescription.scp_ak103>
   <entityname.scp_akmag>Магазин для ренегатовской штурмовой винтовки "Подавитель"</entityname.scp_akmag>
@@ -482,7 +484,7 @@
   <entitydescription.scp_osv96>Винтовка калибра 12,7x99 мм, созданная для того, чтобы быть более доступным оружием, чем аналогичная винтовка Коалиции более высокого качества. Из-за того, что в ней используются базовые детали, она значительно более громоздкая и неточная, а также имеет ужасающую склонность к осечкам. Тем не менее, эта винтовка всё ещё может выстрелить патроном 12,7x99 мм с значительной летальностью.</entitydescription.scp_osv96>
   <entityname.scp_sr2>Ренегатовский тяжёлый пистолет-пулемёт</entityname.scp_sr2>
   <entitydescription.scp_sr2>Пистолет-пулемёт калибра 11.43x23 мм, созданный на основе уже существующего пп, отличается компактностью, однако из-за очень короткого ствола точность стрельбы оставляет желать лучшего.</entitydescription.scp_sr2>
-  <!--weapons_vintageweapons-->
+  <!-- weapons_vintageweapons -->
   <entityname.scp_nagant>Самородок</entityname.scp_nagant>
   <entitydescription.scp_nagant>Старая винтовка калибра 7,62x54 ммR с прикрепленной к ней столь же старой оптикой.</entitydescription.scp_nagant>
   <entityname.scp_nagantmag>Обойма для самородка</entityname.scp_nagantmag>
@@ -539,7 +541,7 @@
   <entitydescription.scp_m29>Старый револьвер 10.9x33mmR, который выглядит относительно ухоженным.</entitydescription.scp_m29>
   <entityname.scp_r8>Карманный стрелок '8'</entityname.scp_r8>
   <entitydescription.scp_r8>Револьвер калибра 9x33 ммR с увеличенной рамой и цилиндром на 8 патронов, обеспечивающим несколько большую кучность стрельбы.</entitydescription.scp_r8>
-  <!--afflictions_afflictions-->
+  <!-- afflictions_afflictions -->
   <afflictionname.scp_presolatexinfection>Окаменение от Пресо-Латекса</afflictionname.scp_presolatexinfection>
   <afflictiondescription.scp_presolatexinfection>Дермальные, подкожные и мышечные ткани пациента быстро превращаются в Пресо-Латекс. Поражённые участки начинают быстро отмирать, а кожа пациента становится аноксически черной.</afflictiondescription.scp_presolatexinfection>
   <afflictioncauseofdeath.scp_presolatexinfection>Превратился в безжизненную резиновую статую.</afflictioncauseofdeath.scp_presolatexinfection>
@@ -580,7 +582,7 @@
   <afflictiondescription.scp_hexgasdamage>У пациента происходит быстрая деградация ЦНС, сердечно-сосудистой и мышечной систем, его кожа некротизируется на глазах.</afflictiondescription.scp_hexgasdamage>
   <afflictioncauseofdeath.scp_hexgasdamage>Сгорел внутри и снаружи.</afflictioncauseofdeath.scp_hexgasdamage>
   <afflictioncauseofdeathself.scp_hexgasdamage>Вы умерли от последствий воздействия Гексана.</afflictioncauseofdeathself.scp_hexgasdamage>
-  <!--jobgear_armour-->
+  <!-- jobgear_armour -->
   <entityname.scp_bodyrig>Разгрузка с пластинами</entityname.scp_bodyrig>
   <entitydescription.scp_bodyrig>Стандартный бронежилет с патронташем для хранения боеприпасов.</entitydescription.scp_bodyrig>
   <entityname.scp_heavyvest>Тяжёлый бронежилет</entityname.scp_heavyvest>
@@ -671,7 +673,7 @@
   <entitydescription.scp_cbrnhelmet>Боевой шлем, оснащённый защитным капюшоном и закалённой водолазной маской. В капюшоне преимущественно используется мягкая броня.</entitydescription.scp_cbrnhelmet>
   <entityname.scp_hardeneddivingmask>Закаленная подводная маска</entityname.scp_hardeneddivingmask>
   <entitydescription.scp_hardeneddivingmask>Сверхпрочная маска для подводного плавания со стальными вставками, толстой резиной и линзами из оргстекла для лучшей защиты от травм лица.</entitydescription.scp_hardeneddivingmask>
-  <!--materials_materials-->
+  <!-- materials_materials -->
   <entityname.scp_replicatinglatex>Баллон с Пресо-Латексом</entityname.scp_replicatinglatex>
   <entitydescription.scp_replicatinglatex>Полу органический полимер, обладающий присущей ему способностью воспроизводить органические вещества, превращая их в большее количество самих себя посредством малоизученной мутагенной реакции с живыми клетками. Этот процесс является высокотоксичным и неизменно смертельным. Пресо-Латекс был впервые синтезирован из растений на Афотическом плато.</entitydescription.scp_replicatinglatex>
   <entityname.scp_firelatex>Баллон с воспламенитовым Латексом</entityname.scp_firelatex>
@@ -736,7 +738,7 @@
   <entitydescription.scp_wreckexplosivescase>Старый и разрушенный ящик, содержащий взрывчатые вещества, которые, возможно, еще частично сохранились.</entitydescription.scp_wreckexplosivescase>
   <entityname.scp_prototypeusb>Экспериментальный аутентификатор для хранения</entityname.scp_prototypeusb>
   <entitydescription.scp_prototypeusb>Защищённый накопитель, содержащий 2 ключа аутентификации, дающий возможность изготовить экспериментальное оружие. Сами ключи больше не производятся и зашифрованы, поэтому единственные пригодные для использования ключи можно найти на затонувших кораблях или заброшенных аванпостах.</entitydescription.scp_prototypeusb>
-  <!--medical_medical-->
+  <!-- medical_medical -->
   <entityname.scp_smallcivkit>Аптечка первой помощи</entityname.scp_smallcivkit>
   <entitydescription.scp_smallcivkit>Компактная аптечка, предназначенная для оказания первой помощи при незначительных травмах. Распространена по всей Европе из-за своей простоты в изготовлении.</entitydescription.scp_smallcivkit>
   <entityname.scp_largecivkit>Большая аптечка первой помощи</entityname.scp_largecivkit>
@@ -783,7 +785,7 @@
   <entitydescription.scp_lineaviruscure>Шприц, преимущественно содержащий стабилоцин и антибиотики широкого спектра, способный растворить белковую оболочку вирионов Линеавируса и обеспечить быстрое лечение и временный иммунитет.</entitydescription.scp_lineaviruscure>
   <entityname.scp_volatilereplicatinglatex>Нестабильный Шарик Пресо-Латекса</entityname.scp_volatilereplicatinglatex>
   <entitydescription.scp_volatilereplicatinglatex>Очень нестабильная форма Пресо-Латекса, которая легко и точечно пытается вступить в реакцию с любой органической тканью в непосредственной близости от себя. Держать его в руках течение длительного периода времени крайне не рекомендуется.</entitydescription.scp_volatilereplicatinglatex>
-  <!--misc_containers-->
+  <!-- misc_containers -->
   <entityname.scp_armory>Оружейная</entityname.scp_armory>
   <entitydescription.scp_armory>Большой запираемый шкаф для хранения большого количества оружия.</entitydescription.scp_armory>
   <entityname.scp_engineeringcab>Шкафчик инженера</entityname.scp_engineeringcab>
@@ -796,7 +798,7 @@
   <entitydescription.scp_coilgunammocabinet></entitydescription.scp_coilgunammocabinet>
   <entityname.scp_railguncabinet>Стойка для снарядов рельсотрона</entityname.scp_railguncabinet>
   <entitydescription.scp_railguncabinet>Большой шкаф для хранения снарядов для рельсотрона.</entitydescription.scp_railguncabinet>
-  <!--misc_fabricators-->
+  <!-- misc_fabricators -->
   <entityname.scp_ammofabricator>Фабрикатор боеприпасов</entityname.scp_ammofabricator>
   <entitydescription.scp_ammofabricator>Фабрикатор, специально разработанный для создания боеприпасов для огнестрельного оружия. Он обладает особым калиброванием, что позволяет ему быстрее производить боеприпасы.</entitydescription.scp_ammofabricator>
   <entityname.scp_weaponfabricator>Оружейный фабрикатор</entityname.scp_weaponfabricator>
@@ -807,13 +809,13 @@
   <entitydescription.scp_portableweaponfabricator>Маленький и компактный фабрикатор, разработанный специально для создания огнестрельного оружия на подводных лодках, не оснащенных фабрикаторами, или для скрытого изготовления оружия. Может быть размещен с помощью комбинации RMB + E.</entitydescription.scp_portableweaponfabricator>
   <entityname.scp_advportableweaponfabricator>Переносной экспериментальный оружейный фабрикатор</entityname.scp_advportableweaponfabricator>
   <entitydescription.scp_advportableweaponfabricator>Компактный и высококлассный фабрикатор, используемый для создания самого продвинутого оружия и боеприпасов. Может быть размещен с помощью комбинации RMB + E.</entitydescription.scp_advportableweaponfabricator>
-  <entityname.scp_reloadfabricator>Фабрикатор для перезарядки  </entityname.scp_reloadfabricator>
+  <entityname.scp_reloadfabricator>Фабрикатор для перезарядки </entityname.scp_reloadfabricator>
   <entitydescription.scp_reloadfabricator>Фабрикатор, предназначенный для перезарядки использованных магазинов. Может быть размещен с помощью комбинации RMB + E.</entitydescription.scp_reloadfabricator>
   <entityname.scp_chemistrystation>Фабрикатор химических продуктов</entityname.scp_chemistrystation>
   <entitydescription.scp_chemistrystation>Фабрикатор, используемый для синтеза различных химических веществ, полезных или не очень. Из-за многочисленных сложных компонентов он требует большого количества энергии. Может быть размещен с помощью комбинации RMB + E.</entitydescription.scp_chemistrystation>
   <entityname.scp_portablejunctionbox>Переносная распределительная коробка</entityname.scp_portablejunctionbox>
   <entitydescription.scp_portablejunctionbox>Маленькая распределительная коробка, которую можно монтировать на ходу, предназначенная для расширения электросети подводной лодки. Из-за своего размера и невысокой производительности она имеет ограниченные возможности и более подвержена перенапряжению. Может быть размещена с помощью комбинации RMB + E.</entitydescription.scp_portablejunctionbox>
-  <!--misc_misc-->
+  <!-- misc_misc -->
   <entityname.scp_revolverammobox>Коробка для револьверных патронов</entityname.scp_revolverammobox>
   <entitydescription.scp_revolverammobox>Небольшая и удобная коробка для хранения боеприпасов для револьверов различных калибров. Она представляет собой удобное место для ношения патронов с собой.</entitydescription.scp_revolverammobox>
   <entityname.scp_amrammobox>Коробка с патронами для крупнокалиберной винтовки</entityname.scp_amrammobox>
@@ -834,7 +836,7 @@
   <entitydescription.scp_alienweaponcrate>Ящик, предназначенный для хранения необычного и инопланетного оружия.</entitydescription.scp_alienweaponcrate>
   <entityname.scp_leadbox>Ящик для опасных материалов</entityname.scp_leadbox>
   <entitydescription.scp_leadbox>Тяжёлый ящик, облицованный толстым слоем свинца и резины, предназначенный для безопасного хранения высоко реактивных химикатов и радиоактивных материалов.</entitydescription.scp_leadbox>
-  <!--turrets_turrets-->
+  <!-- turrets_turrets -->
   <entityname.scp_tankcannon>Тяжёлая магнитная пушка (ТМП)</entityname.scp_tankcannon>
   <entitydescription.scp_tankcannon>80-мм пушка, созданная на основе существующей магнитной пушки, предназначенная для использования в качестве промежуточного звена между магнитными пушками и полноценными рельсотронами. Она обладает большей мощностью, но требует особых боеприпасов.</entitydescription.scp_tankcannon>
   <entityname.scp_tankgunloader>Зарядник для тяжёлой магнитной пушки</entityname.scp_tankgunloader>
@@ -865,7 +867,7 @@
   <entitydescription.scp_mgturretfmjbox>Коробка с 250 патронами калибра 7,62x51 мм полной металлической оболочки (FMJ) в пластиковом ящике, предназначенная для использования в турели-пулемете.</entitydescription.scp_mgturretfmjbox>
   <entityname.scp_mgturretapbox>Ящик с пробивными патронами для турели-пулемета</entityname.scp_mgturretapbox>
   <entitydescription.scp_mgturretapbox>Коробка с 250 пробивными патронами калибра 7,62x51 мм в пластиковом ящике, предназначенная для использования в турели-пулемете.</entitydescription.scp_mgturretapbox>
-  <!--Missions-->
+  <!-- Missions -->
   <missionname.abandonedoutpostassassinateliv>Убийство Авангарда</missionname.abandonedoutpostassassinateliv>
   <missiondescription.abandonedoutpostassassinateliv>В [location1] обнаружена активность Авангарда, который, вероятно, будет использовать её как оперативную базу для атаки на близлежащие аванпосты. "Авангард" является элитным спецподразделением Сепаратистов. Они хорошо вооружены и окажут вам серьёзное сопротивление, поэтому рекомендуется тщательно подготовиться.</missiondescription.abandonedoutpostassassinateliv>
   <missionsuccess.abandonedoutpostassassinateliv>Авангард был успешно уничтожен.</missionsuccess.abandonedoutpostassassinateliv>
@@ -908,7 +910,7 @@
   <missionfailure.abandonedoutpostassassinateseparatists>Покушение на советника провалено.</missionfailure.abandonedoutpostassassinateseparatists>
   <missionheader0.abandonedoutpostassassinateseparatists>Советник убит</missionheader0.abandonedoutpostassassinateseparatists>
   <missionmessage0.abandonedoutpostassassinateseparatists>Советник, контролировавший операцию, убит. Отстыкуйтесь, чтобы отплыть.</missionmessage0.abandonedoutpostassassinateseparatists>
-  <!--Custom Display Names-->
+  <!-- Custom Display Names -->
   <displayname.chemrefined>[itemname] (Переработан)</displayname.chemrefined>
   <!-- 27.05.2023 -->
   <entityname.scp_40mmdirtygrenade>40-мм грязная граната</entityname.scp_40mmdirtygrenade>
@@ -963,4 +965,4 @@
   <entityname.scp_aa12>Экспериментальный боевой дробовик</entityname.scp_aa12>
   <entitydescription.scp_aa12>Усовершенствованный полуавтоматический дробовик 12-го калибра, питающийся магазинами для ренегатовского боевого дробовика, способен быстро уничтожить всё, что находится в небольшом помещении или гнезде. Однако, спусковой крючок крайне неудобен для непривыкшего к нему человека.</entitydescription.scp_aa12>
 </infotext>
-<!-- Discord переводчика: enigmans -->
+<!-- Перевод by Enigma -->
